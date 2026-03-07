@@ -1,0 +1,35 @@
+---
+title: "Conferences & Call for Papers"
+layout: page.njk
+permalink: /conferences/
+---
+<p class="lead text-center mb-5 text-muted">
+    Upcoming academic conferences, symposiums, and submission opportunities.
+</p>
+
+{% if collections.conferences and collections.conferences.length %}
+    <div class="list-group list-group-flush border-top">
+        {% for conf in collections.conferences %}
+        <div class="list-group-item p-4 bg-transparent border-bottom">
+            <div class="d-flex w-100 justify-content-between align-items-center mb-2">
+                <h3 class="h5 serif fw-bold mb-0">
+                    <a href="{{ conf.url }}" class="text-decoration-none text-dark hover-maroon">
+                        {{ conf.data.title }}
+                    </a>
+                </h3>
+                <span class="badge bg-dark rounded-pill">{{ conf.date | readableDate }}</span>
+            </div>
+            {% if conf.data.description %}
+                <p class="text-secondary small mb-2">{{ conf.data.description | truncate(200) }}</p>
+            {% endif %}
+            <a href="{{ conf.url }}" class="small text-uppercase fw-bold text-decoration-none text-muted" style="letter-spacing: 1px;">
+                Read Details &rarr;
+            </a>
+        </div>
+        {% endfor %}
+    </div>
+{% else %}
+    <div class="alert alert-light border text-center py-5">
+        <p class="mb-0 text-muted italic">There are currently no active calls for papers or conferences listed.</p>
+    </div>
+{% endif %}

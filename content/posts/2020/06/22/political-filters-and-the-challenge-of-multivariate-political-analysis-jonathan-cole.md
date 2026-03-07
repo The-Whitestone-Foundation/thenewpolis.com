@@ -1,0 +1,87 @@
+---
+title: "Political Filters And The Challenge Of Multivariate Political Analysis (Jonathan Cole)"
+date: 2020-06-22T21:12:25+00:00
+author: thenewpolis
+permalink: /2020/06/22/political-filters-and-the-challenge-of-multivariate-political-analysis-jonathan-cole/
+image: /images/wp-content/uploads/2020/06/5821d2fb-c7e9-4d4b-a300-4dd5f00d2052.jpeg
+
+categories:
+  - "Political Science"
+  - "Political Theology"
+tags:
+  - "Black Lives Matter"
+  - "Christos Yannaras"
+  - "Donald Trump"
+  - "Marxism"
+  - "Oliver Odonovan"
+  - "Political Science"
+  - "Political Theology"
+  - "Russell Kirk"
+  - "Social Contract"
+---
+
+Political reality is multivariate, although you would never know it based on news reporting, political commentary and the rhetoric of politicians and activists alike. This is because we all, consciously or unconsciously, refract the multivariate political reality we live, or more often observe, through political filters.
+
+These filters perform the functional task of reducing complex political events to a comfortably manageable set of coherent and inter-related variables that create a plausible and meaningful picture of reality without being so demanding that they cannot be consumed and digested within the limits of the increasingly superficial existence we call post-modernity.
+
+The recent “episodes” in the United States precipitated by the senseless and callous killing of George Floyd by a Minneapolis police officer on 26 May offer a perfect illustration of political filters at work. I employ the somewhat vague term “episodes” deliberately, because the obviously multivariate nature of both the killing’s fallout and its precipitating causes defy easy lexical description.
+
+Are the “episodes” best characterized as protests, riots, rebellion, insurrection, revolution, criminal behavior, or the spontaneous collective expression of righteous anger, frustration and solidarity? More subtle still, are they an expression of democracy functioning at its best or symptomatic of its failure? As for their precipitating causes(s), are they merely the result of a single egregious killing by one police officer, a pattern of killings brought to boiling point by this one exemplary murder, systemic racism in American police forces, or the kind of systemic racism that is said to pervade American society more broadly?
+
+Or, are they ultimately a downstream consequence of the election of Donald Trump, pent-up frustration from Covid lockdowns or the ineluctable terminus of decades of gestating and aggravating political polarization and cultural decadence in America?
+
+There is no shortage of possible variables that promise greater or lesser explanatory efficacy in this context. It is conceivable, however, if not certain, that the truth lies in a complex multivariate mosaic of all of the aforementioned variables, and many more besides, all interacting or coinciding in complex and sometimes inscrutable ways.
+
+Yet, the devices through which we now witness and “experience” so many political events assault us daily, in spoken and written word, with monocausal explanations held, and often imposed, with religious fervor.
+
+One proverbial “voice” maintains that the “episodes” are a righteous reckoning for a racist country that warrants the enormous personal and communal sacrifices that innocent by-standers are involuntarily made to offer (those seeing their livelihood go up in flames or out the door by those exploiting the protests). Another “voice” earnestly swears that we are witness to the lamentable manipulation and exploitation of well-intentioned citizens by a cynical cultural Marxist conspiracy in the form of the Black Lives Matter movement with designs to overthrow the Republic.
+
+For the sake of expediency, we tend to outsource our political filters to the marketplace of political “ideas”, choosing to throw in our lot with one or another of the political filters with the best market reach, or for those of us with more idiosyncratic needs, to one of the prolific fringe filters that offers a small and intimate community of likeminded cranks who share the same surrealist picture of reality worthy of the best Picasso painting. Often, we simply follow local consumer preference and purchase the filter of our family, peers, college professors, co-workers or favorite YouTube preacher.
+
+The political filter market tends to favor duopoly: two prevailing filters which generate dichotomous interpretations of political events that share a similar distaste for nuance or self-criticism. Thus, the mercurial variable-in-chief Donald Trump is either a would-be fascist dictator who wants to eat your children or an immaculately conceived Messiah who saved America from the demon Clintonia, but nothing more subtle.
+
+The human mind, and more broadly construed the human psyche, is maladapt at contemplating, let alone understanding and explaining, political reality in all its multivariate glory. This is why so many of us are predisposed to adopt and employ political filters, which helpfully, if distortingly, discard many of the patently relevant variables, or those with potential explanatory power, leaving us with a finite and manageable number of variables with which to both describe and explain complex political phenomena, such as the American “episodes” of 2020.
+
+The only viable alternative to political filters is political oblivion: permanent escape into the non-political pseudo-reality of video games, reality TV and Hollywood gossip—gorging the mind with enough trivia to maintain the pretense that there is nothing confronting happening in the world. Latterly, we seem to have discovered the narcotic of the super-variable, which in analogy to the mythical super-food which promises to do what only a complex and disciplined diet can actually do can explain complex political phenomena in ways that are simple enough to provide us with the galvanization necessary to spur action or the kind of reassurance that can justify inaction.
+
+One of the problems with political filters is that they too are variable, coming in many shapes and colors. This lack of uniformity means that complex political phenomena are refracted through different filters, producing diffuse, disparate and conflicting distortions of the same political phenomena. These differential distortions generate and perpetuate the interminable war over false idols that we once knew as “political discourse”, but now know as “tweets”, “threads”, “posts” and “feeds”. One person’s political super-food is patriarchy, another’s white privilege. For others it is cultural Marxism or the deep state.
+
+None of these super-variable explanations do justice to multivariate reality. But these are just forms of heresy, in the Greek sense of *hairesis*—choosing one part of the truth at the expense of the full truth, then absolutising that part such that it becomes a distorted and false meta-truth.The point is not that political filters create political falsehoods *ex nihilo*, but rather that they are “heretical” distortions of true phenomena and real variables with partial explanatory potential—a form of heresy made possible by the multivariate nature of political reality and the operation of multifarious political filters.
+
+The unmanageable complexity of political reality, and the phenomena that populate it, should come as no surprise. Politics, whatever stipulative semantic field we see fit to grant the term, is, when stripped of its paraphernalia, a human activity like any other, albeit of a very complex kind. Politics, including its sub-species protest and rioting, is arguably the most complex social activity in which human beings engage.
+
+The challenge for political analysis is that each human being, which is to say each political actor, is individually multivariate, thus making interpretation and explanation of large-scale collective human behavior an occult form of science at best. Human attitudes, beliefs and perceptions, as well as human decisions, actions, and reactions (including inaction), are the product of a complex set of variables that constitute the human being as a “person,” defined by Greek philosopher Christos Yannaras as the unique, dissimilar and unrepeatable instantiation of a common nature (or kind), in this case a biological species.
+
+Historians spend generations psycho-analyzing important historical political actors in an effort to uncover the drives, hidden desires, suppressed insecurities and childhood experiences (both positive and negative) in an effort to explain acts of incomprehensible genocide, on the one hand, and heroic acts of nation-building, on the other. Yet it can be difficult to even discern how our own multivariate personalities, personal histories and inner lives of the heart and mind interact to shape who we are as individuals.
+
+Describing, let alone explaining, the product of myriad “persons”, in Yannaras’ sense, acting in concert or disconcert in orders of magnitude is next to impossible. Throw in the commonly known and operational, yet often obscure, variables of age, generation, gender, sexuality, culture, location, time, cognitive ability, education, class, religion (or lack thereof), employment, health, climate, political context, economic system, technology, and personality and one begins to see the enormity of the challenge of multivariate political analysis.
+
+The unpalatable truth is that we inhabit a political reality that transcends our comprehension. The causes of some of the most important political events of the present, and from the past, remain obscure and contested. The cause of World War I and the millions it left dead remains a source of vigorous dispute a century after it ended.
+
+In truth, we may never be able to know for certain why some of humanity’s seminal political events occurred at all. There is an ineluctable aspect of mystery to our collective political lives. Still, our lack of full political comprehension does not prevent us from political action, nor from shaping, to some extent, our personal and collective political destinies. It does, however, prevent us from *controlling* our political destiny (personal and collective) and, more soberingly, helps to explain the ever-present risk and reality of political tragedy, which seems to be a permanent feature of the human story. It also shrouds our political future in mystery, in spite of our best efforts to direct history towards our desired ends.
+
+Thanks to the intrinsic transcendence of our political horizon and the multiple ways in which our political filters distort that horizon, much of our political thought remains trapped in a contest between competing distortions of a political reality that we can never know from a God’s eye perspective.
+
+In fact, it is this obscurity of human political destiny and its transcendent epistemic horizon that continues to make political theology plausible in an age in which Christianity is commonly identified with a *politically* dangerous irrationality. If it is true, as Richard Dawkins argues of Christianity, that there is simply no need to posit the existence of a God to explain natural phenomena, the same cannot be said of politics. The whole endeavor of political science is premised on the notion that politics is governed by “law-like” rules, which, by analogy with the laws of nature investigated by physicists, are supposed to reveal the kinds of regular patterns that enable coherent analysis, and hence knowledge, of political reality.
+
+Yet, political phenomena remain stubbornly immune to the elegant consistency one can find in mathematics or the miraculous regularity that defines the cosmos. Quantitative and qualitative analysis of political phenomena can certainly provide meaningful illumination of said phenomena, but it cannot remove entirely the veil of mystery that makes so much of our political reality and experience perplexing and open to contestation. One has every right, for example, to be skeptical that there is a quantitative or qualitative cipher that can unlock the meaning, nature and cause of the aforementioned “episodes” in the United States.
+
+Political theologians and political philosophers of faith are in no doubt that theology is necessary to fill the God of the *political* gaps that afflicts political science. Oliver O’Donovan, for example, has argued that the existence and efficacy of political authority requires theological explanation for its cogency—political authority is bestowed by God and is woven into the created order of ends and kinds. This theological explanation for the existence of political authority seeks to remove the veil of mystery that otherwise obscures the historical origin and continued mysterious operation of political authority.
+
+The social contract (whether Hobbesian, Lockean or Rousseauian), as O’Donovan notes (with many others), is an *ex post facto* explanation for an event that cannot be identified in actual history, not to mention its theoretical problems that stubbornly resist resolution today. The transcendent epistemic horizon of political means and ends enabled Catholic political philosopher (and putative founder of the Conservative Movement in America) Russell Kirk to vest his entire political theology in the notion of divine providence as the vehicle through which collective inter-generational human wisdom is able to discover the true, the good and the beautiful.
+
+Indeed, it is this transcendent political horizon that can explain the otherwise perplexing recrudescence (and rehabilitation) of Carl Schmitt’s very secular political theology amongst atheist and agnostic political philosophers, who have come to the conclusion that the pure reason of the Enlightenment leaves too much about the political unexplained, with theology potentially able to fill the explanatory void (even if we are talking about a highly secularized form of theology emptied of its original metaphysical content).
+
+Political theology thus stands at the frontier of our finite political horizon, a signpost marking the transcendent border of political reality and political knowledge, a border the theist, atheist and agnostic is bound to run into sooner or later, and this brings us back to political filters. One way of understanding political filters is to regard them as effective and necessary coping mechanisms which allow finite, mortal human beings to live coherently within perplexingly complex, paradoxical, contestable, mysterious and often disconcerting political realities that are beyond their personal control and comprehension.
+
+It is impossible to know how to react or act amidst the maelstrom that is politics without some filter that can offer the kind of clarity and intelligibility that humans require for living in the world. Moral clarity, in particular, is a virtue of the political filter, for how else is one to make moral judgments and to take moral action without the simplified logic and clarity provided by a political filter that strips political events of all their moral complexity and ambiguity?
+
+But just how reasonable is it to expect every individual to embrace the full tension and uncertainty warranted by political complexity? The cacophony of conflicting perspectives facilitated by the proliferation of social media, alongside a more traditional, albeit increasingly partisan, media has made us hyper-aware of the contestable complexity of every political event and experience (at least if we consume content beyond the narrow confines of our personal filter).
+
+In truth, the complex, multivariate nature of political reality may not be livable in the absence of political filters, except perhaps for a rarified breed of inhuman genius (invariably rendered politically irrelevant by virtue of that genius). This is the service (or disservice) provided by curated (read filtered) media content, which releases us from the burden of having to make our own difficult political judgments, or from having to live in the uncomfortable zone of political ambiguity.
+
+Still, we are under no compulsion to surrender ourselves completely to the most vicious aspects of the perpetual war over false idols that constitutes so much of our contemporary political context. Instead, we might consider employing our political filters with greater epistemic self-awareness, openness and humility. If political filters are our lot as human beings, they need not be obstacles to political charity, friendship, discourse, and collaboration.
+
+The fact is that political filters make it imperative that we enter into and remain in conversation with those who filter political reality differently from us. After all, we might have something to learn from the variables we dismiss and that others take seriously, and vice versa. Awareness of the existence and function of political filters, in ourselves and in others, ought to make us less politically dogmatic and more politically generous, as we together struggle to understand, direct and bear the beguiling political currents that transport us through history to our transcendent political destiny.
+
+*Jonathan Cole is Assistant Director of the Centre for Public and Contextual Theology, Charles Sturt University, Canberra, Australia. He is a contributing editor for* The New Polis *and author of C*hristian Political Theology in an Age of Discontent: Mediating Scripture, Doctrine, and Political Reality *(Wipf & Stock, 2019).*

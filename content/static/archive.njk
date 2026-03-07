@@ -1,0 +1,99 @@
+---
+title: Archive
+layout: base.njk
+permalink: /archive/
+---
+<main class="container my-5">
+    <div class="text-center mb-5">
+        <h1 class="display-4 serif fw-bold">{{ title }}</h1>
+        <p class="text-muted">Browse all <strong>{{ collections.posts | length }}</strong> posts organized chronologically.</p>
+        <hr class="w-25 mx-auto">
+    </div>
+
+    <div class="row justify-content-center">
+        <div class="col-lg-10">
+            {% set yearsSet = [] %}
+            {% for post in collections.posts %}
+                {% set year = post.date.getFullYear() %}
+                {% if year not in yearsSet %}
+                    {% set yearsSet = yearsSet.concat([year]) %}
+                {% endif %}
+            {% endfor %}
+            {% set yearsSorted = yearsSet | sort | reverse %}
+
+            <div class="archive-container border shadow-sm bg-white">
+                {% for year in yearsSorted %}
+                {% set yearPosts = [] %}
+                {% for post in collections.posts %}
+                    {% if post.date.getFullYear() == year %}
+                        {% set yearPosts = yearPosts.concat([post]) %}
+                    {% endif %}
+                {% endfor %}
+
+                <details class="border-bottom" {% if loop.first %}open{% endif %}>
+                    <summary class="p-4 d-flex justify-content-between align-items-center bg-light shadow-sm" style="cursor: pointer; list-style: none;">
+                        <h2 class="h4 serif fw-bold mb-0">{{ year }}</h2>
+                        <div class="d-flex align-items-center">
+                            <span class="badge bg-dark me-3">{{ yearPosts | length }} Posts</span>
+                            <i class="fa-solid fa-chevron-down small text-muted rotate-icon"></i>
+                        </div>
+                    </summary>
+                    
+                    <div class="p-4 bg-white">
+                        {% set monthsSet = [] %}
+                        {% for post in yearPosts %}
+                            {% set month = post.date | dateFilter('YYYY-MM') %}
+                            {% if month not in monthsSet %}
+                                {% set monthsSet = monthsSet.concat([month]) %}
+                            {% endif %}
+                        {% endfor %}
+                        {% set monthsSorted = monthsSet | sort | reverse %}
+
+                        {% for monthKey in monthsSorted %}
+                            {% set monthPosts = [] %}
+                            {% for post in yearPosts %}
+                                {% if post.date | dateFilter('YYYY-MM') == monthKey %}
+                                    {% set monthPosts = monthPosts.concat([post]) %}
+                                {% endif %}
+                            {% endfor %}
+                            
+                            <div class="mb-4">
+                                <h5 class="border-bottom pb-2 text-uppercase small fw-bold text-muted" style="letter-spacing: 2px;">
+                                    {{ monthPosts[0].date | dateFilter('MMMM') }}
+                                </h5>
+                                <ul class="list-unstyled ms-3">
+                                    {%- for post in monthPosts | reverse -%}
+                                    <li class="mb-2 d-flex justify-content-between align-items-baseline border-bottom-dashed pb-1">
+                                        <a href="{{ post.url }}" class="text-decoration-none text-dark hover-maroon">
+                                            {{ post.data.title }}
+                                        </a>
+                                        <small class="text-muted ms-3 text-nowrap font-monospace" style="font-size: 0.75rem;">
+                                            {{ post.date | readableDate }}
+                                        </small>
+                                    </li>
+                                    {%- endfor -%}
+                                </ul>
+                            </div>
+                        {% endfor %}
+                    </div>
+                </details>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</main>
+
+<style>
+    summary::-webkit-details-marker { display: none; }
+    summary:focus { outline: none; }
+    summary:hover { background-color: #f8f9fa !important; }
+    
+    .archive-container { border-radius: 8px; overflow: hidden; }
+    .hover-maroon:hover { color: var(--link-color, #800000) !important; text-decoration: underline !important; }
+    
+    .border-bottom-dashed { border-bottom: 1px dashed #eee; }
+    
+    details[open] summary { border-bottom: 1px solid #dee2e6; }
+    details[open] .rotate-icon { transform: rotate(180deg); }
+    .rotate-icon { transition: transform 0.3s ease; }
+</style>

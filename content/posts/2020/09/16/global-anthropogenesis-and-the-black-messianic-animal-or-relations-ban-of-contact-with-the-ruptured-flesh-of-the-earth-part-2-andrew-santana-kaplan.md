@@ -1,0 +1,86 @@
+---
+title: "Global Anthropogenesis And The Black Messianic Animal, Or Relation’s Ban Of Contact With The Ruptured Flesh Of The Earth, Part 2 (Andrew Santana Kaplan)"
+date: 2020-09-16T14:54:34+00:00
+author: thenewpolis
+permalink: /2020/09/16/global-anthropogenesis-and-the-black-messianic-animal-or-relations-ban-of-contact-with-the-ruptured-flesh-of-the-earth-part-2-andrew-santana-kaplan/
+image: /images/wp-content/uploads/2020/09/black-woman-in-mask.jpg
+
+categories:
+  - "Critical Race Theory"
+tags:
+  - "Afrio Pessimism"
+  - "Alexis Gumb"
+  - "Anthropogenesis"
+  - "Antonio Gramsci"
+  - "Black Messianism"
+  - "Blackness"
+  - "Chrisatianity"
+  - "Eric Meyer"
+  - "Frank Wilderson Iii"
+  - "Hortense Spiller"
+  - "Theology"
+---
+
+*The following is the second of a two-part series. The first can be [found here](/2020/09/09/global-anthropogenesis-and-the-black-messianic-animal-or-relations-ban-of-contact-with-the-ruptured-flesh-of-the-earth-andrew-santana-kaplan/?preview=true&_thumbnail_id=2271).*
+
+It is nonetheless instructive for me to engage Meyer’s project as a means of elaborating and contradistinguishing my notion of the black messianic animal—especially as a messianic thought singularly subtracted from its usual attendant logics of eschatological redemption.
+
+Before proceeding to his discussion of redemption though, I want to observe the motivation for his project so as to recapitulate my own proposal of the black messianic animal as a paradigm for the flesh’s contact with the earth (apposite to global-human relationality and its planetary object). “The question that gave rise to the project as a whole,” Meyer writes, “is this: What prevents Christianity from generating sustained and effective resistance to ecological degradation?”
+
+For Meyer, it is precisely the problem of Christian theology’s anthropological exceptionalism that leaves it indifferent to ecological concerns. “The commitment to a categorical distinction,” he continues, “between humanity and animality in our global political and economic systems derives—more than from any other source—from a sustained Christian investment in anthropological exceptionalism,” which “remains the historical foundation beneath the secularized anthropologies of humanism, liberalism, and global capitalism.”
+
+And anthropological exceptionalism’s segregation of the human “from all other earthly life is arguably the central problem to which the environmental movement responds” (6). Meyer is thus motivated to show that Christian theology does in fact have the resources to deconstruct this categorical distinction for “generating sustained and effective resistance to ecological degradation.” One of his principal moves for doing so is to argue for human animality’s capacity for redemption.
+
+If humanity can be redeemed with its animality, so goes the logic, then we can save the planet. Yet, as I already problematized above and will do so again vis-à-vis redemption, Meyer ultimately “use\[s\] the term *animality* as a window onto humanity,” he writes, “in order to provide a different way of thinking about humanity and, I hope, the seeds of a different way of *being* human” (9). Instead, following Afro-pessimism, I invoke *black animality* as a window onto the fundamental antagonism with humanity in order to sow the seeds for abolishing the human and its logic of redemption—where what remains is the radically immanent messianic contact with the flesh of the earth.
+
+Redemption, of course, implies *the fall*. “As a theological metaphor,” Meyer observes, “‘the fall’ places human sin into a vertical spatial logic,” where the “conceptual bonds between animality and sinfulness are so thick they cannot be cut.” Yet Meyer wants to contend that these bonds “can be resisted through the development of alternative configurations of thought” (118).
+
+What is interesting about Meyer’s approach is his attempt to reverse the polarities of sin so as to situate its principal manifestation in the very presumption of the human’s transcendence of animality that lies at the core of Christianity’s anthropological exceptionalism. Within this schema, redemption is then defined as “the undoing of this sovereign differentiation” between human and animal (119). In other words, for Meyer, sinfulness is essentially tied to the human’s hubristic alienation from its animality, and redemption marks their reconciliation.
+
+This reconciliation, he argues, “remains a necessary step for a deep transformation of both the ethical and ecological *relations* between human and nonhuman animals” (emphasis mine; 173). Or, as Adam Kotsko puts it in more general ontological terms at the end of *[The Politics of Redemption: The Social Logic of Salvation](https://www.google.com/books/edition/The_Politics_of_Redemption/IRvfBAAAQBAJ?hl=en&gbpv=1&dq=kotsko+the+social+logic+of+salvation&printsec=frontcover)*, the possibility of redemption “means that the network of *relationality* that underwrites our socially propagated social alienation is also pregnant with the hope of achieving the divine purpose of a \[redeemed relational\] world” (emphasis mine; 206).
+
+However, as has shown, invoking logics of alienation and redemption only reinforce the grammar of anti-blackness. What positions the black is neither ideological nor social “alienation but accumulation and fungibility (as Hartman puts it): the \[ontological\] condition of being owned and traded”. Humanity’s alienation belongs to “the rubric of conflict (i.e., a rubric of problems that can be posed and conceptually solved).”
+
+But blackness’s accumulation/fungibility belongs to “the rubric of antagonism (an irreconcilable struggle between entities, or positions, the resolution of which is not dialectical but entails the obliteration of one of the positions)” (5). The conflicts of alienation can be solved in the world because they are legible to civil society (such as the “Green New Deal”); but blackness is antagonistic because civil society is constituted on the accumulation/fungibility that forecloses its (access to) humanity (as Black Lives Matter testifies).
+
+In fact, Wilderson throws this difference into sharp relief precisely by differentiating the position of the human *qua* worker from that of the animal *qua* cow. Parabolically, he asks in [“Gramsci’s Black Marx: Whither the Slave in Civil Society”](https://www.tandfonline.com/doi/abs/10.1080/1350463032000101579), once the workers have won and are no longer alienated from their labor, “what about the cows?” From the cow’s position,
+
+> A whole set of new and difficult, perhaps un-Gramscian, questions emerge at the site of our meat packing plant in the throes of its War of Manoeuver. First, how would the cows fare under a dictatorship of the proletariat? Would cows experience freedom at the mere knowledge that they’re no longer being slaughtered in an economy of exchange predicated on exploitation? In other words, would it feel more like freedom to be slaughtered by a workers’ collective where there was no exploitation\[?\] … Secondly, in the river of common sense does the flotsam of good sense have a message in a bottle that reads “Workers of the World Become Vegetarians!”? Finally, is it enough to just stop eating meat? In other words, can the Gramscian worker simply give the cows their freedom, grant them emancipation, and have it be meaningful to the cows? The cows need some answers before they raise a hoof for the “flowering of the superstructure.” (233–34)
+
+These cows in need of answers are of course an allegory for the questions posed by the slave. But this allegory is not an arbitrary use of the animal. Wilderson’s parable is not to suggest the cows cause is “like” the slave’s, but rather that they are absolutely immanent in one another under the grammar of anti-blackness and its creation of racial-chattel-slavery. And his appeal to the cow’s cause dovetails with the fact that the black’s foreclosure to humanity also entails its foreclosure to redemption (*qua* contingent freedom).
+
+In “Afro-pessimism and the End of Redemption”, [Wilderson argues](https://humanitiesfutures.org/papers/afro-pessimism-end-redemption/) that blackness is “both barred from the denouement of redemption and, simultaneously, needed if redemption is to attain any form of coherence.” Blackness marks the end of redemption because its social death is fundamentally aporetic to the discursive-symbolic universe of humanist narratology—which provides the very grammar for historical redemption in modernity. Blackness is *necessary* for the redemption of degraded humanity—or, in Meyer’s schema, proper humanity—insofar as the black’s “\[a\]bject inhumanity *stabilizes* the redemption of \[whites\] who do not need it, just as it *mobilizes* the narrative project of \[non-blacks\] who strive to be re-redeemed.” Accordingly, Wilderson confronts one with the devastating fact that the narratology of historical redemption “exposes redemption as an anti- Black modality.” And such remains the case for the black cow in globality’s slaughter house.
+
+This Afro-pessimistic line of thought ultimately exposes that Meyer’s conception of human redemption as a reconciled form of *relation* with (its) animality—and thus the planet— remains predicated on the continued *ban* of blackness. [As Jackson poignantly notes](https://www.jstor.org/stable/10.5250/quiparle.25.1-2.0095):
+
+> A shift in the valuation of animals, if it is to be transformative and not merely a reallocation of attribution within a racially hierarchical system of value, must be accompanied by a diﬀerent mode of political social life and grammar of representation. In other words, a revaluation of “animality,” or any other singular term, “objecthood” for instance, does not guarantee the revaluation of blackness; the elevation of the status of animals, especially their humanization, may reciprocally intensify the abjection or diminishment of black(ened) humans/animals due to some purported irrecuperable diﬀerence eﬀected by rigged scales and retroactive justification. (128)
+
+Following Afro-pessimism and radical black feminism, I propose that the black messianic animal transvalues animality in its *extimate contact* with the irredeemable captive flesh of the earth and its demand for *the landless inhabitation of selfless existence*. And this position’s singular contact with the earth—void of redemption—is the only mode of existence adequate to meeting the challenge of our ecological crisis and its global imbrication with anti-blackness’s *longue durée*.
+
+*Before the Relational Human Body, there is the Black Messianic Contact of Flesh*
+
+To elaborate this line of thought, I would like to constellate a set of passages from a couple of Hortense Spillers’s foundational essays collected in *[Black, White, and in Color](https://www.google.com/books/edition/Black_White_and_in_Color/9zU4mZtrqP8C?hl=en&gbpv=1&dq=spiller+black+white&printsec=frontcover)*, and then gesture to their paradigmatic condensation in Alexis Pauline Gumbs’s *[M Archive: After the End of the World](https://www.google.com/books/edition/M_Archive/AgxuswEACAAJ?hl=en)*. First, in “Interstices: A Small Drama of Words,” Spillers writes of the black female’s function as “the principal point of passage between the human and non-human world” in the wake of her relegation “to the marketplace of the flesh” in racial-chattel-slavery.
+
+Spillers continues by emphasizing that the captive female flesh’s issue became the focus of cunning difference—visually, psychologically, ontologically—as the route by which the dominant modes \[of globality\] decided the distinction between humanity and “other.” At this level of radical discontinuity in the “great chain of being,” black is vestibular to culture. In other words, the black person mirrored for the society around her what a human being was *not*\[\] \[t\]hrough this stage of the bestial. … (155)
+
+Here we find Spillers theorizing the global-world-forming logic of anthropogenesis through the paradigmatic function of the black (female) as simultaneously caesura and threshold of humanity. This passage anticipates her elaboration of this argument in “Mama’s Baby, Papa’s Maybe: An American Grammar Book.” There, the ontological difference between the black and the human is cast as the distinction between “flesh” and “body,” where the captive flesh marks the “zero degree of social conceptualization” that yields the atomic unit of the body and its relational capacity (206).
+
+Given this vestibular function, she advances that racial-chattel- slavery’s “materialized scene of unprotected female flesh—of female flesh ‘ungendered’—offers a praxis and a theory, a text for living and for dying, and a method for reading both through their diverse mediations” (207). The captive female flesh is paradigmatic since it throws the ungendering of black animality into sharp relief, including—if not especially—the mother’s essential necropolitical breeding role in reproducing racialized-chattel, where the black (name of the) father is always already foreclosed to the cultural logic of paternity and thus the world.
+
+Due to global anthropogenesis’s process of ungendering the flesh and thus foreclosing the law of paternity—which is to say the foreclosure of (gendered) humanity—Spillers goes on to make a compelling claim toward the end of “Mama’s Baby.” And this claim marks one of the fundamental manifestations of her earlier thesis regarding the ungendered female flesh’s offering of a praxis/theory/text/method for reading anthropogenesis in its diverse mediations.
+
+“The African-American male,” she writes, “has been touched, therefore, by the mother, *handed by* her in ways that he cannot escape” through the name of the father. “Because of this peculiar American denial” of paternal legitimacy and differentiation, “the black American male embodies the *only* American community of males handed the specific occasion to learn *who* the female is within itself.” And to conclude this thesis, Spillers offers the following imperative: “It is the heritage of the mother that the African-American male must regain as an aspect of his own \[**existence**\]—the power of ‘yes’ to the ‘female’ within” (228).
+
+While acknowledging that Spillers’s radical black feminist imperative to the black male community is singularly important in the intramural context, at the same time, I am struck by the speculative possibility of reading her thesis in light of the prior discussion of anthropogenesis: that is, this line of inquiry suggests that her gesture could immanently imply that the black is simultaneously touched by the animal in ways that it cannot escape.
+
+As a means of generalizing Spillers’s imperative through the paradigm of the black messianic animal, I find Gumbs’s tacit commentary on Spillers illuminating. In “From the Lab Notebooks of the Last Experiments,” Gumbs writes that humanity’s “problematic core construct was that in order to be sane, which is to live in one body, which is to live one lifetime at one time, which is to disconnect from the black simultaneity of the universe, you could and must deny black femininity.”
+
+Therefore, humans necessarily “hated the black women who were themselves” precisely because “there is no separation from the black simultaneity of the universe also known as … the black feminist pragmatic intergenerational sphere” (7). And yet, inspired by a speculative generalization of Spillers’s imperative, the black messianic animal embraces its contact with the ungendered female flesh that is itself in antagonism to this anthropogenic (self-)hatred.
+
+I want to propose reading Gumbs’s black feminine universe together with Sexton’s notion of the flesh of the earth in light of Spillers’s claim that the black female functions as “the principal point of passage between the human and non-human.” I am arguing that animality is immanent in “the heritage of the \[black\] mother” and serves as an index of the black feminine intergenerational simultaneity of the earth—which is apposite to the global text of transcendental relationality otherwise known as anti-blackness. Staging this apposition, Gumbs later writes in her second chapter, “Archive of Dirt: *What We Did*”: “anything wanted to know about the earth and what would happen if they ignored it, they could have learned by watching the old, curved brown women everywhere. but mostly they ignored those women. just like they ignored the world shaking around them, to their doom” (35).
+
+The black messianic animal, I am suggesting, is nothing but a re-iteration of this black female flesh of the earth in a way that foregrounds the problem of anthropogenesis as an index of the global-human-world’s supersessionism and its transcendental ban-relation. Further, in the vein of Gumbs’s black feminist metaphysics, the paradigm of the black messianic animal is a gesture toward humanity’s unthought/disavowed potentiality to renounce itself in *contact with the power of yes to the black female intergenerational sphere within*.
+
+Such renunciation would be an *extimate* embrace of black animality in the name of the landless inhabitation of selfless existence on earth.
+
+*Andrew Santana Kaplan is a graduate student in Comparative Literature at Emory University.*

@@ -1,0 +1,110 @@
+---
+title: "Liberal, Republican and Deliberative Democratic Civil Disobedience – The Curious Case Of Edward Snowden, Part 1 (Daniel Muller)"
+date: 2019-12-02T16:01:40+00:00
+author: thenewpolis
+permalink: /2019/12/02/liberal-republican-and-deliberative-democratic-civil-disobedience-the-curious-case-of-edward-snowden-part-1-daniel-muller/
+image: /images/wp-content/uploads/2019/12/democracy-symbol.jpg
+
+categories:
+  - "Political Philosophy"
+tags:
+  - "Civil Disobedience"
+  - "Daniel Markovits"
+  - "Deliberative Democracy"
+  - "Democracy"
+  - "John Rawls"
+  - "Justice"
+  - "Liberalism"
+  - "Republicanism"
+  - "William Smith"
+---
+
+*The following is the first of a two-part series. The second portion examines the case of Snowden in detail.*
+
+In his *Theory of Justice* (1971) John Rawls provides an outline of the conditions of the standard liberal model of civil disobedience about when and how civil disobedience is justified in ‘nearly just’ liberal democracies. While the problem of civil disobedience is often conceptualized in the context of political liberalism, there are also various reasons to think that a communitarian-inspired democratic understanding of citizenship might help to elucidate several important aspects of conscientious law-breaking.
+
+By encouraging a larger social vision communitarianism helps to encourage a posture that leads to engagement in civic affairs, but an influential libertarian critique claims that it confers too much power to the state and thereby largely marginalizes the role of civic dissent. However, from the perspective of social engagement it becomes possible to turn the liberal critique back on itself: any political theory which nurtures a more limited, self-interested political posture is in danger of [eroding the collective concern that often inspires civil disobedience](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1747-1346.2001.tb00592.x) (265).
+
+In this essay I thus argue that a communitarian-inspired model of civil disobedience, in particular one informed by the principles of deliberative democracy, is a viable complement to justice-based accounts of civil disobedience as exemplified by John Rawls.
+
+Firstly, I elucidate the basic contours of Rawls’ account of civil disobedience and explain how the conditions for justified civil disobedience relate to the place of this type of political protest in a near just democratic state. Secondly, I will give a brief sketch and critique of Daniel Markovits’ republican theory of civil disobedience. T
+
+hirdly, I will introduce William Smith’s deliberative democratic theory of civil disobedience, which together with Markovits’ account offers a justification for civil disobedience for issues that fall outside the scope of permissible political protest in Rawls’ liberal theory.
+
+Finally, I argue that Edward Snowden’s civilly disobedient actions align best with Smith’s deliberative democratic account, in which this form of political protest is justified as a mechanism for publicizing urgent and important issues of collective concern that are marginalized and ignored in the public sphere.
+
+## Rawls’ Liberal Theory of Civil Disobedience
+
+Rawls suggests in his *Theory of Justice* (1971) that a constitutional theory of civil disobedience contains three parts. The first part provides a clear definition that makes it possible to distinguish ‘civil disobedience’ from other forms of resistance to democratic authority. The second part gives an outline of the grounds of conscientious law-breaking and the conditions under which such civil disobedience is justified in a nearly just democratic regime.
+
+[The third part offers an explanation of the role of civil disobedience](https://www.google.com/books/edition/A_Theory_of_Justice/vcVEPc30ut0C?hl=en&gbpv=1&pg=PA55&printsec=frontcover) within a constitutional system and in particular why this mode of protest is appropriate within a free society (55). The crucial question of Rawls’ theory is thus which particular circumstances in a nearly just democratic regime constitute a justification for disobedience to unjust laws? Simmons suggests that Rawls answers this question by noting that citizens have a right to disobey unjust laws in a nearly just democratic state only when their disobedience is non-violent, political, conscientious protest, publicly performed and explicitly addressed to the deeply shared sense of justice of the majority (or those having effective power) in the political community.
+
+It is further important that there is a clearly discernable and substantial injustice where ordinary legal appeals have already been undertaken, and [where disobedience still expresses a deeper fidelity to the general rule of law](https://www.bu.edu/law/journals-archive/bulr/documents/simmons.pdf) (1806). [According to Rawls](https://www.google.com/books/edition/A_Theory_of_Justice/vcVEPc30ut0C?hl=en&gbpv=0), civil disobedience is therefore “a public, non-violent, conscientious yet political act contrary to law usually performed with the purpose of creating a change in the law or policies of the government” (320).
+
+Having provided a definition of civil disobedience, [Rawls further delineates four conditions for justified civil disobedience](https://www.google.com/books/edition/A_Theory_of_Justice/vcVEPc30ut0C?hl=en&gbpv=0) and subsequently relates these conditions to the place of civil disobedience in a nearly just democratic state.
+
+(1) The first condition is that acts of civil disobedience should usually target only *grave injustices* that constitute serious infractions of fundamental political liberties such as, for example, the principle of equal liberty and equality of opportunity.
+
+(2) The second condition is that civil disobedience must be a *last resort*. This is the case when the ordinary appeals to the political majority or other legal avenues towards changing the law or policy in question have failed or been closed off. It is important to emphasize here that Rawls does not claim that legal means must have been *exhaustively* pursued before one is justified in engaging in civil disobedience. In case the majority repeatedly shows themselves indifferent to the concerns of a minority, there comes a point that further legal appeals may reasonably be thought fruitless. In such circumstances, civil disobedience becomes justified as a practically necessary last resort (328).
+
+  
+(3) The third condition is that acts of civil disobedience should be restricted to those cases where the dissenter allows that anyone else subjected to similar injustices would have a right to disobey in a similar way and only when such disobedience would not result in a breakdown in the respect the rule of law, which may result in lasting injury to the constitution. Rawls thus argues that justified civil disobedience should function as a *stabilizing force* in society instead of effectively undercutting societal order. (
+
+4) The fourth and last condition is that a dissenter should exercise his right to civil disobedience only when it is likely to be an *effective means* of achieving his ends. Rawls therefore seems to argue that the effectiveness of civil disobedience does not as such justify the right to civil disobedience, but that once that right is independently established, civil disobedience should be engaged in only if it is likely to be actually effective.
+
+With these justificatory conditions in place, it is now possible to consider the way Rawls conceives of how these conditions relate to the role of civil disobedience in a nearly just democratic society. [Rawls points out that civilly disobedient acts aim to address the sense of justice of the majority](https://www.google.com/books/edition/A_Theory_of_Justice/vcVEPc30ut0C?hl=en&gbpv=0) and attempt to show that the conditions for free cooperation are being transgressed. He therefore suggests that the persuasive power of civil disobedience is dependent upon “the democratic conception of society as a system of cooperation among equal individuals” (335-336).
+
+Although Rawls mentions the democratic conception of society, it is important to note that his defense of civil disobedience is essentially grounded in a justice-based account. This raises the question whether the justice-based defense of civil disobedience might be complemented by a democratic defense which might not only justify this form of protest in the case of flagrant infringement of civil rights, but also when the democratic process is obstructed in some way or other. In the next section I will explore a republican model of civil disobedience that goes beyond a strictly liberal framework and construes civil disobedience as a way to redress ‘democratic defits’ in a political community.
+
+## Markovits’ Republican Theory of Civil Disobedience
+
+Daniel Markovits has offered a republican theory of ‘democratic disobedience’ that attempts to synthesize the Rawlsian liberal appeal to the importance of justice and fair terms of political cooperation between free and equal citizens with a concern for democratic deficits inherent in democratic processes, [which hinder citizens from](https://www.google.com/books/edition/Cosmopolitanism_and_the_Legacies_of_Diss/oW0KBAAAQBAJ?hl=en&gbpv=0) “assuming ownership of collective decisions” (143). In contrast to Rawls’ account which limits itself to the infringement of civil rights, [Markovits’ account expands](https://www.yalelawjournal.org/essay/democratic-disobedience) to cases related to the process of democratic deliberation preceding the collective enactment of laws and policies (1900-1902).  
+
+Markovits’ theory of civil disobedience is based upon a republican model of democracy that is informed by the notion that individuals only possess genuine liberty in so far as they are governed by laws that they themselves have freely chosen to adopt. [Markovits thus states that](https://www.yalelawjournal.org/essay/democratic-disobedience) “the republican view proposes that the democratic process, properly constructed and managed, transforms citizens from isolated individuals into members of a democratic sovereign, with which they identify and whose will they take as their own even when they have been outvoted” (1912).
+
+It is important to note here that the participating citizens in a well-functioning democratic process remain individually free because they are conceived as the *active agents* of the collective decisions that are the outcome of this democratic process.  
+
+This implies, [according to Markovits](https://www.yalelawjournal.org/essay/democratic-disobedience), that the ‘instantaneous preferences’ of voters cannot simply be bound together to form collective decisions, because this would inhibit minority groups from taking authorship of these decisions, including even those that they opposed (1914). Rather than merely aggregating brute preferences, there is a need for various modes of ‘democratic engagement,’ like public deliberation, political parties, and fair elections, which enable all citizens, including minority groups, to identify with the ‘sovereign democratic will’ within a political community.
+
+However, the institutions and practices of representative government, [despite being necessary for democratic sovereignty and authority](https://www.yalelawjournal.org/essay/democratic-disobedience), inevitably tend to raise obstacles with regard to the efficacy of the democratic sovereign will (1921).
+
+These obstacles to the efficacy of the sovereign will are termed by Markovits as ‘democratic deficits’ in political decision-making processes. Democratic deficits can arise when, for example, special interests unduly manipulate the law and policy-making process in order to achieve their aims without democratic engagement, but it may also be the result of exclusion of preferences due to the inherent inertia of democratic processes (1922-1923).
+
+[Markovits argues that civil disobedience can be understood in this context](https://www.yalelawjournal.org/essay/democratic-disobedience), as providing a “counterweight to the inertial institutions and practices” (1928). Civil disobedience is justified when democratic deficits occur, because in these situations citizens no longer are the active agents of collective decisions. Although disobedience should be a last resort when there is a failure of democratic engagement, such protest can be conceptualized as a strategic device that can shock the political community out of its complacency and [in this way revitalize democratic practices of reengagement and reconsideration](https://www.yalelawjournal.org/essay/democratic-disobedience) (1933).
+
+It is important to note here that while Rawls’ liberal theory implies that only violations of rights and not only harms to interests can justify disobedience, Markovits’ republican theory of civil disobedience suggests that only democratic deficits and not mere political defeats can justify such political protest. (The problem of democratic deficits has significant implications for Snowden’s exposure of NSA mass surveillance policy, which I address in the second installment of this essay).  
+
+Despite the fact that Markovits’ republican theory of civil disobedience is an insightful alternative to Rawls’ liberal theory, [there seem to be at least two weaknesses in Markovits’ account](https://www.yalelawjournal.org/essay/democratic-disobedience). The first weakness is connected to the republican notion that all citizens should in some sense themselves be the authors of the collective decisions in a democratic community.  
+It seems very difficult to sort out when the preferences of some citizens only differ from the sovereign democratic will and when their preferences are so far apart from it that these citizens cannot be said to still be the authors of collective decisions (1939).  
+
+When there are substantial disagreements, the republican idea of collective authorship may create an antagonistic and distrustful atmosphere, which will probably not lead to new forms of democratic engagement. Citizens who do not agree with collective decisions might in that case rather simply refuse to acknowledge the democratic authority of the political majority. The other citizens might thus not take the dissenters seriously at all and view them as belligerent protesters and [this will not lead them to democratic reengagement](https://plato.stanford.edu/archives/spr2016/entries/republicanism/) (2016).  
+
+The second weakness is related to [Markovits’ suggestion](https://www.yalelawjournal.org/essay/democratic-disobedience) that democratic disobedience does not need to have an alternative ideal to replace the unjust or invalid policy (1941). This suggestion seems a bit unbalanced in that civil disobedience seems most compelling when it protests *both* processes and the policy outcomes of those same processes. The articulation of a robust alternative policy outcome can give an enormous impulse to democratic engagement, because a contrasting political vision has the tendency to garner more public attention than if there is only a restricted focus on obstructions in the process of democratic decision-making.  
+
+## Smith’s Deliberative Democratic Theory of Civil Disobedience
+
+It is now possible to see how William Smith’s ‘deliberative democratic’ account of civil disobedience improves upon the few shortcomings of Markovits’ republican account. Smith’s account of civil disobedience is primarily based upon Jürgen Habermas’ deliberative conception of democracy. [Smith’s account of civil disobedience in a democratic community](https://link.springer.com/article/10.1007/s11158-004-2327-5) is particularly closely connected with Habermas’ conception of the public sphere, which contains three main aspects:
+
+(1) The public sphere constitutes a publicly accessible forum in which a significant variety of social issues can be discussed.
+
+(2) Within the public sphere there is an exchange of various arguments and opinions through rational and public reason-giving.
+
+(3) The main role of the public sphere is to systematically scrutinize government policies (372).  
+
+In the light of this third aspect, [it is particularly interesting that Habermas suggests](https://blogs.unpad.ac.id/teddykw/files/2012/07/J%25C3%25BCrgen-Habermas-Between-Facts-and-Norms.pdf) that the public sphere is the place where citizens can raise awareness about new social-political issues. The ultimate objective of the public sphere is that these new issues are seriously addressed by democratic institutions (383). [According to Habermas](https://blogs.unpad.ac.id/teddykw/files/2012/07/J%25C3%25BCrgen-Habermas-Between-Facts-and-Norms.pdf), these new issues are almost never first brought to the foreground by “exponents of the state apparatus, large organizations, or functional systems, but are rather broached by intellectuals, concerned citizens, radical professionals, self-proclaimed ‘advocates,’ and the like” (381). Habermas’ concept of the public sphere therefore emphasizes the significance of democratic discourse among citizens, which has an important function in contributing to a well-ordered democratic society.  
+
+Having provided a brief sketch of Habermas’ concept of the public sphere, it is now possible to introduce Smith’s deliberative democratic account of civil disobedience, which frames civil disobedience as a strategy to preserve the democratic function of the public sphere. [Smith clarifies that civil disobedience](https://link.springer.com/article/10.1007/s11158-004-2327-5) is a contribution to deliberative politics insofar as “a citizen engages in this form of protest to persuade the state to enter into a dialogue about law and policy in the light of perceived failings in existing deliberative procedures” (363). Smith’s theory contains three conditions for justified civil disobedience: (1) the first is that it attempts to raise awareness about issues in the public sphere, (2) the second concerns the circumstances that might justify it and (3) the third pertains to the limitations of its aims.  
+
+The first condition stipulates that civil disobedience should not be undertaken in an effort at self-promotion, but to raise awareness about issues of urgent relevance to the democratic community. There are several ways in which individuals can support the idea that a specific issue is sufficiently serious to justify civil disobedience. Individuals who want to address a new social and political problem can justify their actions by arguing, for example, that the fundamental interests of individuals or societies are being transgressed.
+
+They might want to provide a critique of domestic or foreign policy when governments do not adequately fulfill their obligations [to respect basic civil liberties](https://www.google.com/books/edition/Civil_Disobedience_and_Deliberative_Demo/oVG2_rhKWKUC?hl=en&gbpv=0) (60). Activists can also argue for the urgency of a specific policy by showing that it might have irreversible consequences [when the government does not take competent action to deal with it](https://www.google.com/books/edition/Civil_Disobedience_and_Deliberative_Demo/oVG2_rhKWKUC?hl=en&gbpv=0) (61).  
+
+[The second condition states that civil disobedience](https://www.google.com/books/edition/Civil_Disobedience_and_Deliberative_Demo/oVG2_rhKWKUC?hl=en&gbpv=0) should be restricted to circumstances in which there have arisen significant obstacles in the deliberative process in a democracy (62). This situation might arise, for example, when powerful industrial nations do not adequately regulate pollution levels and thereby risk ecological damage that will affect not merely its own populace, but also [a global citizenry that has virtually no influence](https://link.springer.com/article/10.1007/s11158-004-2327-5) over the decision-making processes of those nations that wield such great political power (365).
+
+In such situations it would seem justified to undertake civil disobedience to forestall the lack of consideration given to the interests of those who will be seriously affected by certain policy decisions. Civil disobedience can publicize important issues so that they can receive attention in the public sphere, whose primary function is, after all, to systematically scrutinize government policies by disseminating important information and promoting rational debate.  
+
+[The third condition contains two constraints](https://www.google.com/books/edition/Civil_Disobedience_and_Deliberative_Demo/oVG2_rhKWKUC?hl=en&gbpv=0) on the aims of civil disobedience: (1) civil disobedience should not champion exclusionary laws and policies that are contrary to the inherently inclusive nature of the public sphere and (2) civil disobedience should not utilize coercive tactics in order to further its aims (66). Particularly the second constraint warrants some further attention at this point insofar as the presumption against coercive tactics tends to be incompatible with the principles of deliberative democracy. [Kimberley Brownlee suggests](https://link.springer.com/article/10.1007/s11572-006-9015-9) that such coercion would cripple civil disobedience as “a mode of address” (174).
+
+Given that the reason why people engage in civil disobedience is to communicate their resistance to certain laws and policies with the purpose of rationally persuading other citizens, the use of coercion seems incompatible with the element of public reason-giving processes inherent in the notion of democratic deliberation upon which the justification of civil disobedience is grounded in the first place. The only sort of coercion that is allowed on this account is that which is used to achieve the aims of civil disobedience [by seeking publicity for arguments and reinvigorating democratic deliberation](https://link.springer.com/article/10.1007/s11572-006-9015-9) (189).
+
+*Daniel Muller is a graduate student in the Faculty of Philosophy at the University of Gronigen in the Netherlands.*

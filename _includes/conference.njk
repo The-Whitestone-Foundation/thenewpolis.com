@@ -1,0 +1,45 @@
+---
+layout: base.njk
+---
+
+{% include "schema-breadcrumb.njk" %}
+{% include "schema-blog-post.njk" %}
+
+<main class="container my-5">
+    <div class="row justify-content-center">
+        <article class="col-lg-10 shadow-sm p-4 p-md-5 bg-white border">
+            <nav class="small text-uppercase mb-4 " style="letter-spacing: 1px;">
+                <a href="/" class="text-decoration-none ">Home</a> / 
+                <span class="text-dark">Conference</span>
+            </nav>
+            <header class="conference-header mb-5 border-bottom pb-4">
+                <div class="d-flex align-items-center mb-3">
+                    <span class="badge bg-dark text-uppercase px-3 py-2" style="letter-spacing: 1px;">Event / Conference</span>
+                </div>
+                <h1 class="display-4 serif fw-bold mb-3">
+                    {{ title }}
+                </h1>               
+                {% if date %}
+                <div class=" d-flex align-items-center mt-3">
+                    <i class="fa-regular fa-calendar-days me-2"></i>
+                    <time datetime="{{ page.date | date('yyyy-MM-dd') }}" class="fw-bold">
+                        {{ page.date | readableDate }}
+                    </time>
+                </div>
+                {% endif %}
+            </header>
+            <div class="conference-content serif" style="font-size: 1.1rem; line-height: 1.7;">
+                {{ content | safe }}
+            </div>
+            <footer class="mt-5 pt-5 border-top text-center">
+                <p class=" small">For more information regarding this conference, please contact our editorial board.</p>
+                <div class="d-flex justify-content-center mt-3">
+                    <a href="mailto:{{ metadata.email }}" 
+                    class="btn btn-outline-dark text-white me-2">Contact Us</a>
+                    <a href="/blog/" class="btn btn-dark">Back to Blog</a>
+                </div>
+            </footer>
+            
+        </article>
+    </div>
+</main>

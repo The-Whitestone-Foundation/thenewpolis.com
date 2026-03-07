@@ -1,0 +1,58 @@
+{
+  "thenewpolis": {
+    "name": "Admin - The New Polis",
+    "bio": "The New Polis Admin team"
+  },
+  "editors": {
+    "name": "Editors - The New Polis",
+    "bio": "Editorial content and announcements from The New Polis team"
+  },
+  "carl-raschke": {
+    "name": "Carl Raschke",
+    "bio": "Executive Editor"
+  },
+  "roger-green": {
+    "name": "Roger Green",
+    "bio": "Senior Consulting Editor"
+  },
+  "joshua-ramos": {
+    "name": "Joshua Ramos",
+    "bio": "Special Projects Editor"
+  },
+  "joshua-hanan": {
+    "name": "Joshua Hanan",
+    "bio": "Consulting Editor"
+  },
+  "victor-taylor": {
+    "name": "Victor Taylor",
+    "bio": "Consulting Editor"
+  },
+  "jared-lacy": {
+    "name": "Jared Lacy",
+    "bio": "Assistant Editor"
+  },
+  "dianna-able": {
+    "name": "Dianna Able",
+    "bio": "Assistant Editor"
+  },
+  "alyssa-putzer": {
+    "name": "Alyssa Putzer",
+    "bio": "Marketing Editor"
+  },
+  "joshua-ramey": {
+    "name": "Joshua Ramey",
+    "bio": "Contributing Editor"
+  },
+  "jonathan-cole": {
+    "name": "Jonathan Cole",
+    "bio": "Contributing Editor"
+  },
+  "daniel-tutt": {
+    "name": "Daniel Tutt",
+    "bio": "Contributing Editor"
+  },
+  "dheepa-sundaram": {
+    "name": "Dheepa Sundaram",
+    "bio": "Contributing Editor"
+  }
+}

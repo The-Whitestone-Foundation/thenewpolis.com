@@ -1,0 +1,45 @@
+---
+pagination:
+  data: collections.tags
+  size: 1
+  alias: tag
+permalink: "/tag/{{ tag | slugify }}/"
+layout: page.njk
+---
+
+<div class="mb-5">
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/tags/" class="text-decoration-none">All Tags</a></li>
+            <li class="breadcrumb-item active" aria-current="page">{{ tag }}</li>
+        </ol>
+    </nav>
+    <h2 class="display-5 serif fw-bold border-bottom pb-3">Topic: <span class="text-muted">{{ tag }}</span></h2>
+</div>
+
+<div class="post-list mt-4">
+    {% set postsByTag = collections.posts | filterByTag(tag) %}
+    {% for post in postsByTag | reverse %}
+    <article class="mb-4 pb-4 border-bottom">
+        <div class="row align-items-center">
+            <div class="col">
+                <h3 class="h4 serif fw-bold mb-2">
+                    <a href="{{ post.url }}" class="text-decoration-none text-dark hover-maroon">{{ post.data.title }}</a>
+                </h3>
+                <div class="text-muted small mb-3">
+                    <time datetime="{{ post.date | htmlDateString }}"><i class="bi bi-calendar3 me-1"></i> {{ post.date | readableDate }}</time>
+                    {% if post.data.author %}
+                        <span class="ms-3"><i class="bi bi-person me-1"></i> By {{ post.data.author }}</span>
+                    {% endif %}
+                </div>
+                {% if post.data.description %}
+                    <p class="text-secondary">{{ post.data.description | truncate(160) }}</p>
+                {% endif %}
+                <a href="{{ post.url }}" class="small fw-bold text-uppercase text-decoration-none text-muted">Read Article &rarr;</a>
+            </div>
+        </div>
+    </article>
+    {% else %}
+        <p class="text-center text-muted py-5">No posts found with this tag.</p>
+    {% endfor %}
+</div>

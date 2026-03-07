@@ -1,0 +1,140 @@
+---
+title: "Decolonizing Identity Politics Through Subjective In-Betweenness, Part 4 (Rode Molla)"
+date: 2022-07-27T03:59:00+00:00
+author: thenewpolis
+permalink: /2022/07/27/decolonizing-identity-politics-through-subjective-in-betweenness-part-4-rode-molla/
+image: /images/wp-content/uploads/2022/08/Shrine_Our_Lady_of_Tonatico_Tonatico_Mexico_state_Mexico01.jpg
+
+categories:
+  - "Identity Politics"
+tags:
+  - "Border Theory"
+  - "Cosmopolitanism"
+  - "Ethiopia"
+  - "Ethiopiawint"
+  - "Gloria Anzaldua"
+  - "Homi Bhabha"
+  - "Kwame Appiah"
+  - "Luis Leon"
+  - "Pentecostalism"
+  - "Religious Poetics"
+  - "Robert Orsi"
+---
+
+*The following is the second of a four-part series. The first can be found [here](/06/09/decolonizing-identity-politics-through-subjective-in-betweenness-part-1-rode-molla/)*, *the second [here](/06/23/decolonizing-identity-politics-through-subjective-in-betweenness-part-2-rode-molla/)*, *the third [here](/12/decolonizing-identity-politics-through-subjective-in-betweenness-part-3-rode-molla/).*
+
+*Resisting Fragmented and Hegemonic Identities through Subjective In-Betweenness and Religions*
+
+Postcolonial theorists define identities to resist homogenizing and fragmenting imposed identities. I aim to show how Ethiopians could resist imported and imposed identities through subjective in-betweenness. Subjective in-betweenness resists both hegemonic localization and nationalization by activating in-between consciousness to make Ethiopian bodies the source of their liberation. The oppressed bodies will be the source of their liberation through activated in-between consciousness that will enable them to choose their flourishment, freedom, and development. In what follows, I will discuss three promising conceptual approaches for creating in-between consciousness: cosmopolitanism, borderland religion, and in-between spaces. These theories help me articulate the importance of hybrid identities and religious practices in the Ethiopian context. Their approaches address the importance of border lives and hybrid identities to disrupt imposed and colonial ideologies and identities. However, at the same time, since these theorists do their work in a different context, their approaches are limited to be fully applied to comprehend the complex identity struggle that Ethiopians face.
+
+## Cosmopolitanism
+
+The British-Ghanaian cultural theorist and philosopher Kwame Appiah brings a concept of cosmopolitanism to imagine a consciousness of communities and individuals that enables them to live as citizens of the globe. I believe that cosmopolitanism as a cultural or political praxis or individual or communal consciousness may empower Ethiopians to resist identity politics. The cosmopolitan consciousness may enable Ethiopians to live in a shared space with all people regardless of similarities and differences in identity. Cosmopolitanism may challenge the binary policies and limited cosmic consciousness by inviting them to join a cosmic citizenship. The regional state and border conflicts and ethnic violence come from the limited consciousness that could not enable Ethiopians to see beyond. However, cosmopolitanism shows the broader cosmos that makes us privileged and responsible to care for the *polis* with just political and communal praxes.
+
+For Appiah, cosmopolitanism means being a citizen of the universe. His concept of cosmopolitanism comes from the Stoic philosophers of the 4^th^ and 3^rd^ centuries BCE. The Stoics emphasize being a citizen of the *polis* in which each community belongs to the one cosmos. Appiah claims that, in the early church, the Stoic view attracted even Christian apostles and preachers. For example, the Apostle Paul wrote in Galatians 3:28, “There is neither Jew nor Greek, there is neither bond nor free, there is neither male or female: for ye are all in Christ Jesus.”^93^
+
+Cosmopolitans have two characteristics. First, they are responsible citizens who love and care for the Other. Second, they are pluralistic; they believe in the existence of different values and belief systems.^94^ The challenge of cosmopolitans is positivism. According to Appiah, “There is a disconnect, too, between the positivist creed and the relativist counsel that we ought not to intercede in other societies on behalf of our own values.”^95^ Positivism wants to prove that our values are correct, but proving our beliefs and desires is impossible in the cosmopolitan world. Cosmopolitans do not want to prove their truth or impose their beliefs on others because that is colonialist and imperialist. The world of the cosmopolitans is known by celebrating differences in beliefs, values, and desires.^96^
+
+Therefore, it is essential to acknowledge and understand that our values and beliefs are contextual. Appiah writes, “What it is reasonable for you to think, faced with a particular experience, depends on what ideas you already have.”^97^ For example, people in traditional Ghana believe in the continued active presence of ancestors, witchcraft, and traditional medication. For the Western person or even for Protestant Ghanaians, the traditional belief system about witchcraft does not make sense. Cosmopolitans, however, do not need to prove their values; instead, they care for the person who has a different value and belief system from them.
+
+Cosmopolitanism resists the imposition of modernity that has a totalitarian, imperial, and colonial ideology. At the same time, cosmopolitans do not believe in narrow nationalism but in the existence of diverse values beyond positivist and totalitarian views. The cosmopolitan’s primary principle is to care for the Other. So, cosmopolitanism resists the Othering methods and the categories and principles of modernity and colonization. Cosmopolitans claim that we all are citizens of the universe with diverse values and faith traditions. In the Ethiopian context, the challenge is that the totalitarian nationalities focus only on *Ethiopiawint,* or national identity, that does not provide spaces for diversity. On the other hand, ethnic nationalists focus on narrow and local identities that do not allow people to live together.
+
+Appiah started from the Stoics’ claim of universal citizenship without addressing how the philosophical, political, and theological ideas of stoicism, modernity, Christianity, and globalization impact the colonized. The question is: do the postcolonial nations and Westerners have the same rights in the cosmos? Could Ethiopians create a cosmopolitan Ethiopia that resists imposed Western ideologies and narrow local nationalism? Simultaneously, the cosmopolitan moral principles are not facts or beliefs or universal principles but contextual values in which we make sense, not by understanding, but by connecting. The cosmopolitan’s moral principle respects each person’s individuality (each of us is like no other); we relate to the other not by proofing our moral laws but by acknowledging that the singularity of the stranger has affective power to us and we have the same affective power to the stranger.
+
+Appiah’s cosmopolitanism enables me to resist neo-fundamentalism and local ethnocentric nationalism, so it could be a means to reframe hegemonic and fragmented identities. At the same time, Appiah’s cosmopolitanism may enable Ethiopians to resist universal political or moral values and principles because cosmopolitan’s values are contextual and relational. Moreover, cosmopolitanism focuses on defining and practicing culture and religion as contextual, so the contextual and lived religious practices and definitions are the primary sources for creating contextual values. We make sense, not by understanding but by connecting.
+
+Even though many values and practices make cosmopolitanism applicable to empowering Ethiopians with subjective in-betweenness, cosmopolitanism lacks a thick description of gender, economic, class, social differences, impositions, and colonization. For example, in the Ethiopian context, cosmopolitanism may help create a shared space, but does it help address ethnic, political, cultural, and economic differences?
+
+## Border Lives and In-between Lives and Spaces
+
+The cosmopolitanism of Appiah has a relationship with Homi Bhabha’s theory of border lives since it resists hegemonic cultural and identity formation. Nevertheless, Bhabha’s approach to identity does not start from the Western philosophical concepts, but it starts from the lived experience of himself and the colonized. At the same time, as a postcolonial approach to identity Bhabha’s approach has a multilayered definition and critique about culture, religion, and the identity formation of the postcolonial nation. The result of cosmopolitanism focuses on making individuals citizens of the universe.
+
+However, Bhabha focuses on empowering the postcolonial nation with subjectivity from national identities in the borderline. In *The Location of the Culture,* Bhabha addresses identity as the central theme to articulate the struggle of the postcolonial people. For Bhabha, identity is an art, and people shape it through their embodied social, political, and historical relationships. Therefore, the postcolonial identities for Bhabha are border lives, or in-between lives, in which both individuals and communities meet to negotiate and collaborate to shape their identities. Bhabha writes, “These ‘in-between’ spaces provide the terrain for elaboratingstrategies of selfhood—singular or communal—that initiate new signs of identity, and innovative sites of collaboration, and contestation, in the act of defining the idea of society itself.”^98^
+
+As a postcolonial theorist, Bhabha’s embodied experience has an impact on his theory. He was raised as Zoroastrian-Persian minority in a Hindu and Muslim context. He was born in a British colony to a middle-class family when the postcolonial era started, and the third world nations became free: “I ask myself what it would be like to live without the unresolved tensions between cultures and countries that have become the narrative of my life, and the defining characteristic of my work.”^99^ His inquiry on how to live and construct an identity in the postcolonial world came from his own personal struggle. Bhabha writes:
+
+> The borderline work of culture demands an encounter with “newness” that is not part of the continuum of past and present. It creates a sense of the new as an insurgent act of cultural translation. Such art does not merely recall the past as social cause of aesthetic precedent; it renews the past, refiguring it as a contingent “in-between” space, that innovates and interrupts the necessity, not the nostalgia, of living.^100^
+
+In the postcolonial world, the stories and embodied experiences of individuals and communities disrupt singular and universal definitions and categories. Bhabha writes, “The borderline identities are created in the in-between spaces that make those identities to have a hybrid culture and character beyond the fixed and singular identity of modernity.”^101^ So, Bhabha articulates both modernity and its universal claim of globalization and neoliberal governmentality that creates economic, social, and political alienation for the postcolonial nations. According to Bhabha, both the globalizing idea of modernity and neocolonial governmentality should be questioned and interrogated through hybrid and borderline experiences and identities.
+
+Both globalization and neoliberal governmentalities alienate the colonized from subjective agency through homogenization and fragmentation. So, the only place and identity that the colonized could connect to its agency is in the borderline. The borderline is an in-between space in which the colonized interrogates imposed identities and also creates in-between subjectivity to be present for their diverse identities beyond fragmentation. The borderline or in-between spaces create a possibility and a new way of being and defining one’s identity and society itself beyond the imposed subjectivities and normative definitions of identity, cultural, society, gender, and sexuality.^102^
+
+According to Bhabha, the challenge of the beyond identities is the feeling of unhomeliness.^103^ Appiah interprets the unhomeliness feeling of the cosmopolitans as strangeness because cosmopolitans do not belong only in one space, they belong to the universe.^104^ For Bhabha, the unhomeliness or uncanny life of the post-colonial identities comes from living in-between the past and the present. The feeling of unhomeliness comes from their embodied being that dwells in the in-between spaces. However, unhomeliness is not being homeless, but it is living in the moment that integrates public and private, past and present. Therefore, the uncanny feeling comes from living in thetime of the beyond, the postcolonial, and the present that meet in the borderline to create new and hybrid identities. In the Western discourses, there are two spaces, the West and the rest. However, the postcolonial theory creates a third space for third world countries to speak beyond the West’s terminology and grammar.^105^ The beyond identities are not nostalgic about the past; however, their past and present meet in the in-between spaces to create new identities that enable them to claim their agency and subjectivity.
+
+Bhabha employs Fanon’s psychoanalytical approach to identity. Fanon is a postcolonial theorist who use psychological analysis to interpret the impact of colonization and its aftermath for the colonized nations. Fanon, in his known book*, Black Skin White Masks*, articulates the desire of the white man for colonization and the black man for living in the mask of whiteness. In the colonial world, the colonized people’s consciousness is denied. However, Fanon claims that individuals, whether they are colonized or colonizer, cannot make their subjectivity by themselves, because their surrounding social and political situation impacts their identity formation. The colonizer’s desire formulates its identity about the other (the colonized). The identity formation of the colonized is also established in his desire due to the tension that is created by the colonizer. That means the consciousness of the colonized is already controlled by the colonizer; he or she cannot create his or her identity without a relationship to the colonizer. For Fanon, the colonized body does not have a soul. That is why he calls them black skin, white masks.^106^
+
+Bhabha’s emphasis on identity enables us to learn not only about the past but the ongoing neoliberal, sexual, economic, and racial discourses that are integrated within postcolonial identifications.^107^ Additionally, Bhabha’s postcolonial discourse addresses how and why identity is created. Bhabha integrates the political discourse with personal consciousness or identity formation of individuals and communities. Bhabha defines identity as a shared constructed subjectivity through individuals and communities’ consciousness and their social and political context. Due to its emphasis on identity and agency, Bhabha’s postcolonial theory articulates the shared in-between spaces, or third spaces, that are created through the postcolonial nations’ lived experiences.
+
+I claim that Ethiopians have been and continue to be colonized through discourse, image, and ideological impositions and interpretations. Both globalized and neoliberal hegemonic identities eliminated the in-between spaces that Ethiopians could use to negotiate and claim their subjectivity, allowing them to live peaceably together at some points in their history. So, Bhabha’s discourse enables us to question hegemonizing and fragmenting identities that alienate Ethiopians from the in-between spaces. His theory establishes that the lived experiences of the colonized nations could be the source to resist these imposed identities and increase their capacity to negotiate their hybrid identities.
+
+Bhabha’s approach to the postcolonial era does not give us a practical recommendation on how we can create the in-between spaces. Does the in-between space really exist, or is it an imaginary space? In what social institutions or spaces of interaction could such an in-between social identity be formed and practiced? If identity is socially and politically constructed, religion and spirituality have power in the process of identity formation. In the Ethiopian context, both religion and politics are integrated to create national and fragmented identities. Therefore, I claim that postcolonial theorists need to address the role of religion in the identity formation of the colonized nations and in the construction of in-between spaces.
+
+In a parallel example from a distinct religious and political situation, Gloria Anzaldúa, in her book, *Borderlands: La Frontera,* analyzes Mexican Americans who live in the borderlands of the United States and Mexico with multilingual and multicultural political, social, and religious identities. The Mexican Americans who are living in the borderlands do not match in one context; they do not speak fluent English or Spanish, but Spanglish. In the borderlands, they create their own language in which they practice their religion and politics in their relationship to their diverse sociocultural contexts. The borderlands religion exists in double consciousness, which enables the people to live with hybrid identities and spaces. The borderlands people’s religion and consciousness resist linear either/or identities, and they shape and create a third space in which the borderland people can be allies and meet with their own home and identities. The third space, in- between space, resists material oppression, patriarchal and sexist systems, and other forms of oppression.^108^
+
+Borderland religion resists a mono-cultural way of being and knowing, and “it creates the outsider within identity, enabling the *chicanas* to live with hybrid and double consciousness layered with complexity.”^109^ Anzaldúa employs poetry to define the experience of the *chicanas* and her own experience in the borderlands. Borderland religion does not define oppression as static but fluid because the borderland people have multiple cultural experiences and exposures to oppression. The religion of the borderland is disruptive and transgressive.^110^ Religion is a hybrid identity and allows for hybrid identity-formation through decolonizing either/or categories that create linear binaries about the identities of colonized nations. Anzaldúa imagines borderland lives through the literary or poetic sphere, which emerges from her lived experience in families and homes and cultural settings in the community. However, her literary imagination does not include practical action steps on how to resist imposed ideologies that disrupt the hybrid existence of the *chicanas*. Alternatively, she does not show the public performance and practices of the *chicanas* that enable them to resist imposed ideologies, but Luis D. León does.
+
+Luis D. León, in *La Llorona’s Children*, argues that the Mexican American religious traditions are not fixed, but their beliefs and practices are continuously redefined and reshaped through the practices of the devotees. Religion is not limited to doctrinal teachings of the religious traditions, but religion is “poetics.” Religious poetics means a praxis that the devotees perform in their worship and embodied experiences and practices. León writes, “Poetic, creative religious practices do not occur only at the boundaries of institutions, but within, parallel to, and sometimes in direct conflict with established traditions.”^111^ So, according to León, borderlands religion(s) integrate culture and politics and diverse religious traditions: Native traditions, Catholic beliefs, Evangelical practices, and Pentecostal passion. That means Mexican-American borderland religion is lived.^112^
+
+Robert Orsi, in *Between Heaven and Earth,* defines religion as a relationship between holy figures and humans of all ages. Orsi writes, “These relationships have all the complexities—all the hopes, evasions, love, fear, denial, projections, misunderstandings, and so on—of relationships between humans.”^113^ Orsi disagrees with categories of religion as good or bad; instead, he shows the “ambiguity” of religion in which we could experience it through our relationships and practices. The function of religion as a relationship did not deny social systems and structures that create colonial and oppressive systems. Orsi writes, “‘Relationship’ is a friendly word, but this is not how I use it throughout this book, nor am I focused on relationships as intimate realities apart from the arrangements of the social world in which they exist.”^114^ The sacred figures and images that are used to colonize people become the source of help and liberation through intimate relationships. So, religion becomes a relational web in which the devotees relate to the saints and one another through their bodies and embodied experiences.
+
+Both religious scholars of the Americas, Robert Orsi, and Luis León have similarities. Both León and Orsi claim that religion is lived, something the devotees do, practice, and perform through their bodies. Embodied religious poetics may disrupt established religious practices or beliefs and concepts. For León, religion is the relationship between *la lloronas* (the dead) and the living in two cultures, languages, and religion(s). Orsi describes religion as a relationship between human beings of different ages and holy figures, saints, and angels between heaven and earth. The relational function of religion resists official doctrine or imposed traditions. For both León and Orsi, religion is about the presence in the embodied and practical lives of the devotees.
+
+The difference between Orsi’s and León’s analyses of religion is their approach to power dynamics. Even though Orsi’s relational web is aware of the power dynamics and systemic oppression of the web, he focuses on the personal relationship of individuals with holy figures as a resistance to the official practices from the Vatican. Orsi hopes that his method could be applied in other contexts. Orsi writes, “My examples are drawn from American Catholic history in the twentieth century, but I believe what I have to say about religion as the relationship between heaven and earth is relevant for other cultures as well.”
+
+On the other hand, León’s borderland religion(s) resists oppressive systems and structures that create systemic and racial oppression and impositions in the lives of Native Americans and Mexican Americans. Mexican Americans have diverse social, cultural, and religious backgrounds. For example, their relationship to the saints is not limited to the Catholic saints because they have a relationship with the native tradition. At the same time, Mexican Americans have Pentecostal, Protestant, Native, and Catholic traditions and multiple languages and cultures. The religious poetics that come from the devotees’ lived experiences shape and reshape the religious meanings in diverse contexts. For example, the image of Guadalupe in Los Angeles was not the original image but a replica image. So, the relationship of the devotees with Guadalupe on the streets of Los Angeles disrupts the static images and symbols of religion. Moreover, the devotees’ multicultural and multilingual lived experiences and performance and relationship with the replica image of the Guadalupe disrupts official forms of religious traditions. At the same time, the devotees’ relationship with the Guadalupe gives them public agency power.
+
+The in-between spaces to which I want to invite Ethiopians emphasize the embodied and embedded experiences of Ethiopians, their “poetics” or complex local practice that resists Western colonization’s ideological or hegemonic purity. León’s and Orsi’s views of religion enable me to show the importance of the integrated nature of religion that includes normative and promotive acts. In the in-between spaces, religion functions as lived, material, and political beyond the exclusivist view of feudalism, a secularist view of socialism, and the current competitive identity politics of the Ethiopian government. I argue that life-giving religious praxis makes Ethiopian bodies agents to decolonize imposed political and religious practices. Life-giving religious practices are political, and they integrate the local, communal, societal, material, and spiritual. They reframe hegemonic and fragmented identities through religious and theological practices, higher education, and political approaches that nurture in-between spaces and the consciousness of Ethiopians.
+
+## Conclusion
+
+In Ethiopian history, religion and politics created hegemonic and fragmented identities. So, this article attempts to answer how religion and politics function to create colonized bodies and identities. I also converse with postcolonial theorists and African political theologians to show how identity politics works as a neocolonial power in postcolonial Africa including Ethiopia. In the modern history of Ethiopia, a fictive Amhara identity became a religious conduct and moral ideology that colonized and made Ethiopian bodies docile. Ethiopian political ideologies *Derge* and EPRDF both used identity politics to resist a fictive Amhara identity. However, both approaches are the two sides of the same coin: they continue exacerbating the image, body, and identity colonization of Ethiopians.
+
+I interpret the political, religious, and cultural imposition and colonization as neoliberal rational governmentality, cultural imposition, global colonization and identity politics. I also create a conversation to show how in-between spaces and in-between subjectivity might be restored through cosmopolitan, borderlands, and religious practices. As a practical theologian, my descriptive and interpretive tasks thickly describe the individual, communal, societal, and political challenges to show the multilayered political and economic impositions in the lives of Ethiopians as a means to liberate Ethiopians for reframing hegemonic identities and co-create in-between spaces and in-between identities through subjective in-betweenness.
+
+## Rode Molla is an assistant professor at Virginia Theological Seminary.
+
+***
+
+^93^ Kwame Anthony Appiah, *Cosmopolitanism: Ethics in a World of Strangers* (New York: W.W. Norton, 2007), xiv.
+
+^94^ Appiah, *Cosmopolitanism*, xv.
+
+^95^ Appiah, *Cosmopolitanism*, 24.
+
+^96^ Appiah, *Cosmopolitanism,* 31.
+
+^97^ Appiah, *Cosmopolitanism*, 39.
+
+^98^ Homi K. Bhabha, *The Location of Culture* (New York: Routledge, 2004), 2.
+
+^99^ Bhabha, *The Location of Culture*, x. ^100^ Bhabha, *The Location of Culture*, 2. ^101^ Bhabha, *The Location of Culture*, 5.
+
+^100^ Bhabha, *The Location of Culture*, 2.
+
+^101^ Bhabha, *The Location of Culture*, 5.
+
+^102^ Bhabha, *The Location of Culture*, 1-13.
+
+^103^ Bhabha, *The Location of Culture*, 13-27.
+
+^104^ Appiah, *Cosmopolitanism.*
+
+^105^ Bhabha, *The Location of Culture*, 7-14.
+
+^106^ Frantz Fanon, *Black Skin White Masks*, trans. Richard Philcox (New York: Grove Press, 1967), Loc 70-150.
+
+^107^ Fanon, *Black Skin White Masks,* 96.
+
+^108^ Gloria A. Anzaldúa, *Borderlands/ La Frontera: The New Mestiza.* 4th ed (San Francisco: Aunt Lute Books, 2007), 7.
+
+^109^ Anzaldúa, *Borderlands/ La Frontera*, 9.
+
+^110^ Anzaldúa, *Borderlands/ La Frontera*, 24.
+
+^111^ Luis León, *La Llorona’s Children: Religion, Life and Death in the US Borderlands* (Berkeley, CA: University of California Press, 2004), 5.
+
+^112^ León, *La Llorona’s Children*, 18-21.
+
+^113^ Robert Orsi, *Between Heaven and Earth: The Religious Worlds People Make and the Scholars Who Study Them* (Princeton: Princeton University Press, 2005), 4.
+
+^114^ Orsi, *Between Heaven and Earth*, 2.

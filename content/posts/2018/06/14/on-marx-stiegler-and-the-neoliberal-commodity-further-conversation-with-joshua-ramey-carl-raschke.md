@@ -1,0 +1,65 @@
+---
+title: "On Marx, Stiegler, And The Neoliberal ‘Commodity’ – Further Conversation With Joshua Ramey (Carl Raschke)"
+date: 2018-06-14T01:35:45+00:00
+author: thenewpolis
+permalink: /2018/06/14/on-marx-stiegler-and-the-neoliberal-commodity-further-conversation-with-joshua-ramey-carl-raschke/
+image: /images/wp-content/uploads/2023/07/October-revolution.png
+
+categories:
+  - "Critical Theory"
+  - "Neoliberalism"
+tags:
+  - "Bernard Stiegler"
+  - "Capitalism"
+  - "Commodification"
+  - "Dividuation"
+  - "Grammatization"
+  - "Joshua Ramey"
+  - "Karl Marx"
+  - "Libertarianism"
+  - "Politics of Divination"
+---
+
+*This article is a follow-up to the [interview](/2018/06/11/on-neoliberalism-and-the-politics-of-divination-an-interview-with-joshua-ramey/) conducted by* New Polis *general editor Roger Green with Joshua Ramey on neoliberalism and the “politics of divination.”*
+
+Joshua Ramey’s take on neoliberalism, as laid out in [*The New Polis* interview](/2018/06/11/on-neoliberalism-and-the-politics-of-divination-an-interview-with-joshua-ramey/), as an efficient system for “dividuating” the paradigmatic *rights-bearing individual* of classic liberal theory has some profound as well as highly provocative implications for contemporary political thought.  Unlike most current contributors to the expanding corpus of theoretical literature on neoliberalism, Ramey does not simply rework in his own distinctive style the genealogy of “economism” first drafted by Foucault in his lectures during the 1970s at the Collège de France.
+
+Ramey draws our attention to what is perhaps the key conceptual marker that distinguishes neoliberalism from both classical liberalism and present day “libertarianism.”  Whereas these theorists, following Foucault, almost uniformly locate the genesis of neoliberal thinking in the transition from *raison d’etat* to the ubiquity of market rationality, Ramey as a careful student of Deleuze understands that the shift lies decisively in the *logic of differentiation*.
+
+In short, it is not so much the extreme marketization of erstwhile social and political solidarities along with the extraction of capital from the apparatus of collective production, as Marx discerned at the outset of the industrial revolution, that serves as the genotype of this strange, rough beast bestriding the global system of commerce that we term “neoliberalism.”  Rather, it is a crucial transformation in the basic *symbologies* of this system as a whole – an epistemic mutation, as it were – that makes the reigning neoliberal order seem impervious to change.  Margaret Thatcher’s infamous axiom decades back that “there is no alternative” has been handed down to us as a supposedly apodictic truth of latter day political economy that cannot at any level be seriously challenged.
+
+If I may poorly paraphrase Jesus, “markets you will always have with you.”  But it is not market economies per se that spawn the excesses of what is vulgarly called “capitalism” as the modalities and mechanisms for the deployment of whatever excesses might arise from the productive apparatus on the whole.  After all, even state socialism – the prototype of so-called “command economies” – is capable of amassing capital.
+
+The Soviet politburo at the height of Stalinist terror during the 1920s and 1930s technically played barely any different role in exercising its “sovereignty” over the means of production than the gaggle of robber barons wielded over American industry in the late 19^th^ and early 20^th^ centuries.
+
+The issue is not the historical persistence of “capital” per se, nor is it even in a minimal sense a matter of whether we have “capitalism” to some degree amid what is nominally a *communist* structure of governance.  The once unimaginable ascent of China in recent years testifies to the deep flaws in the manufacture of such garden variety ideological constructs as “capitalism” or “socialism” with which we have trafficked for almost two centuries now.
+
+No, the issue comes down to how economic value is measured and distributed in the productive system across the board.
+
+Contrary to popular academic prejudice, Marx’s greatest bequest to political economy was not the notion of “surplus value” (*Mehrwert*), nor was it even his so-called “labor theory of value,” which had already been formulated in sketchy terms by John Locke in the seventeenth century.  Marx’s most telling discovery, as outlined in Part 1 of *Capital*, is the insight that the secret of human exploitation lies in the concept of value, and that the expression of value as a “general equivalent” in accordance with which all other valuations can be gauged requires the development of the “commodity form”.
+
+The commodity amounts to the alchemization of concrete, social labor into what Marx designates as “abstract labor” as the fulcrum for a general wheelworks of the exchange of goods and services.  [Marx writes in *Capital*](https://books.google.com/books?id=xQASAAAAYAAJ&printsec=frontcover&dq=karl+marx+capital+modern+library&hl=en&sa=X&ved=0ahUKEwjbhLvU0M7bAhUENX0KHUvjAL8Q6AEIKTAA#v=onepage&q=karl%20marx%20capital%20modern%20library&f=false) that “the secret of the expression of value, namely, that all kinds of labour are equal and equivalent, because, and so far they are human labour in general, cannot be deciphered, until the notion of human equality has already acquired the fixity of a popular prejudice.” (69)
+
+In other words, it is the fixation of the “equals sign” in the evaluation of what have always historically been socially differentiated, and usually gender-branded, forms of common labor that renders what generically we know nowadays as “capitalism” possible in the first place.  It is not so much the inequality of labor inputs, which has always been a feature in varying measure of all social systems of production since at least the first cockcrow of civilization, but the *mathematizing* of the interconnectivity of inputs which allows for the evolution of a differential politico-economic calculus that reduces real, concrete human labor to ever more refined, manipulable, *de-natured* components.
+
+Just as commercial chicken products, for example, are increasingly derived not from living creatures, but from cells grown in solution, so the differential “labor” of the information age is the result not of the application of hands or even brains, but of “smart systems” powered by algorithms.
+
+Ramey’s process of “dividuation”, which he attributes to neoliberalism as a unique stage of evolution in the history of capitalism, can be traced back to Marx’s own decipherment of the commodity as the embryonic condition for capitalist accumulation.   The commodity, in turn, signifies the concrescence of a long-incubating historical tendency toward a totalizing regime of abstraction, founded on an extreme differential logic, that abolishes what we might describe as the *carnality* – that is, the embodied and interpersonal context – of social production and distribution.
+
+Neoliberalism has merely been responsible for carrying this process to an unprecedented level.  As Bernard Stiegler in his *[For A New Critique of Political Economy](https://books.google.com/books?id=iComJ5J5wAwC&printsec=frontcover&dq=bernard+stiegler+transindividuation&hl=en&sa=X&ved=0ahUKEwjIyM6p2c7bAhUm6oMKHUOOBjUQ6AEIKTAA#v=onepage&q=transindividuation&f=false)* draws to our notice somewhat prophetically, this process began at the outset of civilization itself with the invention of symbol-making technologies, which substitute for raw memory, such as counting and writing, one which he terms *grammatization*.
+
+For Stiegler, grammatization under the guise of what Marx dubbed a “force of production” antedates the industrial era.  It is the essential element in abstract thinking as well as digital computation, which cannot be phenomenally separated from either the clerical maintenance of ledgers or the communicative practices of both political dominion and day-to-day governance.  That is behind Stiegler’s curious remark that “the truth of Plato would…be found in Marx.” (35)
+
+Furthermore, so far as Stiegler is concerned, the “proletarianization” of both work *and* knowledge coincides with the *dissociation* of cognition from the material and perceptual *mise en scène* in which it was originally engendered.   That tendency eventuates in what he calls the “disindividuation” of human beings in the neoliberal era, comparable to Ramey’s *dividuation*, the process whereby “aspects or traits of people…can be separated out from any conception of them as ‘whole persons.’”
+
+The inexorable, self-ensconcing planetary empire of “big data” that relies on ever more sophisticated strategies of micro-surveillance, demographic and psychographic feints of quantification, and algorithmic bundling of ever more precise metrics is what gives “capital” in the neoliberal epoch its power as well as its edge.  In many ways such a process amounts to a return to tribal configurations for the division of labor (as Ramey observes), a re-collectivization that has entirely loss any sort of “totemic” unity or substance.
+
+As Stiegler suggests,  the historical value of the nation-state was its capacity for fostering a *transindividuation* of the human condition through the inscription of universal “rights” deriving from a kind of *soul-making* – i.e., a concretization of reflexive self-knowledge – begun by the ethical revolutions of the axial age.    Such a momentum of transindividuation was heading in the direction of a wider and deeper imaginary of “universal community”, as Kant’s own “cosmopolitan” speculations at the close of the Enlightenment proposed.
+
+Even Marx’s ruthless critique of this visionary sort of political economy as “bourgeois” ideology did not lessen his own passion for a similar thoughtscape, which he and Engels envisioned as an almost apocalyptic possibility in *The Communist Manifesto*.  Indeed, as his far more “numerate” and analytical approach in *Capital* shows, Marx seemed bent on explaining with an almost consummate desperation how the latest stage of what Stiegler calls “grammatization” could easily undo the moral imperative to supplant the earlier bourgeois vision with one compassing the immiserated working class that he had set forth in his youthful writings.
+
+As Stiegler points out, neoliberalism has indeed brought about the true “proleterianization” of even the bourgeois class (recent authors have labelled such a new class the “precariat”) but in a much insidious and well-nigh insuperable fashion than Marx himself could have foreseen.
+
+Ramey’s call for a “divinatory wisdom” that undercuts the powerful *mathesis* of the differential market logic of the neoliberal order is one for which we should all hear the summons.  But first the scales must fall from our eyes and we must acknowledge that such “wisdom” requires that we first acknowledge the current epistemic crisis that almost inconspicuously clamped manacles around us.
+
+*Carl Raschke is [Professor of Religious Studies at the University of Denver](https://www.du.edu/ahss/religiousstudies/facultystaff/raschke.html), specializing in Continental philosophy, art theory, the philosophy of religion and the theory of religion.   He is an internationally known writer and academic, who has authored numerous books and hundreds of articles on topics ranging from postmodernism to popular religion and culture to technology and society.  Recent books include* [Postmodern Theology: A Biopic](https://books.google.com/books?id=AfctDwAAQBAJ&printsec=frontcover&dq=postmodernism+and+the+revolution+in+religious+theory&hl=en&sa=X&ved=0ahUKEwiRkJ-c0q7ZAhVD9mMKHZuwDKMQ6AEILzAB#v=onepage&q=postmodernism%20and%20the%20revolution%20in%20religious%20theory&f=false) *(Cascade Books, 2017)*, [Critical](https://books.google.com/books?id=xeyqDQAAQBAJ&pg=PT158&dq=raschke+critical+theology&hl=en&sa=X&ved=0ahUKEwjlj6Tk0q7ZAhVBEGMKHYebAhgQ6AEIKTAA#v=onepage&q=raschke%20critical%20theology&f=false) [Theology: An Agenda for an Age of Global Crisis](https://books.google.com/books?id=xeyqDQAAQBAJ&pg=PT158&dq=raschke+critical+theology&hl=en&sa=X&ved=0ahUKEwjlj6Tk0q7ZAhVBEGMKHYebAhgQ6AEIKTAA#v=onepage&q=raschke%20critical%20theology&f=false) *(IVP Academic, 2016)*, [Force of God: Political Theology and the Crisis of Liberal Democracy](https://forceofgod.com/) *(Columbia University Press, 2015)* and *[The Revolution in Religious Theory: Toward a Semiotics of the Event](https://books.google.com/books?id=ZjH76Oz1FUgC&printsec=frontcover&dq=postmodernism+and+the+revolution+in+religious+theory&hl=en&sa=X&ved=0ahUKEwiRkJ-c0q7ZAhVD9mMKHZuwDKMQ6AEIKTAA#v=onepage&q=postmodernism%20and%20the%20revolution%20in%20religious%20theory&f=false)* (University of Virginia Press, 2012)*.  He is also Consulting Editor for* The New Polis.

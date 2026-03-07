@@ -1,0 +1,18 @@
+---
+permalink: /sitemap-static.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  {% set baseUrl = metadata.url | baseUrl %}
+  <!-- PDF Documents -->
+  {%- for doc in collections.all %}
+  {%- if doc.url and doc.url.startsWith("/docs/") %}
+  <url>
+    <loc>{{ doc.url | absUrl(baseUrl) }}</loc>
+    <changefreq>never</changefreq>
+    <priority>0.4</priority>
+  </url>
+  {%- endif %}
+  {%- endfor %}
+</urlset>

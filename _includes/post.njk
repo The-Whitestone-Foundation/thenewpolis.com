@@ -1,0 +1,107 @@
+---
+layout: base.njk
+---
+{% include "schema-breadcrumb.njk" %}
+{% include "schema-blog-post.njk" %}
+
+<main class="container my-5">
+    <div class="row justify-content-center">
+        <article class="col-lg-9 post shadow-sm p-4 p-md-5 bg-white border">
+            <nav class="small text-uppercase mb-4 text-muted" style="letter-spacing: 1px;">
+                {%- for crumb in page.date | breadcrumbs(title, metadata) -%}
+                    {% if crumb.url %}
+                        <a href="{{ crumb.url }}" class="text-decoration-none text-muted">{{ crumb.text }}</a>
+                    {% else %}
+                        <span>{{ crumb.text }}</span>
+                    {% endif %}
+                    {%- if not loop.last %} / {% endif -%}
+                {%- endfor -%}
+            </nav>
+            {% if image %}
+            <figure class="post-hero mb-5 mx-n4 mx-md-n5 mt-n4 mt-md-n5">
+                <img src="{{ image }}" alt="{{ title }}" class="img-fluid w-100" style="max-height: 500px; object-fit: cover;">
+            </figure>
+            {% endif %}
+
+            <header class="post-header mb-5">
+                <h1 class="display-5 serif fw-bold mb-3" data-pagefind-meta="title" data-pagefind-weight="10">
+                    {{ title }}
+                </h1>
+                
+                <div class="post-meta d-flex align-items-center py-3 border-top border-bottom">
+                    {% if author %}
+                        <div class="me-auto">
+                            <span class="text-muted small text-uppercase">By</span> 
+                            <a href="/author/{{ author | slugify }}/" class="fw-bold text-dark text-decoration-none small text-uppercase ms-1">
+                                {{ author }}
+                            </a>
+                        </div>
+                    {% endif %}
+                    
+                    <div class="text-muted small text-uppercase ms-3">
+                        <time datetime="{{ page.date | date('yyyy-MM-dd') }}">
+                            {{ page.date | readableDate }}
+                        </time>
+                    </div>
+                </div>
+            </header>
+
+            <div class="post-content serif" style="font-size: 1.15rem; line-height: 1.8;">
+                <heading-anchors>
+                    {{ content | safe }}
+                </heading-anchors>
+            </div>
+
+            {% if tags %}
+            <div class="post-tags mt-5 pt-4 border-top">
+                <span class="small text-muted text-uppercase fw-bold me-2">Filed under:</span>
+                {% for tag in tags %}
+                    {% set tagToken = tag | lower | replace(" ", "") | replace("_", "") | replace("-", "") %}
+                    <a href="/tag/{{ tag | slugify }}/" class="badge bg-light text-dark border text-decoration-none fw-normal me-1 p-2">
+                        #{{ tagToken }}
+                    </a>
+                {% endfor %}
+            </div>
+            {% endif %}
+            <section class="share-box mt-5 p-4 bg-light text-center border">
+                <h5 class="serif fw-bold mb-3">Share this Post</h5>
+                {% set shareUrl = (metadata.url + page.url) | urlencode %}
+                {% set shareText = (title or metadata.title) | urlencode %}
+                <a href="https://shareopenly.org/share/?url={{ shareUrl }}&text={{ shareText }}" 
+                   class="btn btn-dark btn-sm text-uppercase px-4" style="letter-spacing: 1px;">
+                   Share via ShareOpenly
+                </a>
+            </section>
+            {% set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+            {% set nextPost = collections.posts | getNextCollectionItem(page) %}
+            
+            <nav class="post-navigation mt-5 border-top pt-4">
+                <ul class="pagination justify-content-between mb-0">
+                    <li class="page-item {% if not previousPost %}disabled{% endif %}">
+                        {% if previousPost %}
+                        <a class="page-link border-0 bg-transparent text-dark fw-bold" href="{{ previousPost.url }}">
+                            &larr; BACK
+                        </a>
+                        {% else %}
+                        <span class="page-link border-0 bg-transparent text-muted">&larr; BACK</span>
+                        {% endif %}
+                    </li>
+                    
+                    <li class="page-item">
+                        <a href="/blog/" class="page-link border-0 bg-transparent text-dark small text-uppercase fw-bold">Index</a>
+                    </li>
+
+                    <li class="page-item {% if not nextPost %}disabled{% endif %}">
+                        {% if nextPost %}
+                        <a class="page-link border-0 bg-transparent text-dark fw-bold" href="{{ nextPost.url }}">
+                            FORWARD &rarr;
+                        </a>
+                        {% else %}
+                        <span class="page-link border-0 bg-transparent text-muted">FORWARD &rarr;</span>
+                        {% endif %}
+                    </li>
+                </ul>
+            </nav>
+        </article>
+    </div>
+</main>

@@ -1,0 +1,13 @@
+{% if pagination.pages.length > 1 %}
+<nav class="pagination">
+  {% if pagination.href.previous %}
+    <a href="{{ pagination.href.previous }}">← Newer</a>
+  {% endif %}
+
+  <span>Page {{ pagination.pageNumber + 1 }} of {{ pagination.pages.length }}</span>
+
+  {% if pagination.href.next %}
+    <a href="{{ pagination.href.next }}">Older →</a>
+  {% endif %}
+</nav>
+{% endif %}

@@ -1,0 +1,55 @@
+---
+title: Tags Archive
+permalink: /tags/
+layout: page.njk
+---
+
+<div class="text-center mb-5">
+    <p class="lead text-muted">Browse all keywords and topics discussed across the journal.</p>
+</div>
+
+<div class="tag-cloud-alphabetical">
+    {% set alphabet = ['0-9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'] %}
+    {% set allTags = collections.tags | sort %}
+
+    {% for letter in alphabet %}
+        {% set tagsInLetter = [] %}
+        {% for tag in allTags %}
+            {% set firstChar = tag[0] | upper %}
+            {% if letter == '0-9' and firstChar >= '0' and firstChar <= '9' %}
+                {% set tagsInLetter = tagsInLetter.concat([tag]) %}
+            {% elif firstChar == letter %}
+                {% set tagsInLetter = tagsInLetter.concat([tag]) %}
+            {% endif %}
+        {% endfor %}
+
+        {% if tagsInLetter.length > 0 %}
+        <details class="mb-3 border rounded shadow-sm bg-white" {% if loop.first %}open{% endif %}>
+            <summary class="p-3 bg-light d-flex justify-content-between align-items-center" style="cursor: pointer; list-style: none;">
+                <h2 class="h4 fw-bold mb-0 serif">{{ letter }}</h2>
+                <span class="badge bg-dark rounded-pill">{{ tagsInLetter.length }} Tags</span>
+            </summary>
+            
+            <div class="p-4">
+                <div class="row row-cols-2 row-cols-md-3 row-cols-lg-4 g-3">
+                    {% for tag in tagsInLetter %}
+                        {% set tagPosts = collections.posts | filterByTag(tag) %}
+                        <div class="col">
+                            <a href="/tag/{{ tag | slugify }}/" class="text-decoration-none text-dark d-block p-2 rounded hover-light border-start border-3 border-secondary bg-light-subtle">
+                                <span class="fw-bold">{{ tag }}</span>
+                                <span class="text-muted small d-block">{{ tagPosts.length }} articles</span>
+                            </a>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </details>
+        {% endif %}
+    {% endfor %}
+</div>
+
+<style>
+    summary::-webkit-details-marker { display: none; }
+    .hover-light:hover { background-color: #e9ecef !important; transform: translateX(5px); transition: all 0.2s; }
+    .bg-light-subtle { background-color: #f8f9fa; }
+</style>

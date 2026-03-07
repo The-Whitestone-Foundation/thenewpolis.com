@@ -1,0 +1,31 @@
+---
+title: Authors
+layout: base.njk
+permalink: /authors/
+---
+<main class="container my-5">
+    <div class="text-center mb-5">
+        <h1 class="serif fw-bold display-4">Our Contributors</h1>
+        <p class="text-secondary">Scholars and thinkers behind the Journal of Critical Religious Theory</p>
+        <hr class="w-25 mx-auto">
+    </div>
+
+    <div class="row g-4">
+        {% for author in collections.authorPages %}
+        <div class="col-md-4 col-sm-6">
+            <div class="card text-center p-4 h-100 border shadow-sm bg-white transition-hover">
+                <img src="https://ui-avatars.com/api/?name={{ author.name | urlencode }}&size=150&background=000&color=fff" 
+                     class="rounded-circle mb-3 shadow-sm mx-auto" 
+                     width="120" height="120" alt="{{ author.name }}">
+                
+                <h4 class="serif fw-bold mb-1">{{ author.name }}</h4>
+                <p class="small text-muted mb-3 text-uppercase fw-bold" style="letter-spacing: 1px;">Contributor</p>
+                <p class="small text-secondary mb-4">
+                    {{ author.bio | truncate(100) or "Contributor to The New Polis." }}
+                </p>
+                <a href="{{ author.url }}" class="btn btn-outline-dark btn-sm px-4 stretched-link">View Profile</a>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</main>

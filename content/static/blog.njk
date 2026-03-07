@@ -1,0 +1,116 @@
+---
+title: Blog
+layout: base.njk
+permalink: "/blog/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
+pagination:
+  data: collections.posts
+  size: 10
+  alias: posts
+---
+<main class="container my-5">
+    <div class="text-center mb-5">
+        <h1 class="display-4 serif fw-bold">{{ title }}</h1>
+        <p class="text-muted">Complete listing of all <strong>{{ collections.posts | length }}</strong> posts from The New Polis.</p>
+        <hr class="w-25 mx-auto">
+    </div>
+
+    {% if pagination.pageNumber == 0 %}
+        {% set latestPost = posts[0] %}
+        <section class="latest-featured row g-0 mb-5 shadow-sm border bg-white">
+            <div class="col-md-7 featured-img-half" 
+                 style="background-image: url('{{ latestPost.data.image or metadata.url }}'); min-height: 400px; background-size: cover; background-position: center;">
+            </div>
+            <div class="col-md-5 p-4 p-lg-5 d-flex flex-column justify-content-center">
+                <span class="text-uppercase text-primary small fw-bold mb-2">Latest Article</span>
+                <h2 class="serif fw-bold mb-3">
+                    <a href="{{ latestPost.url }}" class="text-decoration-none text-dark">{{ latestPost.data.title }}</a>
+                </h2>
+                <p class="text-secondary mb-4 small">
+                    {{ latestPost.data.description | truncate(150) or "Read our latest publication on critical theory and political theology." }}
+                </p>
+                <div class="author-box d-flex align-items-center mb-3">
+                    <img src="https://ui-avatars.com/api/?name={{ latestPost.data.author | urlencode }}&background=000&color=fff" class="rounded-circle me-2" width="35" alt="Author">
+                    <span class="small text-muted">By <strong>{{ latestPost.data.author }}</strong> &middot; {{ latestPost.date | readableDate }}</span>
+                </div>
+                <a href="{{ latestPost.url }}" class="btn btn-dark btn-sm w-50">Read More</a>
+            </div>
+        </section>
+    {% endif %}
+
+<div class="row g-4">
+    {% set currentPosts = posts.slice(1) if pagination.pageNumber == 0 else posts %}
+    
+    {% for post in currentPosts %}
+    <div class="col-md-6 col-lg-4">
+        <div class="card h-100 border-0 shadow-sm bg-white transition-hover">
+            <div class="card-img-container" style="height: 200px; overflow: hidden;">
+                <img src="{{ post.data.image or '/img/jcrt.jpg' }}" 
+                     class="card-img-top w-100 h-100" 
+                     alt="{{ post.data.title }}" 
+                     loading="lazy" 
+                     style="object-fit: cover; transition: transform 0.5s ease;">
+            </div>
+
+            <div class="card-body p-4 d-flex flex-column">
+                {% if post.data.tags %}
+                <span class="text-primary small fw-bold text-uppercase mb-2" style="font-size: 0.75rem; letter-spacing: 1px;">
+                    {{ post.data.tags[0] }}
+                </span>
+                {% endif %}
+                <h5 class="card-title serif fw-bold mb-3">
+                    <a href="{{ post.url }}" class="text-decoration-none text-dark stretched-link">
+                        {{ post.data.title }}
+                    </a>
+                </h5>
+               <p class="card-text small text-muted mb-4" style="display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;">
+                    {{ post.data.description or post.templateContent | striptags | truncate(120) }}
+                </p>
+                <div class="mt-auto pt-3 border-top">
+                    <div class="d-flex align-items-center justify-content-between">
+                        <small class="text-muted">
+                            <i class="fa-regular fa-calendar-alt me-1"></i> {{ post.date | readableDate }}
+                        </small>
+                        {% if post.data.author %}
+                        <small class="text-dark fw-bold" style="font-size: 0.75rem;">
+                            {{ post.data.author }}
+                        </small>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<style>
+    .transition-hover { transition: transform 0.3s ease, box-shadow 0.3s ease; }
+    .transition-hover:hover { transform: translateY(-5px); box-shadow: 0 10px 20px rgba(0,0,0,0.1) !important; }
+    .transition-hover:hover img { transform: scale(1.1); }
+</style>
+
+   <nav class="mt-5 pt-4 border-top">
+        <ul class="pagination justify-content-center align-items-center">
+            <li class="page-item {% if not pagination.href.previous %}disabled{% endif %}">
+                <a class="page-link border-0 text-dark fw-bold" href="{{ pagination.href.previous or '#' }}">&larr;</a>
+            </li>
+
+            {%- for pageEntry in pagination.pages %}
+                {% set offset = (pagination.pageNumber - loop.index0) | abs %}
+                {% if loop.first or loop.last or offset <= 1 %}
+                    <li class="page-item {% if pagination.pageNumber == loop.index0 %}active{% endif %}">
+                        <a class="page-link {% if pagination.pageNumber == loop.index0 %}bg-dark border-dark text-white{% else %}text-dark border-0 bg-transparent{% endif %}" href="{{ pagination.hrefs[loop.index0] }}">
+                            {{ loop.index }}
+                        </a>
+                    </li>
+                {% elif offset == 2 %}
+                    <li class="page-item disabled"><span class="page-link border-0 bg-transparent text-muted">...</span></li>
+                {% endif %}
+            {%- endfor %}
+
+            <li class="page-item {% if not pagination.href.next %}disabled{% endif %}">
+                <a class="page-link border-0 text-dark fw-bold" href="{{ pagination.href.next or '#' }}">&rarr;</a>
+            </li>
+        </ul>
+    </nav>
+</main>

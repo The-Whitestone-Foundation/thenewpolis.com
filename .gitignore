@@ -1,0 +1,9 @@
+_site/
+node_modules/
+scripts/
+.DS_Store
+*.log
+.env
+*.sh
+instructions.md
+RAW/

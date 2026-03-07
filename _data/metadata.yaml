@@ -1,0 +1,36 @@
+title: THE NEW POLIS
+description: CRITICAL THEORY | SOCIAL ANALYSIS | POLITICAL PHILOSOPHY AND THEOLOGY
+image: /images/jcrt-hero.webp
+language: "en"
+locale: "en_US"
+favicon: /images/jcrt-hero.webp
+url: https://localhost:8080
+email: hello@domain.com
+
+metasocial: 
+  twitter: "https://x.com/user"
+  tweettwitteruser: "@user"
+  facebook: "https://fb.com/user"
+
+hero: 
+  title: THE NEW POLIS
+  description: CRITICAL THEORY | SOCIAL ANALYSIS | POLITICAL PHILOSOPHY AND THEOLOGY
+  image1: /images/city.webp
+  image2: /images/jcrt-hero.webp
+
+navbar: 
+ - title: Home
+   url: /
+ - title: About
+   url: /
+ - title: Journal
+   url: /
+ - title: Editors
+   url: /
+ - title: Submissions
+   url: /
+
+footer: 
+  text: "© Copyright The Whitestone Foundation dba The New Polis 2018-2021. All Rights Reserved."
+  info: "A WHITESTONE PUBLICATION"
+

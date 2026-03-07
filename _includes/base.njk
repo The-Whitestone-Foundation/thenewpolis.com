@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+{% include "partials/seo.njk" %}
+</head>
+<body>
+  {% include "partials/header.njk" %}
+  <heading-anchors>
+    <main>
+      {{ content | safe }}
+    </main>
+  </heading-anchors>
+{% include "partials/footer.njk" %}
+<script src="/js/bs.js"></script>
+  <script type="module" src="/js/heading-anchors.js"></script>
+</body>
+</html>

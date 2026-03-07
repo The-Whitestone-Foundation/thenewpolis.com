@@ -1,0 +1,118 @@
+---
+title: "De(ma)cracy, Part 2 (Philipp Quell"
+date: 2023-05-11T04:25:54+00:00
+author: thenewpolis
+permalink: /2023/05/11/demacracy-part-2-philipp-quell/
+image: /images/wp-content/uploads/2023/07/1_j8opW0GAgRowiWp4M0adWA.webp
+
+categories:
+  - "Political Philosophy"
+tags:
+  - "Claude Lefort"
+  - "Climanen"
+  - "Elias Canetti"
+  - "Felix Guattari"
+  - "Gilles Deleuze"
+  - "Jacques Ranciere"
+  - "Plato"
+---
+
+*The following is the second of a three-part series. The first can be found [here](/04/28/demacracy-part-1-philipp-quell/). The article originally appeared in* [The Journal for Cultural and Religious Theory *22:1*](https://www.jcrt.org/archives/22.1/), and was originally in German.
+
+We must admit that this distinction between imaginary and biological is primarily heuristic (or maeutic?) with the aim to ground our differentiation between power and potential. Potential describes an organism´s ability of transformative interaction with its milieu (plasticity of the organism) which is articulated by a specific affinity for some connections, and in case of an actual connection, its transformative and complex progression in the organism. But only with the ability of self-interpretation (*Entwurf*) there evolves the imaginary dimension of being matter, and as a result there unfolds a field of power (*Macht*).[^1]                                                                
+
+Reasonably, we applied the term “being matter” by accident. With the idea of the nervous system as a plastic structure we found the dimension of world-creation. Consequently, power and world are not just emotions. They also have a structural or dynamic side. By means of the idea we want to come back to the expression of “natural drift.” We recall that Maturana and Varela describe the phylogenetic differentiation of lineage as a natural drift. The actual differentiation of a species is a product of a multitude of organic touches that results in new capacities becoming matter.                                                                                            
+
+The idea of a curvilinear development through infinitesimal differentiations is no revolution. Already the atomists, especially Lucretius, argued that beside the atoms and the emptiness a third element was necessary for the becoming of a planet and a world. They called this *clinamen* and defined it as the infinitesimal change of the straight atom trajectory which leads to the connection of atoms and then onto the building of more complex structures such as molecules, a planet, and organisms.  The crucial difference between the idea of *clinamen* and what is usually called coincidence, such as the predictability of the result when throwing a dice, is described by Deleuze and Guattari as the difference between a static (hylomorphic) model of structures and a hydraulic model. [^2]In a model of solid structures or formed matter there is no room for any drift or differentiation. If there occurs such a drift, the scientific representation of the entity must be insufficient. But in the idea of strata being in a permanent (hydraulic) flux of matter through the chronic repetition of expression and impression, the drift is a necessary consequence. “\[T\]he atom of the ancients, from Democritus to Lucretius, has always been \[sic!\] inseparable from hydraulics or a generalized theory of swells and flows.”[^3]       
+
+According to these insights, vague matter is what we call the bodies of meta-cellular living beings. The boundary of the structure can be as exact as we like; if we look at it through a hydraulic, floating lens, we perceive a specific structure only as an instance of a permanent path of syntheses. So, Deleuze and Guattari define the term “vague” by two criteria. First, “it is inseparable from passages to the limit as changes of state, from the process of deformation or transformation that operate in a space-time itself anexact[^4]”.  Second, these passages always come along with “expressive and intensive qualities, which can be higher or lower in degree and are produced in the manner of variable effects”.                                
+
+It is probably helpful to identify Maturana´s and Varela´s concept of “organization” with the passage on the limit, and their version of the “structure” as stratum with expressive and intensive qualities that imply a *νομος* of the self (*αυτο*), and therefore (in accordance with Derrida´s previously mentioned idea) give grounds for experience at all.[^5] Consequently, vague matter is necessary but it is not a sufficient condition for a stance of language.
+
+\*\*\*
+
+Building on that notion of vague matter creating itself in a manifoldness, as well as the autopoiesis being the way in which the manifold becomes matter which leads to more complex structures, we will create with reference to *Crowds and Power* a second perspective on the matter. This is only possible with complexed, stratified, vague matter where the dimension of power and the imaginary are already unfolded. For Canetti, crowds are modern phenomena. Although he also discusses examples from the Egyptian or Roman Empires,[^6] he focuses in the course of the text, on crowds “in the modern sense of the word”.[^7] We have always touched this “modern sense” by attributing both an archeological force to *Crowds and Power* and a lack of complexity to the French and German conceptualizations.                                                             
+
+Canetti´s own conceptualization[^8] starts with an anthropological model for which the so called “touch of the unknown”[^9] is the behavior dominating force. The whole segmentation of the human world is grounded in this fear. Everywhere there dominates the desire of taking a distance between oneself and the other: by the arrangement of houses and flats, in restaurants, and in public transport. “Even where we are standing next to \[each other\] and are able to watch and examine \[the other\] closely, we avoid contact if we can.”[^10] But in crowds this fear vanishes. “Suddenly it is as though everything were happening in one and the same body”.[^11] It can never be close enough.
+
+There is “equality. This is absolute and indisputable and never questioned by the crowd itself. A head is a head, an arm is an arm, differences \[…\] are irrelevant.”[^12] This crowd-body is dominated by a desire to grow and the necessity of a direction. “This direction, which is common to all its members, strengthens the feeling of equality.” [^13] These four characteristics (equality, density, growth, and direction) define the crowd as one being with many heads, many arms, and many legs. By the emergence of crowds, human beings are no longer individuals in the sense of being oneself.                                                                               
+
+This transformation is not the work of a *deus ex machina.* The origin of the crowd is found in an older unity – the “pack”.[^14] Like crowds, packs existed within fixed borders. They consisted of only a few, and if the pack grew, it did not so by discrete quanta and “in mutual agreement of the participants. \[…\] Density within the pack is always an illusion. Men may press closely together and enact a multitude in traditional rhythmic movements, but they are not a multitude; they are a few, and have to make up in intensity what they lack in actual members.”[^15] Canetti argues that the idea and term “pack” (in the German etymology) is rooted in the Latin word “movita” and means “movement”.[^16]              
+
+For a movement to be a movement and not only an unspecific velocity, however, a reference system is also needed. For a pack, a normative order with a consensual set of rules and positions is crucial. Only then we can think of a “mutual agreement of the participants” in case of growth by discrete quanta. Due to habits, norms, and hierarchies, or in short, a social taxonomy, the ground for the movement of a pack is given. Nevertheless, the living members are needed for taxonomy to be taxonomy.                                                  
+
+Mutual agreement must not be understood as approval, but rather, affirmation through participation in general. The role a participant plays is constitutive for the pack, but participation in this sense also includes participants having a place in this pack. With their share of the pack, their self extends in the role of the pack. At the same time Canetti paradoxically notes that the participants stop “at its edge”.[^17] The participants remain an involved share. They are ecstatic. They stand through the share of involvement, out of their consolidated selves, but they can deal with this. They do not get absorbed and become new beings. Consequently, in this tension of extension and adherence, one could say in this stretching of oneself that contrary to a crowd the pack is a non-transformative transformation.                                           
+
+In a way, this implies something like an elastic self, and with that we touch the border of the self itself, because what after all stays with an elastic self? Which quality can we attribute? An elastic container like *χωρα* in Plato´s *Timaios*? In the end can we only say, “The identity is identical”? What sounds like a commonplace tautology in the most banal way could be rephrased in the words of the beginning of our text: The identity of the self is the possibility of anything to become something. We are confronted with questions of difference and differentiation, of being as becoming. We also touched it with the distinction between the hylomorphic and the hydraulic. But a real elaboration on that must be postponed to another text.                                                           
+
+Nonetheless, we want to stick to the differentiation. A pack is a movement on the verge. It is a turbulence in the threshold between individuals that does not lead to total trans-substantiation. It does not lead to a process *of trans-essenceiation*, a process of denoting themselves as a group. On the contrary, the crowd is exactly this kind of trans-substantiation where every denotation withdraws except total equality, the bare identity itself.                                                    
+
+We can state contemporarily: Participation is a phenomenon with two mechanisms which are entangled with each other. Constitutive participation and the extension of the self, due to being a participant. It is a process – and we should not get tired with insisting in that processual character – of subjectification, with every actual subjectification stabilizing the dispositive where it happens. Consequently, the pack requires its own taxonomy, including certain consolidated structures of power.                                                                    
+
+Like every quantity requires quantization and like every meaning needs a consolidated segmentation of a manifoldness (to count to ten I need the molar unity of “1”), the “growth by concrete quanta” requires a territorial segmentation of vague matter (individuals). As we have already elaborated, individuals as vague masses of matter are in a process of permanent de-construction, oscillating between expression and impression. As such, segmentation is crucial for vague matter. It even acts in a material-performative manner because it tunes the ability for future becoming. But this should not give the impression of an a priori segmentation. Every thought that wants to identify the foundation between the duality of movement and unity will eventually vanish in a fog line of the ether. (Will *this* prognosis always be true?)
+
+However, crowds are affected by this performativity in a different way. According to Canetti, the “discharge”[^18] leads to trans-substantiation, to the formation of a singular being synthesizing the plural individuals. The movement of the pack loses its unity. The quantity of the movement reaches a quantity that changes the quality and thus quantization. It is a transition of the social taxonomy. A crowd emerges. Values, order schemes, or hierarchies of the taxonomy are not only questioned but are overridden or even rolled over. Certainly, they are overruled.       
+
+Every social taxonomy is only preserved through affirmation, or a permanent reproduction of positions and practices. These reproductions are no simple repetition. They are no *re*productions, but a persistent investment of energy. In short, they are re*productions*. (Again, we can see the duality connected to the idea of participation: Through participation, the participant is produced as a participant via integration by way of repeating the scheme of a social taxonomy. But all in the same this integration is a kind of affirmation that is necessary for the preservation of the social taxonomy.) Rancière therefore distinguishes between police and politics. Police is the institutionalized force that ensures the *re*production of an specific “configuration of the perceptible in which one or the other is inscribed”.[^19]
+
+The political, on the contrary, questions the extinctions and injustices of this configuration which are integrated in every social taxonomy. It does so in a passive-performative way because they give grounds for an accumulation of sorrow in parts of society.[^20] Rancière himself subsumes sorrow under the formula of the part without a share. Or to put it more politically, the part that has no place. These parts are without a voice (le part de sans-part)[^21], which means in our terminology they are the content of a social taxonomy but have no possibility of expression. In short, they are no stratum but a sub-stratum.
+
+Only through transversal differentiations of perception and language is re*production* possible, which enables these parts without a voice to participate. Only by transgressing the social taxonomy´s configuration there opens the possibility to raise the voice for those parts which had no voice before. Otherwise, the “dispute to do with the counting of the community’s parts” is postponed, and meanwhile the current configuration stays as.[^22] One example of such a transgression would be the emergence of modern crowds in the Canettian sense. Because of this we will call them political matter from now on.                                                                                  
+
+With reference to Lefort, we can see an interesting aspect. He states, as we remember, that substance is substituted by quantity, but the unleashed quantity (the transgression from pack to political matter) could vice versa affect the quality and therefore transform the quantization. Packs as structures of vague matter (individuals), with its characteristics of *re*production and re*production,* differs crucially from political matter. There is a hiatus between them. In the following section we will investigate this hiatus closer. Due to the external conditions of this text, we will make use of some already existing elaborations by scholars that could be situated in the tradition of radical democracy theory.
+
+\*\*\* Recall that starting out with Maturana and Varela we elaborated the notion of vague matter which, linked to the opening of the possibility of self-interpretation and in close correspondence with sensibility (sensibility), actualizes a differentiation between power and potency. However, today we owe a further relational analysis of these two aspects. In order to bring together the level of the social, the social taxonomy, and the level of the organisms, a closer look at the relationality of (biological) potency and (social) power is needed. After all, both are part of a democracy: communalized individuals ruling communally. Before we have a closer look at the connections, it must be emphasized that the point is not to uncover a first cause (*αρχη*) or a society before the individual, or an individual before the society. Rather, any analysis of this kind must look at an original dichotomy of individual and community.                                      
+
+Already when we worked out the three stages of the genesis of the organic, we started with one, but this one was a multiplicity, a manifoldness. By this manifoldness the vague matter becomes concrete, as a specific entanglement of potencies. The potency of the molecular actualizes by the potency of the cell, the potency of the cell actualizes by the structure of cells (metacellularity), and the potency of metacellularity actualizes by the potency of sensibility. The actualization of a potency is the *potentialization* of a potency, not an actualization of a consolidated being. This is no contradiction but describes the materiality of being from the point of view of becoming.                                                      
+
+We want to call this the first aspect of an *immanence-manifoldness*. By the consolidation of organizations, according to this first aspect, a certain spectrum of potentiality remains coexistent. The *potentialization* of a potency, which is itself present as an organization in the *immanent manifoldness*, has in its structural constitution both an actuality (form of content) and a potentiality (possibility of expression). (Each molecule has a specific arrangement in space, a distribution of densities, etc., which in principle (potentially) allow for certain connections). Every potency is actual potentiality. Each potentiality is an actualization of potentially possible connections. Not into a final organizational structure, but again into a new structural configuration that has both actuality (form of content) and potentiality (possibility of expression). 
+
+*Philipp Quell is a graduate student in philosophy at the University of Vienna.*
+
+## Footnotes
+
+[^1]: We want to emphasize at this point: This is not the articulation of a hierarchy of animals or an evolutive taxonomy but just a differentiation by means of the analysis of matter. This is why we insist in heuristics instead of ontology.
+
+[^2]:  Gilles Deleuze and Felix Guattari. 1993, *Tausend Plateaus. Kapitalismus und Schizophrenie* (Berlin: Merve, 1993), 489.
+
+[^3]: Ibid.
+
+[^4]: Ibid., 407. “Anexact” refers to concepts in Husserl´s writings. In this context the notion of “anexact” stands for a conception of time and space, that has no reference system. Thus, the criteria “exact” is not applicable at all, because exactness always has to refer to a value or reference system. In former passages Deleuze and Guattari formulate the distinction between molecular and molar. If there is no molarity no dominant order could be found. (ibid., 3).
+
+[^5]: Op. cit., Maturana et. al., 47.
+
+[^6]:  Elias Canetti, *Die Provinzen des Menschen* (Frankfurt am Main: Fischer, 1986),
+
+24, 74.
+
+[^7]: Ibid., 112.
+
+[^8]: It would be another topic if this work of Canetti\`s could be determined as a concept at all. But this must be discussed elsewhere. Like in our comparison of the hylomorphic and the hydraulic perspective on entities, the question becomes crucial if the objects or phenomena we analyze are considered static or dynamic.
+
+[^9]: Ibid., 7. The translation of “Berührungsfurcht” (Elias Canetti 2021, 13) as fear of “the touch of the unknown” somewhat misses one crucial aspect. If we stay very precise, Canetti does not only talk about the touch of the unknown but about touch in general. Of course, one could argue that touch per se is the touch of another body and therefor it is in some way unknown. However, this presupposes one´s own body to be itself fully known, but I think what Canetti makes possible to discuss by “Berührungsfurcht” is a kind of alienation that occurs with every touch. Even by touching myself, the sensation that arises with myself is somewhat unknown. (And this bodily metaphor may also be transferred to the level of epistemology.) This general characteristic of touch is differentiated if we can touch the “known” and the “unknown”.
+
+[^10]: Ibid.
+
+[^11]: Ibid., 14.
+
+[^12]: Ibid., 26.
+
+[^13]: Ibid.
+
+[^14]: Ibid. 111.At this point it is important to emphasize the many layers in *Crowds and Power*, which by working together and influencing each other create this unique perspective on crowds. But due to this structure there is no presentation of a clear theory you will find by opening the book. But this is no flaw but the opposite. The richness of layers does not lead to incoherence, but in accordance with Canetti, who understands social phenomena as being plurally interpretable, there are many aspects that are entangled, and depending on which aspect you follow, you will find different functions at work. So, in reading *Crowds and Power* you will also have to ask yourself: “From which angle do I want to look at crowds?” Consequently, in a certain sense Canetti´s text is a crowd itself or at least a pack that is very context- or rather angle-sensitive.
+
+[^15]: Ibid.
+
+[^16]: Ibid. 154.
+
+[^17]: Ibid., 111.
+
+[^18]: Ibid., 7.
+
+[^19]: Jacques Rancière, *Disagreement* *: Politics and Philosophy* (Minneapolis, Minn.: University of Minnesota Press, 2008),  29.
+
+[^20]: Ibid. 28.
+
+[^21]: The translation „part without a voice” is quite vast, closer would be “part of those who have no part”, as is the English version. But this translation and its transported meaning does not really work in the English language because all these formulations in the form “no x” are quite characteristic for French thought. This goes back to the Greek differentiation between *μη* and *ουκ*. While *μη* is the negation in relation (A child is not an adult but has the potential to become one), *ουκ* means nothingness or, in more abstract terms, contradiction (A child is not a stone and will in its being as such never become one.) The “no x” here refers to the transition from *μη* and *ουκ* and so deconstructs the metaphysic common sense, which in turn has always a political component. In our example this would mean to deconstruct the child as a consolidated, isolated entity, which in the wider sense is what we try to do here. Those being interested in more details, especially on that deconstruction of agency, are referred to the work of Jane Bennett *Vibrant Matter* (Durham NC: Duke University Press, 2010).
+
+[^22]: Ibid., 8ff. Rancier´s notion will be very complex in a more detailed investigation. For him this “mass of men” in the foundation of the *δημος**,* who “identify with the community in the name of the wrong by those whose position or qualities have the natural effect of propelling them into the nonexistence” (Ibid., 8) strongly focuses on the ancient development of the *πολις*. These city states emerged out of a social taxonomy of only a few men being legitimized to be possible citizens. Slaves, women, etc. were not included without any discussion. There was an absolutely different understanding of equality. So, equality was always understood as equality among the aristocratic stratum. Ranciere handles modern societies in the same manner, ignoring fundamental changes of possible equals. This could and should be discussed in a critical way. However, crucial for his analysis is the “wrong” out of which the *δημος* emerges. Meaning the idea of equality is always emerging out of a contingent and particular scope of hierarchy that claims to be universal. “Why is a river no legal person or a tree?” one could ask and this questions, like in the footnote before, the general hypothesis of distinctive, separable persons.

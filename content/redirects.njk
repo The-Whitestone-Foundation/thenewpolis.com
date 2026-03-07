@@ -1,0 +1,41 @@
+---
+permalink: /_redirects
+---
+# Uploads: documents
+/wp-content/uploads/*.pdf  /docs/wp-content/uploads/:splat  301
+/wp-content/uploads/*.doc  /docs/wp-content/uploads/:splat  301
+/wp-content/uploads/*.docx /docs/wp-content/uploads/:splat  301
+/wp-content/uploads/*.ppt  /docs/wp-content/uploads/:splat  301
+/wp-content/uploads/*.pptx /docs/wp-content/uploads/:splat  301
+/wp-content/uploads/*.xls  /docs/wp-content/uploads/:splat  301
+/wp-content/uploads/*.xlsx /docs/wp-content/uploads/:splat  301
+/wp-content/uploads/*.txt  /docs/wp-content/uploads/:splat  301
+/wp-content/uploads/*.rtf  /docs/wp-content/uploads/:splat  301
+/wp-content/uploads/*.csv  /docs/wp-content/uploads/:splat  301
+/wp-content/uploads/*.zip  /docs/wp-content/uploads/:splat  301
+
+# Uploads: images (fallback)
+/wp-content/uploads/*      /images/wp-content/uploads/:splat 301
+
+# Removed non-upload asset paths from WP
+/wp-content/plugins/* / 410
+/wp-content/themes/*  / 410
+/wp-includes/*        / 410
+/themes/*             / 410
+
+{% for item in collections.all %}
+  {% if item.data.redirect_from %}
+    {% set froms = item.data.redirect_from %}
+    {% if froms is string %}{% set froms = [froms] %}{% endif %}
+    {% for from in froms %}
+{{ from }} {{ item.url }} 301
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+# Auto-generated redirects for moved assets
+/docs/docs/Bios.pdf /docs/Bios.pdf 301
+/docs/docs/Abstracts.pdf /docs/Abstracts.pdf 301
+/docs/docs/Reading_List.pdf /docs/Reading_List.pdf 301
+/docs/docs/PRRI-Jan-2023-Christian-Nationalism-Final.pdf /docs/PRRI-Jan-2023-Christian-Nationalism-Final.pdf 301
+/images/wp-content/uploads/2018/03/Unknown-2.jpeg /images/wp-content/uploads/2019/06/Unknown-2.jpeg 301

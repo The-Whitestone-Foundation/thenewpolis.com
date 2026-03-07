@@ -1,0 +1,164 @@
+backend:
+  name: github
+  repo: adamdjbrett/thenewpolis
+  branch: main
+  base_url: https://jcrt-auth.adam.workers.dev
+  auth_endpoint: auth
+  local_backend: true
+  
+
+media_folder: "public/images"
+public_folder: "/images"
+
+collections:
+  - name: "settings"
+    label: "Settings"
+    delete: false
+    editor:
+      preview: false
+    files:
+      - name: "metadata"
+        label: "Site Metadata"
+        file: "_data/metadata.yaml"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "text" }
+          - { label: "Site Image", name: "image", widget: "image" }
+          - { label: "Language", name: "language", widget: "string" }
+          - { label: "Locale", name: "locale", widget: "string" }
+          - { label: "Favicon", name: "favicon", widget: "image" }
+          - { label: "Site URL", name: "url", widget: "string" }
+          - { label: "Contact Email", name: "email", widget: "string" }
+          - label: "Social Media"
+            name: "metasocial"
+            widget: "object"
+            fields:
+              - { label: "Twitter URL", name: "twitter", widget: "string" }
+              - { label: "Twitter Username", name: "tweettwitteruser", widget: "string" }
+              - { label: "Facebook URL", name: "facebook", widget: "string" }
+          - label: "Hero Section"
+            name: "hero"
+            widget: "object"
+            fields:
+              - { label: "Hero Info", name: "info", widget: "string" }
+              - { label: "Hero Info Image", name: "info_image", widget: "image" }
+              - { label: "Hero Title", name: "title", widget: "string" }
+              - { label: "Hero Description", name: "description", widget: "text" }
+              - { label: "Hero Image 1", name: "image1", widget: "image" }
+              - { label: "Hero Image 2", name: "image2", widget: "image" }
+          - label: "Navbar Links"
+            name: "navbar"
+            widget: "list"
+            fields:
+              - { label: "Link Title", name: "title", widget: "string" }
+              - { label: "URL", name: "url", widget: "string" }
+          - label: "Footer Settings"
+            name: "footer"
+            widget: "object"
+            fields:
+              - { label: "Copyright Text", name: "text", widget: "string" }
+              - { label: "Footer Info", name: "info", widget: "string" }
+  
+  - name: "pages"
+    label: "Pages"
+    folder: "content/pages"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Permalink", name: "permalink", widget: "string" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page.njk" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "static"
+    label: "Static Content (Contact)"
+    create: false
+    files:
+      - name: "contact"
+        label: "Contact Page"
+        file: "content/static/contact.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - label: "Contact Section"
+            name: "contact"
+            widget: "object"
+            fields:
+              - { label: "Section Title", name: "title", widget: "string" }
+              - { label: "Section Description", name: "text", widget: "text" }
+          - label: "Office Address"
+            name: "address"
+            widget: "object"
+            fields:
+              - { label: "Address Title", name: "title", widget: "string" }
+              - label: "Address Lines"
+                name: "text"
+                widget: "list"
+                summary: "{{fields.info}}"
+                fields:
+          - { label: "Info", name: "info", widget: "string" }
+          - { label: "GitHub Username", name: "github", widget: "string" }
+          - { label: "Email", name: "email", widget: "string" }
+
+  - name: "authors"
+    label: "Authors Data"
+    files: 
+      - name: "authors_list"
+        label: "Authors Management"
+        file: "_data/authors.json"
+        fields:
+          - label: "Authors List"
+            name: "authors"
+            widget: "object"
+            fields:
+              - label: "The New Polis"
+                name: "thenewpolis"
+                widget: "object"
+                fields:
+                  - { label: "Name", name: "name", widget: "string" }
+                  - { label: "Bio", name: "bio", widget: "text" }
+              - label: "Editors"
+                name: "editors"
+                widget: "object"
+                fields:
+                  - { label: "Name", name: "name", widget: "string" }
+                  - { label: "Bio", name: "bio", widget: "text" }
+              - label: "Carl Raschke"
+                name: "carl-raschke"
+                widget: "object"
+                fields:
+                  - { label: "Name", name: "name", widget: "string" }
+                  - { label: "Bio", name: "bio", widget: "text" }
+              - label: "Roger Green"
+                name: "roger-green"
+                widget: "object"
+                fields:
+                  - { label: "Name", name: "name", widget: "string" }
+                  - { label: "Bio", name: "bio", widget: "text" }
+
+  - name: "posts"
+    label: "Articles"
+    folder: "content/posts"
+    create: true
+    slug: "{{ year }}-{{ month }}-{{ day }}-{{ slug }}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Author", name: "author", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Cover Image", name: "image", widget: "image", required: false }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Categories", name: "categories", widget: "list" }
+      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "conferences"
+    label: "Conferences"
+    folder: "content/conferences"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Permalink", name: "permalink", widget: "string" }
+      - { label: "Redirect Form", name: "redirect_from", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }

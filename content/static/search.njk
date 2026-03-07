@@ -1,0 +1,41 @@
+---
+title: Search
+permalink: /search/
+layout: page.njk
+---
+
+<div class="search-container py-4">
+    <p class="text-muted text-center mb-4">Search articles, authors, and academic conferences across the journal.</p>
+    
+    <div id="search" class="min-vh-50"></div>
+</div>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+
+<script>
+    window.addEventListener("DOMContentLoaded", (event) => {
+        new PagefindUI({ 
+            element: "#search", 
+            showImages: true,
+            translations: {
+                placeholder: "Type keywords (e.g. Critical Theory, Religion...)"
+            }
+        });
+    });
+</script>
+
+<style>
+    :root {
+        --pagefind-ui-primary: #000000;
+        --pagefind-ui-text: #333333;
+        --pagefind-ui-background: #ffffff;
+        --pagefind-ui-border: #dee2e6;
+        --pagefind-ui-font: 'Georgia', serif;
+    }
+    #search .pagefind-ui__result-link {
+        color: #800000; /* Maroon khas jurnal */
+        text-decoration: none;
+        font-weight: bold;
+    }
+</style>

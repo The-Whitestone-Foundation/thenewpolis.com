@@ -1,0 +1,47 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # Remove .html extension
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^(.*)\.html$ /$1 [R=301,L]
+
+  # Redirect old WordPress image paths to new location
+  RewriteRule ^wp-content/uploads/(.*)$ /images/$1 [R=301,L]
+
+  # Redirect old abstracts to docs
+  RewriteRule ^abstracts/(.*)$ /docs/$1 [R=301,L]
+
+  # Block access to WordPress directories
+  RewriteRule ^wp-admin$ / [R=301,L]
+  RewriteRule ^wp-login$ / [R=301,L]
+  RewriteRule ^xmlrpc\.php$ / [R=301,L]
+
+  # Redirect old feed URLs
+  RewriteRule ^feed/?$ /feed/feed.xml [R=301,L]
+  RewriteRule ^feed\.xml$ /feed/feed.xml [R=301,L]
+  RewriteRule ^rss\.xml$ /feed/feed.rss [R=301,L]
+</IfModule>
+
+# Caching headers
+<FilesMatch "\.(jpg|jpeg|png|gif|webp|svg|ico)$">
+  Header set Cache-Control "max-age=31536000, public"
+</FilesMatch>
+
+<FilesMatch "\.(pdf|docx|xlsx)$">
+  Header set Cache-Control "max-age=604800, public"
+</FilesMatch>
+
+<FilesMatch "\.(css|js)$">
+  Header set Cache-Control "max-age=2592000, public"
+</FilesMatch>
+
+<FilesMatch "\.html$">
+  Header set Cache-Control "max-age=86400, public"
+</FilesMatch>
+
+# XML files
+<FilesMatch "\.xml$">
+  Header set Cache-Control "max-age=3600, public"
+</FilesMatch>

@@ -24,7 +24,7 @@ navbar:
  - title: About
    url: /
  - title: Journal
-   url: /
+   url: https://journal.thenewpolis.com
  - title: Editors
    url: /
  - title: Submissions

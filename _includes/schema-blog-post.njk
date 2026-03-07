@@ -1,4 +1,5 @@
 <script type="application/ld+json">
+{% set baseUrl = metadata.url | baseUrl %}
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
@@ -13,11 +14,11 @@
   "publisher": {
     "@type": "Organization",
     "name": "{{ metadata.title }}",
-    "url": "{{ metadata.url }}"
+    "url": "{{ '/' | absUrl(baseUrl) }}"
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "{{ metadata.url }}{{ page.url }}"
+    "@id": "{{ page.url | absUrl(baseUrl) }}"
   }
 }
 </script>

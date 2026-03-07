@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: adamdjbrett/thenewpolis
+  repo: The-Whitestone-Foundation/thenewpolis.com
   branch: main
   base_url: https://jcrt-auth.adam.workers.dev
   auth_endpoint: auth
@@ -96,7 +96,7 @@ collections:
                 widget: "list"
                 summary: "{{fields.info}}"
                 fields:
-          - { label: "Info", name: "info", widget: "string" }
+                  - { label: "Info", name: "info", widget: "string" }
           - { label: "GitHub Username", name: "github", widget: "string" }
           - { label: "Email", name: "email", widget: "string" }
 
@@ -107,34 +107,30 @@ collections:
         label: "Authors Management"
         file: "_data/authors.json"
         fields:
-          - label: "Authors List"
-            name: "authors"
+          - label: "The New Polis"
+            name: "thenewpolis"
             widget: "object"
             fields:
-              - label: "The New Polis"
-                name: "thenewpolis"
-                widget: "object"
-                fields:
-                  - { label: "Name", name: "name", widget: "string" }
-                  - { label: "Bio", name: "bio", widget: "text" }
-              - label: "Editors"
-                name: "editors"
-                widget: "object"
-                fields:
-                  - { label: "Name", name: "name", widget: "string" }
-                  - { label: "Bio", name: "bio", widget: "text" }
-              - label: "Carl Raschke"
-                name: "carl-raschke"
-                widget: "object"
-                fields:
-                  - { label: "Name", name: "name", widget: "string" }
-                  - { label: "Bio", name: "bio", widget: "text" }
-              - label: "Roger Green"
-                name: "roger-green"
-                widget: "object"
-                fields:
-                  - { label: "Name", name: "name", widget: "string" }
-                  - { label: "Bio", name: "bio", widget: "text" }
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Bio", name: "bio", widget: "text" }
+          - label: "Editors"
+            name: "editors"
+            widget: "object"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Bio", name: "bio", widget: "text" }
+          - label: "Carl Raschke"
+            name: "carl-raschke"
+            widget: "object"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Bio", name: "bio", widget: "text" }
+          - label: "Roger Green"
+            name: "roger-green"
+            widget: "object"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Bio", name: "bio", widget: "text" }
 
   - name: "posts"
     label: "Articles"

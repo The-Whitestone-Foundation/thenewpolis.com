@@ -6,6 +6,9 @@ import toc from "eleventy-plugin-toc";
 import yaml from "js-yaml";
 
 export default function (eleventyConfig) {
+  const metadata = yaml.load(readFileSync("./_data/metadata.yaml", "utf-8")) || {};
+  const configuredSiteUrl = String(metadata.url || "").trim().replace(/\/+$/, "");
+
   eleventyConfig.addPlugin(toc);
 
   const md = markdownIt({ html: true, linkify: true });
@@ -44,10 +47,11 @@ export default function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("baseUrl", (url) => {
-    if (!url || url === "/") {
-      return "http://localhost:8080";
+    const candidate = String(url || "").trim();
+    if (!candidate || candidate === "/") {
+      return configuredSiteUrl;
     }
-    return url.endsWith("/") ? url.slice(0, -1) : url;
+    return candidate.endsWith("/") ? candidate.slice(0, -1) : candidate;
   });
 
   eleventyConfig.addFilter("absUrl", (path, base) => {

@@ -65,7 +65,8 @@ layout: base.njk
             {% endif %}
             <section class="share-box mt-5 p-4 bg-light text-center border">
                 <h5 class="serif fw-bold mb-3">Share this Post</h5>
-                {% set shareUrl = (metadata.url + page.url) | urlencode %}
+                {% set baseUrl = metadata.url | baseUrl %}
+                {% set shareUrl = (page.url | absUrl(baseUrl)) | urlencode %}
                 {% set shareText = (title or metadata.title) | urlencode %}
                 <a href="https://shareopenly.org/share/?url={{ shareUrl }}&text={{ shareText }}" 
                    class="btn btn-dark btn-sm text-uppercase px-4" style="letter-spacing: 1px;">

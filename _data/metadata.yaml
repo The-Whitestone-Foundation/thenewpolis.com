@@ -4,7 +4,7 @@ image: /images/jcrt-hero.webp
 language: "en"
 locale: "en_US"
 favicon: /images/jcrt-hero.webp
-url: https://localhost:8080
+url: https://thenewpolis.com
 email: hello@domain.com
 
 metasocial: 

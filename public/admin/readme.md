@@ -1,7 +1,9 @@
-# This is ENV Setup
-SVELTIA_GIT_PROVIDER: 
-SVELTIA_GIT_REPO: 
-SVELTIA_GIT_BRANCH: 
-SVELTIA_GIT_TOKEN: 
-SVELTIA_OAUTH_CLIENT_ID: 
-SVELTIA_OAUTH_CLIENT_SECRET: 
+# Decap CMS Notes
+
+This admin uses Decap CMS with the GitHub backend configured in
+[`config.yml`](/Users/abrett76/github/thenewpolis.com/public/admin/config.yml).
+
+OAuth requests are proxied through:
+
+- `backend.base_url`
+- `backend.auth_endpoint`

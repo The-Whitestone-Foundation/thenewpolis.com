@@ -1,6 +1,4 @@
-[![Deploy Eleventy to XMIT](https://github.com/adamdjbrett/thenewpolis/actions/workflows/deploy-xmit.yml/badge.svg)](https://github.com/adamdjbrett/thenewpolis/actions/workflows/deploy-xmit.yml)
-# thenewpolis
-[demo](https://thenewpolis.xmit.dev)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c1b9a14c-21bc-4cfe-b65b-9d431de830ca/deploy-status)](https://app.netlify.com/projects/thenewpolis/deploys)
 
 A new modern The New Polis site.
 

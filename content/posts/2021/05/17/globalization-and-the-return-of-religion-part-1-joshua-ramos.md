@@ -1,7 +1,7 @@
 ---
 title: "Globalization And The “Return Of Religion” – There Is None, Part 1 (Joshua Ramos)"
 date: 2021-05-17T15:34:47+00:00
-author: thenewpolis
+author: Joshua Ramos
 permalink: /2021/05/17/globalization-and-the-return-of-religion-part-1-joshua-ramos/
 image: /images/wp-content/uploads/2021/05/800px-Estatua_de_Guan_Yin_Macao_2013-08-08_DD_07.jpg
 

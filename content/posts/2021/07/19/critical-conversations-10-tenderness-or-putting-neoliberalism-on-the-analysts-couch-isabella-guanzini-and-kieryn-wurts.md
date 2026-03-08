@@ -1,7 +1,7 @@
 ---
 title: "Critical Conversations 10 – “Tenderness”, Or Putting Neoliberalism on the Analyst’s Couch (Isabella Guanzini and Kieryn Wurts)"
 date: 2021-07-19T21:38:32+00:00
-author: thenewpolis
+author: Isabella Guanzini and Kieryn Wurts
 permalink: /2021/07/19/critical-conversations-10-tenderness-or-putting-neoliberalism-on-the-analysts-couch-isabella-guanzini-and-kieryn-wurts/
 image: /images/wp-content/uploads/2021/07/Tender_Loving_Care.jpg
 

@@ -1,7 +1,7 @@
 ---
 title: "How “Progressive” Is Identity Politics – Really? (Carl Raschke)"
 date: 2018-08-31T16:41:47+00:00
-author: thenewpolis
+author: Carl Raschke
 permalink: /2018/08/31/how-progressive-is-identity-politics-really-carl-raschke/
 image: /images/wp-content/uploads/2018/09/Style-rainbow-flag-Colorful-World-0.4MP.jpg
 

@@ -1,7 +1,7 @@
 ---
 title: "Is Scotland A Colony? (Richard Saville-Smith)"
 date: 2022-01-17T18:47:00+00:00
-author: thenewpolis
+author: Richard Saville-Smith
 permalink: /2022/01/17/is-scotland-a-colony-richard-saville-smith/
 image: /images/wp-content/uploads/2022/01/Scottish_independence_rally_2018_Largs.jpg
 

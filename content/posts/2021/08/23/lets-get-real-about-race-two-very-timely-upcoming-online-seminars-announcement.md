@@ -1,7 +1,7 @@
 ---
 title: "Let’s Get Real About Race – Two Very Timely Upcoming Online Seminars (Announcement)"
 date: 2021-08-23T03:58:00+00:00
-author: thenewpolis
+author: Announcement
 permalink: /2021/08/23/lets-get-real-about-race-two-very-timely-upcoming-online-seminars-announcement/
 image: /images/wp-content/uploads/2021/08/race.jpg
 

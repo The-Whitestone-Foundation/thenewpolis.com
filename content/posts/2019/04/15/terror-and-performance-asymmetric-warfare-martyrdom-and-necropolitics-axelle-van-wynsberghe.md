@@ -1,7 +1,7 @@
 ---
 title: "Terror And Performance – Asymmetric Warfare, Martyrdom, And Necropolitics  (Axelle Van Wynsberghe)"
 date: 2019-04-15T23:33:22+00:00
-author: thenewpolis
+author: Axelle Van Wynsberghe
 permalink: /2019/04/15/terror-and-performance-asymmetric-warfare-martyrdom-and-necropolitics-axelle-van-wynsberghe/
 image: /images/wp-content/uploads/2019/04/WTC-Fireman_requests_10_more_colleagesa-1.jpg
 

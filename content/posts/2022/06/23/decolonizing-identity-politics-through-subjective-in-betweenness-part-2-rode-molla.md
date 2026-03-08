@@ -1,7 +1,7 @@
 ---
 title: "Decolonizing Identity Politics Through Subjective In-Betweenness, Part 2 (Rode Molla)"
 date: 2022-06-23T16:49:00+00:00
-author: thenewpolis
+author: Rode Molla
 permalink: /2022/06/23/decolonizing-identity-politics-through-subjective-in-betweenness-part-2-rode-molla/
 image: /images/wp-content/uploads/2022/06/Massive_Crowds_Gather_At_Umgababa_Picnic_in_KZN_South_Africa_03.jpg
 

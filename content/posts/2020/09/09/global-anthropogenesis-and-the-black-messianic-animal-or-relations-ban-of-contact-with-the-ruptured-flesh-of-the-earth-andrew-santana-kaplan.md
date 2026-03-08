@@ -1,7 +1,7 @@
 ---
 title: "Global Anthropogenesis And The Black Messianic Animal, Or Relation’s Ban Of Contact With The Ruptured Flesh Of The Earth, Part 1 (Andrew Santana Kaplan)"
 date: 2020-09-09T04:03:25+00:00
-author: thenewpolis
+author: Andrew Santana Kaplan
 permalink: /2020/09/09/global-anthropogenesis-and-the-black-messianic-animal-or-relations-ban-of-contact-with-the-ruptured-flesh-of-the-earth-andrew-santana-kaplan/
 image: /images/wp-content/uploads/2020/09/Bundesarchiv_Bild_105-DOA0184_Deutsch-Ostafrika_Wuga_Schule.jpg
 

@@ -1,7 +1,7 @@
 ---
 title: "Economic Theology And The Indebtedness Of Everyday Life (Philip Goodchild And Devin Singh)"
 date: 2021-05-31T05:03:20+00:00
-author: thenewpolis
+author: Philip Goodchild And Devin Singh
 permalink: /2021/05/31/economic-theology-and-the-indebtedness-of-everyday-life-philip-goodchild-and-devin-singh/
 image: /images/wp-content/uploads/2021/05/British-pounds.jpg
 

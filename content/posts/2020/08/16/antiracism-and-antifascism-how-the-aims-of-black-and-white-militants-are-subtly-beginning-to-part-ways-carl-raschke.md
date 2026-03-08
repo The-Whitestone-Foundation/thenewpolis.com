@@ -1,7 +1,7 @@
 ---
 title: "Antiracism And Antifascism – How The Aims Of Black And White Militants Are Subtly Beginning To Part Ways (Carl Raschke)"
 date: 2020-08-16T21:50:12+00:00
-author: thenewpolis
+author: Carl Raschke
 permalink: /2020/08/16/antiracism-and-antifascism-how-the-aims-of-black-and-white-militants-are-subtly-beginning-to-part-ways-carl-raschke/
 image: /images/wp-content/uploads/2020/08/anti-fascism-156037_1280.png
 

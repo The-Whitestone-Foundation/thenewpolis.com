@@ -1,7 +1,7 @@
 ---
 title: "Global Anthropogenesis And The Black Messianic Animal, Or Relation’s Ban Of Contact With The Ruptured Flesh Of The Earth, Part 2 (Andrew Santana Kaplan)"
 date: 2020-09-16T14:54:34+00:00
-author: thenewpolis
+author: Andrew Santana Kaplan
 permalink: /2020/09/16/global-anthropogenesis-and-the-black-messianic-animal-or-relations-ban-of-contact-with-the-ruptured-flesh-of-the-earth-part-2-andrew-santana-kaplan/
 image: /images/wp-content/uploads/2020/09/black-woman-in-mask.jpg
 

@@ -1,7 +1,7 @@
 ---
 title: "Political Filters And The Challenge Of Multivariate Political Analysis (Jonathan Cole)"
 date: 2020-06-22T21:12:25+00:00
-author: thenewpolis
+author: Jonathan Cole
 permalink: /2020/06/22/political-filters-and-the-challenge-of-multivariate-political-analysis-jonathan-cole/
 image: /images/wp-content/uploads/2020/06/5821d2fb-c7e9-4d4b-a300-4dd5f00d2052.jpeg
 

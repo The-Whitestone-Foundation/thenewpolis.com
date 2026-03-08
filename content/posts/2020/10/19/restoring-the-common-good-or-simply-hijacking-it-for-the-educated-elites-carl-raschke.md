@@ -1,7 +1,7 @@
 ---
 title: "Restoring The “Common Good” – Or Simply Hijacking It For The Educated Elites? (Carl Raschke)"
 date: 2020-10-19T02:00:19+00:00
-author: thenewpolis
+author: Carl Raschke
 permalink: /2020/10/19/restoring-the-common-good-or-simply-hijacking-it-for-the-educated-elites-carl-raschke/
 image: /images/wp-content/uploads/2020/10/common-good.jpg
 

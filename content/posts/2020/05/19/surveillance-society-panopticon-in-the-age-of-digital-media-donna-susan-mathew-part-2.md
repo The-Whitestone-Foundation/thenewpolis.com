@@ -1,7 +1,7 @@
 ---
 title: "Surveillance Society – Panopticon In The Age Of Digital Media (Donna Susan Mathew), Part 2"
 date: 2020-05-19T16:41:02+00:00
-author: thenewpolis
+author: Donna Susan Mathew
 permalink: /2020/05/19/surveillance-society-panopticon-in-the-age-of-digital-media-donna-susan-mathew-part-2/
 image: /images/wp-content/uploads/2020/05/1500px-Surveillance-camera.png
 

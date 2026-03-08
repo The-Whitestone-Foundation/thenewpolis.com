@@ -1,7 +1,7 @@
 ---
 title: "Critical Conversations 6 – “On Decoloniality” With Walter Mignolo (Announcement)"
 date: 2020-12-23T20:01:52+00:00
-author: thenewpolis
+author: Announcement
 permalink: /2020/12/23/critical-conversations-on-decoloniality-with-walter-mignolo/
 image: /images/wp-content/uploads/2020/12/Wmignolo.jpg
 

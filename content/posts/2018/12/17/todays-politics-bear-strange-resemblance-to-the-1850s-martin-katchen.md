@@ -1,7 +1,7 @@
 ---
 title: "Today’s Politics Bear Strange Resemblance To The 1850s (Martin Katchen)"
 date: 2018-12-17T12:15:00+00:00
-author: thenewpolis
+author: Martin Katchen
 permalink: /2018/12/17/todays-politics-bear-strange-resemblance-to-the-1850s-martin-katchen/
 image: /images/wp-content/uploads/2018/12/BeaconStreet_Boston_1850s.jpg
 

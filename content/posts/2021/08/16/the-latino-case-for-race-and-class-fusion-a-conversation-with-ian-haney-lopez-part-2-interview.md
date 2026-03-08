@@ -1,7 +1,7 @@
 ---
 title: "The Latino Case For Race And Class Fusion – A Conversation With Ian Haney Lopez, Part 2 (Interview)"
 date: 2021-08-16T22:15:00+00:00
-author: thenewpolis
+author: Interview
 permalink: /2021/08/16/the-latino-case-for-race-and-class-fusion-a-conversation-with-ian-haney-lopez-part-2-interview/
 image: /images/wp-content/uploads/2018/02/US-Mexico_Fence_Mexican_family_on_US_side.jpg
 

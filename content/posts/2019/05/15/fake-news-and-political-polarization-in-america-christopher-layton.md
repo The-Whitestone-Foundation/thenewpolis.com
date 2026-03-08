@@ -1,7 +1,7 @@
 ---
 title: "“Fake News” And Political Polarization In America (Christopher Layton)"
 date: 2019-05-15T19:40:26+00:00
-author: thenewpolis
+author: Christopher Layton
 permalink: /2019/05/15/fake-news-and-political-polarization-in-america-christopher-layton/
 image: /images/wp-content/uploads/2019/05/13527195011744.png
 

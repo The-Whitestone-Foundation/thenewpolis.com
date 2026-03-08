@@ -1,7 +1,7 @@
 ---
 title: "To Not Lose Sight Of The Good – Notes On The Zapatismo Ethic, Part 2 (Matt Rosen)"
 date: 2020-01-28T01:07:07+00:00
-author: thenewpolis
+author: Matt Rosen
 permalink: /2020/01/28/to-not-lose-sight-of-the-good-notes-on-the-zapatismo-ethic-part-2-matt-rosen/
 image: /images/wp-content/uploads/2020/01/Somos_los_hijos_de_Me%CC%81xico_7633192222_2.jpg
 

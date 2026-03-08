@@ -1,7 +1,7 @@
 ---
 title: "Putin’s Evil Empire Secretly Enabled By His Corrupt Western Elite Paymasters (Carl Raschke)"
 date: 2022-03-01T12:01:00+00:00
-author: thenewpolis
+author: Carl Raschke
 permalink: /2022/03/01/putins-evil-empire-secretly-enabled-by-his-corrupt-western-elite-paymasters-carl-raschke/
 image: /images/wp-content/uploads/2022/02/Anti-terrorist_operation_in_eastern_Ukraine_War_Ukraine_26501713354.jpg
 

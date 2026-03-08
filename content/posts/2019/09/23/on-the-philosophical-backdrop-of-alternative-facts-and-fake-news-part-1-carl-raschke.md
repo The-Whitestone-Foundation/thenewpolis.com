@@ -1,7 +1,7 @@
 ---
 title: "On The Philosophical Backdrop Of “Alternative Facts” And “Fake News”, Part 1 (Carl Raschke)"
 date: 2019-09-23T20:38:27+00:00
-author: thenewpolis
+author: Carl Raschke
 permalink: /2019/09/23/on-the-philosophical-backdrop-of-alternative-facts-and-fake-news-part-1-carl-raschke/
 image: /images/wp-content/uploads/2019/09/woman-computer-matrix.jpg
 

@@ -1,7 +1,7 @@
 ---
 title: "Cosmpolitan Ethics In Glasgow – Reframing Climate Change From A Kantian Perspective, Part 2 (Dianna Able)"
 date: 2021-12-22T08:30:00+00:00
-author: thenewpolis
+author: Dianna Able
 permalink: /2021/12/22/cosmpolitan-ethics-in-glasgow-reframing-climate-change-from-a-kantian-perspective-part-2-dianna-able/
 image: /images/wp-content/uploads/2021/12/ShipTracks_MODIS_2005may11.jpg
 

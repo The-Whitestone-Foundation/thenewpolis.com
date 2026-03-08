@@ -1,7 +1,7 @@
 ---
 title: "Liberalism – Is This The End, My Friend?, Part 2 (Carl Raschke)"
 date: 2023-08-09T03:15:14+00:00
-author: thenewpolis
+author: Carl Raschke
 permalink: /2023/08/09/liberalism-is-this-the-end-my-friend-part-2-carl-raschke/
 image: /images/wp-content/uploads/2023/08/John_Locke_Crop.png
 

@@ -1,7 +1,7 @@
 ---
 title: "The Yellow Vest Uprising – From Berlin To Paris A Spirit Of “Post-Capitalism” May Be Aborning (Carl Raschke)"
 date: 2019-01-08T03:10:55+00:00
-author: thenewpolis
+author: Carl Raschke
 permalink: /2019/01/08/the-yellow-vest-uprising-from-berlin-to-paris-a-spirit-of-post-capitalism-may-be-aborning/
 image: /images/wp-content/uploads/2019/01/Gilets-Jaunes.jpg
 

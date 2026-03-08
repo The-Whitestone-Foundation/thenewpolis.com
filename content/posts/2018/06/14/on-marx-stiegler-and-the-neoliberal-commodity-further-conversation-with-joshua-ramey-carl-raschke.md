@@ -1,7 +1,7 @@
 ---
 title: "On Marx, Stiegler, And The Neoliberal ‘Commodity’ – Further Conversation With Joshua Ramey (Carl Raschke)"
 date: 2018-06-14T01:35:45+00:00
-author: thenewpolis
+author: Carl Raschke
 permalink: /2018/06/14/on-marx-stiegler-and-the-neoliberal-commodity-further-conversation-with-joshua-ramey-carl-raschke/
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 

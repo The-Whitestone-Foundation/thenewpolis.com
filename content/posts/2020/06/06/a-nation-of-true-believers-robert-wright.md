@@ -1,7 +1,7 @@
 ---
 title: "A Nation Of True Believers (Robert Wright)"
 date: 2020-06-06T19:28:17+00:00
-author: thenewpolis
+author: Robert Wright
 permalink: /2020/06/06/a-nation-of-true-believers-robert-wright/
 image: /images/wp-content/uploads/2020/06/Screen-Shot-2020-06-16-at-2.32.53-PM.png
 

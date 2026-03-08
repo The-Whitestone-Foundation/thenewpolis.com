@@ -1,7 +1,7 @@
 ---
 title: "Identity Politics And Ressentiment, Part 2 (Camila Bassi)"
 date: 2020-06-15T19:03:04+00:00
-author: thenewpolis
+author: Camila Bassi
 permalink: /2020/06/15/identity-politics-and-ressentiment-part-2-camila-bassi/
 image: /images/wp-content/uploads/2020/06/Equality_March_for_Unity_and_Pride_35077440202.jpg
 

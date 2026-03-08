@@ -5,7 +5,8 @@ language: "en"
 locale: "en_US"
 favicon: /images/jcrt-hero.webp
 url: https://thenewpolis.com
-email: hello@domain.com
+email: hello@thenewpolis.com
+timezone: America/New_York
 
 metasocial: 
   twitter: "https://x.com/user"
@@ -22,15 +23,16 @@ navbar:
  - title: Home
    url: /
  - title: About
-   url: /
+   url: /about/
  - title: Journal
    url: https://journal.thenewpolis.com
  - title: Editors
-   url: /
+   url: /editors/
  - title: Submissions
-   url: /
+   url: /submissions/
 
 footer: 
-  text: "© Copyright The Whitestone Foundation dba The New Polis 2018-2021. All Rights Reserved."
+  text: "Copyright The Whitestone Foundation dba The New Polis. All Rights Reserved."
+  year_start: 2018
   info: "A WHITESTONE PUBLICATION"
 

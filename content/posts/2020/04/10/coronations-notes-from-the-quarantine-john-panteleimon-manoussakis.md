@@ -1,7 +1,7 @@
 ---
 title: "CoroNations – Notes From The Quarantine (John Panteleimon Manoussakis )"
 date: 2020-04-10T04:44:38+00:00
-author: thenewpolis
+author: John Panteleimon Manoussakis
 permalink: /2020/04/10/coronations-notes-from-the-quarantine-john-panteleimon-manoussakis/
 image: /images/wp-content/uploads/2020/04/1406px-Nuremberg_chronicles_-_Dance_of_Death_CCLXIIIIv.jpg
 

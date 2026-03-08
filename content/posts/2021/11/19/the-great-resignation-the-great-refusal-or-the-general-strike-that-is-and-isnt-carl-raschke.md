@@ -1,7 +1,7 @@
 ---
 title: "The Great Resignation, The Great Refusal, Or The General Strike That Is And Isn’t (Carl Raschke)"
 date: 2021-11-19T04:22:00+00:00
-author: thenewpolis
+author: Carl Raschke
 permalink: /2021/11/19/the-great-resignation-the-great-refusal-or-the-general-strike-that-is-and-isnt-carl-raschke/
 image: /images/wp-content/uploads/2021/11/Occupy_Oakland_General_Strike_banner.jpg
 

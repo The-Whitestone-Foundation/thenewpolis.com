@@ -1,7 +1,7 @@
 ---
 title: "The Birth Of Modern “Sovereignty” – The Dialectic Of Subjection And Abjection, Part 1 (Carl Raschke)"
 date: 2021-04-05T16:02:26+00:00
-author: thenewpolis
+author: Carl Raschke
 permalink: /2021/04/05/the-birth-of-modern-sovereignty-the-dialectic-of-subjection-and-abjection-part-1-carl-raschke/
 image: /images/wp-content/uploads/2021/04/Three_scenes_from_the_slave_trade_in_the_USA_Wellcome_V0050650.jpg
 

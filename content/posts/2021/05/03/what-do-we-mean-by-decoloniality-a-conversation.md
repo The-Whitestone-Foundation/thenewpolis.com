@@ -1,7 +1,7 @@
 ---
 title: "What Do We Mean By “Decoloniality”? A Discussion (Walter Mignolo, Catherine Walsh, Tink Tinker, Fernando Herrero)"
 date: 2021-05-03T15:06:44+00:00
-author: thenewpolis
+author: Walter Mignolo, Catherine Walsh, Tink Tinker, Fernando Herrero
 permalink: /2021/05/03/what-do-we-mean-by-decoloniality-a-conversation/
 image: /images/wp-content/uploads/2021/05/Quechua_Woman.jpg
 

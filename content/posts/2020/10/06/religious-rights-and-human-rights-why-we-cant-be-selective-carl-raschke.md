@@ -1,7 +1,7 @@
 ---
 title: "Religious Rights And Human Rights – Why We Can’t Be Selective (Carl Raschke)"
 date: 2020-10-06T02:48:33+00:00
-author: thenewpolis
+author: Carl Raschke
 permalink: /2020/10/06/religious-rights-and-human-rights-why-we-cant-be-selective-carl-raschke/
 image: /images/wp-content/uploads/2020/10/Celebrating_Timkat_in_Ethiopia.jpg
 

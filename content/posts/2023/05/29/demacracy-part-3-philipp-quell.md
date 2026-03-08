@@ -1,7 +1,7 @@
 ---
 title: "De(ma)cracy, Part 3 (Philipp Quell)"
 date: 2023-05-29T04:46:39+00:00
-author: thenewpolis
+author: Philipp Quell
 permalink: /2023/05/29/demacracy-part-3-philipp-quell/
 image: /images/wp-content/uploads/2023/07/Untitled_1957_-_Cy_Twombly_1928_-_2011_29493634887.jpg
 

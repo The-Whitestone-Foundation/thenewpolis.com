@@ -1,7 +1,7 @@
 ---
 title: "The Sociological Deficit Of Contemporary Critical Theory – Axel Honneth’s Theory Of Recognition, Part 1 (Piet Strydom)"
 date: 2019-10-15T03:36:11+00:00
-author: thenewpolis
+author: Piet Strydom
 permalink: /2019/10/15/the-sociological-deficit-of-contemporary-critical-theory-axel-honneths-theory-of-recognition-part-1/
 image: /images/wp-content/uploads/2019/10/958px-Axel_Honneth_2016-04-18_cropped.jpg
 

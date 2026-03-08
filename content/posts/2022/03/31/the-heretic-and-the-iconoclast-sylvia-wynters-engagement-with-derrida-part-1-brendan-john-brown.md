@@ -1,7 +1,7 @@
 ---
 title: "The Heretic And The Iconoclast – Sylvia Wynter’s Engagement With Derrida, Part 1 (Brendan John Brown)"
 date: 2022-03-31T03:27:00+00:00
-author: thenewpolis
+author: Brendan John Brown
 permalink: /2022/03/31/the-heretic-and-the-iconoclast-sylvia-wynters-engagement-with-derrida-part-1-brendan-john-brown/
 image: /images/wp-content/uploads/2022/04/White-flowers.png
 

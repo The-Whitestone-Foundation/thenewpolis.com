@@ -1,7 +1,7 @@
 ---
 title: "Critical Conversations 10 – “Tenderness,” Or Putting Neoliberalism On The Analyst’s Couch (Announcement)"
 date: 2021-06-04T00:18:43+00:00
-author: thenewpolis
+author: Announcement
 permalink: /2021/06/04/critical-conversations-10-tenderness-or-putting-neoliberalism-on-the-analysts-couch-announcement/
 image: /images/wp-content/uploads/2021/06/G-W-.jpg
 

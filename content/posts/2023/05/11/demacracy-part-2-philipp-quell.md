@@ -1,7 +1,7 @@
 ---
 title: "De(ma)cracy, Part 2 (Philipp Quell"
 date: 2023-05-11T04:25:54+00:00
-author: thenewpolis
+author: ma
 permalink: /2023/05/11/demacracy-part-2-philipp-quell/
 image: /images/wp-content/uploads/2023/07/1_j8opW0GAgRowiWp4M0adWA.webp
 

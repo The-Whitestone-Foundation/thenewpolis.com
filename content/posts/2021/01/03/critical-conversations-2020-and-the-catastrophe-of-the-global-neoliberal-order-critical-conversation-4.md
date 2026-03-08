@@ -1,7 +1,7 @@
 ---
 title: "Critical Conversations 4 – 2020 And The Catastrophe Of The Global Neoliberal Order (Carl Raschke)"
 date: 2021-01-03T21:21:29+00:00
-author: thenewpolis
+author: Carl Raschke
 permalink: /2021/01/03/critical-conversations-2020-and-the-catastrophe-of-the-global-neoliberal-order-critical-conversation-4/
 image: /images/wp-content/uploads/2021/01/IMG_5428-1-1162x700.jpg
 

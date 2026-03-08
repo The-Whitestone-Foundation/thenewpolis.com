@@ -1,7 +1,7 @@
 ---
 title: "“Progressive Neoliberalism” – Symbolic Capitalism And The Global Reproduction Of The “Precariat” (Interview With Carl Raschke)"
 date: 2019-11-14T15:40:37+00:00
-author: thenewpolis
+author: Interview With Carl Raschke
 permalink: /2019/11/14/progressive-neoliberalism-symbolic-capitalism-and-the-global-reproduction-of-the-precariat-interview-with-carl-raschke/
 image: /images/wp-content/uploads/2019/11/IMG_5428.jpg
 

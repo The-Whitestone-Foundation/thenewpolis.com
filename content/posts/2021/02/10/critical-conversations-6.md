@@ -1,7 +1,7 @@
 ---
 title: "Critical Conversations 6 – On Decoloniality With Walter Mignolo (Victor Taylor, Walter Mignolo)"
 date: 2021-02-10T17:59:00+00:00
-author: thenewpolis
+author: Victor Taylor, Walter Mignolo
 permalink: /2021/02/10/critical-conversations-6/
 image: /images/wp-content/uploads/2021/02/Map_of_America_by_Sebastian_Munster.jpg
 

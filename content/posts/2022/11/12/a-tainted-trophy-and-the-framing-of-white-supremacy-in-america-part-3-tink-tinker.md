@@ -1,7 +1,7 @@
 ---
 title: "A Tainted Trophy And The Framing Of White Supremacy In America, Part 3 (Tink Tinker)"
 date: 2022-11-12T02:34:00+00:00
-author: thenewpolis
+author: Tink Tinker
 permalink: /2022/11/12/a-tainted-trophy-and-the-framing-of-white-supremacy-in-america-part-3-tink-tinker/
 image: /images/wp-content/uploads/2022/11/Chief-White-Eagle.png
 

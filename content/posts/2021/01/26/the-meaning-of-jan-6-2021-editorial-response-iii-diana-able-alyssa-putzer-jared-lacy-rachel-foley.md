@@ -1,7 +1,7 @@
 ---
 title: "The Meaning Of Jan. 6, 2021 – Editorial Response III (Diana Able, Alyssa Putzer, Jared Lacy, Rachel Foley)"
 date: 2021-01-26T04:58:45+00:00
-author: thenewpolis
+author: Diana Able, Alyssa Putzer, Jared Lacy, Rachel Foley
 permalink: /2021/01/26/the-meaning-of-jan-6-2021-editorial-response-iii-diana-able-alyssa-putzer-jared-lacy-rachel-foley/
 image: /images/wp-content/uploads/2021/01/DC_Capitol_Storming_IMG_7935.jpg
 

@@ -1,7 +1,7 @@
 ---
 title: "The Problem With “Christian” Political Theology – It’s Greek, Not Christian (Jonathan Cole)"
 date: 2018-07-11T22:33:54+00:00
-author: thenewpolis
+author: Jonathan Cole
 permalink: /2018/07/11/the-problem-with-christian-political-theology-its-greek-not-christian-jonathan-cole/
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 

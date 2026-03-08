@@ -1,7 +1,7 @@
 ---
 title: "Gnosticism And The Contemporary Production Of Race (Jacob Vangeest)"
 date: 2020-10-26T13:14:52+00:00
-author: thenewpolis
+author: Jacob Vangeest
 permalink: /2020/10/26/gnosticism-and-the-contemporary-production-of-race-jacob-vangeest/
 image: /images/wp-content/uploads/2020/10/Prometheus_I.jpg
 

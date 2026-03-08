@@ -1,7 +1,7 @@
 ---
 title: "A Tainted Trophy And The Framing Of White Supremacy In America, Part 1 (Tink Tinker)"
 date: 2022-10-19T01:52:00+00:00
-author: thenewpolis
+author: Tink Tinker
 permalink: /2022/10/19/a-tainted-trophy-and-the-framing-of-white-supremacy-in-america-part-1-tink-tinker/
 image: /images/wp-content/uploads/2022/11/indian_war_warrior_native_montreal-413586.jpg
 

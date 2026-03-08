@@ -1,7 +1,7 @@
 ---
 title: "On The Cultural Power Of Neoliberalism – Unlocking The Secret Of Identity Politics (Carl Raschke)"
 date: 2018-03-08T05:20:57+00:00
-author: thenewpolis
+author: Carl Raschke
 permalink: /2018/03/08/on-the-cultural-power-of-neoliberalism-carl-raschke/
 image: /images/wp-content/uploads/2018/02/IMG_E0428.jpg
 

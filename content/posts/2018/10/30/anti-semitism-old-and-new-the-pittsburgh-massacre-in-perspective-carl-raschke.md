@@ -1,7 +1,7 @@
 ---
 title: "Anti-Semitism Old And New – The Pittsburgh Massacre In Today’s “Imperial” Context (Carl Raschke)"
 date: 2018-10-30T21:01:15+00:00
-author: thenewpolis
+author: Carl Raschke
 permalink: /2018/10/30/anti-semitism-old-and-new-the-pittsburgh-massacre-in-perspective-carl-raschke/
 image: /images/wp-content/uploads/2018/10/Anti-Semitism_Klapeida.jpg
 

@@ -1,7 +1,7 @@
 ---
 title: "“Democracy Dies By Distinction” – Neoliberalism, Intersectionality, And The Failed Project That Was The Citizens Party (Carl Raschke)"
 date: 2019-02-05T21:58:30+00:00
-author: thenewpolis
+author: Carl Raschke
 permalink: /2019/02/05/democracy-dies-by-distinction-neoliberalism-intersectionality-and-the-failed-project-that-was-the-citizens-party-carl-raschke/
 image: /images/wp-content/uploads/2019/02/maxresdefault.jpg
 

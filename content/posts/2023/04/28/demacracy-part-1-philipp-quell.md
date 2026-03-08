@@ -1,7 +1,7 @@
 ---
 title: "De(ma)cracy, Part 1 (Philipp Quell)"
 date: 2023-04-28T04:22:13+00:00
-author: thenewpolis
+author: Philipp Quell
 permalink: /2023/04/28/demacracy-part-1-philipp-quell/
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 

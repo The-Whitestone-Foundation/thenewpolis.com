@@ -1,7 +1,7 @@
 ---
 title: "The Return Of Religion Through Demographics, Part 1 (Joshua Ramos)"
 date: 2022-09-07T22:00:00+00:00
-author: thenewpolis
+author: Joshua Ramos
 permalink: /2022/09/07/the-return-of-religion-through-demographics-joshua-ramos/
 image: /images/wp-content/uploads/2022/10/Plate_showing_the_birth_of_a_baby_using_forceps_2_of_4_Wellcome_L0050179-1.jpg
 

@@ -1,7 +1,7 @@
 ---
 title: "The Politics Of Pause, Struggling Over Speed For Better Futures (Critical Conversations 3)"
 date: 2020-11-16T01:05:55+00:00
-author: thenewpolis
+author: Critical Conversations 3
 permalink: /2020/11/16/the-politics-of-pause-struggling-over-speed-for-better-futures-critical-conversations-3/
 image: /images/wp-content/uploads/2020/11/1524px-Fillia_luigi_colombo_idolo_meccanico_1925-26.jpg
 

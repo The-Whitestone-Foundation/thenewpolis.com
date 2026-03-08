@@ -1,7 +1,7 @@
 ---
 title: "“Eurochristian”, Or What Are We Going To Do With White People – Revisited (Tink Tinker And Roger Green), Part 3"
 date: 2023-03-17T16:33:00+00:00
-author: thenewpolis
+author: Tink Tinker And Roger Green
 permalink: /2023/03/17/eurochristian-or-what-are-we-going-to-do-with-white-people-revisited-tink-tinker-and-roger-green-part-3/
 image: /images/wp-content/uploads/2023/04/Tecumsah-saving-prisoners.jpg
 

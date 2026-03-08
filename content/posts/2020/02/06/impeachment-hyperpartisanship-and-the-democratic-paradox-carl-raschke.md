@@ -1,7 +1,7 @@
 ---
 title: "Impeachment, Hyperpartisanship, And “The Democratic Paradox” (Carl Raschke)"
 date: 2020-02-06T17:57:47+00:00
-author: thenewpolis
+author: Carl Raschke
 permalink: /2020/02/06/impeachment-hyperpartisanship-and-the-democratic-paradox-carl-raschke/
 image: /images/wp-content/uploads/2020/02/activist-agonism.jpg
 

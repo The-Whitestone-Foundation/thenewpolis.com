@@ -1,7 +1,7 @@
 ---
 title: "Politics And Its Double – Deleuze And Political Ontology, Part 2 (Borna Radnik)"
 date: 2019-07-15T15:06:12+00:00
-author: thenewpolis
+author: Borna Radnik
 permalink: /2019/07/15/politics-and-its-double-deleuze-and-political-ontology-part-2-borna-radnik/
 image: /images/wp-content/uploads/2019/07/900px-QSH_Tin_Wind_Up_Astro-Scout_Doppelga%CC%88nger_Journey_to_the_Far_Side_of_the_Sun_Movie_Homage_2.jpg
 

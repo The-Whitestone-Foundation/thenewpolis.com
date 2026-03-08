@@ -1,5 +1,6 @@
 import { DateTime } from "luxon";
 import { readFileSync } from "fs";
+import { execSync } from "child_process";
 import markdownIt from "markdown-it";
 import markdownItFootnote from "markdown-it-footnote";
 import toc from "eleventy-plugin-toc";
@@ -8,6 +9,22 @@ import yaml from "js-yaml";
 export default function (eleventyConfig) {
   const metadata = yaml.load(readFileSync("./_data/metadata.yaml", "utf-8")) || {};
   const configuredSiteUrl = String(metadata.url || "").trim().replace(/\/+$/, "");
+  const siteTimezone = String(metadata.timezone || "utc");
+
+  const getLatestCommitYear = () => {
+    try {
+      const latestCommitIso = execSync("git log -1 --format=%cI", {
+        encoding: "utf8",
+      }).trim();
+      return DateTime.fromISO(latestCommitIso, { zone: "utc" })
+        .setZone(siteTimezone)
+        .toFormat("yyyy");
+    } catch {
+      return DateTime.now().setZone(siteTimezone).toFormat("yyyy");
+    }
+  };
+
+  eleventyConfig.addGlobalData("latestCommitYear", getLatestCommitYear());
 
   eleventyConfig.addPlugin(toc);
 

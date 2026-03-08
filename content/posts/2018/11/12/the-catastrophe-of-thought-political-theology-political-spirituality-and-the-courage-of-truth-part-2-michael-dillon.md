@@ -1,7 +1,7 @@
 ---
 title: "The Catastrophe Of Thought – Political Theology, Political Spirituality, And The Courage Of Truth, Part 2 (Michael Dillon)"
 date: 2018-11-12T21:12:44+00:00
-author: thenewpolis
+author: Michael Dillon
 permalink: /2018/11/12/the-catastrophe-of-thought-political-theology-political-spirituality-and-the-courage-of-truth-part-2-michael-dillon/
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 

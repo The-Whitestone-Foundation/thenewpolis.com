@@ -1,7 +1,7 @@
 ---
 title: "Neoliberalism And The Illusion Of Sovereignty, Part 3 (Carl Raschke)"
 date: 2021-08-02T02:32:00+00:00
-author: thenewpolis
+author: Carl Raschke
 permalink: /2021/08/02/neliberalism-and-the-illusion-of-sovereignty-part-3-carl-raschke/
 image: /images/wp-content/uploads/2021/08/IMG_0143.jpeg
 

@@ -1,7 +1,7 @@
 ---
 title: "Neoliberalism, Populism, And Modern Transforms of Sovereignty – From The Doctrine of Discovery To The Capitalist “Thaumaturgy”, Part 1 (Carl Raschke)"
 date: 2021-02-28T03:30:39+00:00
-author: thenewpolis
+author: Carl Raschke
 permalink: /2021/02/28/neoliberalism-populism-and-modern-transforms-of-sovereignty-from-the-doctrine-of-discovery-to-the-capitalist-thaumaturgy-part-1-carl-raschke/
 image: /images/wp-content/uploads/2021/02/Arthur_Molle_-_Royal_Sovereign_-_Fronteau_de_coltis_babord.jpg
 

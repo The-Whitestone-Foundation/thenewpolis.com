@@ -1,7 +1,7 @@
 ---
 title: "On Enduring Borders And The Erasure Of Indigeneity, Part 1 (Roger Green)"
 date: 2018-03-27T11:56:10+00:00
-author: thenewpolis
+author: Roger Green
 permalink: /2018/03/27/on-enduring-borders-and-the-erasure-of-indigeneity-roger-green/
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 

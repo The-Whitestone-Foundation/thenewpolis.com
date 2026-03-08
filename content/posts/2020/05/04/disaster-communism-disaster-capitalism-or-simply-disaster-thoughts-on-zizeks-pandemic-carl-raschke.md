@@ -1,7 +1,7 @@
 ---
 title: "Disaster Communism, Disaster Capitalism, Or Simply Disaster?  Thoughts On Žižek’s PANdemIC! (Carl Raschke)"
 date: 2020-05-04T04:44:34+00:00
-author: thenewpolis
+author: Carl Raschke
 permalink: /2020/05/04/disaster-communism-disaster-capitalism-or-simply-disaster-thoughts-on-zizeks-pandemic-carl-raschke/
 image: /images/wp-content/uploads/2020/05/1024px-Lange-MigrantMother02.jpg
 

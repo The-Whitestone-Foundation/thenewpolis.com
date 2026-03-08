@@ -1,7 +1,7 @@
 ---
 title: "History Repeated As Farce – White Anarchists Must Not Co-Opt The Movement For Black Justice (Carl Raschke)"
 date: 2020-06-02T22:43:58+00:00
-author: thenewpolis
+author: Carl Raschke
 permalink: /2020/06/02/history-repeated-as-farce-white-anarchists-must-not-co-opt-the-movement-for-black-justice-carl-raschke/
 image: /images/wp-content/uploads/2020/06/IMG_6726-2.jpg
 

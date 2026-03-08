@@ -1,7 +1,7 @@
 ---
 title: "Divine Judgement And The Ethics Of Authenticity -Unsettling Thoughts On The Covid-19 Virus (Paul Tyson)"
 date: 2020-04-04T03:11:27+00:00
-author: thenewpolis
+author: Paul Tyson
 permalink: /2020/04/04/divine-judgement-and-the-ethics-of-authenticity-unsettling-thoughts-on-the-covid-19-virus/
 image: /images/wp-content/uploads/2020/04/rm206-jj-01a.png
 

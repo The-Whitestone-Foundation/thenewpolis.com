@@ -1,7 +1,7 @@
 ---
 title: "From The Sexual Revolution To The Politics Of Recognition – The Legacy Of May 1968 (Carl Raschke)"
 date: 2018-05-04T16:20:12+00:00
-author: thenewpolis
+author: Carl Raschke
 permalink: /2018/05/04/from-the-sexual-revolution-to-the-politics-of-recognition-the-legacy-of-may-1968-carl-raschke/
 image: /images/wp-content/uploads/2018/05/Liberte.jpg
 

@@ -1,7 +1,7 @@
 ---
 title: "The Meaning Of Jan. 6, 2021 – Editorial Response II (Carl Raschke)"
 date: 2021-01-14T05:39:00+00:00
-author: thenewpolis
+author: Carl Raschke
 permalink: /2021/01/14/the-meaning-of-jan-6-2021-editorial-response-ii-carl-raschke/
 image: /images/wp-content/uploads/2021/01/Election_fraud_protester_on_Parliament_Hill.jpg
 

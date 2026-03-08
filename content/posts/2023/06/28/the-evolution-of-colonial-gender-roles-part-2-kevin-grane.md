@@ -1,7 +1,7 @@
 ---
 title: "The Evolution Of Colonial Gender Roles, Part 2 (Kevin Grane)"
 date: 2023-06-28T14:54:37+00:00
-author: thenewpolis
+author: Kevin Grane
 permalink: /2023/06/28/the-evolution-of-colonial-gender-roles-part-2-kevin-grane/
 image: /images/wp-content/uploads/2023/07/Nu_gay_lib_demo_03.jpg
 

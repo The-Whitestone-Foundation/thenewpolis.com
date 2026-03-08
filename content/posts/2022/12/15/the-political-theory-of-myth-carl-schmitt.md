@@ -1,7 +1,7 @@
 ---
 title: "The Political Theory Of Myth (Carl Schmitt)"
 date: 2022-12-15T04:47:00+00:00
-author: thenewpolis
+author: Carl Schmitt
 permalink: /2022/12/15/the-political-theory-of-myth-carl-schmitt/
 image: /images/wp-content/uploads/2023/02/Occupy_Oakland_General_Strike_banner.jpg
 

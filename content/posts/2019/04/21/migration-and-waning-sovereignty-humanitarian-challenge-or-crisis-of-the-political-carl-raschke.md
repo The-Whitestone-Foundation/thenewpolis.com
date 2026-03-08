@@ -1,7 +1,7 @@
 ---
 title: "Migration And “Waning Sovereignty” – Humanitarian Challenge Or Crisis Of The Political? (Carl Raschke)"
 date: 2019-04-21T12:49:09+00:00
-author: thenewpolis
+author: Carl Raschke
 permalink: /2019/04/21/migration-and-waning-sovereignty-humanitarian-challenge-or-crisis-of-the-political-carl-raschke/
 image: /images/wp-content/uploads/2019/04/Mexican-border-Tijuana.jpg
 

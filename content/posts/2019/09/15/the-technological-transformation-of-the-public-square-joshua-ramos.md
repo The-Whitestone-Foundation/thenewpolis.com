@@ -1,7 +1,7 @@
 ---
 title: "The Technological Transformation Of The Public Square (Joshua Ramos)"
 date: 2019-09-15T20:13:43+00:00
-author: thenewpolis
+author: Joshua Ramos
 permalink: /2019/09/15/the-technological-transformation-of-the-public-square-joshua-ramos/
 image: /images/wp-content/uploads/2019/09/social-media-3758444_960_720.jpg
 

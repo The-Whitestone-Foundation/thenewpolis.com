@@ -1,7 +1,7 @@
 ---
 title: "Kavanaugh And The “Katechon”, Or The End Of Politics As We Know It (Carl Raschke)"
 date: 2018-10-08T00:08:43+00:00
-author: thenewpolis
+author: Carl Raschke
 permalink: /2018/10/08/kavanaugh-and-the-katechon-or-the-end-of-politics-as-we-know-it-carl-raschke/
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 

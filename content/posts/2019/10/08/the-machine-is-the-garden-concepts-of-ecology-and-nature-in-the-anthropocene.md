@@ -1,7 +1,7 @@
 ---
 title: "The Machine Is the Garden –  Concepts Of Ecology And Nature In The Anthropocene (Simon Schleusener)"
 date: 2019-10-08T23:14:47+00:00
-author: thenewpolis
+author: Simon Schleusener
 permalink: /2019/10/08/the-machine-is-the-garden-concepts-of-ecology-and-nature-in-the-anthropocene/
 image: /images/wp-content/uploads/2019/10/Machine-in-the-garden.jpg
 

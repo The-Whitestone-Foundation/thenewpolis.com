@@ -1,7 +1,7 @@
 ---
 title: "Critical Conversation No. 12 – Hindu Nationalism And The Growing Threat To Academic Freedom (Announcement)"
 date: 2021-10-22T02:28:41+00:00
-author: thenewpolis
+author: Announcement
 permalink: /2021/10/22/critical-conversation-12-hindu-nationalism-and-the-growing-threat-to-academic-freedom-announcement/
 image: /images/wp-content/uploads/2021/10/rally.jpg
 

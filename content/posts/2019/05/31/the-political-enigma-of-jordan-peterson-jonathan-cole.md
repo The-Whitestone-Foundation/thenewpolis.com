@@ -1,7 +1,7 @@
 ---
 title: "The Political Enigma Of Jordan Peterson (Jonathan Cole)"
 date: 2019-05-31T09:38:12+00:00
-author: thenewpolis
+author: Jonathan Cole
 permalink: /2019/05/31/the-political-enigma-of-jordan-peterson-jonathan-cole/
 image: /images/wp-content/uploads/2019/05/Jordan-Peterson.jpg
 

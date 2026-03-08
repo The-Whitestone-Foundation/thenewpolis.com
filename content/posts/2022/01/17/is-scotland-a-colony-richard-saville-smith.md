@@ -6,15 +6,15 @@ permalink: /2022/01/17/is-scotland-a-colony-richard-saville-smith/
 image: /images/wp-content/uploads/2022/01/Scottish_independence_rally_2018_Largs.jpg
 
 categories:
-  - "Decoloniality"
+  - decoloniality
 tags:
-  - "All Under One Banner"
-  - "Boris Johnson"
-  - "Colonialism"
-  - "Glorious Revolution"
-  - "James I"
-  - "Scotland"
-  - "Western Cognitive Empire"
+  - all-under-one-banner
+  - boris-johnson
+  - colonialism
+  - glorious-revolution
+  - james-i
+  - scotland
+  - western-cognitive-empire
 ---
 
 *The following was given as a presentation at the international conference [“Decoloniality And Disintegration Of Western Cognitive Empire – Rethinking Sovereignty And Territoriality In The 21st Century”](/conferences-and-calls-for-presentations/) in April 2021.*

@@ -6,14 +6,14 @@ permalink: /2019/07/07/the-dialectic-of-enlightenment-from-a-postsecular-lens-pa
 image: /images/wp-content/uploads/2019/06/636px-Nuremberg_chronicles_-_Strange_People_-_Headless_XIIr.jpg
 
 categories:
-  - "Critical Theory"
-  - "Literary History"
-  - "Literary Theory"
-  - "Political Theology"
+  - critical-theory
+  - literary-history
+  - literary-theory
+  - political-theology
 tags:
-  - "Criticism"
-  - "Political"
-  - "Theory"
+  - criticism
+  - political
+  - theory
 ---
 
 I ended my [first post in this series](/06/19/the-dialectic-of-enlightenment-from-a-postsecular-lens-part-1-roger-green/) considering David Scott’s description of the tragic disposition as an obligated action in a world where values are “unstable and ambiguous.”  I have been rethinking Horkheimer and Adorno’s *Dialectic of Enlightenment* with particular attention to the role a conception of the Literary plays in their work because that aesthetic notion is often taken for granted in philosophical arguments.

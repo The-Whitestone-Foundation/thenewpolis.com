@@ -1,9 +1,9 @@
 title: THE NEW POLIS
 description: CRITICAL THEORY | SOCIAL ANALYSIS | POLITICAL PHILOSOPHY AND THEOLOGY
-image: /images/jcrt-hero.webp
+image: /images/thenewpolis-opengraph.jpg
 language: "en"
 locale: "en_US"
-favicon: /images/jcrt-hero.webp
+favicon: /images/thenewpolis-logo.png
 url: https://thenewpolis.com
 email: hello@thenewpolis.com
 timezone: America/New_York
@@ -24,6 +24,8 @@ navbar:
    url: /
  - title: About
    url: /about/
+ - title: Authors
+   url: /authors/
  - title: Journal
    url: https://journal.thenewpolis.com
  - title: Editors
@@ -34,5 +36,4 @@ navbar:
 footer: 
   text: "Copyright The Whitestone Foundation dba The New Polis. All Rights Reserved."
   year_start: 2018
-  info: "A WHITESTONE PUBLICATION"
-
+  info: "A WHITESTONE FOUNDATION PUBLICATION"

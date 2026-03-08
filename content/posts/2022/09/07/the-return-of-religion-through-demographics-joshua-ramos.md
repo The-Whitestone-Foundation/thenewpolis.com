@@ -6,15 +6,15 @@ permalink: /2022/09/07/the-return-of-religion-through-demographics-joshua-ramos/
 image: /images/wp-content/uploads/2022/10/Plate_showing_the_birth_of_a_baby_using_forceps_2_of_4_Wellcome_L0050179-1.jpg
 
 categories:
-  - "Demographics"
+  - demographics
 tags:
-  - "David Voas"
-  - "Demography"
-  - "Eric Kaufmann"
-  - "Globalization"
-  - "Jack Goldstone"
-  - "Olivier Roy"
-  - "Rodney Stark"
+  - david-voas
+  - demography
+  - eric-kaufmann
+  - globalization
+  - jack-goldstone
+  - olivier-roy
+  - rodney-stark
 ---
 
 ## The following is the first of a three-part series.

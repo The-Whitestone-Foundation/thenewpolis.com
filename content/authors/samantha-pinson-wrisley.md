@@ -2,5 +2,6 @@
 title: "Samantha Pinson Wrisley"
 author: "Samantha Pinson Wrisley"
 slug: "samantha-pinson-wrisley"
-permalink: false
+affilation: ""
+image: /images/thenewpolis-logo.png
 ---

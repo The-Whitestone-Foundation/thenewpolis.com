@@ -6,19 +6,19 @@ permalink: /2018/08/31/how-progressive-is-identity-politics-really-carl-raschke/
 image: /images/wp-content/uploads/2018/09/Style-rainbow-flag-Colorful-World-0.4MP.jpg
 
 categories:
-  - "Identity Politics"
-  - "Political Theory"
+  - identity-politics
+  - political-theory
 tags:
-  - "Briahana Gray"
-  - "Fundamentalism"
-  - "Georg Lukacs"
-  - "Hypodialectics"
-  - "Identity Politics"
-  - "Karl Marx"
-  - "Margaret Thatcher"
-  - "Michel Foucault"
-  - "Neoliberalism"
-  - "Race Reductionism"
+  - briahana-gray
+  - fundamentalism
+  - georg-lukacs
+  - hypodialectics
+  - identity-politics
+  - karl-marx
+  - margaret-thatcher
+  - michel-foucault
+  - neoliberalism
+  - race-reductionism
 ---
 
 The language of identity has at long last come into its own as the a true *lingua franca* within the universe of progressivist political discourse, even though it is shot through with its own internal discrepancies, hypocrisies, and self-contradictions.  It has at the same time become the prevailing “social dialect” of the new transnational economic elites, [as I have argued](/2018/08/03/the-cultural-contradictions-of-democratic-socialism-carl-raschke/).

@@ -6,18 +6,18 @@ permalink: /2019/10/08/the-machine-is-the-garden-concepts-of-ecology-and-nature-
 image: /images/wp-content/uploads/2019/10/Machine-in-the-garden.jpg
 
 categories:
-  - "Ecology"
+  - ecology
 tags:
-  - "Anthropocene"
-  - "Buckminster Fuller"
-  - "Capitalism"
-  - "Cybernetics"
-  - "Environmentalism"
-  - "Henry David Thoreau"
-  - "Herman Melville"
-  - "Karl Marx"
-  - "Leo Marx"
-  - "Spaceship Earth"
+  - anthropocene
+  - buckminster-fuller
+  - capitalism
+  - cybernetics
+  - environmentalism
+  - henry-david-thoreau
+  - herman-melville
+  - karl-marx
+  - leo-marx
+  - spaceship-earth
 ---
 
 *A version of this article was first presented at the 8th Biennial EASLCE Conference (“The Garden: Ecological Paradigms of Space, History, and Community”) at the University of Würzburg, September 26-29, 2018.*

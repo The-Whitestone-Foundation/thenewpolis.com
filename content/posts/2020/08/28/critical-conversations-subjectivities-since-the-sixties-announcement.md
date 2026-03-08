@@ -1,25 +1,26 @@
 ---
 title: "Critical Conversations -“Subjectivities Since The Sixties” (Announcement)"
 date: 2020-08-28T14:18:51+00:00
-author: Announcement
+author: thenewpolis
 permalink: /2020/08/28/critical-conversations-subjectivities-since-the-sixties-announcement/
 image: /images/wp-content/uploads/2020/08/man-male-tshirt-fashion.jpg
 
 categories:
-  - "Announcements"
+  - announcements
 tags:
-  - "1960s"
-  - "Carl Raschke"
-  - "Cartesianism"
-  - "Identity Politics"
-  - "Jason Alvis"
-  - "Middle Classes"
-  - "Political Theology"
-  - "Politics of Recognition"
-  - "Poststructuralism"
-  - "Progressive Neoliberalism"
-  - "Psychedelic Esthetics"
-  - "Subjectivityies"
+  - 1960s
+  - carl-raschke
+  - cartesianism
+  - identity-politics
+  - jason-alvis
+  - middle-classes
+  - political-theology
+  - politics-of-recognition
+  - poststructuralism
+  - progressive-neoliberalism
+  - psychedelic-esthetics
+  - subjectivityies
+
 ---
 
 *Participants are invited to join us live in the second of a monthly series of “Critical Conversations” (Zoom webinars) with eminent scholars from around the globe. **If you are interested in joining us, please contact us by email at*** [***editor.thenewpolis@gmail.com***](mailto:editor.thenewpolis@gmail.com)*. Please state your professional or academic status, affiliation, and a brief sentence or two concerning why you would like to participate, so please notify us no later than September 20, 2020.*

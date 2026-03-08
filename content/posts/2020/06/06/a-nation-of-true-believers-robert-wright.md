@@ -6,14 +6,14 @@ permalink: /2020/06/06/a-nation-of-true-believers-robert-wright/
 image: /images/wp-content/uploads/2020/06/Screen-Shot-2020-06-16-at-2.32.53-PM.png
 
 categories:
-  - "Political Economy"
+  - political-economy
 tags:
-  - "Classic Liberalism"
-  - "Comnunism"
-  - "Eric Hoffer"
-  - "Facism"
-  - "Mass Movements"
-  - "Poverty"
+  - classic-liberalism
+  - comnunism
+  - eric-hoffer
+  - facism
+  - mass-movements
+  - poverty
 ---
 
 After the Great War, the Great Depression, and the Holocaust, many thinkers tried to figure out what was wrong with the world. I’ve discussed some of their work in earlier posts, especially “[The Idiocracy Experiment](https://www.aier.org/article/the-idiocracy-experiment/),” but have been saving *[The True Believer: Thoughts on the Nature of Mass Movements](https://www.google.com/books/edition/The_True_Believer/pRxBBnyBvcYC?hl=en&gbpv=1&dq=the+true+believer&printsec=frontcover)* for when the uprisings, which I predicted in the [middle of March](https://www.aier.org/article/revolution-is-in-the-air/), began. It’s not clear these widespread agitations will coalesce into broader rebellion or civil war but in any event, *The True Believer* is worth considering.

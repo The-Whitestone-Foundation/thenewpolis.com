@@ -1,0 +1,22 @@
+---
+pagination:
+  data: collections.authorPages
+  size: 1
+  alias: authorPage
+permalink: /author/{{ authorPage.key }}/
+eleventyExcludeFromCollections: true
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="refresh" content="0; url=/authors/{{ authorPage.key }}/">
+  <link rel="canonical" href="/authors/{{ authorPage.key }}/">
+  <title>Redirecting...</title>
+</head>
+<body data-pagefind-ignore>
+  <p>Redirecting to <a href="/authors/{{ authorPage.key }}/">{{ authorPage.name }}</a>...</p>
+  <script>window.location.href = '/authors/{{ authorPage.key }}/';</script>
+</body>
+</html>

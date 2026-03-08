@@ -6,16 +6,16 @@ permalink: /2018/03/03/like-ghosts-from-an-enchanter-fleeing-denvers-divinatory-
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Critical Theory"
-  - "Literary Theory"
-  - "Political Theology"
+  - critical-theory
+  - literary-theory
+  - political-theology
 tags:
-  - "Anne Waldman"
-  - "Denver"
-  - "Divinatory Poetics"
-  - "Eleni Sikelianos"
-  - "Hermeneutic Listening"
-  - "Selah Saterstrom"
+  - anne-waldman
+  - denver
+  - divinatory-poetics
+  - eleni-sikelianos
+  - hermeneutic-listening
+  - selah-saterstrom
 ---
 
 *The following essay in several parts is written as an apparatus for a public talk sponsored by the Denver-based group,* [Cri](https://cri-hub.com/whats-happening/)*. In presenting it, my intention is both to show theoretical work in action and to defend it as a method, so it begins with an account of some major shifts in literary theory. Later, I move on to an idea of hermeneutic or interpretive listening as a method for both literary criticism and making art.*

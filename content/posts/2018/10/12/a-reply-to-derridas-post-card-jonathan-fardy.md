@@ -6,23 +6,23 @@ permalink: /2018/10/12/a-reply-to-derridas-post-card-jonathan-fardy/
 image: /images/wp-content/uploads/2018/10/Canada_war_tax_stamp_on_postcard.jpg
 
 categories:
-  - "Art Theory"
-  - "Critical Theory"
-  - "Postmodernism"
+  - art-theory
+  - critical-theory
+  - postmodernism
 tags:
-  - "Amelia Jones"
-  - "Craig Owens"
-  - "Envois"
-  - "Fountain"
-  - "Francois Laruelle"
-  - "Jacques Derrida"
-  - "Marcel Duchamp"
-  - "Modernism"
-  - "Non Standard Philosophy"
-  - "Post Card"
-  - "Postmodernism"
-  - "Richard Rorty"
-  - "Signature"
+  - amelia-jones
+  - craig-owens
+  - envois
+  - fountain
+  - francois-laruelle
+  - jacques-derrida
+  - marcel-duchamp
+  - modernism
+  - non-standard-philosophy
+  - post-card
+  - postmodernism
+  - richard-rorty
+  - signature
 ---
 
 This post is, in a sense, a reply to [Derrida’s *Post Card*](https://press.uchicago.edu/ucp/books/book/chicago/P/bo5973264.html). I want to make an attempt at a non-philosophical reply in the sense that François Laruelle has given the term “non-philosophy.”
@@ -125,4 +125,3 @@ How do we escape the authority invested in the signature and the signification o
 
 *Jonathan Fardy is on the art faculty at Idaho State University. His research examines the theoretical foundations of art, aesthetics, and especially photography. His first book [Laruelle and Non-Photography](https://www.palgrave.com/us/book/9783319930961) is a critical reading of the “non-photographic” theory of François Laruelle. His second book, Laruelle and Art: The Aesthetics of Non-Philosophy, is under contract. This full-length monograph examines Laruelle’s theory of “non-aesthetics.” His research interests center on the relation between theory and visual culture. His new research project is tentatively titled Against Dialectics. It examines the response to dialectical aesthetic theory by Laruelle, Baudrillard, Henry, Deleuze, and others. He will be presenting some of his new research at the Second International Conference on Baudrillard at Oxford University in September 2018.* 
 
-[](/applewebdata://8EC106CB-9912-44D8-B811-98D7695DCDD1#_ednref2)

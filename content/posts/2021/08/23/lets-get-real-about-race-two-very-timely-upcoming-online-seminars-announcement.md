@@ -1,24 +1,25 @@
 ---
 title: "Let’s Get Real About Race – Two Very Timely Upcoming Online Seminars (Announcement)"
 date: 2021-08-23T03:58:00+00:00
-author: Announcement
+author: thenewpolis
 permalink: /2021/08/23/lets-get-real-about-race-two-very-timely-upcoming-online-seminars-announcement/
 image: /images/wp-content/uploads/2021/08/race.jpg
 
 categories:
-  - "Announcements"
-  - "Critical Conversations"
-  - "Difficult Discussions"
-  - "Race and Racism"
+  - announcements
+  - critical-conversations
+  - difficult-discussions
+  - race-and-racism
 tags:
-  - "Demographics"
-  - "Eric Kaufman"
-  - "Evangelicalism"
-  - "George Floyd"
-  - "Populism"
-  - "Race"
-  - "Southern Baptist Convention"
-  - "Whiteness"
+  - demographics
+  - eric-kaufman
+  - evangelicalism
+  - george-floyd
+  - populism
+  - race
+  - southern-baptist-convention
+  - whiteness
+
 ---
 
 It’s time to get real when we talk these days about race and racism.
@@ -27,7 +28,7 @@ Ever since the murder of George Floyd in Minneapolis in the late spring of 2020 
 
 At the same time, the once obscure university sub-discipline of “critical race theory” has now become a household word and serves as a lightning rod for ideologues on both the left and right with grassroots activists springing up in town council and public school meetings viciously polarized over whether the subject matter should be taught to second graders. This past summer the Southern Baptist Convention, the largest body of US evangelical Christians, was nearly torn apart by turbulent debates over whether “CRT”, the routine acronym for critical race theory, was compatible theologically with the gospel and proved to be the very litmus test in deciding who would be the new crop of denominational leaders.
 
-Whitestone Publications, specifically *[The New Polis](https://)* and *[The Journal for Cultural and Religious Theory](https://jcrt.org)*, have launched a two-pronged project for September to open up for all sides what it hopes will be an ongoing and unprecedented set of dialogues over such compelling questions as :
+Whitestone Publications, specifically *[The New Polis](https://thenewpolis.com)* and *[The Journal for Cultural and Religious Theory](https://jcrt.org)*, have launched a two-pronged project for September to open up for all sides what it hopes will be an ongoing and unprecedented set of dialogues over such compelling questions as :
 
 *   *What really do we mean by “race” and “racism”, and how has it manifested, and continued to manifest over the years?*
 *   *What exactly is “critical race theory” (slogans and simplisms aside) and what genuine role should it play in coming to grips with racial oppression and inequity, then as well as now?*

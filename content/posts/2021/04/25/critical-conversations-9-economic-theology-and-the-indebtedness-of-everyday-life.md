@@ -6,13 +6,13 @@ permalink: /2021/04/25/critical-conversations-9-economic-theology-and-the-indebt
 image: /images/wp-content/uploads/2021/04/2ed77d35-2f8e-406a-a6c4-1549984ef8db.jpeg
 
 categories:
-  - "Announcements"
-  - "Critical Theory"
-  - "Economic Theology"
+  - announcements
+  - critical-theory
+  - economic-theology
 tags:
-  - "Philosophy"
-  - "Theology"
-  - "Critical"
+  - philosophy
+  - theology
+  - critical
 ---
 
 *Participants are invited to join us live in the ninth of a monthly series of “Critical Conversations” (Zoom webinars) with eminent scholars from around the globe. You may sign up through the registration link below.*
@@ -31,7 +31,7 @@ tags:
 
 **General Contact:** [editor.thenewpolis@gmail.com](mailto:editor.thenewpolis@gmail.com)
 
-**Moderator:** Roger Green, General Editor, *[The New Polis](https://)*.
+**Moderator:** Roger Green, General Editor, *[The New Polis](https://thenewpolis.com)*.
 
 Our ninth Critical Conversation focuses on credit, debt, and theology. Our central interlocutors will be **Philip Goodchild and Devin Singh**, though *New Polis* contributors such as [Carl Raschke](/01/03/critical-conversations-2020-and-the-catastrophe-of-the-global-neoliberal-order-critical-conversation-4/) and [Joshua Ramey](/2018/06/11/on-neoliberalism-and-the-politics-of-divination-an-interview-with-joshua-ramey/) have explored similar topics.
 

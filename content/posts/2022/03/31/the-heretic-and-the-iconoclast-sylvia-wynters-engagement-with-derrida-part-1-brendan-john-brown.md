@@ -6,14 +6,14 @@ permalink: /2022/03/31/the-heretic-and-the-iconoclast-sylvia-wynters-engagement-
 image: /images/wp-content/uploads/2022/04/White-flowers.png
 
 categories:
-  - "Critical Theory"
+  - critical-theory
 tags:
-  - "Autopoesis"
-  - "Edmund Husserl"
-  - "Guy Scarpetta"
-  - "Jacques Derrida"
-  - "Jean Louis Houdenine"
-  - "Sylvia Wynter"
+  - autopoesis
+  - edmund-husserl
+  - guy-scarpetta
+  - jacques-derrida
+  - jean-louis-houdenine
+  - sylvia-wynter
 ---
 
 *The following article consists in a three-part-series. The [full article](https://journal.thenewpolis.com/archives/1.1/Brown.pdf) can be found in [The New Polis Journal](https://journal.thenewpolis.com).*

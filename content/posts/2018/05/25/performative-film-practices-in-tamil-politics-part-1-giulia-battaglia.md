@@ -1,22 +1,22 @@
 ---
 title: "Performative Film Practices In Tamil Politics, Part 1 (Giulia Battaglia)"
 date: 2018-05-25T20:51:18+00:00
-author: Contributing Editor
+author: Giulia Battaglia
 permalink: /2018/05/25/performative-film-practices-in-tamil-politics-part-1-giulia-battaglia/
 image: /images/wp-content/uploads/2018/05/Tamil-dancers-Wikipedia.jpg
 
 categories:
-  - "Political Theory"
-  - "Social History"
+  - political-theory
+  - social-history
 tags:
-  - "Cultural Revivalism"
-  - "Digital Documentary Filmmaking"
-  - "Dravidian"
-  - "Dravidian Great Tradition"
-  - "Nambi Arooran"
-  - "Performative Practices"
-  - "Tamil Identity"
-  - "Tamil Nadu"
+  - cultural-revivalism
+  - digital-documentary-filmmaking
+  - dravidian
+  - dravidian-great-tradition
+  - nambi-arooran
+  - performative-practices
+  - tamil-identity
+  - tamil-nadu
 ---
 
 ## The following is the first of a two-part series.

@@ -6,19 +6,19 @@ permalink: /2022/02/05/the-revolution-of-respect-the-overlooked-factor-in-global
 image: /images/wp-content/uploads/2022/02/Worldwide-Executive-International-Businesswoman-4499281.jpg
 
 categories:
-  - "Globalization Theory"
+  - globalization-theory
 tags:
-  - "Emmanuel Levinas"
-  - "Etienne Balibar"
-  - "Francis Fukuyama"
-  - "French Revolution"
-  - "Friedrich Nietzsche"
-  - "G E Moore"
-  - "Globalization"
-  - "Kurt Godel"
-  - "Milton Friedman"
-  - "Theodore Levitt"
-  - "Value Theory"
+  - emmanuel-levinas
+  - etienne-balibar
+  - francis-fukuyama
+  - french-revolution
+  - friedrich-nietzsche
+  - g-e-moore
+  - globalization
+  - kurt-godel
+  - milton-friedman
+  - theodore-levitt
+  - value-theory
 ---
 
 *The following is the text of the [University Lecture](https://www.dropbox.com/s/m2s1zse6mk6gcpi/20220202_V01_University%20Lecture.mp4?dl=0) given by New Polis editor Carl Raschke for the University of Denver (DU). [According to the DU website](https://www.du.edu/faculty-staff-awards/university-lecturer-award), “the University Lecturer Award is given in recognition of superlative creative and scholarly work”.* *The transcript is published in two parts. The second can be found [here](/09/the-revolution-of-respect-the-overlooked-factor-in-globalization-that-is-driving-everything-part-2-carl-raschke/).*

@@ -6,18 +6,18 @@ permalink: /2018/09/11/carl-schmitt-and-the-true-german-origins-of-political-the
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Political Theology"
+  - political-theology
 tags:
-  - "Alexis De Tocqueville"
-  - "Carl Schmitt"
-  - "Dorothee Solle"
-  - "Johannes Metz"
-  - "John Howard Yoder"
-  - "Julian Obermann"
-  - "Jurgen Moltmann"
-  - "Political Theology"
-  - "Social Ethics"
-  - "Weimar Republic"
+  - alexis-de-tocqueville
+  - carl-schmitt
+  - dorothee-solle
+  - johannes-metz
+  - john-howard-yoder
+  - julian-obermann
+  - jurgen-moltmann
+  - political-theology
+  - social-ethics
+  - weimar-republic
 ---
 
 “Sovereign is he who decides on the exception.” Thus opens the book that is said to have given birth to political theology—Carl Schmitt’s [*Political Theology*](https://books.google.com/books?id=wPkMd81Y0qUC&printsec=frontcover&dq=schmitt+political+theology&hl=en&sa=X&ved=0ahUKEwio89WI1bPdAhWCslQKHVB4A_cQ6AEIKTAA#v=onepage&q=schmitt%20political%20theology&f=false), published in German in 1922.

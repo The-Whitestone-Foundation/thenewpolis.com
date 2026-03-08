@@ -6,19 +6,19 @@ permalink: /2021/03/16/include-me-out-abjection-and-the-post-politics-pf-progres
 image: /images/wp-content/uploads/2021/03/Contemporary_US_Politics_Month_in_UkWiki.png
 
 categories:
-  - "Neoliberalism"
+  - neoliberalism
 tags:
-  - "Democracy"
-  - "Donald Trump"
-  - "Jacques Ranciere"
-  - "Metapolitics"
-  - "Nancy Fraser"
-  - "Neoliberalism"
-  - "Parapolitics"
-  - "Postmodernism"
-  - "Slavoj Zizek"
-  - "Unity Party"
-  - "Wendy Brown"
+  - democracy
+  - donald-trump
+  - jacques-ranciere
+  - metapolitics
+  - nancy-fraser
+  - neoliberalism
+  - parapolitics
+  - postmodernism
+  - slavoj-zizek
+  - unity-party
+  - wendy-brown
 ---
 
 *In the image above, in Ukrainian*: “The month of modern US politics in the Ukrainian Wikipedia, 28 March – 28 April” (2014). The date signifies Obama’s urging of Moscow to pull back troops. (General Editor)

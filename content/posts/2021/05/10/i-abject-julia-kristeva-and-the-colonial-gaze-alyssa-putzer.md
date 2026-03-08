@@ -6,18 +6,18 @@ permalink: /2021/05/10/i-abject-julia-kristeva-and-the-colonial-gaze-alyssa-putz
 image: /images/wp-content/uploads/2021/05/Julia-Kristeva-BNF-1.jpg
 
 categories:
-  - "Critical Theory"
-  - "Decoloniality"
+  - critical-theory
+  - decoloniality
 tags:
-  - "Abjection"
-  - "Brian Pennington"
-  - "Christianity"
-  - "Colonialism"
-  - "Franz Fanon"
-  - "Julia Kristeva"
-  - "Psychoanalysis"
-  - "Racism"
-  - "Soren Kierkegaard"
+  - abjection
+  - brian-pennington
+  - christianity
+  - colonialism
+  - franz-fanon
+  - julia-kristeva
+  - psychoanalysis
+  - racism
+  - soren-kierkegaard
 ---
 
 We have all built up walls, established boundaries, “Do Not Merge” lanes, rules and regulations that we set our lives up according to. We do this because the aspects of life that disrupt social order, that remind us of the horrors that exist beyond ourselves, are too much. Some of these walls, boundaries, rules, and borders have been established by other groups who believe they are bringing civility, salvation, “rightness” to a backwards society. These limitations remind us of our mortality, of the forbidden desires we all have, but work so hard to avoid. They are there, they are part of life, but they are not to be touched.

@@ -6,12 +6,12 @@ permalink: /2020/06/29/re-enchanted-empire-the-figure-of-pan-in-edwardian-fictio
 image: /images/wp-content/uploads/2020/06/idea_SIZED-royal-museum-greenwich-11833679286_73f249719e_o.jpg
 
 categories:
-  - "Literary History"
-  - "Literary Theory"
+  - literary-history
+  - literary-theory
 tags:
-  - "Social"
-  - "Political Theology"
-  - "Theory"
+  - social
+  - political-theology
+  - theory
 ---
 
 In my [previous post](/2020/05/27/some-notes-on-blanchot-and-disaster-roger-green/), I explored the distinction between the state of exception and Maurice Blanchot’s opening remarks from *The Writing of the Disaster.* I ended pondering some of Blanchot’s remarks on the disaster and forgetfulness with respect to Pan and “panic.” In this post, I want to more explicitly focus on some literary representations of Pan.

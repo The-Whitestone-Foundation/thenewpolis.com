@@ -1,27 +1,29 @@
 ---
 title: "Critical Conversations 6 – On Decoloniality With Walter Mignolo (Victor Taylor, Walter Mignolo)"
 date: 2021-02-10T17:59:00+00:00
-author: Victor Taylor, Walter Mignolo
+author:
+  - Victor Taylor
+  - Walter Mignolo
 permalink: /2021/02/10/critical-conversations-6/
 image: /images/wp-content/uploads/2021/02/Map_of_America_by_Sebastian_Munster.jpg
 
 categories:
-  - "Critical Conversations"
+  - critical-conversations
 tags:
-  - "Adam Smith"
-  - "Argentina"
-  - "Catholicism"
-  - "Christianity"
-  - "Decoloniality"
-  - "Liberalism"
-  - "Marxism"
-  - "Matteo Ricci"
-  - "Neoliberalism"
-  - "Noam Chomsky"
-  - "Racism"
-  - "Spain"
-  - "Victor Taylor"
-  - "Walter Mignolo"
+  - adam-smith
+  - argentina
+  - catholicism
+  - christianity
+  - decoloniality
+  - liberalism
+  - marxism
+  - matteo-ricci
+  - neoliberalism
+  - noam-chomsky
+  - racism
+  - spain
+  - victor-taylor
+  - walter-mignolo
 ---
 
 *The following is the video and transcript of the sixth “Critical Conversation”, a monthly Zoom seminar with advance registration sponsored by The New Polis and Whitestone Publications and involving indigenous and international scholars. The seminar took place on Jan. 12, 2020*

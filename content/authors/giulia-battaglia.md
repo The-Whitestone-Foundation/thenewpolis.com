@@ -2,5 +2,6 @@
 title: "Giulia Battaglia"
 author: "Giulia Battaglia"
 slug: "giulia-battaglia"
-permalink: false
+affilation: ""
+image: /images/thenewpolis-logo.png
 ---

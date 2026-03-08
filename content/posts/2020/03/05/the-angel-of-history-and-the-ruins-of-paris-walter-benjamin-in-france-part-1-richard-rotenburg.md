@@ -6,21 +6,21 @@ permalink: /2020/03/05/the-angel-of-history-and-the-ruins-of-paris-walter-benjam
 image: /images/wp-content/uploads/2020/03/Angel-of-history.png
 
 categories:
-  - "Political Philosophy"
+  - political-philosophy
 tags:
-  - "Arcades Project"
-  - "Frankfurt School"
-  - "Franz Rosenzweig"
-  - "Gershom Scholem"
-  - "Hilter Stalin Pact"
-  - "Lisbon Earthquake"
-  - "Marism"
-  - "Messianism"
-  - "Nazism"
-  - "Nick Bostrom"
-  - "Paul Klee"
-  - "Vichy France"
-  - "Wlater Banjmain"
+  - arcades-project
+  - frankfurt-school
+  - franz-rosenzweig
+  - gershom-scholem
+  - hilter-stalin-pact
+  - lisbon-earthquake
+  - marism
+  - messianism
+  - nazism
+  - nick-bostrom
+  - paul-klee
+  - vichy-france
+  - wlater-banjmain
 ---
 
 The *following is the first of a three-part series.* *A previous version of this article provided an incorrect name and bio for the author. We apologize for the error.*

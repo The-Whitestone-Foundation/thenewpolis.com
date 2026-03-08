@@ -6,22 +6,22 @@ permalink: /2021/02/28/neoliberalism-populism-and-modern-transforms-of-sovereign
 image: /images/wp-content/uploads/2021/02/Arthur_Molle_-_Royal_Sovereign_-_Fronteau_de_coltis_babord.jpg
 
 categories:
-  - "Doctrine of Discovery and Domination"
-  - "Political Theology"
+  - doctrine-of-discovery-and-domination
+  - political-theology
 tags:
-  - "Aristotle"
-  - "Capitalism"
-  - "Clsude Lefort"
-  - "Fourth Industrial Revolution"
-  - "Ian Adams"
-  - "Jean Bodin"
-  - "Jean Jacques Rousseau"
-  - "John Locke"
-  - "Klaus Schwab"
-  - "Metapolitics"
-  - "Neoliberalism"
-  - "Populism"
-  - "Walter Mignolo"
+  - aristotle
+  - capitalism
+  - clsude-lefort
+  - fourth-industrial-revolution
+  - ian-adams
+  - jean-bodin
+  - jean-jacques-rousseau
+  - john-locke
+  - klaus-schwab
+  - metapolitics
+  - neoliberalism
+  - populism
+  - walter-mignolo
 ---
 
 ## The following is the first of a two-part series.

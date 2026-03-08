@@ -1,21 +1,22 @@
 ---
 title: "The Myth Of “One World” – Deep Globalization, Or Why Everything Is Simultaneously Coming Together And Coming Apart? (Announcement)"
 date: 2022-01-06T23:55:00+00:00
-author: Announcement
+author: thenewpolis
 permalink: /2022/01/06/the-myth-of-one-world-deep-globalization-or-why-everything-is-simultaneously-coming-together-and-coming-apart-announcement/
 image: /images/wp-content/uploads/2022/01/800px-Enfants_au_depot_dordures_du_site_de_la_baie_dAtikoume.jpg
 
 categories:
-  - "Announcements"
+  - announcements
 tags:
-  - "Covid"
-  - "Globalization"
-  - "Great Reset"
-  - "Human Trafficking"
-  - "Indigeneity"
-  - "Klaus Schwab"
-  - "Manfred Steger"
-  - "Thomas Friedman"
+  - covid
+  - globalization
+  - great-reset
+  - human-trafficking
+  - indigeneity
+  - klaus-schwab
+  - manfred-steger
+  - thomas-friedman
+
 ---
 
 How do we make sense of the present world, which seems to be simultaneously coming together and coming apart at the seams?

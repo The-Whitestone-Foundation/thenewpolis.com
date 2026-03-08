@@ -6,19 +6,19 @@ permalink: /2020/09/16/global-anthropogenesis-and-the-black-messianic-animal-or-
 image: /images/wp-content/uploads/2020/09/black-woman-in-mask.jpg
 
 categories:
-  - "Critical Race Theory"
+  - critical-race-theory
 tags:
-  - "Afrio Pessimism"
-  - "Alexis Gumb"
-  - "Anthropogenesis"
-  - "Antonio Gramsci"
-  - "Black Messianism"
-  - "Blackness"
-  - "Chrisatianity"
-  - "Eric Meyer"
-  - "Frank Wilderson Iii"
-  - "Hortense Spiller"
-  - "Theology"
+  - afrio-pessimism
+  - alexis-gumb
+  - anthropogenesis
+  - antonio-gramsci
+  - black-messianism
+  - blackness
+  - chrisatianity
+  - eric-meyer
+  - frank-wilderson-iii
+  - hortense-spiller
+  - theology
 ---
 
 *The following is the second of a two-part series. The first can be [found here](/2020/09/09/global-anthropogenesis-and-the-black-messianic-animal-or-relations-ban-of-contact-with-the-ruptured-flesh-of-the-earth-andrew-santana-kaplan/?preview=true&_thumbnail_id=2271).*

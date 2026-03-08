@@ -6,19 +6,19 @@ permalink: /2019/04/15/terror-and-performance-asymmetric-warfare-martyrdom-and-n
 image: /images/wp-content/uploads/2019/04/WTC-Fireman_requests_10_more_colleagesa-1.jpg
 
 categories:
-  - "Terrorism"
+  - terrorism
 tags:
-  - "Achille Mbembe"
-  - "Al Qaida"
-  - "Daesh"
-  - "Decolonialization"
-  - "Edward Said"
-  - "Hito Steverel"
-  - "Jean Baudrillard"
-  - "Michel Foucault"
-  - "Necropolitics"
-  - "Slavoj Zizek"
-  - "Terrorism"
+  - achille-mbembe
+  - al-qaida
+  - daesh
+  - decolonialization
+  - edward-said
+  - hito-steverel
+  - jean-baudrillard
+  - michel-foucault
+  - necropolitics
+  - slavoj-zizek
+  - terrorism
 ---
 
 > \[The Fourth World War is\] a fractal war of all cells, all singularities,  revolting in the form of antibodies. A confrontation so impossible to pin down that the idea of war has to be rescued from time to time by spectacular set-pieces, such as the Gulf War or the war in Afghanistan. But the Fourth World War is elsewhere. It is what haunts every world order, all hegemonic domination—if Islam dominated the world, terrorism would rise against Islam, for it is the world, the globe itself, which resists globalization.

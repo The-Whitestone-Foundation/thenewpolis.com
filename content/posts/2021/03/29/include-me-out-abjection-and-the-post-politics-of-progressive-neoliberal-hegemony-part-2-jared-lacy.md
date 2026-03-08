@@ -6,22 +6,22 @@ permalink: /2021/03/29/include-me-out-abjection-and-the-post-politics-of-progres
 image: /images/wp-content/uploads/2021/03/progressive-neoliberalism-720.jpg
 
 categories:
-  - "Neoliberalism"
+  - neoliberalism
 tags:
-  - "Democracy"
-  - "Donald Trump"
-  - "Giorgio Agamben"
-  - "Jacques Ranciere"
-  - "Julia Kristeva"
-  - "Metapolitics"
-  - "Nancy Fraser"
-  - "Neoliberalism"
-  - "Parapolitics"
-  - "Postmodernism"
-  - "Slavoj Zizek"
-  - "Thomas Hobbes"
-  - "Unity Party"
-  - "Wendy Brown"
+  - democracy
+  - donald-trump
+  - giorgio-agamben
+  - jacques-ranciere
+  - julia-kristeva
+  - metapolitics
+  - nancy-fraser
+  - neoliberalism
+  - parapolitics
+  - postmodernism
+  - slavoj-zizek
+  - thomas-hobbes
+  - unity-party
+  - wendy-brown
 ---
 
 ## The following is the second of a two-part series.

@@ -2,5 +2,6 @@
 title: "Andrew Santana Kaplan"
 author: "Andrew Santana Kaplan"
 slug: "andrew-santana-kaplan"
-permalink: false
+affilation: ""
+image: /images/thenewpolis-logo.png
 ---

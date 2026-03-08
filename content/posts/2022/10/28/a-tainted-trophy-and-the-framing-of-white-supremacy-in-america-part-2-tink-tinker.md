@@ -6,15 +6,15 @@ permalink: /2022/10/28/a-tainted-trophy-and-the-framing-of-white-supremacy-in-am
 image: /images/wp-content/uploads/2022/11/Untitled2.png
 
 categories:
-  - "Indigenous Theory"
+  - indigenous-theory
 tags:
-  - "David Morgan"
-  - "Genocide"
-  - "James Fennimore Cooper"
-  - "Lenape"
-  - "Native Americans"
-  - "Ohio"
-  - "William Barns"
+  - david-morgan
+  - genocide
+  - james-fennimore-cooper
+  - lenape
+  - native-americans
+  - ohio
+  - william-barns
 ---
 
 *The following is the second of a three-part series. The first can be found [here](/19/a-tainted-trophy-and-the-framing-of-white-supremacy-in-america-part-1-tink-tinker/). The entire article appears in the fall 2022 issue of [The New Polis Journal.](https://journal.thenewpolis.com/)*

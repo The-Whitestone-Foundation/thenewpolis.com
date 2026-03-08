@@ -2,5 +2,6 @@
 title: "Simon P. Kennedy"
 author: "Simon P. Kennedy"
 slug: "simon-p-kennedy"
-permalink: false
+affilation: ""
+image: /images/thenewpolis-logo.png
 ---

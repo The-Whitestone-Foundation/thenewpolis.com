@@ -6,18 +6,18 @@ permalink: /2018/12/17/todays-politics-bear-strange-resemblance-to-the-1850s-mar
 image: /images/wp-content/uploads/2018/12/BeaconStreet_Boston_1850s.jpg
 
 categories:
-  - "Political History"
+  - political-history
 tags:
-  - "Abolitionism"
-  - "Abrham Lincoln"
-  - "Edward Baptist"
-  - "John C Fremont"
-  - "John Fremont"
-  - "Know Nothings"
-  - "Slavery"
-  - "Treaty of Guadalupe Hidalgo"
-  - "Wall Street"
-  - "White Supremacy"
+  - abolitionism
+  - abrham-lincoln
+  - edward-baptist
+  - john-c-fremont
+  - john-fremont
+  - know-nothings
+  - slavery
+  - treaty-of-guadalupe-hidalgo
+  - wall-street
+  - white-supremacy
 ---
 
 *The following article is [republished from the former Political Theology Today.](https://politicaltheology.com/todays-politics-bear-strange-resemblance-to-the-1850s-martin-katchen/)*

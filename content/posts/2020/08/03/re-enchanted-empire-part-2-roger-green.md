@@ -6,26 +6,26 @@ permalink: /2020/08/03/re-enchanted-empire-part-2-roger-green/
 image: /images/wp-content/uploads/2020/08/869px-Wind_in_the_Willows_1913_-_Piper_at_the_Gates_of_Dawn.jpg
 
 categories:
-  - "Childrens Literature"
-  - "Literary History"
-  - "Poetry"
-  - "Political Theology"
-  - "Uncategorized"
-  - "White Supremacism"
+  - childrens-literature
+  - literary-history
+  - poetry
+  - political-theology
+  - uncategorized
+  - white-supremacism
 tags:
-  - "British Empire"
-  - "E M Forster"
-  - "Edwardian"
-  - "Elizabeth Barrett Browning"
-  - "Frances Hodgson Burnett"
-  - "J M Barrie"
-  - "Kenneth Grahame"
-  - "Pan"
-  - "Peter Pan"
-  - "Political Theology"
-  - "The Secret Garden"
-  - "The Story of A Panic"
-  - "Wind in the Willows"
+  - british-empire
+  - e-m-forster
+  - edwardian
+  - elizabeth-barrett-browning
+  - frances-hodgson-burnett
+  - j-m-barrie
+  - kenneth-grahame
+  - pan
+  - peter-pan
+  - political-theology
+  - the-secret-garden
+  - the-story-of-a-panic
+  - wind-in-the-willows
 ---
 
 In my [previous post](/2020/06/29/re-enchanted-empire-the-figure-of-pan-in-edwardian-fiction-part-1-roger-green/), I argued that as a pagan figure, Pan manifests an Edwardian desire to re-enchant England as a critique of the British Empire while also remaining intellectually and culturally elitist. Here I continue to analyze the figure across various texts.

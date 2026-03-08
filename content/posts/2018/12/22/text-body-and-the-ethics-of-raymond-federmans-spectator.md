@@ -6,18 +6,18 @@ permalink: /2018/12/22/text-body-and-the-ethics-of-raymond-federmans-spectator/
 image: /images/wp-content/uploads/2018/12/Boxes_of_Nissin_Cup_Noodles_on_pallets_at_Costco_SSF_ECR-e1544469188284.jpg
 
 categories:
-  - "Art Theory"
-  - "Literary History"
-  - "Literary Theory"
-  - "Postmodernism"
+  - art-theory
+  - literary-history
+  - literary-theory
+  - postmodernism
 tags:
-  - "Art"
-  - "Criti Fiction"
-  - "Emmanuel Levinas"
-  - "Jewish Identity"
-  - "Raymond Federman"
-  - "Story of A Childhood"
-  - "The New Fiction"
+  - art
+  - criti-fiction
+  - emmanuel-levinas
+  - jewish-identity
+  - raymond-federman
+  - story-of-a-childhood
+  - the-new-fiction
 ---
 
 In this post, I argue that postmodern writer, Raymond Federman’s reluctant commitment to text, his necessity to return to and interrupt narrative and to *make* text, emphasizing its artificial nature, exhibits a Jewish ethical commitment to resist representation.  In doing so, Federman continues longstanding themes in Jewish hermeneutics as well as presenting examples of what one might call ethical critifiction.

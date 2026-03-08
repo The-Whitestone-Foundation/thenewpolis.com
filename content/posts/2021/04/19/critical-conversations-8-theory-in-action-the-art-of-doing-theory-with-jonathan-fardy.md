@@ -1,26 +1,26 @@
 ---
 title: "Critical Conversations 8 – Theory In Action – The Art Of “Doing” Theory With Jonathan Fardy"
 date: 2021-04-19T20:21:22+00:00
-author: thenewpolis
+author: Jonathan Fardy
 permalink: /2021/04/19/critical-conversations-8-theory-in-action-the-art-of-doing-theory-with-jonathan-fardy/
 image: /images/wp-content/uploads/2021/04/Eclipse_in_the_Key_of_String_Theory.jpg
 
 categories:
-  - "Art Theory"
-  - "Critical Conversations"
+  - art-theory
+  - critical-conversations
 tags:
-  - "Aesthetics"
-  - "Andrew Weiss"
-  - "Art"
-  - "Critical Race Theory"
-  - "Gilles Deleuze"
-  - "Jacques Ranciere"
-  - "Karl Marx"
-  - "Kieryn Wurts"
-  - "Louis Althusser"
-  - "M Curtis Allen"
-  - "Ranjit Guha"
-  - "Theory"
+  - aesthetics
+  - andrew-weiss
+  - art
+  - critical-race-theory
+  - gilles-deleuze
+  - jacques-ranciere
+  - karl-marx
+  - kieryn-wurts
+  - louis-althusser
+  - m-curtis-allen
+  - ranjit-guha
+  - theory
 ---
 
 *This conversation took place March 16, 2021. Full transcript is provided* *below.*

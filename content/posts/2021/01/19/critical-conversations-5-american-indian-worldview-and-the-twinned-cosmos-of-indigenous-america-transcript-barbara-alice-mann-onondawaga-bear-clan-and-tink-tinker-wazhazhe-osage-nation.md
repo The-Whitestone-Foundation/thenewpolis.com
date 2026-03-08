@@ -6,22 +6,22 @@ permalink: /2021/01/19/critical-conversations-5-american-indian-worldview-and-th
 image: /images/wp-content/uploads/2021/01/bb4e01e6-af44-413d-8519-3c930cd32db3.jpeg
 
 categories:
-  - "Doctrine of Discovery and Domination"
-  - "Indigenous Theory"
-  - "Uncategorized"
+  - doctrine-of-discovery-and-domination
+  - indigenous-theory
+  - uncategorized
 tags:
-  - "Albert White Hat"
-  - "American Indian"
-  - "Barbara Alice Mann"
-  - "Colonialism"
-  - "Indigenous"
-  - "Lakota"
-  - "Osage"
-  - "Seneca"
-  - "Tink Tinker"
-  - "Turtle Island"
-  - "Twinned Cosmos"
-  - "Worldview"
+  - albert-white-hat
+  - american-indian
+  - barbara-alice-mann
+  - colonialism
+  - indigenous
+  - lakota
+  - osage
+  - seneca
+  - tink-tinker
+  - turtle-island
+  - twinned-cosmos
+  - worldview
 ---
 
 *The following is the video and transcript of the fifth “Critical Conversation”, a monthly Zoom seminar with advance registration sponsored by The New Polis and Whitestone Publications and involving indigenous and international scholars. The seminar took place on December 8, 2020*.

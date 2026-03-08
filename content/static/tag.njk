@@ -11,10 +11,10 @@ layout: page.njk
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="/tags/" class="text-decoration-none">All Tags</a></li>
-            <li class="breadcrumb-item active" aria-current="page">{{ tag }}</li>
+            <li class="breadcrumb-item active" aria-current="page">{{ tag | displayTerm }}</li>
         </ol>
     </nav>
-    <h2 class="display-5 serif fw-bold border-bottom pb-3">Topic: <span class="text-muted">{{ tag }}</span></h2>
+    <h2 class="display-5 serif fw-bold border-bottom pb-3">Topic: <span class="text-muted">{{ tag | displayTerm }}</span></h2>
 </div>
 
 <div class="post-list mt-4">
@@ -29,7 +29,11 @@ layout: page.njk
                 <div class="text-muted small mb-3">
                     <time datetime="{{ post.date | htmlDateString }}"><i class="bi bi-calendar3 me-1"></i> {{ post.date | readableDate }}</time>
                     {% if post.data.author %}
-                        <span class="ms-3"><i class="bi bi-person me-1"></i> By {{ post.data.author }}</span>
+                        <span class="ms-3"><i class="bi bi-person me-1"></i> By
+                            {% for authorName in post.data.author | authorList %}
+                                <a href="/authors/{{ authorName | slugify }}/" class="text-decoration-none">{{ authorName }}</a>{% if not loop.last %}, {% endif %}
+                            {% endfor %}
+                        </span>
                     {% endif %}
                 </div>
                 {% if post.data.description %}

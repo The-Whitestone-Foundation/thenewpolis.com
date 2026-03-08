@@ -6,14 +6,14 @@ permalink: /2022/11/12/a-tainted-trophy-and-the-framing-of-white-supremacy-in-am
 image: /images/wp-content/uploads/2022/11/Chief-White-Eagle.png
 
 categories:
-  - "Indigenous Theory"
+  - indigenous-theory
 tags:
-  - "American Indians"
-  - "Fractal Genocide"
-  - "George Washington"
-  - "Illinois Wesleyan University"
-  - "White Supremacy"
-  - "William Henry Harrison"
+  - american-indians
+  - fractal-genocide
+  - george-washington
+  - illinois-wesleyan-university
+  - white-supremacy
+  - william-henry-harrison
 ---
 
 *The following is the third of a three-part series. The first can be found [here](/10/19/a-tainted-trophy-and-the-framing-of-white-supremacy-in-america-part-1-tink-tinker/), the second [here](/10/28/a-tainted-trophy-and-the-framing-of-white-supremacy-in-america-part-2-tink-tinker/). The entire article appears in the fall 2022 issue of [The New Polis Journal.](https://journal.thenewpolis.com/)*

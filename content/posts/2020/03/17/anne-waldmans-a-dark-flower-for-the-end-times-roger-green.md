@@ -6,13 +6,13 @@ permalink: /2020/03/17/anne-waldmans-a-dark-flower-for-the-end-times-roger-green
 image: /images/wp-content/uploads/2020/03/IMG_0476-2.jpg
 
 categories:
-  - "Aesthetics"
-  - "Poetry"
+  - aesthetics
+  - poetry
 tags:
-  - "Adam Baumeister"
-  - "Anne Waldman"
-  - "Meep Records"
-  - "Poetry"
+  - adam-baumeister
+  - anne-waldman
+  - meep-records
+  - poetry
 ---
 
 In times of crisis, we turn to art. Today, [Meep Records](https://www.meeprecords.com) in Denver has released *A Dark Flower For The End Times*. This week, as many of us sit at home amid an international pandemic, we at *The New Polis* invite you to listen to Waldman’s words commenting on our times.

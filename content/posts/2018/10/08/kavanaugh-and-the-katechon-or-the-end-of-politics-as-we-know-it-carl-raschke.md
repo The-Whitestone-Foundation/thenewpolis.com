@@ -6,19 +6,19 @@ permalink: /2018/10/08/kavanaugh-and-the-katechon-or-the-end-of-politics-as-we-k
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Political Theology"
+  - political-theology
 tags:
-  - "Alexis Grinell"
-  - "Bill Clinton"
-  - "Brett Kavanaugh"
-  - "Carl Schmitt"
-  - "Deep Culture"
-  - "Etienne Balabour"
-  - "G W F Hegel"
-  - "Jacques Derrida"
-  - "Jacques Lacan"
-  - "Karl Marx"
-  - "Partisan Politics"
+  - alexis-grinell
+  - bill-clinton
+  - brett-kavanaugh
+  - carl-schmitt
+  - deep-culture
+  - etienne-balabour
+  - g-w-f-hegel
+  - jacques-derrida
+  - jacques-lacan
+  - karl-marx
+  - partisan-politics
 ---
 
 Now that it is over, the vicious political battle that raged these past two weeks over the Brett Kavanaugh nomination to the U.S. Supreme Court appears less significant for its outcome than for what it revealed about what we might term the “deep culture” of America.

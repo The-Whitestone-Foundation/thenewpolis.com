@@ -1,23 +1,23 @@
 ---
 title: "CRITICAL CONVERSATIONS – A Conversation With Arthur Bradley On Sovereignty, Part 2"
 date: 2022-05-25T18:02:00+00:00
-author: thenewpolis
+author: Arthur Bradley
 permalink: /2022/05/25/critical-conversations-a-conversation-with-arthur-bradley-on-sovereignty-part-2/
 image: /images/wp-content/uploads/2022/05/1024px-Il_cortile_della_casa_di_Gherardo_bozzetto_di_Edoardo_Marchioro_per_Fra_Gherardo_1927_-_Archivio_Storico_Ricordi_ICON004273.jpg
 
 categories:
-  - "Critical Conversations"
-  - "Political Theology"
+  - critical-conversations
+  - political-theology
 tags:
-  - "Eric Voegelin"
-  - "Franz Kafka"
-  - "Friedrich Schiller"
-  - "Hamlet"
-  - "Hito Steyerl"
-  - "Holocaust"
-  - "Les Chaises"
-  - "Sovereignty"
-  - "Thomas Hobbes"
+  - eric-voegelin
+  - franz-kafka
+  - friedrich-schiller
+  - hamlet
+  - hito-steyerl
+  - holocaust
+  - les-chaises
+  - sovereignty
+  - thomas-hobbes
 ---
 
 *The following is the second part of a transcript of one of our ongoing “Critical Conversations” with [distinguished British political philosopher Arthur Bradley](https://www.lancaster.ac.uk/english-literature-and-creative-writing/people/arthur-bradley). The conversation took place on March 10, 2022.* *The first part can be found [here](/11/critical-conversations-a-conversation-with-arthur-bradley-on-sovereignty-part-1/)*. *The discussion centers around his recent boo*k [Unbearable Life: A Genealogy of Political Erasure](https://www.google.com/books/edition/Unbearable_Life/Q2SIDwAAQBAJ?hl=en&gbpv=1&dq=unbearable+life&printsec=frontcover).

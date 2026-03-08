@@ -6,19 +6,19 @@ permalink: /2020/11/03/discovery-st-junipero-lewis-and-clark-tink-tinker-wazhazh
 image: /images/wp-content/uploads/2020/10/21c11c59-d51b-481a-a439-0daa1a4a5e3b.jpeg
 
 categories:
-  - "American History"
-  - "Doctrine of Discovery and Domination"
-  - "Indigenous Theory"
-  - "Political History"
-  - "Social History"
+  - american-history
+  - doctrine-of-discovery-and-domination
+  - indigenous-theory
+  - political-history
+  - social-history
 tags:
-  - "Doctrine of Discovery"
-  - "Gaspar De Portola"
-  - "Junipero Serra"
-  - "Lewis and Clark"
-  - "Louisiana Purchase"
-  - "Thomas Jefferson"
-  - "Tink Tinker"
+  - doctrine-of-discovery
+  - gaspar-de-portola
+  - junipero-serra
+  - lewis-and-clark
+  - louisiana-purchase
+  - thomas-jefferson
+  - tink-tinker
 ---
 
 *Out of respect for Dr Tinker’s writing style, the editor has chosen to keep the author’s footnotesintact. Readers should know that they often expand and clarify the text in addition to pointing to sources. Readers may also be interested in [Tinker’s earlier piece on](/2019/01/21/damn-it-hes-an-injun-christian-murder-colonial-wealth-and-tanned-human-skin-tink-tinker-wazhazhe-udsethe/)* [The New Polis](/2019/01/21/damn-it-hes-an-injun-christian-murder-colonial-wealth-and-tanned-human-skin-tink-tinker-wazhazhe-udsethe/) *tracing the history of a book of Christian history that was bound in the flayed skin of an American Indian and displayed publicly for 80 years.*

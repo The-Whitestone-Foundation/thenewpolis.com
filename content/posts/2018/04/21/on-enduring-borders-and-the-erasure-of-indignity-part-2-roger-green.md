@@ -6,21 +6,21 @@ permalink: /2018/04/21/on-enduring-borders-and-the-erasure-of-indignity-part-2-r
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Indigenous Theory"
-  - "Neoliberalism"
+  - indigenous-theory
+  - neoliberalism
 tags:
-  - "Bartolome De Las Casas"
-  - "Capitalism"
-  - "Gerald Vizenor"
-  - "Giorgio Agamben"
-  - "Indigeneity"
-  - "John Cabot"
-  - "John Marshall"
-  - "Karl Marx"
-  - "Neoliberalism"
-  - "Theory of the Border"
-  - "Thomas Hobbes"
-  - "Thomas Nail"
+  - bartolome-de-las-casas
+  - capitalism
+  - gerald-vizenor
+  - giorgio-agamben
+  - indigeneity
+  - john-cabot
+  - john-marshall
+  - karl-marx
+  - neoliberalism
+  - theory-of-the-border
+  - thomas-hobbes
+  - thomas-nail
 ---
 
 **The following is the second installment of Roger Green’s article.  The first installment can be found** **[here](/2018/03/27/on-enduring-borders-and-the-erasure-of-indigeneity-roger-green/).**

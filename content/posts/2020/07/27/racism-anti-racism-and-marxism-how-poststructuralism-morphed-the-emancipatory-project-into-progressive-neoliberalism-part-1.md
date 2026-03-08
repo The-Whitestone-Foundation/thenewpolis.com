@@ -6,21 +6,21 @@ permalink: /2020/07/27/racism-anti-racism-and-marxism-how-poststructuralism-morp
 image: /images/wp-content/uploads/2020/07/Franz-Fanon.jpg
 
 categories:
-  - "Political Theory"
+  - political-theory
 tags:
-  - "Alain Badiou"
-  - "Anti Racism"
-  - "Black Panthers"
-  - "Bobby Seale"
-  - "Catherine Belsey"
-  - "Edmund Wilson"
-  - "George Floyd"
-  - "Jacques Derrida"
-  - "Jean Francois Lyotard"
-  - "Louis Althusser"
-  - "Marxism"
-  - "Poststructuralism"
-  - "Racism"
+  - alain-badiou
+  - anti-racism
+  - black-panthers
+  - bobby-seale
+  - catherine-belsey
+  - edmund-wilson
+  - george-floyd
+  - jacques-derrida
+  - jean-francois-lyotard
+  - louis-althusser
+  - marxism
+  - poststructuralism
+  - racism
 ---
 
 *The following is the first of a four-part series on the current upsurge in antiracist activism in America as well as its intellectual roots, historical context, and implications.*

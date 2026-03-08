@@ -6,19 +6,19 @@ permalink: /2019/04/21/migration-and-waning-sovereignty-humanitarian-challenge-o
 image: /images/wp-content/uploads/2019/04/Mexican-border-Tijuana.jpg
 
 categories:
-  - "Immigration"
-  - "Political Theory"
+  - immigration
+  - political-theory
 tags:
-  - "Aristotle"
-  - "Donald Trump"
-  - "Ethno Nationalism"
-  - "Etienne Balibar"
-  - "Immigration"
-  - "Jacques Derrida"
-  - "Neoliberalism"
-  - "Populism"
-  - "Sovereignty"
-  - "Wendy Brown"
+  - aristotle
+  - donald-trump
+  - ethno-nationalism
+  - etienne-balibar
+  - immigration
+  - jacques-derrida
+  - neoliberalism
+  - populism
+  - sovereignty
+  - wendy-brown
 ---
 
 Donald Trump was elected president of the United States, albeit not by a popular majority of votes, largely on his promise to “build the wall” that would stem the tide of illegal immigration across the southern border.  Two and a half years into his administration the trope of the “wall” has become a master signifier for the increasingly and hostile partisan politics that threatens to crush and granulate any lingering, minimal semblance of popular consensus in American democracy.

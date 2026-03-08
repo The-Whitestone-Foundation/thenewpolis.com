@@ -6,16 +6,16 @@ permalink: /2019/09/03/neoliberalism-and-the-cultural-politics-of-shame-samantha
 image: /images/wp-content/uploads/2019/09/The_10000_Hookworm_Family.jpg
 
 categories:
-  - "Neoliberalism"
+  - neoliberalism
 tags:
-  - "Jean Paul Sartre"
-  - "Michel Foucault"
-  - "Neoliberalism"
-  - "Poverty"
-  - "Robert Solomon"
-  - "Sara Ahmed"
-  - "Shame"
-  - "Silvan Tompkins"
+  - jean-paul-sartre
+  - michel-foucault
+  - neoliberalism
+  - poverty
+  - robert-solomon
+  - sara-ahmed
+  - shame
+  - silvan-tompkins
 ---
 
 Shame as an affect, an emotion, or a feeling serves a critical purpose in the construction and maintenance of hegemonic power relations. Sara Ahmed defines it in her book [*The Cultural Politics of Emotion*](https://books.google.com/books?id=7zokDQAAQBAJ&printsec=frontcover&dq=cultural+politics+of+emotion&hl=en&sa=X&ved=2ahUKEwjax6OB-bXkAhUOKqwKHXT8AEYQ6AEwAHoECAUQAg#v=onepage&q=cultural%20politics%20of%20emotion&f=false) as an “intense and painful sensation that is bound up in how the self feels about itself (103).”

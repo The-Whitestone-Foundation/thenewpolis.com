@@ -6,19 +6,19 @@ permalink: /2021/08/02/neliberalism-and-the-illusion-of-sovereignty-part-3-carl-
 image: /images/wp-content/uploads/2021/08/IMG_0143.jpeg
 
 categories:
-  - "Neoliberalism"
+  - neoliberalism
 tags:
-  - "Alain De Bonist"
-  - "Democracy"
-  - "Ernesto Laclau"
-  - "Jean Jacques Rousseau"
-  - "John Locke"
-  - "Michel Foucault"
-  - "Parrhesia"
-  - "Populism"
-  - "Robin Osborne"
-  - "Sovereignty"
-  - "Thomas Hobbes"
+  - alain-de-bonist
+  - democracy
+  - ernesto-laclau
+  - jean-jacques-rousseau
+  - john-locke
+  - michel-foucault
+  - parrhesia
+  - populism
+  - robin-osborne
+  - sovereignty
+  - thomas-hobbes
 ---
 
 *The following is the last of a three-part series. The first can be found [here](/06/29/neoliberalism-and-the-illusion-of-sovereignty-carl-raschke/), the second [here](/07/12/neoliberalism-and-the-illusion-of-sovereignty-part-2/).*

@@ -6,20 +6,20 @@ permalink: /2019/03/19/the-christchurch-shooter-the-outrage-industry-and-the-new
 image: /images/wp-content/uploads/2019/03/Prise_de_la_Bastille.jpg
 
 categories:
-  - "Media Theory"
-  - "White Supremacism"
+  - media-theory
+  - white-supremacism
 tags:
-  - "Christchurch Shooting"
-  - "Emerson Brooking"
-  - "Identity Politics"
-  - "Information Warfare"
-  - "Islam"
-  - "Jeffrey Berry"
-  - "New Zealand"
-  - "P W Singer"
-  - "Sarah Sobiera"
-  - "Thomas Hobbes"
-  - "White Supremacy"
+  - christchurch-shooting
+  - emerson-brooking
+  - identity-politics
+  - information-warfare
+  - islam
+  - jeffrey-berry
+  - new-zealand
+  - p-w-singer
+  - sarah-sobiera
+  - thomas-hobbes
+  - white-supremacy
 ---
 
 By the time this article appears in print the press will have thoroughly milked every egregious as well as superficial aspect of the American college admissions cheating scandal.   The global media, having surveyed virtually every significant angle of commentary, will quickly become obsessed for a day or two with something else.

@@ -1,22 +1,22 @@
 ---
 title: "In Defense Of Politics (Jonathan Cole)"
 date: 2018-04-01T18:11:14+00:00
-author: Contributing Editor
+author: Jonathan Cole
 permalink: /2018/04/01/in-defense-of-politics-jonathan-cole/
 image: /images/wp-content/uploads/2018/04/IMG_1480.jpg
 
 categories:
-  - "Essays"
-  - "Political Theory"
+  - essays
+  - political-theory
 tags:
-  - "Biology"
-  - "Corinthians"
-  - "Donald Trump"
-  - "Kim Jong Un"
-  - "Political Theory"
-  - "Politics"
-  - "Saint Paul"
-  - "Transcendence"
+  - biology
+  - corinthians
+  - donald-trump
+  - kim-jong-un
+  - political-theory
+  - politics
+  - saint-paul
+  - transcendence
 ---
 
 In an age in which the degeneration of politicians, political institutions, and political culture—let’s call it “politics”—is fast becoming something of an unquestioned article of faith, a defense of such politics sounds decidedly unfashionable at best, and insolent at worst.

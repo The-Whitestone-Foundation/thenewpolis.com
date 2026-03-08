@@ -6,18 +6,18 @@ permalink: /2019/09/30/the-dialectic-of-enlightenment-from-a-postsecular-lens-pa
 image: /images/wp-content/uploads/2019/09/Alchemist_1050x700.jpg
 
 categories:
-  - "Critical Theory"
-  - "Neoliberalism"
-  - "Politics and Religion"
+  - critical-theory
+  - neoliberalism
+  - politics-and-religion
 tags:
-  - "Anti Semitism"
-  - "Christian Right"
-  - "Dialectic of Enlightenment"
-  - "Max Horkheimer"
-  - "Neoliberalism"
-  - "Postsecularism"
-  - "Theodor Adorno"
-  - "W E B Dubois"
+  - anti-semitism
+  - christian-right
+  - dialectic-of-enlightenment
+  - max-horkheimer
+  - neoliberalism
+  - postsecularism
+  - theodor-adorno
+  - w-e-b-dubois
 ---
 
 In this series of posts, I have been reviewing Max Horkheimer and Theodor Adorno’s *Dialectic of Enlightenment* from a ‘post secular’ lens.  In my [last post](/2019/09/10/the-dialectic-of-enlightenment-from-a-postsecular-lens-part-4-roger-green/), I was tracing the authors’ descriptions of anti-Semitic behavior as “blindness,” and I quipped that this blindness is repositioned by neoliberalism, that it speaks “in no small way” to the rise of evangelicalism in American politics in the late 20th and early 20th centuries.  I explained that both current Democrats and Republicans are part of this move, and you might start with the recent *Netflix* documentary, *The Family,* as an example of that bipartisan invocation of universalism.

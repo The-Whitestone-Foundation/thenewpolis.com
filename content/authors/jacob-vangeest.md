@@ -2,5 +2,6 @@
 title: "Jacob Vangeest"
 author: "Jacob Vangeest"
 slug: "jacob-vangeest"
-permalink: false
+affilation: ""
+image: /images/thenewpolis-logo.png
 ---

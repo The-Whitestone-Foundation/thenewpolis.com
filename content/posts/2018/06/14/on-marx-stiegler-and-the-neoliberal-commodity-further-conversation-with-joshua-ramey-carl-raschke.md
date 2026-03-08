@@ -6,18 +6,18 @@ permalink: /2018/06/14/on-marx-stiegler-and-the-neoliberal-commodity-further-con
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Critical Theory"
-  - "Neoliberalism"
+  - critical-theory
+  - neoliberalism
 tags:
-  - "Bernard Stiegler"
-  - "Capitalism"
-  - "Commodification"
-  - "Dividuation"
-  - "Grammatization"
-  - "Joshua Ramey"
-  - "Karl Marx"
-  - "Libertarianism"
-  - "Politics of Divination"
+  - bernard-stiegler
+  - capitalism
+  - commodification
+  - dividuation
+  - grammatization
+  - joshua-ramey
+  - karl-marx
+  - libertarianism
+  - politics-of-divination
 ---
 
 *This article is a follow-up to the [interview](/2018/06/11/on-neoliberalism-and-the-politics-of-divination-an-interview-with-joshua-ramey/) conducted by* New Polis *general editor Roger Green with Joshua Ramey on neoliberalism and the “politics of divination.”*

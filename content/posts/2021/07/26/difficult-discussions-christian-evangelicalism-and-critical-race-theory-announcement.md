@@ -1,18 +1,19 @@
 ---
 title: "Difficult Discussions – Christian Evangelicalism And Critical Race Theory (Announcement)"
 date: 2021-07-26T21:31:00+00:00
-author: Announcement
+author: thenewpolis
 permalink: /2021/07/26/difficult-discussions-christian-evangelicalism-and-critical-race-theory-announcement/
 image: /images/wp-content/uploads/2021/07/DD-l.png
 
 categories:
-  - "Announcements"
-  - "Difficult Discussions"
+  - announcements
+  - difficult-discussions
 tags:
-  - "Christian Evangelicalism"
-  - "Critical Race Theory"
-  - "Political Science"
-  - "Religion"
+  - christian-evangelicalism
+  - critical-race-theory
+  - political-science
+  - religion
+
 ---
 
 **When:** Thursday, September 23, 2021, 10 am-12 pm (Mountain Daylight Time)

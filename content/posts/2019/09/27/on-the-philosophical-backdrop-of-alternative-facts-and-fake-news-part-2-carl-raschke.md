@@ -6,17 +6,17 @@ permalink: /2019/09/27/on-the-philosophical-backdrop-of-alternative-facts-and-fa
 image: /images/wp-content/uploads/2019/09/Edmund-Husserl-1930.jpg
 
 categories:
-  - "Media Theory"
+  - media-theory
 tags:
-  - "Algorithms"
-  - "Bernard Stielger"
-  - "Deconstruction"
-  - "Edmund Husserl"
-  - "Enlightenment"
-  - "Gilles Deleuze"
-  - "Jacques Derrida"
-  - "Pedro Domingos"
-  - "Phenomenology"
+  - algorithms
+  - bernard-stielger
+  - deconstruction
+  - edmund-husserl
+  - enlightenment
+  - gilles-deleuze
+  - jacques-derrida
+  - pedro-domingos
+  - phenomenology
 ---
 
 *The following is the second installment of a two-part series.  The first can be found [here](/2019/09/23/on-the-philosophical-backdrop-of-alternative-facts-and-fake-news-part-1-carl-raschke/).  The article was recently presented at the international meeting of the Deutsche Gesellschaft für Phänomenologische Forschung (German Society for Phenomenological Research) in Vienna.  The conference theme was “Fact, Facticity, and Reality”, or how philosophy can understand new media culture.*
@@ -85,4 +85,3 @@ If “nihilism” is, as Nietzsche famously quipped, a monstrous plight in which
 
 *Carl Raschke is [Professor of Religious Studies at the University of Denver](https://www.du.edu/ahss/religiousstudies/facultystaff/raschke.html), specializing in Continental philosophy, art theory, the philosophy of religion and the theory of religion.   He is an internationally known writer and academic, who has authored numerous books and hundreds of articles on topics ranging from postmodernism to popular religion and culture to technology and society.  Recent books include* [Postmodern Theology: A Biopic](https://books.google.com/books?id=AfctDwAAQBAJ&printsec=frontcover&dq=postmodernism+and+the+revolution+in+religious+theory&hl=en&sa=X&ved=0ahUKEwiRkJ-c0q7ZAhVD9mMKHZuwDKMQ6AEILzAB#v=onepage&q=postmodernism%20and%20the%20revolution%20in%20religious%20theory&f=false) *(Cascade Books, 2017)*, [Critical](https://books.google.com/books?id=xeyqDQAAQBAJ&pg=PT158&dq=raschke+critical+theology&hl=en&sa=X&ved=0ahUKEwjlj6Tk0q7ZAhVBEGMKHYebAhgQ6AEIKTAA#v=onepage&q=raschke%20critical%20theology&f=false) [Theology: An Agenda for an Age of Global Crisis](https://books.google.com/books?id=xeyqDQAAQBAJ&pg=PT158&dq=raschke+critical+theology&hl=en&sa=X&ved=0ahUKEwjlj6Tk0q7ZAhVBEGMKHYebAhgQ6AEIKTAA#v=onepage&q=raschke%20critical%20theology&f=false) *(IVP Academic, 2016)*, [Force of God: Political Theology and the Crisis of Liberal Democracy](https://forceofgod.com/) *(Columbia University Press, 2015)* and *[The Revolution in Religious Theory: Toward a Semiotics of the Event](https://books.google.com/books?id=ZjH76Oz1FUgC&printsec=frontcover&dq=postmodernism+and+the+revolution+in+religious+theory&hl=en&sa=X&ved=0ahUKEwiRkJ-c0q7ZAhVD9mMKHZuwDKMQ6AEIKTAA#v=onepage&q=postmodernism%20and%20the%20revolution%20in%20religious%20theory&f=false)* (University of Virginia Press, 2012)*.  His newest book is entitled* [Neoliberalism and Political Theology: From Kant to Identity Politics](https://edinburghuniversitypress.com/book-neoliberalism-and-political-theology-hb.html)*,* (Edinburgh *University Press, 2019).  He is also Senior Consulting Editor for* The New Polis.
 
-[](#_ednref1)

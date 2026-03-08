@@ -6,20 +6,20 @@ permalink: /2020/04/10/coronations-notes-from-the-quarantine-john-panteleimon-ma
 image: /images/wp-content/uploads/2020/04/1406px-Nuremberg_chronicles_-_Dance_of_Death_CCLXIIIIv.jpg
 
 categories:
-  - "Philosophy"
-  - "Politics and Religion"
+  - philosophy
+  - politics-and-religion
 tags:
-  - "Albert Camus"
-  - "Christianity"
-  - "Coronoavirus"
-  - "Dostoyevski"
-  - "Elias Canetti"
-  - "Lent"
-  - "Martin Heidegger"
-  - "Plato"
-  - "Quarantne"
-  - "Sophocles"
-  - "Thucydides"
+  - albert-camus
+  - christianity
+  - coronoavirus
+  - dostoyevski
+  - elias-canetti
+  - lent
+  - martin-heidegger
+  - plato
+  - quarantne
+  - sophocles
+  - thucydides
 ---
 
 ## Oedipal Disease

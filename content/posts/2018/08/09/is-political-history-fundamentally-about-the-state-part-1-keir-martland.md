@@ -1,19 +1,19 @@
 ---
 title: "Is Political History Fundamentally About the State? Part 1 (Keir Martland)"
 date: 2018-08-09T23:37:34+00:00
-author: Contributing Editor
+author: Keir Martland
 permalink: /2018/08/09/is-political-history-fundamentally-about-the-state-part-1-keir-martland/
 image: /images/wp-content/uploads/2018/08/Style-Westminster-image-Moving-Castle-0.4MP.jpg
 
 categories:
-  - "Political History"
+  - political-history
 tags:
-  - "British Political History"
-  - "Marxism"
-  - "Max Weber"
-  - "New Political Thought"
-  - "Peterhouse School of History"
-  - "Political Culture"
+  - british-political-history
+  - marxism
+  - max-weber
+  - new-political-thought
+  - peterhouse-school-of-history
+  - political-culture
 ---
 
 ## The following is the first installment of a two-part series.

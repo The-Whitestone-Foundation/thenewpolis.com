@@ -6,14 +6,14 @@ permalink: /2020/05/12/surveillance-society-panopticon-in-the-age-of-digital-med
 image: /images/wp-content/uploads/2020/05/1600px-Presidio-modelo2.jpg
 
 categories:
-  - "Digital Politics and Culture"
+  - digital-politics-and-culture
 tags:
-  - "David Shumway"
-  - "Disciplinary Power"
-  - "Jeremy Bentham"
-  - "Michel Foucault"
-  - "Nsa"
-  - "Panopticism"
+  - david-shumway
+  - disciplinary-power
+  - jeremy-bentham
+  - michel-foucault
+  - nsa
+  - panopticism
 ---
 
 ## The following is the first of a two-part series.

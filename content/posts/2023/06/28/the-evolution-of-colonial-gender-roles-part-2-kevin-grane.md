@@ -6,18 +6,18 @@ permalink: /2023/06/28/the-evolution-of-colonial-gender-roles-part-2-kevin-grane
 image: /images/wp-content/uploads/2023/07/Nu_gay_lib_demo_03.jpg
 
 categories:
-  - "Gender Theory"
+  - gender-theory
 tags:
-  - "Colonialism"
-  - "Craig Rodwell"
-  - "Elaine Noble"
-  - "Gender"
-  - "Lawrence V Texas"
-  - "Mattachine Society"
-  - "Panarchy"
-  - "Ron Desantis"
-  - "Seymore Pine"
-  - "Stonewall Riots"
+  - colonialism
+  - craig-rodwell
+  - elaine-noble
+  - gender
+  - lawrence-v-texas
+  - mattachine-society
+  - panarchy
+  - ron-desantis
+  - seymore-pine
+  - stonewall-riots
 ---
 
 *The following is the second of a two-part series. The first can be found [here](/14/the-evolution-of-colonial-gender-roles-kevin-grane/). The article originally appeared in* [The Journal for Cultural and Religious Theory *22:1*](https://www.jcrt.org/archives/22.1/).
@@ -73,5 +73,3 @@ These postulates hold significant potential to affect the religious marketplace.
 [^5]: Keri D. Ingraham, “The Radical Reshaping of K-12 Public Education (Part 1): Gender Redefinition & Self-Selection,” *Discovery Institute,* June 2, 2021, https://www.discovery.org/education/2021/06/02/the-radical-reshaping-of-k-12-public-education-part-1-gender-redefinition-self-selection/. 
 
 [^6]: Masci, David, et al. “Same-Sex Marriage Around the World.” *Pew Research Center*, October 28, 2019, https://www.pewresearch.org/religion/fact-sheet/gay-marriage-around-the-world/. 
-
-## Footnotes

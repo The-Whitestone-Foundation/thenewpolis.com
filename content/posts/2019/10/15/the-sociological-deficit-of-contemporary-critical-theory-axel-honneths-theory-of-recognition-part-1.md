@@ -6,14 +6,14 @@ permalink: /2019/10/15/the-sociological-deficit-of-contemporary-critical-theory-
 image: /images/wp-content/uploads/2019/10/958px-Axel_Honneth_2016-04-18_cropped.jpg
 
 categories:
-  - "Critical Theory"
+  - critical-theory
 tags:
-  - "Axel Honneth"
-  - "Friedrich Nietzsche"
-  - "Max Horkheimer"
-  - "Max Weber"
-  - "Sociology"
-  - "Theodor Adorno"
+  - axel-honneth
+  - friedrich-nietzsche
+  - max-horkheimer
+  - max-weber
+  - sociology
+  - theodor-adorno
 ---
 
 ## The following is the first installment of a four-part series.

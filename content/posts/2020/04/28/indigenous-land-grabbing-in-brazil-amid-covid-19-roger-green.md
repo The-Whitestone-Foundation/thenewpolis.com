@@ -6,16 +6,16 @@ permalink: /2020/04/28/indigenous-land-grabbing-in-brazil-amid-covid-19-roger-gr
 image: /images/wp-content/uploads/2020/04/slash_burn_farming_456.jpg
 
 categories:
-  - "Ecology"
-  - "Indigenous Theory"
-  - "Politics and Religion"
+  - ecology
+  - indigenous-theory
+  - politics-and-religion
 tags:
-  - "Bolsonaro"
-  - "Brazil"
-  - "Coronavirus"
-  - "Covid 19"
-  - "Eurochristian"
-  - "Indigenous"
+  - bolsonaro
+  - brazil
+  - coronavirus
+  - covid-19
+  - eurochristian
+  - indigenous
 ---
 
 A [recent article](https://www.nytimes.com/2020/04/27/opinion/yanomami-covid-brazil.html) in *The New York Times* by anthropologist Bruce Alpert relays the story of a fifteen-year-old Yanomami boy, Alvaney Xirixana, who died from Covid-19 earlier this month. He notes that part of the disaster that the Yanomami and other Indigenous Peoples comes from “the absurd negligence of local health services,” and that multiple misdiagnoses before testing him for coronavirus meant he likely spread the virus to many of his people before being isolated and dying.

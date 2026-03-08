@@ -2,5 +2,6 @@
 title: "Corey McCall"
 author: "Corey McCall"
 slug: "corey-mccall"
-permalink: false
+affilation: ""
+image: /images/thenewpolis-logo.png
 ---

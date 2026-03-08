@@ -6,17 +6,17 @@ permalink: /2020/03/24/the-angel-of-history-and-the-ruins-of-paris-walter-benjam
 image: /images/wp-content/uploads/2020/03/Fukushima_I_by_Digital_Globe.jpg
 
 categories:
-  - "Political Philosophy"
+  - political-philosophy
 tags:
-  - "Auguste Blanqui"
-  - "Ernst Bloch"
-  - "Fukishima"
-  - "Georg Simmel"
-  - "Jean Pierre Dupuy"
-  - "Jugenstil"
-  - "Louis Philippe"
-  - "Paul Valery"
-  - "Walter Benjamin"
+  - auguste-blanqui
+  - ernst-bloch
+  - fukishima
+  - georg-simmel
+  - jean-pierre-dupuy
+  - jugenstil
+  - louis-philippe
+  - paul-valery
+  - walter-benjamin
 ---
 
 *The following is the second of a two-part series. The first can be found [here](/2020/03/05/the-angel-of-history-and-the-ruins-of-paris-walter-benjamin-in-france-part-1-richard-rotenburg/)*, *the second [here](/2020/03/12/the-angel-of-history-and-the-ruins-of-paris-walter-benjamin-in-france-part-2-richard-rottenburg/).* *A previous version of this article provided an incorrect name and bio for the author. We apologize for the error.*

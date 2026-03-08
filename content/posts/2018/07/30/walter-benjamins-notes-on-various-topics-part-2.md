@@ -1,24 +1,26 @@
 ---
 title: "Walter Benjamin’s Notes On Various Topics, Part 2"
 date: 2018-07-30T04:32:50+00:00
-author: thenewpolis
+author:
+  - Rachel Thomas
+  - Carl Raschke
 permalink: /2018/07/30/walter-benjamins-notes-on-various-topics-part-2/
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Critical Theory"
+  - critical-theory
 tags:
-  - "Death"
-  - "Embodiment"
-  - "Genius"
-  - "Goethe"
-  - "Marriage"
-  - "Mental Illness"
-  - "Perception"
-  - "Psychology"
-  - "Shame"
-  - "Subjectivity"
-  - "Walter Benjamin"
+  - death
+  - embodiment
+  - genius
+  - goethe
+  - marriage
+  - mental-illness
+  - perception
+  - psychology
+  - shame
+  - subjectivity
+  - walter-benjamin
 ---
 
 **Translated by Rachel Thomas.  Edited  by Carl Raschke**.

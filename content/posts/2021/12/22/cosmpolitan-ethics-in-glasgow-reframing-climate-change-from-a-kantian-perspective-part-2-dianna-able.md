@@ -6,14 +6,14 @@ permalink: /2021/12/22/cosmpolitan-ethics-in-glasgow-reframing-climate-change-fr
 image: /images/wp-content/uploads/2021/12/ShipTracks_MODIS_2005may11.jpg
 
 categories:
-  - "Political Philosophy"
+  - political-philosophy
 tags:
-  - "Climate Change"
-  - "Cosmopolitanism"
-  - "Glasgow Climate Pact"
-  - "Harjeet Singh"
-  - "Iammuel Kant"
-  - "Paris Agreement"
+  - climate-change
+  - cosmopolitanism
+  - glasgow-climate-pact
+  - harjeet-singh
+  - iammuel-kant
+  - paris-agreement
 ---
 
 *The following is the second of a two-part series. The first can be found [here](/10/cosmopolitan-ethics-in-glasgow-reframing-climate-change-from-a-kantian-perspective-part-1-dianna-able/).*

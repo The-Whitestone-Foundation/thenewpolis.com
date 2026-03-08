@@ -6,15 +6,15 @@ permalink: /2019/03/13/on-political-theology-and-religious-poetics-a-tribute-to-
 image: /images/wp-content/uploads/2019/03/santa-muerta-3.jpg
 
 categories:
-  - "Borderlands"
-  - "Indigenous Theory"
-  - "Political Theology"
+  - borderlands
+  - indigenous-theory
+  - political-theology
 tags:
-  - "Borderlands"
-  - "La Lloronas Children"
-  - "Luis D Leon"
-  - "Political Theology"
-  - "Religious Poetics"
+  - borderlands
+  - la-lloronas-children
+  - luis-d-leon
+  - political-theology
+  - religious-poetics
 ---
 
 If politics names the power relations regarding the polis, in their deliberative form, then ‘the political’ names the environment in which those power relations operate.  From the outset of Western civilization, Aristotle saw the polis or ‘State’ as this environment.  For him, it was organic and had life, as well as a genealogy, based on the necessities for reproduction.

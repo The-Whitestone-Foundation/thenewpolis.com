@@ -6,17 +6,17 @@ permalink: /2022/06/23/decolonizing-identity-politics-through-subjective-in-betw
 image: /images/wp-content/uploads/2022/06/Massive_Crowds_Gather_At_Umgababa_Picnic_in_KZN_South_Africa_03.jpg
 
 categories:
-  - "Identity Politics"
+  - identity-politics
 tags:
-  - "Carl Raschke"
-  - "Ethiopia"
-  - "Geneva School"
-  - "Identity Politics"
-  - "Kwame Boafo Artur"
-  - "Michel Foucault"
-  - "Neoliberalism"
-  - "Quinn Slobodian"
-  - "Wendy Brown"
+  - carl-raschke
+  - ethiopia
+  - geneva-school
+  - identity-politics
+  - kwame-boafo-artur
+  - michel-foucault
+  - neoliberalism
+  - quinn-slobodian
+  - wendy-brown
 ---
 
 *The following is the second of a four-part series. The first can be found [here](/09/decolonizing-identity-politics-through-subjective-in-betweenness-part-1-rode-molla/).*

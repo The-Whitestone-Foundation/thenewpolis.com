@@ -6,18 +6,18 @@ permalink: /2021/09/29/the-state-of-exception-as-apocalyptic-desire-overcoming-a
 image: /images/wp-content/uploads/2021/09/berlin_street_scene_1050x700.jpeg
 
 categories:
-  - "Political Theology"
-  - "Religious Violence"
+  - political-theology
+  - religious-violence
 tags:
-  - "Gilbert Achar"
-  - "Giorgio Agamben"
-  - "Jonathan Berkeley"
-  - "Linda Zerilli"
-  - "Myth"
-  - "Religious Violence"
-  - "Rene Girard"
-  - "State of Exception"
-  - "William Cavanaugh"
+  - gilbert-achar
+  - giorgio-agamben
+  - jonathan-berkeley
+  - linda-zerilli
+  - myth
+  - religious-violence
+  - rene-girard
+  - state-of-exception
+  - william-cavanaugh
 ---
 
 *The following is the third in a multipart series. The first can be found [here](/14/the-state-of-exception-as-apocalyptic-desire-overcoming-a-persecuting-society-part-1-roger-green/), the second can be found [here](/21/the-state-of-exception-as-apocalyptic-desire-overcoming-a-persecuting-society-part-2-roger-green/).*

@@ -6,17 +6,17 @@ permalink: /2020/09/09/global-anthropogenesis-and-the-black-messianic-animal-or-
 image: /images/wp-content/uploads/2020/09/Bundesarchiv_Bild_105-DOA0184_Deutsch-Ostafrika_Wuga_Schule.jpg
 
 categories:
-  - "Critical Race Theory"
+  - critical-race-theory
 tags:
-  - "Anthropocene"
-  - "Anthropogenesis"
-  - "Axelle Karera"
-  - "David Marriott"
-  - "Frank Wilderson"
-  - "Franz Fanon"
-  - "Giorgio Agamben"
-  - "Kathryn Yusoff"
-  - "Willie James Jennings"
+  - anthropocene
+  - anthropogenesis
+  - axelle-karera
+  - david-marriott
+  - frank-wilderson
+  - franz-fanon
+  - giorgio-agamben
+  - kathryn-yusoff
+  - willie-james-jennings
 ---
 
 ## The following is the first of a two-part series.

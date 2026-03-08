@@ -36,7 +36,7 @@ layout: page.njk
                         {% set tagPosts = collections.posts | filterByTag(tag) %}
                         <div class="col">
                             <a href="/tag/{{ tag | slugify }}/" class="text-decoration-none text-dark d-block p-2 rounded hover-light border-start border-3 border-secondary bg-light-subtle">
-                                <span class="fw-bold">{{ tag }}</span>
+                                <span class="fw-bold">{{ tag | displayTerm }}</span>
                                 <span class="text-muted small d-block">{{ tagPosts.length }} articles</span>
                             </a>
                         </div>

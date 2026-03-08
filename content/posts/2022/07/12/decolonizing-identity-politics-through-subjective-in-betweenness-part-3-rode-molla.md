@@ -6,18 +6,18 @@ permalink: /2022/07/12/decolonizing-identity-politics-through-subjective-in-betw
 image: /images/wp-content/uploads/2022/08/800px-Ancient_Blocks_With_Sabaean_Inscriptions_Yeha_Ethiopia_3146498586.jpg
 
 categories:
-  - "Identity Politics"
+  - identity-politics
 tags:
-  - "Achille Mbembe"
-  - "Africa"
-  - "Christianity"
-  - "Eprdf"
-  - "Ethiopia"
-  - "Identity Politics"
-  - "Maimire Mennasemay"
-  - "Marxism"
-  - "Postcolonial Discourse"
-  - "Wax and Gold Paradigm"
+  - achille-mbembe
+  - africa
+  - christianity
+  - eprdf
+  - ethiopia
+  - identity-politics
+  - maimire-mennasemay
+  - marxism
+  - postcolonial-discourse
+  - wax-and-gold-paradigm
 ---
 
 *The following is the second of a four-part series. The first can be found [here](/06/09/decolonizing-identity-politics-through-subjective-in-betweenness-part-1-rode-molla/)*, *the second [here](/06/23/decolonizing-identity-politics-through-subjective-in-betweenness-part-2-rode-molla/).*

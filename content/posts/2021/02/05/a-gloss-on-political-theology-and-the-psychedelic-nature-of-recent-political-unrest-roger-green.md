@@ -6,25 +6,25 @@ permalink: /2021/02/05/a-gloss-on-political-theology-and-the-psychedelic-nature-
 image: /images/wp-content/uploads/2021/02/9551370008_6a718a4633_b.jpg
 
 categories:
-  - "Aesthetics"
-  - "Contemporary Politics"
-  - "Neoliberalism"
-  - "Political Theology"
-  - "Psychedelic Aesthetics"
+  - aesthetics
+  - contemporary-politics
+  - neoliberalism
+  - political-theology
+  - psychedelic-aesthetics
 tags:
-  - "Carl Schmitt"
-  - "Jurgen Habermas"
-  - "Liberalism"
-  - "Mircea Eliade"
-  - "Neoliberalism"
-  - "Political Theology"
-  - "Poststructuralism"
-  - "Psychedelic Esthetics"
-  - "Religion"
-  - "Richard Rorty"
-  - "Sovereignty"
-  - "Victoria Kahn"
-  - "Walter Benjamin"
+  - carl-schmitt
+  - jurgen-habermas
+  - liberalism
+  - mircea-eliade
+  - neoliberalism
+  - political-theology
+  - poststructuralism
+  - psychedelic-esthetics
+  - religion
+  - richard-rorty
+  - sovereignty
+  - victoria-kahn
+  - walter-benjamin
 ---
 
 *What follows updates some excerpts from my book,* [*A Transatlantic Political Theology of Psychedelic Aesthetics*](https://www.palgrave.com/gp/book/9783030153175) *(Palgrave 2019). Related excerpts may also be found with respect to [Walter Benjamin in The Journal For Cultural and Religious Theory](https://jcrt.org/archives/19.3/4-Green.pdf)*[.](https://jcrt.org/archives/19.3/4-Green.pdf)

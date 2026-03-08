@@ -6,15 +6,15 @@ permalink: /2021/02/01/the-primordial-substitute-teacher-neoliberalism-racial-ca
 image: /images/wp-content/uploads/2021/02/OKLAHOMA_CITY_PUBLIC_SCHOOLS_ce_series.png
 
 categories:
-  - "Education"
-  - "Neoliberalism"
+  - education
+  - neoliberalism
 tags:
-  - "Alain Badiou"
-  - "Big Other"
-  - "Campbell Jones"
-  - "Russell Hochschild"
-  - "Slavoj Zizek"
-  - "The Real"
+  - alain-badiou
+  - big-other
+  - campbell-jones
+  - russell-hochschild
+  - slavoj-zizek
+  - the-real
 ---
 
 *The following is the last of a three-part series. The first can be found [here](/2020/12/17/2469/)*, the second [here](/2021/01/18/the-primordial-substitute-teacher-neoliberalism-racial-capitalism-and-the-ideology-of-students-first-part-2-thomas-joyce/).

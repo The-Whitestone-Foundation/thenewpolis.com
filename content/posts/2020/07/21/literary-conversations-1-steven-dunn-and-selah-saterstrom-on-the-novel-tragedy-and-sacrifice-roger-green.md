@@ -6,21 +6,21 @@ permalink: /2020/07/21/literary-conversations-1-steven-dunn-and-selah-saterstrom
 image: /images/wp-content/uploads/2020/07/800px-Willem_van_den_Broecke_-_The_sacrifice_of_Abraham.jpg
 
 categories:
-  - "Critical Conversations"
+  - critical-conversations
 tags:
-  - "Brian Evenson"
-  - "Critical Race Theory"
-  - "Culture Wars"
-  - "Daniel Boyarin"
-  - "Jacques Derrida"
-  - "Jonathan Dollimore"
-  - "Max Horkheimer"
-  - "Postructuralism"
-  - "Selah Saterstrom"
-  - "Semiology"
-  - "Steven Dunn"
-  - "Theodor Adorno"
-  - "Wendy Brown"
+  - brian-evenson
+  - critical-race-theory
+  - culture-wars
+  - daniel-boyarin
+  - jacques-derrida
+  - jonathan-dollimore
+  - max-horkheimer
+  - postructuralism
+  - selah-saterstrom
+  - semiology
+  - steven-dunn
+  - theodor-adorno
+  - wendy-brown
 ---
 
 Steven Dunn and Selah Saterstrom in conversation with Roger Green

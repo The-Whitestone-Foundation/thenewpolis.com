@@ -6,24 +6,24 @@ permalink: /2018/03/01/call-for-submissions/
 image: /images/wp-content/uploads/2018/02/socialmag-cover-pexels-photo-799420.jpg
 
 categories:
-  - "Announcements"
-  - "Featured"
+  - announcements
+  - featured
 tags:
-  - "Articles"
-  - "Critical Theory"
-  - "Cultural Analysis"
-  - "Political Philosophy"
-  - "Political Theology"
-  - "Political Theory"
-  - "Political Thought"
-  - "Submissions"
+  - articles
+  - critical-theory
+  - cultural-analysis
+  - political-philosophy
+  - political-theology
+  - political-theory
+  - political-thought
+  - submissions
 ---
 
 *The New Polis* invites submissions both of a scholarly and popular nature that fit within its broad range in topic areas from critical theory and cultural analysis to political thought and theology.
 
 We welcome all areas of expertise in the arts and humanities.  We do not publish social scientific articles with quantitative analysis unless the data merely occasionally supplements through graphs or charts what is basically a qualitative narrative.  In addition, no term papers will be considered or accepted.
 
-All submissions are carefully vetted by its editorial staff, who have advanced academic degrees.  Occasional articles – e.g., reviews, essays, interviews, reflections, editorials, opinion pieces – are reviewed by the senior editors for our [weblog](https://) and may be selected for publication in the [academic journal](/journal) within two years following initial appearance.
+All submissions are carefully vetted by its editorial staff, who have advanced academic degrees.  Occasional articles – e.g., reviews, essays, interviews, reflections, editorials, opinion pieces – are reviewed by the senior editors for our [weblog](https://thenewpolis.com) and may be selected for publication in the [academic journal](/journal) within two years following initial appearance.
 
 *Academic articles* should be anywhere from 4,000-10,000 words, although longer submissions will also be considered.  All academic articles must be submitted in Microsoft Word, or Word-compatible, format and have *Chicago-style documentation*.  In additions, submissions must include an abstract and the author’s curriculum vitae.
 

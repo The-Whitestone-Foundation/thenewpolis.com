@@ -6,18 +6,18 @@ permalink: /2021/10/05/the-state-of-exception-as-apocalyptic-desire-overcoming-a
 image: /images/wp-content/uploads/2021/10/800px-2010_0515_rama_4_and_sathorn_26.jpg
 
 categories:
-  - "Political Theology"
-  - "Religious Violence"
+  - political-theology
+  - religious-violence
 tags:
-  - "Carl Schmitt"
-  - "David Chidester"
-  - "Marcel Gauchet"
-  - "R I Moore"
-  - "Religious Violence"
-  - "Rodney Stark"
-  - "The Crusades"
-  - "Thomas Asbridge"
-  - "Willaim Cavanaguh"
+  - carl-schmitt
+  - david-chidester
+  - marcel-gauchet
+  - r-i-moore
+  - religious-violence
+  - rodney-stark
+  - the-crusades
+  - thomas-asbridge
+  - willaim-cavanaguh
 ---
 
 *The following is the fourth of a multi-part series. The first can be found [here](/2021/09/14/the-state-of-exception-as-apocalyptic-desire-overcoming-a-persecuting-society-part-1-roger-green/), the second [here](/2021/09/21/the-state-of-exception-as-apocalyptic-desire-overcoming-a-persecuting-society-part-2-roger-green/), the third [here.](/2021/09/29/the-state-of-exception-as-apocalyptic-desire-overcoming-a-persecuting-society-part-3-roger-green/)*

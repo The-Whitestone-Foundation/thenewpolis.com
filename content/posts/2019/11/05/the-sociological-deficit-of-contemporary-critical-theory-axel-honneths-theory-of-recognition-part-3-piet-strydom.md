@@ -6,14 +6,14 @@ permalink: /2019/11/05/the-sociological-deficit-of-contemporary-critical-theory-
 image: /images/wp-content/uploads/2019/11/relationships.jpg
 
 categories:
-  - "Critical Theory"
+  - critical-theory
 tags:
-  - "Alex Honneth"
-  - "Cognitive Sociology"
-  - "Critical Theory"
-  - "Erving Goffman"
-  - "Functionalism"
-  - "George Herbert Mead"
+  - alex-honneth
+  - cognitive-sociology
+  - critical-theory
+  - erving-goffman
+  - functionalism
+  - george-herbert-mead
 ---
 
 *The following is the third installment of a four-part series.The first can be found [here](/2019/10/15/the-sociological-deficit-of-contemporary-critical-theory-axel-honneths-theory-of-recognition-part-1/)*, the second [here](/2019/10/22/the-sociological-deficit-of-contemporary-critical-theory-axel-honneths-theory-of-recognition-part-2-piet-strydom/).

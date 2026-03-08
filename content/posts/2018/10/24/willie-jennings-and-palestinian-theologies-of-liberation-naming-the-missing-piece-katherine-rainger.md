@@ -6,30 +6,30 @@ permalink: /2018/10/24/willie-jennings-and-palestinian-theologies-of-liberation-
 image: /images/wp-content/uploads/2018/10/380px-Benjamin_West_-_Joshua_passing_the_River_Jordan_with_the_Ark_of_the_Covenant_-_Google_Art_Project.jpg
 
 categories:
-  - "Interfaith Dialogue"
-  - "Political History"
-  - "Political Theology"
+  - interfaith-dialogue
+  - political-history
+  - political-theology
 tags:
-  - "A J Walton"
-  - "Alice Walker"
-  - "Beverly Eileen Mitchell"
-  - "Cedar Duaybis"
-  - "Cornel West"
-  - "Evangelical"
-  - "Israel"
-  - "J Kameron Carter"
-  - "Jean Zaru"
-  - "Mark Lewis Taylor"
-  - "Mitri Raheb"
-  - "Naim Ateek"
-  - "Palestine"
-  - "Paul C H Lim"
-  - "Race"
-  - "The Christian Imagination"
-  - "The Movement For Black Lives"
-  - "Walter Brueggemann"
-  - "Willie James Jennings"
-  - "Zionism"
+  - a-j-walton
+  - alice-walker
+  - beverly-eileen-mitchell
+  - cedar-duaybis
+  - cornel-west
+  - evangelical
+  - israel
+  - j-kameron-carter
+  - jean-zaru
+  - mark-lewis-taylor
+  - mitri-raheb
+  - naim-ateek
+  - palestine
+  - paul-c-h-lim
+  - race
+  - the-christian-imagination
+  - the-movement-for-black-lives
+  - walter-brueggemann
+  - willie-james-jennings
+  - zionism
 ---
 
 Willie James Jennings, author of the award-winning *[The Christian Imagination: Theology and the Origins of Race](https://yalebooks.yale.edu/book/9780300171365/christian-imagination)*, argues that issues of race and the Christian faith are so entangled in American life that one cannot be understood without reference to the other:

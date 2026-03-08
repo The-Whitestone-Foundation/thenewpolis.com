@@ -1,24 +1,28 @@
 ---
 title: "What Do We Mean By “Decoloniality”? A Discussion (Walter Mignolo, Catherine Walsh, Tink Tinker, Fernando Herrero)"
 date: 2021-05-03T15:06:44+00:00
-author: Walter Mignolo, Catherine Walsh, Tink Tinker, Fernando Herrero
+author:
+  - Walter Mignolo
+  - Catherine Walsh
+  - Tink Tinker
+  - Fernando Herrero
 permalink: /2021/05/03/what-do-we-mean-by-decoloniality-a-conversation/
 image: /images/wp-content/uploads/2021/05/Quechua_Woman.jpg
 
 categories:
-  - "Decoloniality"
+  - decoloniality
 tags:
-  - "Abya Yala"
-  - "Capitalism"
-  - "Catherine Walsh"
-  - "Colonialism"
-  - "Decoloniality"
-  - "Fernando Herrero"
-  - "Imperialism"
-  - "Neoliberalism"
-  - "Tink Tinker"
-  - "Victor Taylor"
-  - "Walter Mignolo"
+  - abya-yala
+  - capitalism
+  - catherine-walsh
+  - colonialism
+  - decoloniality
+  - fernando-herrero
+  - imperialism
+  - neoliberalism
+  - tink-tinker
+  - victor-taylor
+  - walter-mignolo
 ---
 
 *The following is a transcript of the keynote panel session of a three-day international webinar “Decoloniality And Disintegration Of Western Cognitive Empire – Rethinking Sovereignty And Territoriality In The 21st Century”, held April 14-16, 2021. The panel consists of Walter Mignolo and Catherine Walsh, co-authors of the book On Decoloniality (Duke University Press, 20180 and eminent Native American scholar Tink Tinker as well as University of London professor Fernando Herrero.* *It is moderated by Victor Taylor, Executive Editor for Whitestone Publications.*

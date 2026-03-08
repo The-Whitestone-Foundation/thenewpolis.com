@@ -6,20 +6,20 @@ permalink: /2018/09/29/nor-on-the-soles-of-her-shoes-the-king-of-infinite-space-
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Indigenous Theory"
-  - "Neoliberalism"
-  - "Political Theology"
-  - "Social History"
+  - indigenous-theory
+  - neoliberalism
+  - political-theology
+  - social-history
 tags:
-  - "Carl Raschke"
-  - "Carl Schmitt"
-  - "George Tink Tinker"
-  - "Giorgio Agamben"
-  - "Indigenous"
-  - "Political Theology"
-  - "Sigmund Freud"
-  - "Steven Newcomb"
-  - "Thomas Jefferson"
+  - carl-raschke
+  - carl-schmitt
+  - george-tink-tinker
+  - giorgio-agamben
+  - indigenous
+  - political-theology
+  - sigmund-freud
+  - steven-newcomb
+  - thomas-jefferson
 ---
 
 The tendency toward universalizing concepts has its legacy within the foundation of Religious Studies as a discipline, which, though little known outside the field, has recently interrogated its underwritten Protestant biases.  This work continues, despite the fact that many religiously sentimental scholars merely take discussions of “postsecularism” to be an invitation to bring surface-level scriptural study to the latest news headlines.

@@ -6,30 +6,30 @@ permalink: /2019/01/21/damn-it-hes-an-injun-christian-murder-colonial-wealth-and
 image: /images/wp-content/uploads/2019/01/devised-a-way-to-hang-natives-and-burn-them-alive-simultaneously-photo-u1.jpeg
 
 categories:
-  - "American History"
-  - "Indigenous Theory"
-  - "Literary Theory"
-  - "Political History"
-  - "Political Theology"
-  - "Social History"
+  - american-history
+  - indigenous-theory
+  - literary-theory
+  - political-history
+  - political-theology
+  - social-history
 tags:
-  - "American Indians"
-  - "Christian Colonialism"
-  - "David Morgan"
-  - "George Washington"
-  - "Gnadenhutten"
-  - "Hugh Henry Brackenridge"
-  - "Iliff Book"
-  - "Iliff School of Theology"
-  - "Lenape Indian Murder"
-  - "Lucullus Virgil Mcwhorter"
-  - "Native Americans"
-  - "Racism"
-  - "Redskin"
-  - "Royal Proclamation"
-  - "Tanned Hide"
-  - "Tink Tinker"
-  - "William Crawford"
+  - american-indians
+  - christian-colonialism
+  - david-morgan
+  - george-washington
+  - gnadenhutten
+  - hugh-henry-brackenridge
+  - iliff-book
+  - iliff-school-of-theology
+  - lenape-indian-murder
+  - lucullus-virgil-mcwhorter
+  - native-americans
+  - racism
+  - redskin
+  - royal-proclamation
+  - tanned-hide
+  - tink-tinker
+  - william-crawford
 ---
 
 *The New Polis is honored to present Dr. Tinker’s follow-up piece to* [“Redskin, Tanned Hide: A Book of Christian History Bound in the Flayed Skin of an American Indian: The Colonial Romance, christian Denial and the Cleansing of a christian School of Theology,”](https://raceandreligion.com/JRER/Volume_5_\(2014\)_files/Tinker%205%209.pdf) *published in* The Journal of Race, Ethnicity, and Religion*, Volume 5, Issue 9 (October 2014)*.  *Due to the importance of* *source work for this piece, we have left all of Dr. Tinker’s own notes and citations intact at the and of the draft.  We have only added hyperlinks when helpful and broken paragraphs for online readability.*  

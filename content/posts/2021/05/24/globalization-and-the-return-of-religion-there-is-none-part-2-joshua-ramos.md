@@ -6,16 +6,16 @@ permalink: /2021/05/24/globalization-and-the-return-of-religion-there-is-none-pa
 image: /images/wp-content/uploads/2021/05/concept-art-1.jpg
 
 categories:
-  - "Globalization Theory"
+  - globalization-theory
 tags:
-  - "Carl Raschke"
-  - "Globalization"
-  - "Jacques Derrida"
-  - "Martin Marty"
-  - "Olivier Roy"
-  - "Salman Rushdie"
-  - "Sayid Qutb"
-  - "Ulrich Beck"
+  - carl-raschke
+  - globalization
+  - jacques-derrida
+  - martin-marty
+  - olivier-roy
+  - salman-rushdie
+  - sayid-qutb
+  - ulrich-beck
 ---
 
 *The following is the second of a two-part series.* *The first can be found [here](/17/globalization-and-the-return-of-religion-part-1-joshua-ramos/).*

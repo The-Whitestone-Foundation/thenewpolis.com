@@ -1,24 +1,25 @@
 ---
 title: "The Fracturing Of World Order – A Series of International and Interdisciplinary Online Mini-Conferences, Call For Papers And Presentations (Announcement)"
 date: 2022-03-07T01:14:47+00:00
-author: Announcement
+author: thenewpolis
 permalink: /2022/03/07/the-fracturing-of-world-order-a-series-of-international-and-interdisciplinary-online-mini-conferences-call-for-papers-and-presentations-announcement/
 image: /images/wp-content/uploads/2022/03/crack-3364707_1280.jpg
 
 categories:
-  - "Announcements"
-  - "Conferences"
-  - "Globalization Theory"
+  - announcements
+  - conferences
+  - globalization-theory
 tags:
-  - "Deep Globalization"
-  - "Democracy"
-  - "Globalization"
-  - "International Governance"
-  - "Neoliberalism"
-  - "University of Denver"
-  - "War in Ukraine"
-  - "Wild Globalization"
-  - "World Ordet"
+  - deep-globalization
+  - democracy
+  - globalization
+  - international-governance
+  - neoliberalism
+  - university-of-denver
+  - war-in-ukraine
+  - wild-globalization
+  - world-ordet
+
 ---
 
 [The *Journal for Cultural and Religious Theory*](https://jcrt.org) and *[The New Polis](https://journal.thenewpolis.com)* in collaboration with representatives of the University of Denver announces a call for papers and presentations for a set of international and interdisciplinary online mini-conferences on the topic of “The Fracturing of World Order.” *JCRT* and *The New Polis* are part of the family of [Whitestone Publications](https://www.thewhitestonefoundation.org). The schedule of mini-conferences, which will be for one day only, is as follows:

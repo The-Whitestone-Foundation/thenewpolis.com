@@ -1,21 +1,23 @@
 ---
 title: "Walter Benjamin’s Notes On Various Topics, Part 1"
 date: 2018-06-05T02:42:22+00:00
-author: thenewpolis
+author:
+  - Rachel Thomas
+  - Carl Raschke
 permalink: /2018/06/05/walter-benjamins-notes-on-various-topics-part-1/
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Critical Theory"
+  - critical-theory
 tags:
-  - "Cynicism"
-  - "Epimenides"
-  - "Immanuel Kant"
-  - "Morality"
-  - "Prayer"
-  - "Subjectivity"
-  - "The Liar Paradox"
-  - "Walter Benjamin"
+  - cynicism
+  - epimenides
+  - immanuel-kant
+  - morality
+  - prayer
+  - subjectivity
+  - the-liar-paradox
+  - walter-benjamin
 ---
 
 **Translated by Rachel Thomas.  Edited  by Carl Raschke**.

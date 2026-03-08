@@ -1,22 +1,23 @@
 ---
 title: "The New Polis Journal (Announcement)"
 date: 2021-09-07T23:49:48+00:00
-author: Announcement
+author: thenewpolis
 permalink: /2021/09/07/the-new-polis-journal-announcement/
 image: /images/wp-content/uploads/2021/09/Screen-Shot-2021-09-07-at-6.21.39-PM.png
 
 categories:
-  - "Announcements"
+  - announcements
 tags:
-  - "Critical Theory"
-  - "Decoloniality"
-  - "Journal Publishing"
-  - "Political Philosophy"
-  - "Political Theology"
-  - "Social Analysis"
+  - critical-theory
+  - decoloniality
+  - journal-publishing
+  - political-philosophy
+  - political-theology
+  - social-analysis
+
 ---
 
-*The New Polis*, which launched operations in February 2018 as an [academic blog or e-journal,](https://) will now as of January 2022 become [a full-fledged, peer-reviewed academic journal](https://journal.thenewpolis.com) .
+*The New Polis*, which launched operations in February 2018 as an [academic blog or e-journal,](https://thenewpolis.com) will now as of January 2022 become [a full-fledged, peer-reviewed academic journal](https://journal.thenewpolis.com) .
 
 It will initially be published twice a year with a third annual edition added as the pace of submissions increases.
 

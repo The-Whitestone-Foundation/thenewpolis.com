@@ -6,19 +6,19 @@ permalink: /2019/09/10/the-dialectic-of-enlightenment-from-a-postsecular-lens-pa
 image: /images/wp-content/uploads/2019/09/fairy-tale-illustration-147332781912D.jpg
 
 categories:
-  - "Critical Theory"
-  - "Literary Theory"
-  - "Neoliberalism"
+  - critical-theory
+  - literary-theory
+  - neoliberalism
 tags:
-  - "Anti Semitism"
-  - "Bruno Bettelheim"
-  - "Dialectic of Enlightenment"
-  - "Max Horkheimer"
-  - "Max Weber"
-  - "Miguel De La Torre"
-  - "Neoliberalism"
-  - "Theodor Adorno"
-  - "Tragedy"
+  - anti-semitism
+  - bruno-bettelheim
+  - dialectic-of-enlightenment
+  - max-horkheimer
+  - max-weber
+  - miguel-de-la-torre
+  - neoliberalism
+  - theodor-adorno
+  - tragedy
 ---
 
 I have been working through a reading of Max Horkheimer and Thedor Adorno’s classic work of Critical Theory, *Dialectic of Enlightenment*.  I am particularly interested in the use of literary concepts in their critique.  As we have seen in earlier posts, their first few chapters moved historically, seeing the core of enlightenment in Odysseus as a prefigure for bourgeoisie, though they advance to modernity through critiques of Kant and Sade on morality.  Tragedy has also played a central role in their critique, and I traced that critique into recent postcolonial thought of David Scott before moving onto Horkheimer and Adorno’s famous critique of the culture industry [in my previous post](/2019/08/26/the-dialectic-of-enlightenment-from-a-postsecular-lens-part-3-roger-green/).

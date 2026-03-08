@@ -6,18 +6,18 @@ permalink: /2019/10/22/the-sociological-deficit-of-contemporary-critical-theory-
 image: /images/wp-content/uploads/2019/10/1280px-Kiss_Briseis_Painter_Louvre_G278_full.jpg
 
 categories:
-  - "Critical Theory"
+  - critical-theory
 tags:
-  - "Axel Honneth"
-  - "Critical Theory"
-  - "Functionalism"
-  - "George Herbert Mead"
-  - "Jurgen Habermas"
-  - "Marxism"
-  - "Max Horkheimer"
-  - "Social Mediation"
-  - "Theodor Adorno"
-  - "Theory of Recognition"
+  - axel-honneth
+  - critical-theory
+  - functionalism
+  - george-herbert-mead
+  - jurgen-habermas
+  - marxism
+  - max-horkheimer
+  - social-mediation
+  - theodor-adorno
+  - theory-of-recognition
 ---
 
 *The following is the second installment of a four-part series.* *The first can be found [here](/2019/10/15/the-sociological-deficit-of-contemporary-critical-theory-axel-honneths-theory-of-recognition-part-1/).*

@@ -6,17 +6,17 @@ permalink: /2018/06/18/on-enduring-borders-and-the-erasure-of-indigeneity-part-3
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Indigenous Theory"
+  - indigenous-theory
 tags:
-  - "Colonialism"
-  - "Donald Trump"
-  - "Ethnocentrism"
-  - "Ghassan Hage"
-  - "Glenn Coutlhard"
-  - "Marisol De La Cadena"
-  - "Native Americans"
-  - "Tink Tinker"
-  - "White Supremacy"
+  - colonialism
+  - donald-trump
+  - ethnocentrism
+  - ghassan-hage
+  - glenn-coutlhard
+  - marisol-de-la-cadena
+  - native-americans
+  - tink-tinker
+  - white-supremacy
 ---
 
 *The following is the third and final installment of Roger Green’s ongoing article.  The first installment can be found [here](/2018/03/27/on-enduring-borders-and-the-erasure-of-indigeneity-roger-green/). The second can be found [here](/2018/04/21/on-enduring-borders-and-the-erasure-of-indignity-part-2-roger-green/).*

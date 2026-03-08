@@ -6,14 +6,14 @@ permalink: /2020/01/06/is-theological-education-becoming-post-christian-roger-gr
 image: /images/wp-content/uploads/2020/01/Unknown-2-1.jpeg
 
 categories:
-  - "Higher Education"
-  - "Indigenous Theory"
-  - "Politics and Religion"
-  - "White Supremacism"
+  - higher-education
+  - indigenous-theory
+  - politics-and-religion
+  - white-supremacism
 tags:
-  - "Theology"
-  - "Social"
-  - "Political"
+  - theology
+  - social
+  - political
 ---
 
 *With minimal edits, this post was delivered orally for a panel discussion at The American Academy of Religion at the San Diego Convention Center in November 2019. Tink Tinker asked the author to present a response in line with Tinker’s thinking and scholarship. Tinker had been invited but refused to participate at the conference for reasons mentioned below. That said, Dr Tinker approved the statement in advance of the conference. For more clarification on the meaning of the term “eurochristian”, see Tinker’s “[What Are We Going To Do With White People?](/2019/12/17/what-are-we-going-to-do-with-white-people-tink-tinker-wazhazhe-osage-nation/)” published on The New Polis a few weeks ago.*

@@ -6,21 +6,21 @@ permalink: /2018/08/15/panoptical-time-and-colonial-framing-roger-green/
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Indigenous Theory"
-  - "Neoliberalism"
-  - "Social History"
+  - indigenous-theory
+  - neoliberalism
+  - social-history
 tags:
-  - "Alexander Weheliye"
-  - "Anne Mcclintock"
-  - "Habeas Viscus"
-  - "History"
-  - "Imperial Leather"
-  - "Indigeneity"
-  - "Jodi Byrd"
-  - "Multiculturalism"
-  - "Psychoanalysis"
-  - "Robert Miller"
-  - "Transit of Empire"
+  - alexander-weheliye
+  - anne-mcclintock
+  - habeas-viscus
+  - history
+  - imperial-leather
+  - indigeneity
+  - jodi-byrd
+  - multiculturalism
+  - psychoanalysis
+  - robert-miller
+  - transit-of-empire
 ---
 
 Anne McClintock’s prescient study, [*Imperial* *Leather*](https://www.amazon.com/Imperial-Leather-Sexuality-Colonial-Contest/dp/0415908906) (1995), concluded: 

@@ -1,25 +1,25 @@
 ---
 title: "“Progressive Neoliberalism” – Symbolic Capitalism And The Global Reproduction Of The “Precariat” (Interview With Carl Raschke)"
 date: 2019-11-14T15:40:37+00:00
-author: Interview With Carl Raschke
+author: thenewpolis
 permalink: /2019/11/14/progressive-neoliberalism-symbolic-capitalism-and-the-global-reproduction-of-the-precariat-interview-with-carl-raschke/
 image: /images/wp-content/uploads/2019/11/IMG_5428.jpg
 
 categories:
-  - "Book Interviews"
+  - book-interviews
 tags:
-  - "Friedrich Nietzsche"
-  - "Identity Politics"
-  - "Jean Joseph Goux"
-  - "Karl Marx"
-  - "Liberalism"
-  - "Maurizio Lazzarato"
-  - "Michel Foucault"
-  - "Neoliberalism"
-  - "Political Economy"
-  - "Political Theology"
-  - "Symbolic Economy"
-  - "Value Theory"
+  - friedrich-nietzsche
+  - identity-politics
+  - jean-joseph-goux
+  - karl-marx
+  - liberalism
+  - maurizio-lazzarato
+  - michel-foucault
+  - neoliberalism
+  - political-economy
+  - political-theology
+  - symbolic-economy
+  - value-theory
 ---
 
 **The following is the first in a series of “book interviews” (as opposed to book “reviews”) which the *The New Polis* will be undertaking with certain recent authors.  The first title to be considered is by *NP* Senior Consulting Editor Carl Raschke**.

@@ -1,22 +1,22 @@
 ---
 title: "Lacan And The Politics Of Psychoanalysis – An Interview With Thomas Svolos"
 date: 2018-10-21T17:25:16+00:00
-author: thenewpolis
+author: Thomas Svolos
 permalink: /2018/10/21/lacan-and-the-politics-of-psychoanalysis-an-interview-with-thomas-svolos/
 image: /images/wp-content/uploads/2018/10/Lacan.jpg
 
 categories:
-  - "Critical Theory"
-  - "Psychoanalysis"
+  - critical-theory
+  - psychoanalysis
 tags:
-  - "Ego Psychology"
-  - "Jacques Lacan"
-  - "Jacques Alain Miller"
-  - "Jouissance"
-  - "New Lacanian School"
-  - "Psychoanalysis"
-  - "Sigmund Freud"
-  - "Thomas Svolos"
+  - ego-psychology
+  - jacques-lacan
+  - jacques-alain-miller
+  - jouissance
+  - new-lacanian-school
+  - psychoanalysis
+  - sigmund-freud
+  - thomas-svolos
 ---
 
 *The following is an interview* The New Polis *conducted in October 2018 with Lacanian psychoanalyst Thomas Svolos. This interview is built around a consideration of his important 2017 book [Twenty-First Century Psychoanalysis](https://www.amazon.com/Twenty-First-Century-Psychoanalysis-Thomas-Svolos/dp/1782205039). In this work, Svolos looks closely at the Lacanian filed in America and draws from his rich experience as a psychoanalyst in an American context. The book aims to chart a future role for Lacanian psychoanalysis in America, and critically analyses new symptoms in our culture, from intensified forms of addiction to a consideration of Lacan’s capitalist discourse. NP contributing editor Daniel Tutt conducted this interview.*

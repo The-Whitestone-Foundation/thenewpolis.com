@@ -6,28 +6,28 @@ permalink: /2018/05/21/the-affects-of-may-1968-on-liberal-subjectivity-and-its-d
 image: /images/wp-content/uploads/2018/05/urn-cambridge.org-id-binary-30815-20160504063056371-0465-02255fig1_3.png
 
 categories:
-  - "Critical Theory"
-  - "Political History"
+  - critical-theory
+  - political-history
 tags:
-  - "Critical Theory"
-  - "Elliot Neaman"
-  - "Francois Cusset"
-  - "Francois Dosse"
-  - "Frantz Fanon"
-  - "Free Radicals"
-  - "Herbert Marcuse"
-  - "Jean Paul Sartre"
-  - "John Grant"
-  - "Lauren Berlant"
-  - "Olivier Roy"
-  - "Rudi Dutschke"
-  - "Sds"
-  - "Simon Prince"
-  - "Stockily Carmichael"
-  - "Structuralism"
-  - "Ta Nehisi Coates"
-  - "The Wretched of the Earth"
-  - "Vincent Harding"
+  - critical-theory
+  - elliot-neaman
+  - francois-cusset
+  - francois-dosse
+  - frantz-fanon
+  - free-radicals
+  - herbert-marcuse
+  - jean-paul-sartre
+  - john-grant
+  - lauren-berlant
+  - olivier-roy
+  - rudi-dutschke
+  - sds
+  - simon-prince
+  - stockily-carmichael
+  - structuralism
+  - ta-nehisi-coates
+  - the-wretched-of-the-earth
+  - vincent-harding
 ---
 
 Elliot Neaman closes his book, *[Free Radicals: Agitators, Hippies, Urban Guerrillas, and Germany’s Youth Revolt of the 1960s and 1970s](https://www.telospress.com/now-available-elliot-neamans-free-radicals/)*, stating that the battles of the late 1960s persist today, “not on the streets this time, but rather \[in disputes\] over who has the power to interpret the past *correctly*” (212).  He claims that rather than leaders becoming more democratic, “German society had changed organically” with “modernization all across Europe” (213). When we think retrospectively on the events of 1968 now in 2018, one thing that emerges clearly is the phenomenon was transnational.

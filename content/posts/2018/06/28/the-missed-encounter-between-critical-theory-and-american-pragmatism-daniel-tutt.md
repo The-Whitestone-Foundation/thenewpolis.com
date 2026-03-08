@@ -6,19 +6,19 @@ permalink: /2018/06/28/the-missed-encounter-between-critical-theory-and-american
 image: /images/wp-content/uploads/2018/06/Style-Bust-of-John-Dewey-Drip-Painting-0.4MP.jpg
 
 categories:
-  - "Critical Theory"
-  - "Political Philosophy"
+  - critical-theory
+  - political-philosophy
 tags:
-  - "American Philosophy"
-  - "American Pragmatism"
-  - "Critical Theory"
-  - "Dialectics"
-  - "G W F Hegel"
-  - "John Dewey"
-  - "Marxism"
-  - "Max Horkheimer"
-  - "Subjective Reason"
-  - "Theodor Adorno"
+  - american-philosophy
+  - american-pragmatism
+  - critical-theory
+  - dialectics
+  - g-w-f-hegel
+  - john-dewey
+  - marxism
+  - max-horkheimer
+  - subjective-reason
+  - theodor-adorno
 ---
 
 The German Frankfurt School theorist and philosopher Max Horkheimer’s [*Eclipse of Reason*](https://books.google.com/books?id=RFpGxeB-qfgC&printsec=frontcover&dq=eclipse+of+reason+horkheimer&hl=en&sa=X&ved=0ahUKEwij3vK3m-_bAhVGQq0KHY88DXoQ6AEIKTAA#v=onepage&q=eclipse%20of%20reason%20horkheimer&f=false) (1947) presents one of the most thorough and far-ranging critiques of American philosophy and of American thought ever written. But within months of the publication of this book its scathing critique would effectively terminate the spread of the Frankfurt School in American academic institutions.

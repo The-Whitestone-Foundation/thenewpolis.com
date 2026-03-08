@@ -6,16 +6,16 @@ permalink: /2021/12/10/cosmopolitan-ethics-in-glasgow-reframing-climate-change-f
 image: /images/wp-content/uploads/2021/12/Kant_foto.jpg
 
 categories:
-  - "Political Philosophy"
+  - political-philosophy
 tags:
-  - "Donald Trump"
-  - "Ethics"
-  - "Immanuel Kant"
-  - "Intergovernmental Panel on Climate Change"
-  - "Jakob Huber"
-  - "Paris Agreement"
-  - "Patrick Frierson"
-  - "United Nations"
+  - donald-trump
+  - ethics
+  - immanuel-kant
+  - intergovernmental-panel-on-climate-change
+  - jakob-huber
+  - paris-agreement
+  - patrick-frierson
+  - united-nations
 ---
 
 ## The following is the first of a two-part series.

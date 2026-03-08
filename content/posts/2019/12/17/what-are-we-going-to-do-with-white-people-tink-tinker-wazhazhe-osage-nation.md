@@ -6,20 +6,20 @@ permalink: /2019/12/17/what-are-we-going-to-do-with-white-people-tink-tinker-waz
 image: /images/wp-content/uploads/2019/12/images.jpeg
 
 categories:
-  - "American History"
-  - "Indigenous Theory"
-  - "Politics and Religion"
-  - "Social History"
+  - american-history
+  - indigenous-theory
+  - politics-and-religion
+  - social-history
 tags:
-  - "American Indians"
-  - "Anthony Hall"
-  - "Doctrine of Discovery"
-  - "Eurochristian"
-  - "Native Americans"
-  - "Racism"
-  - "Steven T Newcomb"
-  - "Tink Tinker"
-  - "Whiteness"
+  - american-indians
+  - anthony-hall
+  - doctrine-of-discovery
+  - eurochristian
+  - native-americans
+  - racism
+  - steven-t-newcomb
+  - tink-tinker
+  - whiteness
 ---
 
 *Out of respect for Dr Tinker’s writing style, the editor has chosen to keep the author’s footnotes* *intact. Readers should know that they often expand and clarify the text in addition to pointing to sources. Readers may also be interested in [Tinker’s earlier piece on](/2019/01/21/damn-it-hes-an-injun-christian-murder-colonial-wealth-and-tanned-human-skin-tink-tinker-wazhazhe-udsethe/)* [The New Polis](/2019/01/21/damn-it-hes-an-injun-christian-murder-colonial-wealth-and-tanned-human-skin-tink-tinker-wazhazhe-udsethe/) *tracing the history of a book of Christian history that was bound in the flayed skin of an American Indian and displayed publicly for 80 years.*

@@ -6,16 +6,16 @@ permalink: /2019/04/08/leszek-kolakowski-and-the-neo-platonic-pre-history-of-mar
 image: /images/wp-content/uploads/2019/04/Leszek_Kolakowski_1971.jpg
 
 categories:
-  - "Marxism"
+  - marxism
 tags:
-  - "G W F Hegel"
-  - "Gyorgy Lukacs"
-  - "Humanism"
-  - "Karl Marx"
-  - "Leszek Kolakowski"
-  - "Marxism"
-  - "Neo Platonism"
-  - "Plotinus"
+  - g-w-f-hegel
+  - gyorgy-lukacs
+  - humanism
+  - karl-marx
+  - leszek-kolakowski
+  - marxism
+  - neo-platonism
+  - plotinus
 ---
 
 With increasing interest in new forms of Marxism today, from the post-Marxism of Ernesto Laclau and Hardt and Negri, to the value-form analysis of Marxism in the German *Neue Marx-Lektüre* movement led by the scholar Michael Heinrich, to post-structuralist readings of Marx in philosophers Alain Badiou and Slavoj Žižek, the philosophical origins of Marx’s thought have been a topic of debate. Much of this debate revolves around the question of universality and the generic being of Marx’s work up to the [*Economic and Philosophical Manuscripts of 1844*](https://books.google.com/books?id=wh8JJAYBfJcC&printsec=frontcover&dq=marx+philosophical+and+economic+manuscripts+of+1844&hl=en&sa=X&ved=0ahUKEwir1Mrf8LfhAhWE7oMKHfVECwkQ6AEIKjAA#v=onepage&q=marx%20philosophical%20and%20economic%20manuscripts%20of%201844&f=false) where Marx’s thought begins to turn to a more focused critique of the value-form and political economy.

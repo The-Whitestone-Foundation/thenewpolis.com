@@ -6,16 +6,16 @@ permalink: /2019/07/15/politics-and-its-double-deleuze-and-political-ontology-pa
 image: /images/wp-content/uploads/2019/07/900px-QSH_Tin_Wind_Up_Astro-Scout_Doppelga%CC%88nger_Journey_to_the_Far_Side_of_the_Sun_Movie_Homage_2.jpg
 
 categories:
-  - "Political Philosophy"
+  - political-philosophy
 tags:
-  - "Carl Schmitt"
-  - "Chantal Mouffe"
-  - "Class Struggle"
-  - "Difference and Repetition"
-  - "Gilles Deleuze"
-  - "Jean Jacques Rousseau"
-  - "Political Ontology"
-  - "Politics"
+  - carl-schmitt
+  - chantal-mouffe
+  - class-struggle
+  - difference-and-repetition
+  - gilles-deleuze
+  - jean-jacques-rousseau
+  - political-ontology
+  - politics
 ---
 
 *The following is the second of a four-part series.  The first can be found [here](/2019/07/03/politics-and-its-double-deleuze-and-political-ontology-part-1-borna-radnik/).*

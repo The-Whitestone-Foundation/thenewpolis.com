@@ -1,20 +1,20 @@
 ---
 title: "Rethinking Capitalism And Community Development – The Strengths Of Praxis, Part 1 (Tony Ward)"
 date: 2018-09-17T02:53:54+00:00
-author: Contributing Editor
+author: Tony Ward
 permalink: /2018/09/17/rethinking-capitalism-and-community-development-the-strengths-of-praxis-part-1-tony-ward/
 image: /images/wp-content/uploads/2018/09/IMG_2108.jpg
 
 categories:
-  - "Indigenous Theory"
+  - indigenous-theory
 tags:
-  - "Colonialism"
-  - "Community Health"
-  - "Maori"
-  - "Mason Durie"
-  - "Social Medicine"
-  - "Stacey Kirk"
-  - "Western Health Systems"
+  - colonialism
+  - community-health
+  - maori
+  - mason-durie
+  - social-medicine
+  - stacey-kirk
+  - western-health-systems
 ---
 
 ## The following is the first part in a two-part installment.

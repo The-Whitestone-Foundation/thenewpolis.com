@@ -6,17 +6,17 @@ permalink: /2021/03/05/critical-conversations-7-glenn-morrris-shawnee-tink-tinke
 image: /images/wp-content/uploads/2021/03/3379492432_6b1cc11671_b.jpg
 
 categories:
-  - "Critical Conversations"
-  - "Doctrine of Discovery and Domination"
-  - "Indigenous Theory"
-  - "Political Theology"
+  - critical-conversations
+  - doctrine-of-discovery-and-domination
+  - indigenous-theory
+  - political-theology
 tags:
-  - "Colorado American Indian Movement"
-  - "Glenn Morris"
-  - "Indigenous Peoples"
-  - "Land Back"
-  - "Sovereignty"
-  - "Tink Tinker"
+  - colorado-american-indian-movement
+  - glenn-morris
+  - indigenous-peoples
+  - land-back
+  - sovereignty
+  - tink-tinker
 ---
 
 *This conversation took place February 9, 2021. Full transcript is provided below.*

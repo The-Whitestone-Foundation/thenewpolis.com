@@ -6,17 +6,17 @@ permalink: /2022/06/09/decolonizing-identity-politics-through-subjective-in-betw
 image: /images/wp-content/uploads/2022/06/Keren_eritrea.jpg
 
 categories:
-  - "Identity Politics"
+  - identity-politics
 tags:
-  - "Aristotle"
-  - "Biopolitics"
-  - "Eritrea"
-  - "Ethiopia"
-  - "Identity Politics"
-  - "Michel Foucault"
-  - "Neoliberalism"
-  - "Theodore Vestal"
-  - "Theodros Teklu"
+  - aristotle
+  - biopolitics
+  - eritrea
+  - ethiopia
+  - identity-politics
+  - michel-foucault
+  - neoliberalism
+  - theodore-vestal
+  - theodros-teklu
 ---
 
 ## The following is the first of a four-part series.

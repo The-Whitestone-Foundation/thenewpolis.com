@@ -3,7 +3,7 @@ pagination:
   data: collections.authorPages
   size: 1
   alias: authorPage
-permalink: /author/{{ authorPage.key }}/
+permalink: false
 layout: base.njk
 ---
 <main class="container my-5">
@@ -20,7 +20,7 @@ layout: base.njk
                 <h2 class="serif fw-bold">{{ authorPage.name }}</h2>
                 
                 <p class="text-muted small text-uppercase fw-bold border-bottom pb-3 mb-3">
-                    Contributor
+                    {{ authorPage.affiliation or "Contributor" }}
                 </p>
                 
                 <p class="text-secondary small mb-4">
@@ -43,7 +43,7 @@ layout: base.njk
             
             {% if authorPage.posts.length > 0 %}
                 <div class="row g-4">
-                    {%- for post in authorPage.posts | reverse -%}
+                    {%- for post in authorPage.posts -%}
                     <div class="col-md-6">
                         <div class="card h-100 bg-white border-0 shadow-sm transition-hover">
                             <div style="height: 160px; overflow: hidden;">

@@ -6,17 +6,17 @@ permalink: /2019/12/14/the-dialectic-of-enlightenment-from-a-postsecular-lens-pa
 image: /images/wp-content/uploads/2019/12/03uKtGAuuBlZLMmTV.jpg
 
 categories:
-  - "Critical Theory"
-  - "Indigenous Theory"
-  - "Neoliberalism"
+  - critical-theory
+  - indigenous-theory
+  - neoliberalism
 tags:
-  - "David Scott"
-  - "Dialectic of Enlightenment"
-  - "Herbert Marcuse"
-  - "Indigenous Theory"
-  - "Max Horkheimer"
-  - "Theodor Adorno"
-  - "Tink Tinker"
+  - david-scott
+  - dialectic-of-enlightenment
+  - herbert-marcuse
+  - indigenous-theory
+  - max-horkheimer
+  - theodor-adorno
+  - tink-tinker
 ---
 
 In my [previous post](/2019/11/18/the-dialectic-of-enlightenment-from-a-postsecular-lens-part-7-roger-green/), I discussed some of the parodic qualities by which the notion of madness occurred in the generation following Horkheimer and Adorno’s *Dialectic of Enlightenment*. Many readers will easily see the fluid connection with Michel Foucault’s work, and it has been part of my intention in this series of posts to highlight some of the continuities across twentieth-century continental thought.

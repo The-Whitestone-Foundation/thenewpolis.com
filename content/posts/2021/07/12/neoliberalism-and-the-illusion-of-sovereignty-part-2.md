@@ -6,19 +6,19 @@ permalink: /2021/07/12/neoliberalism-and-the-illusion-of-sovereignty-part-2/
 image: /images/wp-content/uploads/2021/07/Screen-Shot-2021-07-13-at-11.46.21-AM.png
 
 categories:
-  - "Neoliberalism"
+  - neoliberalism
 tags:
-  - "Adam Weishaupt"
-  - "Deontology"
-  - "Ernesto Laclau"
-  - "Ernsat Kantorowicz"
-  - "G W F Hegel"
-  - "Immanuel Kant"
-  - "Jacob Talmon"
-  - "Jean Bodin"
-  - "Jean Jacques Rousseau"
-  - "Luciferianism"
-  - "Neoliberalism"
+  - adam-weishaupt
+  - deontology
+  - ernesto-laclau
+  - ernsat-kantorowicz
+  - g-w-f-hegel
+  - immanuel-kant
+  - jacob-talmon
+  - jean-bodin
+  - jean-jacques-rousseau
+  - luciferianism
+  - neoliberalism
 ---
 
 *The following is the second of a three-part series. The first can be found* [*here*](/06/29/neoliberalism-and-the-illusion-of-sovereignty-carl-raschke/)*.*

@@ -1,22 +1,23 @@
 ---
 title: "CRITICAL CONVERSATIONS – The Power of “Political Erasure”,  A Seminar With Arthur Bradley (Announcements)"
 date: 2022-02-22T16:19:00+00:00
-author: Announcements
+author: thenewpolis
 permalink: /2022/02/22/critical-conversations-the-power-of-political-erasure-a-chat-with-arthur-bradley-announcements/
 image: /images/wp-content/uploads/2022/02/Guernica_museum_sofia_queen_on_july_2018-rotated.jpg
 
 categories:
-  - "Critical Conversations"
-  - "Political Philosophy"
+  - critical-conversations
+  - political-philosophy
 tags:
-  - "Arthur Bradley"
-  - "Carl Raschke"
-  - "Michel Foucault"
-  - "Political Erasure"
-  - "Sovereignty"
-  - "Thomas Hobbes"
-  - "Unbearable Life"
-  - "Walter Benjamin"
+  - arthur-bradley
+  - carl-raschke
+  - michel-foucault
+  - political-erasure
+  - sovereignty
+  - thomas-hobbes
+  - unbearable-life
+  - walter-benjamin
+
 ---
 
 *Sign up for this online seminar with distinguished British political philosopher Arthur Bradley on the compelling and most timely issue of “political erasure.*“

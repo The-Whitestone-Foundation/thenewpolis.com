@@ -6,19 +6,19 @@ permalink: /2021/11/01/the-ontological-violence-of-engaged-pluralism-luke-barnes
 image: /images/wp-content/uploads/2021/10/bar2602_creationofcrow_1_hr_optimizied-1080x814-1.jpeg
 
 categories:
-  - "Decoloniality"
-  - "Indigenous Theory"
+  - decoloniality
+  - indigenous-theory
 tags:
-  - "Barbara Mann"
-  - "Christianity"
-  - "Colonialism"
-  - "Ecology"
-  - "Engaged Pluralism"
-  - "Indigeneity"
-  - "Liberalism"
-  - "Marxism"
-  - "Multiculturalism"
-  - "Paulette Regan"
+  - barbara-mann
+  - christianity
+  - colonialism
+  - ecology
+  - engaged-pluralism
+  - indigeneity
+  - liberalism
+  - marxism
+  - multiculturalism
+  - paulette-regan
 ---
 
 > In many cases, by documenting the way settler colonial power ascends to unquestioned normalcy and recirculates as natural and given, the decolonizing project becomes one of suggesting counter realities or alternative ways of knowing and being. – Sarah de Leeuw and Sarah Hunt, “Unsettling Decolonizing Geographies”

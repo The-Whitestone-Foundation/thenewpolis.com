@@ -1,24 +1,25 @@
 ---
 title: "The Value Of Nature – A Critical Account of Anthropocentrism In Politics, Part 3 (Anne Fremaux)"
 date: 2019-03-06T22:11:48+00:00
-author: Assitant Edtior
+author: thenewpolis
 permalink: /2019/03/06/the-value-of-nature-a-critical-account-of-anthropocentrism-in-politics-part-3-anne-fremaux/
 image: /images/wp-content/uploads/2019/02/IMG_5770.jpg
 
 categories:
-  - "Political Theory"
+  - political-theory
 tags:
-  - "Anthropocentrism"
-  - "Consumerism"
-  - "Deep Ecology"
-  - "Democracy"
-  - "Ecocentrism"
-  - "Environmental Ethics"
-  - "Environmental Politics"
-  - "Green Republicanism"
-  - "Hannah Arendt"
-  - "Hans Jonas"
-  - "Sustainability"
+  - anthropocentrism
+  - consumerism
+  - deep-ecology
+  - democracy
+  - ecocentrism
+  - environmental-ethics
+  - environmental-politics
+  - green-republicanism
+  - hannah-arendt
+  - hans-jonas
+  - sustainability
+
 ---
 
 *The following is the final installment of a three-part article.  Part one can be found by [clicking here](/2019/02/19/the-value-of-nature-a-critical-account-of-anthropocentrism-in-politics-part-1-anne-fremaux/).  Part two can be found by [clicking here](/2019/02/26/the-value-of-nature-a-critical-account-of-anthropocentrism-in-politics-part-2-anne-fremaux/).* 

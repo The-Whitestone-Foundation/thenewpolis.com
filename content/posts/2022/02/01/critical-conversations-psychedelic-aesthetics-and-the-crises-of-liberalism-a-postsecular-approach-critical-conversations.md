@@ -1,19 +1,19 @@
 ---
 title: "Critical Conversations – Psychedelic Aesthetics and the Crises of Liberalism, A Postsecular Approach (Critical Conversations)"
 date: 2022-02-01T19:19:00+00:00
-author: Critical Conversations
+author: Roger Green
 permalink: /2022/02/01/critical-conversations-psychedelic-aesthetics-and-the-crises-of-liberalism-a-postsecular-approach-critical-conversations/
 image: /images/wp-content/uploads/2022/02/Screen-Shot-2022-02-06-at-1.13.15-PM.png
 
 categories:
-  - "Critical Conversations"
+  - critical-conversations
 tags:
-  - "Aesthetics"
-  - "Entheogens"
-  - "Neoliberalism"
-  - "Political Theology"
-  - "Psychodelics"
-  - "Roger K Green"
+  - aesthetics
+  - entheogens
+  - neoliberalism
+  - political-theology
+  - psychodelics
+  - roger-k-green
 ---
 
 *The New Polis is resuming for 2022 its regular interviews and conversations with noted academics and thought leaders on a variety of engaging and timely topics. The following Critical Conversation will kick off an ongoing series, which will feature an online conference in early September, 2022, [on the topic of “deep globalization](/01/06/the-myth-of-one-world-deep-globalization-or-why-everything-is-simultaneously-coming-together-and-coming-apart-announcement/)“.*

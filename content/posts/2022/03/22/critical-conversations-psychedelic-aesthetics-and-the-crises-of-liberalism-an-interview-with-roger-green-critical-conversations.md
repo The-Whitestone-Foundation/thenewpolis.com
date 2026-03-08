@@ -1,16 +1,16 @@
 ---
 title: "CRITICAL CONVERSATIONS – Psychedelic Aesthetics And the Crises of Liberalism , An Interview With Roger Green (Critical Conversations)"
 date: 2022-03-22T02:29:00+00:00
-author: Critical Conversations
+author: Carl Raschke
 permalink: /2022/03/22/critical-conversations-psychedelic-aesthetics-and-the-crises-of-liberalism-an-interview-with-roger-green-critical-conversations/
 image: /images/wp-content/uploads/2022/03/800px-Fractal_Xaos_psychedelic.png
 
 categories:
-  - "Critical Conversations"
+  - critical-conversations
 tags:
-  - "Political"
-  - "Critical"
-  - "Theory"
+  - political
+  - critical
+  - theory
 ---
 
 *The following Critical Conversation took place on February 17, 2022 with Roger Green, author of* A Transatlantic Political Theology of Psychedelic Aesthetics: Enchanted Citizens.

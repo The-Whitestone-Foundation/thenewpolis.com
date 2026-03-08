@@ -1,24 +1,25 @@
 ---
 title: "The Equisapien Encounter – Reading Enrique Dussel In Boots Riley’s “Sorry to Bother You”, Part 2 (Conor Ramón Rasmusen)"
 date: 2019-01-30T11:34:17+00:00
-author: Assitant Edtior
+author: thenewpolis
 permalink: /2019/01/30/the-equisapien-encounter-reading-enrique-dussel-in-boots-rileys-sorry-to-bother-you-part-2-conor-ramon-rasmusen/
 image: /images/wp-content/uploads/2019/01/horses_wooden_sculptures_decorative_yellow_brown_woody_structures-1109416.jpg
 
 categories:
-  - "Essays"
-  - "Political Theory"
+  - essays
+  - political-theory
 tags:
-  - "Boots Riley"
-  - "Decolonial Theory"
-  - "Direct Action"
-  - "Enrique Dussel"
-  - "Eurocentrism"
-  - "Film"
-  - "Frantz Fanon"
-  - "Modernity"
-  - "Sorry to Bother You"
-  - "Violence"
+  - boots-riley
+  - decolonial-theory
+  - direct-action
+  - enrique-dussel
+  - eurocentrism
+  - film
+  - frantz-fanon
+  - modernity
+  - sorry-to-bother-you
+  - violence
+
 ---
 
 *The following is the second piece in a two-part installment. The first [can be found here](/2019/01/17/the-equisapien-encounter-reading-enrique-dussel-in-boots-rileys-sorry-to-bother-you-part-1-conor-ramon-rasmusen/). This article contains spoilers for the film* Sorry to Bother You.

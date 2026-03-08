@@ -6,18 +6,18 @@ permalink: /2018/05/12/prophets-in-spite-of-themselves-foucault-and-baldwin-on-t
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Critical Theory"
-  - "Literary Theory"
+  - critical-theory
+  - literary-theory
 tags:
-  - "Civil Rights Movement"
-  - "Critical Race Theory"
-  - "Cynics"
-  - "Elijah Muhammed"
-  - "James Baldwin"
-  - "Marxism"
-  - "Michel Foucault"
-  - "Parrhesia"
-  - "Prophecy"
+  - civil-rights-movement
+  - critical-race-theory
+  - cynics
+  - elijah-muhammed
+  - james-baldwin
+  - marxism
+  - michel-foucault
+  - parrhesia
+  - prophecy
 ---
 
 Recently scholars have begun to consider various ways that the work of Michel Foucault and James Baldwin might converge. Typically, comparisons between the two writers have been staged on the field of politics, [through considerations of how they thought, for example, about power or identity](https://www.researchgate.net/publication/320230724_Something_Unspeakable_James_Baldwin_and_the_Closeted-ness_of_American_Power).(47-64)  Instead this paper proposes to consider Foucault and Baldwin as reluctant prophets, that is, as thinkers who reject one mode of prophesy but that they finally end up espousing another modified, chastened form of prophetic thought.  I argue that both men are suspicious of the universal intellectual who seeks, in Foucault’s terms, to serve as legislator and prophet.

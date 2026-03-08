@@ -21,8 +21,13 @@
 <meta content="{{image or metadata.image}}" name="twitter:image" />
 <meta content="{{image or metadata.image}}" name="facebook:image" />
 <meta content="{{image or metadata.image}}" name="og:image" />
-<link href="{{ metadata.favicon }}" rel="icon" type="image/x-icon" />
-<link rel="apple-touch-icon" href="{{ metadata.favicon }}" />
+{% set baseUrl = metadata.url | baseUrl %}
+<link rel="icon" type="image/png" sizes="16x16" href="{{ '/images/thenewpolis-logo.png' | absUrl(baseUrl) }}" />
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/images/thenewpolis-logo.png' | absUrl(baseUrl) }}" />
+<link rel="icon" type="image/png" sizes="192x192" href="{{ '/images/thenewpolis-logo.png' | absUrl(baseUrl) }}" />
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/images/thenewpolis-logo.png' | absUrl(baseUrl) }}" />
+<link rel="shortcut icon" href="{{ '/images/thenewpolis-logo.png' | absUrl(baseUrl) }}" />
+<link rel="manifest" href="{{ '/site.webmanifest' | absUrl(baseUrl) }}" />
 <meta content="{{ metadata.metasocial.facebook }}" property="facebook:author" />
 <meta
 	content="{{ metadata.metasocial.twitteruser }}"
@@ -32,19 +37,16 @@
 <meta content="{{ metadata.metasocial.twitter }}" name="twitter:site" />
 <meta property="og:type" content="website" />
 <meta content="index, follow" name="robots">
-{% set baseUrl = metadata.url | baseUrl %}
 <link rel="canonical" href="{{ page.url | absUrl(baseUrl) }}" />
-<link
-	rel="alternate"
-	href="{{ '/feed/feed.xml' | absUrl(baseUrl) }}"
-	type="application/atom+xml"
-	title="{{ metadata.title }}"
-/>
+<link rel="sitemap" type="application/xml" title="{{ metadata.title }} Sitemap" href="{{ '/sitemap.xml' | absUrl(baseUrl) }}" />
+<link rel="alternate" href="{{ '/feeds/feed.xml' | absUrl(baseUrl) }}" type="application/atom+xml" title="{{ metadata.title }} Atom Feed" />
+<link rel="alternate" href="{{ '/feeds/feed.rss' | absUrl(baseUrl) }}" type="application/rss+xml" title="{{ metadata.title }} RSS Feed" />
+<link rel="alternate" href="{{ '/feeds/feed.json' | absUrl(baseUrl) }}" type="application/feed+json" title="{{ metadata.title }} JSON Feed" />
+<link rel="alternate" href="{{ '/feeds/twtxt.txt' | absUrl(baseUrl) }}" type="text/plain" title="{{ metadata.title }} twtxt Feed" />
 <meta name="language" content="{{ metadata.language }}" />
 <meta name="locale" content="{{ metadata.locale }}" />
 <meta property="og:locale" content="{{ metadata.locale }}" />
 <meta name="generator" content="{{ eleventy.generator }}" />
-<link rel="alternate" href="{{ '/feed/feed.xml' | absUrl(baseUrl) }}" type="application/atom+xml" title="{{ metadata.title }}">
 <link rel="stylesheet" href="/css/bs.css">
 <link rel="stylesheet" href="/css/style.css">
 {% include "schema-blog.njk" %}

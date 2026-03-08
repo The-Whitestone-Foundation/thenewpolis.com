@@ -6,17 +6,17 @@ permalink: /2020/05/19/surveillance-society-panopticon-in-the-age-of-digital-med
 image: /images/wp-content/uploads/2020/05/1500px-Surveillance-camera.png
 
 categories:
-  - "Digital Politics and Culture"
+  - digital-politics-and-culture
 tags:
-  - "Big Brother"
-  - "Cia"
-  - "Edward Snowden"
-  - "Michel Foucault"
-  - "Nsa"
-  - "Panopticon"
-  - "Patriot Act"
-  - "Surveillance"
-  - "Terrorism"
+  - big-brother
+  - cia
+  - edward-snowden
+  - michel-foucault
+  - nsa
+  - panopticon
+  - patriot-act
+  - surveillance
+  - terrorism
 ---
 
 *The following is the second of a two-part series. The first can be found [here](/12/surveillance-society-panopticon-in-the-age-of-digital-media-donna-mathew/).*

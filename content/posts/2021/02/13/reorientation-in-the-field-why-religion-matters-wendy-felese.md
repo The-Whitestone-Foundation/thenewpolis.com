@@ -6,17 +6,17 @@ permalink: /2021/02/13/reorientation-in-the-field-why-religion-matters-wendy-fel
 image: /images/wp-content/uploads/2021/02/0a9252ff-f8ef-44ed-abd0-72a00c062a6b.jpeg
 
 categories:
-  - "Doctrine of Discovery and Domination"
-  - "Indigenous Theory"
-  - "Philosophy of Religion"
+  - doctrine-of-discovery-and-domination
+  - indigenous-theory
+  - philosophy-of-religion
 tags:
-  - "Colonization"
-  - "Ethnography"
-  - "Inuit"
-  - "Nanook of the North"
-  - "Qallunaat"
-  - "Religion"
-  - "Religious Studies"
+  - colonization
+  - ethnography
+  - inuit
+  - nanook-of-the-north
+  - qallunaat
+  - religion
+  - religious-studies
 ---
 
 ## Overview

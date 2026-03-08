@@ -6,21 +6,21 @@ permalink: /2021/03/09/neoliberalism-populism-and-modern-transforms-of-sovereign
 image: /images/wp-content/uploads/2021/02/John_Locke._Line_engraving_by_G._Vertue_1713_after_Sir_G._Wellcome_V0003650.jpg
 
 categories:
-  - "Doctrine of Discovery and Domination"
-  - "Political Theology"
+  - doctrine-of-discovery-and-domination
+  - political-theology
 tags:
-  - "Calvinism"
-  - "Capitalism"
-  - "Carl Schmitt"
-  - "Doctrine of Discovery"
-  - "Ernesto Laclau"
-  - "Jean Bodin"
-  - "John Locke"
-  - "John Rawls"
-  - "Lars Magnusson"
-  - "Max Weber"
-  - "Mercantilism"
-  - "Sovereignty"
+  - calvinism
+  - capitalism
+  - carl-schmitt
+  - doctrine-of-discovery
+  - ernesto-laclau
+  - jean-bodin
+  - john-locke
+  - john-rawls
+  - lars-magnusson
+  - max-weber
+  - mercantilism
+  - sovereignty
 ---
 
 *The following is the second of a two-part series. The first can be found here.*

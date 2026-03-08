@@ -1,24 +1,25 @@
 ---
 title: "Christian Evangelicalism And Critical Race Theory (Difficult Discussions)"
 date: 2021-12-01T20:59:00+00:00
-author: Difficult Discussions
+author: thenewpolis
 permalink: /2021/12/01/christian-evangelicalism-and-critical-race-theory-difficult-discussions/
 image: /images/wp-content/uploads/2021/12/1024px-Voodoo_Altar_New_Orleans.jpg
 
 categories:
-  - "Christian Evangelicalism"
-  - "Critical Race Theory"
-  - "Difficult Discussions"
+  - christian-evangelicalism
+  - critical-race-theory
+  - difficult-discussions
 tags:
-  - "Black Lives Matter"
-  - "Christian Evangelicalism"
-  - "Christian Naitonalism"
-  - "Church History"
-  - "Critical Race Theory"
-  - "Jason Alvis"
-  - "John Zivojinovic"
-  - "Scott Coley"
-  - "Southern Baptists"
+  - black-lives-matter
+  - christian-evangelicalism
+  - christian-naitonalism
+  - church-history
+  - critical-race-theory
+  - jason-alvis
+  - john-zivojinovic
+  - scott-coley
+  - southern-baptists
+
 ---
 
 *The following “Difficult Discussion” took place on September 23, 2021.* *Participants include distinguished invited guests and the editorial staff of Whitestone Publications.*

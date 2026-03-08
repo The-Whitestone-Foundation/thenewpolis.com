@@ -6,17 +6,17 @@ permalink: /2020/10/06/religious-rights-and-human-rights-why-we-cant-be-selectiv
 image: /images/wp-content/uploads/2020/10/Celebrating_Timkat_in_Ethiopia.jpg
 
 categories:
-  - "Human Rights"
+  - human-rights
 tags:
-  - "Aristotle"
-  - "Freedom of Religion"
-  - "Fyodor Dostoevsky"
-  - "Human Rights"
-  - "Katayoun Alidadi"
-  - "Natural Rights"
-  - "Thomas Jefferson"
-  - "United Nations"
-  - "Universal Declaration of Human Rights"
+  - aristotle
+  - freedom-of-religion
+  - fyodor-dostoevsky
+  - human-rights
+  - katayoun-alidadi
+  - natural-rights
+  - thomas-jefferson
+  - united-nations
+  - universal-declaration-of-human-rights
 ---
 
 *The following is the full text of a brief talk that was given as part of a special symposium, or webinar, on religious rights conducted on Oct. 9, 2020 by* [*Human Rights Media.*](https://www.humanrightsmedia.org/)

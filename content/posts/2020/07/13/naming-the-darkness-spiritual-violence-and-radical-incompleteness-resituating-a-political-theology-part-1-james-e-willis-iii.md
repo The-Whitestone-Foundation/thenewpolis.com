@@ -6,15 +6,15 @@ permalink: /2020/07/13/naming-the-darkness-spiritual-violence-and-radical-incomp
 image: /images/wp-content/uploads/2020/07/1bcc3a64-0071-4da7-ba1c-e269cd0dfb82.jpeg
 
 categories:
-  - "Political Theology"
+  - political-theology
 tags:
-  - "Anarchism"
-  - "Death of God"
-  - "Jacques Derrida"
-  - "Lissa Mccullough"
-  - "Mark C Taylor"
-  - "Martin Hagglund"
-  - "Simon Critchley"
+  - anarchism
+  - death-of-god
+  - jacques-derrida
+  - lissa-mccullough
+  - mark-c-taylor
+  - martin-hagglund
+  - simon-critchley
 ---
 
 *The following is the first of a two-part series. It is republished from [Religious Theory](https://www.jcrt.org/religioustheory) on May 1, 2020.*

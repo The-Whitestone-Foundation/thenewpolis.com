@@ -6,17 +6,17 @@ permalink: /2019/03/07/fyre-fest-and-incels-levinas-and-the-problem-with-liberal
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Critical Theory"
+  - critical-theory
 tags:
-  - "Normies"
-  - "Abby Ohlheiser"
-  - "Emmanuel Levinas"
-  - "Fyre Fest"
-  - "Incel Ideology"
-  - "Liberalism"
-  - "Millenials"
-  - "Nazim"
-  - "Third Reich"
+  - normies
+  - abby-ohlheiser
+  - emmanuel-levinas
+  - fyre-fest
+  - incel-ideology
+  - liberalism
+  - millenials
+  - nazim
+  - third-reich
 ---
 
 In his 1934 essay “[Reflections on the Philosophy of Hitlerism](https://users.clas.ufl.edu/burt/DisappearingMan/ReflectionsHitlerism.pdf),” Emmanuel Levinas evaluates the social and political realities that led to massive support for the Third Reich. What is fascinating about the essay is that Levinas mostly eschews direct critique of Hiterlism itself, but focuses instead on the problems at the heart of Western liberalism that produce something like Hitlerism.

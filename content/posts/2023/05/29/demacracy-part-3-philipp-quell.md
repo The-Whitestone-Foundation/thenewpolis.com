@@ -6,16 +6,16 @@ permalink: /2023/05/29/demacracy-part-3-philipp-quell/
 image: /images/wp-content/uploads/2023/07/Untitled_1957_-_Cy_Twombly_1928_-_2011_29493634887.jpg
 
 categories:
-  - "Political Philosophy"
+  - political-philosophy
 tags:
-  - "Archimedes"
-  - "Democracy"
-  - "Elias Canetti"
-  - "Felix Guattari"
-  - "Gilles Deleuze"
-  - "Jacques Ranciere 2"
-  - "Jane Bennet"
-  - "Subjectification"
+  - archimedes
+  - democracy
+  - elias-canetti
+  - felix-guattari
+  - gilles-deleuze
+  - jacques-ranciere-2
+  - jane-bennet
+  - subjectification
 ---
 
 *The following is the last of a three-part series. The first can be found [here](/04/28/demacracy-part-1-philipp-quell/), the second [here](/11/demacracy-part-2-philipp-quell/). The article originally appeared in* [The Journal for Cultural and Religious Theory *22:1*](https://www.jcrt.org/archives/22.1/), and was originally in German.

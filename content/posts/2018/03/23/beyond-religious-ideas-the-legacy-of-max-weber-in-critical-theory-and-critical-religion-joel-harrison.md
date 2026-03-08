@@ -6,16 +6,16 @@ permalink: /2018/03/23/beyond-religious-ideas-the-legacy-of-max-weber-in-critica
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Critical Theory"
+  - critical-theory
 tags:
-  - "Craig Martin"
-  - "Donald Wiebe"
-  - "Ernst Troeltsch"
-  - "Heinrich Rickert"
-  - "Max Weber"
-  - "Rationality"
-  - "Robert Segal"
-  - "Russell Mccutcheon"
+  - craig-martin
+  - donald-wiebe
+  - ernst-troeltsch
+  - heinrich-rickert
+  - max-weber
+  - rationality
+  - robert-segal
+  - russell-mccutcheon
 ---
 
 ## The following is the first of a two-part series.

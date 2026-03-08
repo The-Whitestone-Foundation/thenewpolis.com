@@ -6,18 +6,18 @@ permalink: /2021/11/19/the-great-resignation-the-great-refusal-or-the-general-st
 image: /images/wp-content/uploads/2021/11/Occupy_Oakland_General_Strike_banner.jpg
 
 categories:
-  - "Neoliberalism"
+  - neoliberalism
 tags:
-  - "Covid 19"
-  - "Felix Guattari"
-  - "General Strike"
-  - "Georges Sorel"
-  - "Great Refusal"
-  - "Great Resignation"
-  - "Immaterial Labor"
-  - "Maurizzio Lazzarato"
-  - "Robert Reich"
-  - "Thomas Piketty"
+  - covid-19
+  - felix-guattari
+  - general-strike
+  - georges-sorel
+  - great-refusal
+  - great-resignation
+  - immaterial-labor
+  - maurizzio-lazzarato
+  - robert-reich
+  - thomas-piketty
 ---
 
 The crisis of the global, neoliberal order has now entered an acute phase, distinguished by what has become de facto what radical agitators and insurrectionists have dreamed about since the high water mark of the industrial era – *a general strike*. 

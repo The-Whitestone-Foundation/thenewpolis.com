@@ -6,31 +6,31 @@ permalink: /2019/02/12/meditations-on-aesthetics-in-the-wake-of-the-2019-state-o
 image: /images/wp-content/uploads/2019/02/Painting-of-Andrew-Jacksons-Rowdy-Party.jpg
 
 categories:
-  - "Art Theory"
-  - "Identity Politics"
-  - "Political Philosophy"
-  - "Political Theory"
-  - "Social History"
+  - art-theory
+  - identity-politics
+  - political-philosophy
+  - political-theory
+  - social-history
 tags:
-  - "Aesthetics"
-  - "Alain Badiou"
-  - "Alexander Weheliye"
-  - "Analysis"
-  - "Axis of Evil"
-  - "De Benoist"
-  - "Donald Trump"
-  - "Elias Canetti"
-  - "Framing"
-  - "Friedrich Schiller"
-  - "George Lakoff"
-  - "Habeas Viscus"
-  - "Inclusive Excellence"
-  - "Neoliberalism"
-  - "Racism"
-  - "Radicalized Assemblages"
-  - "Rhetoric"
-  - "State of the Union 2019"
-  - "Women in White"
+  - aesthetics
+  - alain-badiou
+  - alexander-weheliye
+  - analysis
+  - axis-of-evil
+  - de-benoist
+  - donald-trump
+  - elias-canetti
+  - framing
+  - friedrich-schiller
+  - george-lakoff
+  - habeas-viscus
+  - inclusive-excellence
+  - neoliberalism
+  - racism
+  - radicalized-assemblages
+  - rhetoric
+  - state-of-the-union-2019
+  - women-in-white
 ---
 
 It is easy to debate the usefulness of commenting on the 2019 State of the Union Address.  In a media sphere mostly concerned with who said what in a fleeting instance, what is the importance of the decorum and epideictic rhetoric surrounding the occasion of the State of the Union and its “strength”?

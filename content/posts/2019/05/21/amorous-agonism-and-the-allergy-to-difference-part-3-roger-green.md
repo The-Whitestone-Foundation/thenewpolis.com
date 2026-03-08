@@ -6,12 +6,12 @@ permalink: /2019/05/21/amorous-agonism-and-the-allergy-to-difference-part-3-roge
 image: /images/wp-content/uploads/2019/05/IMG-0207.jpg
 
 categories:
-  - "Neoliberalism"
-  - "Political Theology"
+  - neoliberalism
+  - political-theology
 tags:
-  - "Political"
-  - "Theology"
-  - "Liberalism"
+  - political
+  - theology
+  - liberalism
 ---
 
 I ended my [previous post](/2019/05/07/amorous-agonism-and-the-allergy-to-difference-part-2-roger-green/) pointing to a critique of Spirit in its eurochristian derivation.  This series of posts has been based on a broader critique of Catherine Keller’s *Political Theology of the Earth* wherein she relies on a concept of amorous agonism to develop a processually-based (or constructivist) theology on a tweaked version of Walter Benjamin’s “weak messianism.”

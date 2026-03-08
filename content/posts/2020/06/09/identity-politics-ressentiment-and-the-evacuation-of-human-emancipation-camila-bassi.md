@@ -6,18 +6,18 @@ permalink: /2020/06/09/identity-politics-ressentiment-and-the-evacuation-of-huma
 image: /images/wp-content/uploads/2020/06/Black-woman.jpg
 
 categories:
-  - "Identity Politics"
-  - "Intersectionality"
+  - identity-politics
+  - intersectionality
 tags:
-  - "Dearing Report"
-  - "Feminism"
-  - "Intersectionality"
-  - "Karl Marx"
-  - "Patricia Hill Collins"
-  - "Peggy Mcintosh"
-  - "Privilege Theory"
-  - "Ressentiment"
-  - "Wendy Brown"
+  - dearing-report
+  - feminism
+  - intersectionality
+  - karl-marx
+  - patricia-hill-collins
+  - peggy-mcintosh
+  - privilege-theory
+  - ressentiment
+  - wendy-brown
 ---
 
 > *“The tradition of all the dead generations weighs like a nightmare on the brain of the living.” – Karl Marx*

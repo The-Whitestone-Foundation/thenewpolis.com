@@ -6,21 +6,21 @@ permalink: /2019/09/15/the-technological-transformation-of-the-public-square-jos
 image: /images/wp-content/uploads/2019/09/social-media-3758444_960_720.jpg
 
 categories:
-  - "Politics and Religion"
+  - politics-and-religion
 tags:
-  - "Alt Right"
-  - "Antifa"
-  - "Bedreva Al Jenaibi"
-  - "Digital Culture"
-  - "Donald Trump"
-  - "Globalizationzation"
-  - "Internet"
-  - "Jonathan Cole"
-  - "Jonathan Haidt"
-  - "Jordan Peterson"
-  - "Network Society"
-  - "Populism"
-  - "Youtube"
+  - alt-right
+  - antifa
+  - bedreva-al-jenaibi
+  - digital-culture
+  - donald-trump
+  - globalizationzation
+  - internet
+  - jonathan-cole
+  - jonathan-haidt
+  - jordan-peterson
+  - network-society
+  - populism
+  - youtube
 ---
 
 We are witnessing the political and cultural transformation of the global public square through internet information technology and digital social media. The public square, once formerly centered around localized, material centers such as town halls, literary café’s and salons, has now become the global virtualized public square, decentralized in transnational internet forums, dispersed through social media accounts, and democratized through alternative news networks.

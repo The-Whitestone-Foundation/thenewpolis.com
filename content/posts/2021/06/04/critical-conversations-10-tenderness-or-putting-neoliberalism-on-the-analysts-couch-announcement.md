@@ -1,25 +1,26 @@
 ---
 title: "Critical Conversations 10 – “Tenderness,” Or Putting Neoliberalism On The Analyst’s Couch (Announcement)"
 date: 2021-06-04T00:18:43+00:00
-author: Announcement
+author: thenewpolis
 permalink: /2021/06/04/critical-conversations-10-tenderness-or-putting-neoliberalism-on-the-analysts-couch-announcement/
 image: /images/wp-content/uploads/2021/06/G-W-.jpg
 
 categories:
-  - "Announcements"
-  - "Critical Conversations"
-  - "Philosophy"
-  - "Psychoanalysis"
+  - announcements
+  - critical-conversations
+  - philosophy
+  - psychoanalysis
 tags:
-  - "Byung Chul Han"
-  - "Cosmopolitanism"
-  - "Isabella Guanzini"
-  - "Julia Kristeva"
-  - "Jurgen Habermas"
-  - "Kieryn Wurts"
-  - "Neoliberalism"
-  - "Neue Zurcher Zeitung"
-  - "Tenderness"
+  - byung-chul-han
+  - cosmopolitanism
+  - isabella-guanzini
+  - julia-kristeva
+  - jurgen-habermas
+  - kieryn-wurts
+  - neoliberalism
+  - neue-zurcher-zeitung
+  - tenderness
+
 ---
 
 **When:** Tuesday, June 29, 10am Mountain Standard Time
@@ -30,7 +31,7 @@ tags:
 
 **General Contact:** [editor.thenewpolis@gmail.com](mailto:editor.thenewpolis@gmail.com)
 
-**Moderator:** Carl Raschke, Senior Consulting Editor, *[The New Polis](https://)*.
+**Moderator:** Carl Raschke, Senior Consulting Editor, *[The New Polis](https://thenewpolis.com)*.
 
 Various distinguished international guests have offered varying critiques of neoliberalism in our monthly series of “Critical Conversations.” But few have mapped out what an ontology of a world emancipated from the predations of the neoliberal moment in world history might look like.
 

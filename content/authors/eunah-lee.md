@@ -2,5 +2,6 @@
 title: "Eunah Lee"
 author: "Eunah Lee"
 slug: "eunah-lee"
-permalink: false
+affilation: ""
+image: /images/thenewpolis-logo.png
 ---

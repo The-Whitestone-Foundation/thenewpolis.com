@@ -6,27 +6,27 @@ permalink: /2018/11/30/the-pataphysics-of-pharmakoi/
 image: /images/wp-content/uploads/2018/11/Maldoror_Frontispiz.gif
 
 categories:
-  - "Critical Theory"
-  - "Literary History"
-  - "Pharmacology"
-  - "Political History"
-  - "Political Theory"
-  - "Social History"
+  - critical-theory
+  - literary-history
+  - pharmacology
+  - political-history
+  - political-theory
+  - social-history
 tags:
-  - "Alfred Jarry"
-  - "American Affairs"
-  - "Chasing the Scream"
-  - "Derrida"
-  - "Drug Policy"
-  - "Drugs"
-  - "Harry Anslinger"
-  - "Jake Kiernan"
-  - "Johann Hari"
-  - "Michael Pollan"
-  - "Miguel De La Torre"
-  - "Pataphysics"
-  - "Pharmakon"
-  - "Pharmoi"
+  - alfred-jarry
+  - american-affairs
+  - chasing-the-scream
+  - derrida
+  - drug-policy
+  - drugs
+  - harry-anslinger
+  - jake-kiernan
+  - johann-hari
+  - michael-pollan
+  - miguel-de-la-torre
+  - pataphysics
+  - pharmakon
+  - pharmoi
 ---
 
 Yesterday,  an [article by Josh Katz and Margot Sanger-Katz](https://www.nytimes.com/interactive/2018/11/29/upshot/fentanyl-drug-overdose-deaths.html) in *The New York Times* drew attention once again to an opioid abuse epidemic in the United States.  As they write, the 2017 death rate caused by such abuse is “so steep that they have contributed to reductions in the country’s life expectancy over the last three years, a pattern unprecedented since World War II. Life expectancy at birth has fallen [by nearly four months](https://www.cdc.gov/nchs/data/databriefs/db328-h.pdf), and drug overdoses are the leading cause of death for adults under 55.”

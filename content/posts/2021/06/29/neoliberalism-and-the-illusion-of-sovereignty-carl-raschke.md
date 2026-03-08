@@ -6,18 +6,18 @@ permalink: /2021/06/29/neoliberalism-and-the-illusion-of-sovereignty-carl-raschk
 image: /images/wp-content/uploads/2021/07/IMG_8505-1.jpeg
 
 categories:
-  - "Neoliberalism"
+  - neoliberalism
 tags:
-  - "Alain Badiou"
-  - "David Harvey"
-  - "Ernesto Laclau"
-  - "G W F Hegel"
-  - "Gilles Deleuze"
-  - "Michel Foucault"
-  - "Neoliberalism"
-  - "Sovereignty"
-  - "Sylvia Wynter"
-  - "Universalism"
+  - alain-badiou
+  - david-harvey
+  - ernesto-laclau
+  - g-w-f-hegel
+  - gilles-deleuze
+  - michel-foucault
+  - neoliberalism
+  - sovereignty
+  - sylvia-wynter
+  - universalism
 ---
 
 ## The following is the first of a three-part series.

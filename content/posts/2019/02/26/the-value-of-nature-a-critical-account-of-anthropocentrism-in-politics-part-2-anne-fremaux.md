@@ -1,23 +1,24 @@
 ---
 title: "The Value Of Nature – A Critical Account Of Anthropocentrism In Politics, Part 2 (Anne Fremaux)"
 date: 2019-02-26T21:03:57+00:00
-author: Assitant Edtior
+author: thenewpolis
 permalink: /2019/02/26/the-value-of-nature-a-critical-account-of-anthropocentrism-in-politics-part-2-anne-fremaux/
 image: /images/wp-content/uploads/2019/02/IMG_3320-1.jpg
 
 categories:
-  - "Political Theory"
+  - political-theory
 tags:
-  - "2008 Financial Crisis"
-  - "Anthropocene"
-  - "Autopoiesis"
-  - "Ecology"
-  - "Green Politics"
-  - "Hannah Arendt"
-  - "Humanism"
-  - "Risk"
-  - "Sustainability"
-  - "Technonature"
+  - 2008-financial-crisis
+  - anthropocene
+  - autopoiesis
+  - ecology
+  - green-politics
+  - hannah-arendt
+  - humanism
+  - risk
+  - sustainability
+  - technonature
+
 ---
 
 *The following is part two of a three-part article. Part one can be found by [clicking here](/2019/02/19/the-value-of-nature-a-critical-account-of-anthropocentrism-in-politics-part-1-anne-fremaux/).* 

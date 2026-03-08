@@ -2,5 +2,6 @@
 title: "Critical Conversations"
 author: "Critical Conversations"
 slug: "critical-conversations"
-permalink: false
+affilation: ""
+image: /images/thenewpolis-logo.png
 ---

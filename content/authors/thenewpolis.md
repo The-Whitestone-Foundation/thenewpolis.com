@@ -1,6 +1,7 @@
 ---
-title: "thenewpolis"
-author: "thenewpolis"
+title: "Editors"
+author: "Editors"
 slug: "thenewpolis"
-permalink: false
+affiliation: "The New Polis"
+image: /images/thenewpolis-logo.png
 ---

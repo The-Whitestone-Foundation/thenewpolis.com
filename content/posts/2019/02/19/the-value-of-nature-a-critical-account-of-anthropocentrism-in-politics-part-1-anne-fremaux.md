@@ -1,23 +1,24 @@
 ---
 title: "The Value Of Nature – A Critical Account Of Anthropocentrism In Politics, Part 1 (Anne Fremaux)"
 date: 2019-02-19T00:12:03+00:00
-author: Assitant Edtior
+author: thenewpolis
 permalink: /2019/02/19/the-value-of-nature-a-critical-account-of-anthropocentrism-in-politics-part-1-anne-fremaux/
 image: /images/wp-content/uploads/2019/02/IMG_0109.jpg
 
 categories:
-  - "Political Theory"
+  - political-theory
 tags:
-  - "Anthropocentrism"
-  - "Berkeley"
-  - "Capitalism"
-  - "Constructivism"
-  - "Environment"
-  - "Ethics"
-  - "Immanuel Kant"
-  - "Nature"
-  - "The Hunger Games"
-  - "Virtual"
+  - anthropocentrism
+  - berkeley
+  - capitalism
+  - constructivism
+  - environment
+  - ethics
+  - immanuel-kant
+  - nature
+  - the-hunger-games
+  - virtual
+
 ---
 
 ## The following is part one of a two-part article by Anne Fermaux.

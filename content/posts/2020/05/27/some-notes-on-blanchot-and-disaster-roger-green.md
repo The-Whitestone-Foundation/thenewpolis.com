@@ -6,15 +6,15 @@ permalink: /2020/05/27/some-notes-on-blanchot-and-disaster-roger-green/
 image: /images/wp-content/uploads/2020/05/Piedmontese_tarot_deck_-_Solesio_-_1865_-_Trump_-_16_-_The_Tower.jpg
 
 categories:
-  - "Pandemic Politics"
+  - pandemic-politics
 tags:
-  - "Covid 19"
-  - "Devin Singh"
-  - "Joshua Ramey"
-  - "Maurice Blanchot"
-  - "Political Theology"
-  - "State of Exception"
-  - "Writing of the Disaster"
+  - covid-19
+  - devin-singh
+  - joshua-ramey
+  - maurice-blanchot
+  - political-theology
+  - state-of-exception
+  - writing-of-the-disaster
 ---
 
 In this piece, I want to explore the distinction between the “state of exception” and the “disaster.” In doing so, I am also drawing on an interesting seminar that Joshua Ramey has been providing online for the general public called “[Debt as Original Sin](https://inciteseminars.com/debt-as-original-sin/).” Following arguments in Devin Singh’s *[Divine Currency](https://www.sup.org/books/title/?id=25422),* Ramey sees indebtedness as being underwritten by forms of Christian theology by orienting our perpetual indebtedness into an orientation toward an infinite power.

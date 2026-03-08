@@ -6,20 +6,20 @@ permalink: /2019/08/26/the-dialectic-of-enlightenment-from-a-postsecular-lens-pa
 image: /images/wp-content/uploads/2019/08/creation-of-the-labyrinth-of-Crete.jpg
 
 categories:
-  - "Aesthetics"
-  - "Critical Theory"
-  - "Identity Politics"
-  - "Literary History"
-  - "Literary Theory"
-  - "Neoliberalism"
-  - "Uncategorized"
-  - "White Supremacism"
+  - aesthetics
+  - critical-theory
+  - identity-politics
+  - literary-history
+  - literary-theory
+  - neoliberalism
+  - uncategorized
+  - white-supremacism
 tags:
-  - "David Scott"
-  - "Dialectic of Enlightenment"
-  - "Max Horkheimer"
-  - "Theodor Adorno"
-  - "Tragedy"
+  - david-scott
+  - dialectic-of-enlightenment
+  - max-horkheimer
+  - theodor-adorno
+  - tragedy
 ---
 
 In my [previous post](/2019/07/07/the-dialectic-of-enlightenment-from-a-postsecular-lens-part-2-roger-green/), I took a turn from direct analysis of [*Dialectic of Enlightenment*](https://www.sup.org/books/title/?id=1103) to engage with David Scott’s writing on tragic disposition in [*Conscripts of Modernity*](https://www.dukeupress.edu/conscripts-of-modernity).  I then focused on Emmanuel Levinas’s early essay, “Reality and Its Shadow.”  I merged Levinas’s pessimism concerning art and his call for a distinctive kind of criticism with a view of tragedy.

@@ -6,18 +6,18 @@ permalink: /2019/05/31/the-political-enigma-of-jordan-peterson-jonathan-cole/
 image: /images/wp-content/uploads/2019/05/Jordan-Peterson.jpg
 
 categories:
-  - "Contemporary Politics"
+  - contemporary-politics
 tags:
-  - "Cathy Newman"
-  - "Feminism"
-  - "Germaine Greer"
-  - "Jacques Lacan"
-  - "Joe Rogan"
-  - "Jordan Peterson"
-  - "Marxism"
-  - "Quora"
-  - "Slavoj Zizek"
-  - "Youtube"
+  - cathy-newman
+  - feminism
+  - germaine-greer
+  - jacques-lacan
+  - joe-rogan
+  - jordan-peterson
+  - marxism
+  - quora
+  - slavoj-zizek
+  - youtube
 ---
 
 The political narrative regarding Jordan Peterson now appears set in stone – he is an ideological warrior of the right.

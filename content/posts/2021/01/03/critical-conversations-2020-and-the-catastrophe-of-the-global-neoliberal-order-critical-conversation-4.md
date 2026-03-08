@@ -6,20 +6,20 @@ permalink: /2021/01/03/critical-conversations-2020-and-the-catastrophe-of-the-gl
 image: /images/wp-content/uploads/2021/01/IMG_5428-1-1162x700.jpg
 
 categories:
-  - "Critical Conversations"
+  - critical-conversations
 tags:
-  - "2020 Election"
-  - "Bernie Sanders"
-  - "Capitalism"
-  - "Carl Raschke"
-  - "Donald Trump"
-  - "Gilles Deleuze"
-  - "Globalization"
-  - "Kieryn Wurts"
-  - "Neoliberalism"
-  - "Progressivism"
-  - "Ward Blanton"
-  - "Wendy Brown"
+  - 2020-election
+  - bernie-sanders
+  - capitalism
+  - carl-raschke
+  - donald-trump
+  - gilles-deleuze
+  - globalization
+  - kieryn-wurts
+  - neoliberalism
+  - progressivism
+  - ward-blanton
+  - wendy-brown
 ---
 
 *The following is the video and transcript of the fourth “Critical Conversation”, a monthly Zoom seminar with advance registration sponsored by The New Polis and Whitestone Publications and involving international scholars. The seminar took place on November 17, 2020*.

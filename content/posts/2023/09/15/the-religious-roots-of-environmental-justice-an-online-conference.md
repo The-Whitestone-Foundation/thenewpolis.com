@@ -6,17 +6,17 @@ permalink: /2023/09/15/the-religious-roots-of-environmental-justice-an-online-co
 image: /images/wp-content/uploads/2023/07/Ta_Prohm_III.jpg
 
 categories:
-  - "Conferences"
+  - conferences
 tags:
-  - "Catherine Keller"
-  - "Environmental Justice"
-  - "Environmentalism"
-  - "Ethics"
-  - "Justice"
-  - "Political Theology"
+  - catherine-keller
+  - environmental-justice
+  - environmentalism
+  - ethics
+  - justice
+  - political-theology
 ---
 
-### Sponsored by** ***[The Journal for Cultural and Religious Theory](https://jcrt.org/)*** **and** ***[The New Polis](https://)*** **in co-operation with the University of Denver**
+### Sponsored by** ***[The Journal for Cultural and Religious Theory](https://jcrt.org/)*** **and** ***[The New Polis](https://thenewpolis.com)*** **in co-operation with the University of Denver**
 
 ***
 

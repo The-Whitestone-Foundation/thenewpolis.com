@@ -6,18 +6,18 @@ permalink: /2019/06/26/making-higher-education-more-affordable-requires-a-closer
 image: /images/wp-content/uploads/2019/06/college-classroom.jpg
 
 categories:
-  - "Higher Education"
+  - higher-education
 tags:
-  - "2008 Financial Crisis"
-  - "Bernie Sanders"
-  - "Contingent Faculty"
-  - "Democratic Party"
-  - "Discount Rate"
-  - "Elizabeth Warren"
-  - "European Union"
-  - "George W Bush"
-  - "Higher Education Financing"
-  - "Michael Stone"
+  - 2008-financial-crisis
+  - bernie-sanders
+  - contingent-faculty
+  - democratic-party
+  - discount-rate
+  - elizabeth-warren
+  - european-union
+  - george-w-bush
+  - higher-education-financing
+  - michael-stone
 ---
 
 The scramble is now on between the proliferating number of  candidates for the Democratic Presidential nomination to offer voters the most attractive plan for dealing with the student debt crisis, which threatens to sabotage the American, if not the global, economy in much the same way as the home lending bubble a decade and a half ago.

@@ -6,21 +6,21 @@ permalink: /2022/03/01/putins-evil-empire-secretly-enabled-by-his-corrupt-wester
 image: /images/wp-content/uploads/2022/02/Anti-terrorist_operation_in_eastern_Ukraine_War_Ukraine_26501713354.jpg
 
 categories:
-  - "Organized Crime"
-  - "Political Economy"
+  - organized-crime
+  - political-economy
 tags:
-  - "Burisma"
-  - "Catherine Belton"
-  - "Corruption"
-  - "Donald Trump"
-  - "Joe Biden"
-  - "Louise Shelley"
-  - "Nato"
-  - "Organized Crime"
-  - "Robert Neuwrith"
-  - "Russia"
-  - "Ukraine"
-  - "Vladmir Putin"
+  - burisma
+  - catherine-belton
+  - corruption
+  - donald-trump
+  - joe-biden
+  - louise-shelley
+  - nato
+  - organized-crime
+  - robert-neuwrith
+  - russia
+  - ukraine
+  - vladmir-putin
 ---
 
 Putin’s vicious assault on Ukraine has been a long time in coming.  But it is not simply the case that the American and European establishment underestimated all along Putin’s grievances and his resolve to use brutal force, even egregiously violate international law, to assuage them.  

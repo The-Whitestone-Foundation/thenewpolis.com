@@ -6,14 +6,14 @@ permalink: /2023/10/27/the-unsustainablity-of-american-power-a-sustained-critiqu
 image: /images/wp-content/uploads/2023/11/National_Institute_of_International_Affairs-1.jpg
 
 categories:
-  - "International Relations"
+  - international-relations
 tags:
-  - "Alexander Hamilton"
-  - "G John Ikenberry"
-  - "Idealism"
-  - "Internationalism"
-  - "Liberalism"
-  - "Princeton Platform"
+  - alexander-hamilton
+  - g-john-ikenberry
+  - idealism
+  - internationalism
+  - liberalism
+  - princeton-platform
 ---
 
 *The following is the second of a two-part series. The first can be found [here](/12/the-unsustainablity-of-american-power-a-sustained-critique-of-g-john-ikenberry-fernando-g-herrero-part-1/)*.

@@ -6,18 +6,18 @@ permalink: /2023/10/12/the-unsustainablity-of-american-power-a-sustained-critiqu
 image: /images/wp-content/uploads/2023/10/Screenshot-2023-11-20-at-10.06.36-PM.png
 
 categories:
-  - "International Relations"
+  - international-relations
 tags:
-  - "American Hegemony"
-  - "Cold War"
-  - "Coloniality"
-  - "Democracy"
-  - "G John Ikenberry"
-  - "Idealism"
-  - "Liberalism"
-  - "Lord Chesterton"
-  - "Mikhail Bakunin"
-  - "Realism"
+  - american-hegemony
+  - cold-war
+  - coloniality
+  - democracy
+  - g-john-ikenberry
+  - idealism
+  - liberalism
+  - lord-chesterton
+  - mikhail-bakunin
+  - realism
 ---
 
 G. John Ikenberry’s [article](https://www.foreignaffairs.com/united-states/why-american-power-endures-us-led-order-isnt-in-decline-g-john-ikenberry?utm_source=linkedIn_posts&utm_campaign=ln_daily_soc&utm_medium=social\)) “Why American Power Endures: the U.S.-led Order isn’t in Decline” deserves a close reading. This very visible International-Relations (IR) modality of knowledge production, unlike postmodern and postcolonial competitors, does not shy away from making big or outrageous claims to the totality of social existence or the globality of political life, call them “foreign” affairs (whenever the word “world” shows up typically in the subordinate position to a predictable dominator).

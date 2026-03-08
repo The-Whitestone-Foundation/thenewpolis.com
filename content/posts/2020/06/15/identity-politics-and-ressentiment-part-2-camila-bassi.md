@@ -6,21 +6,21 @@ permalink: /2020/06/15/identity-politics-and-ressentiment-part-2-camila-bassi/
 image: /images/wp-content/uploads/2020/06/Equality_March_for_Unity_and_Pride_35077440202.jpg
 
 categories:
-  - "Identity Politics"
-  - "Intersectionality"
+  - identity-politics
+  - intersectionality
 tags:
-  - "Fascism"
-  - "Feminism"
-  - "Judith Jack Halberstam"
-  - "Julie Bindel"
-  - "Karl Marx"
-  - "Mia Mckenzie"
-  - "National Union of Students"
-  - "No Platforming"
-  - "Sara Ahmed"
-  - "Trans Activism"
-  - "Transphobia"
-  - "Wendy Brown"
+  - fascism
+  - feminism
+  - judith-jack-halberstam
+  - julie-bindel
+  - karl-marx
+  - mia-mckenzie
+  - national-union-of-students
+  - no-platforming
+  - sara-ahmed
+  - trans-activism
+  - transphobia
+  - wendy-brown
 ---
 
 *The following is the second installment of a two-part series. The first can be found [here.](/2020/06/09/identity-politics-ressentiment-and-the-evacuation-of-human-emancipation-camila-bassi/)*

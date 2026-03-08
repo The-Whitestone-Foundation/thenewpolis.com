@@ -6,18 +6,18 @@ permalink: /2021/01/18/the-primordial-substitute-teacher-neoliberalism-racial-ca
 image: /images/wp-content/uploads/2021/01/5777102.jpg
 
 categories:
-  - "Education"
-  - "Neoliberalism"
+  - education
+  - neoliberalism
 tags:
-  - "Students First"
-  - "Arnie Duncan"
-  - "Big Other"
-  - "Capitalism"
-  - "Michael Apple"
-  - "Neoliberalism"
-  - "School Reform"
-  - "Slavo Zizek"
-  - "Title I"
+  - students-first
+  - arnie-duncan
+  - big-other
+  - capitalism
+  - michael-apple
+  - neoliberalism
+  - school-reform
+  - slavo-zizek
+  - title-i
 ---
 
 *The following is the second of a three-part series. The first can be found [here](/2020/12/17/2469/).*

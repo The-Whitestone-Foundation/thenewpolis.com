@@ -6,16 +6,16 @@ permalink: /2021/03/22/decoloniality-and-disintegration-of-western-cognitive-emp
 image: /images/wp-content/uploads/2021/03/Machu_Picchu_Peru.jpg
 
 categories:
-  - "Announcements"
+  - announcements
 tags:
-  - "Catherine Walsh"
-  - "Cognitive Empire"
-  - "Decoloniality"
-  - "Decolonization"
-  - "International Conferences"
-  - "Sovereignty"
-  - "Tink Tinker"
-  - "Walter Mignolo"
+  - catherine-walsh
+  - cognitive-empire
+  - decoloniality
+  - decolonization
+  - international-conferences
+  - sovereignty
+  - tink-tinker
+  - walter-mignolo
 ---
 
 ## April 14-16, 2021**
@@ -24,7 +24,7 @@ tags:
 
 #### [Register](https://udenver.zoom.us/meeting/register/tZItdu-oqDgjGtARFSnxe2mf7ezdk9J1psKS) | [Donations](https://www.eventbrite.com/e/decoloniality-and-disintegration-of-western-cognitive-empire-conference-tickets-147444830457)** | **[Bios](/docs/Bios.pdf) | [Abstracts](/docs/Abstracts.pdf) |***[Livestream](https://www.youtube.com/channel/UCHaPvhNA1x8Fjry-w3lrqJw)**
 
-*Sponsored by* [*The New Polis*](https://)*, Whitestone Publications, and Metropolitan State University of Denver* *in collaboration with members of the Iliff School of Theology and University of Denver* *communities.*
+*Sponsored by* [*The New Polis*](https://thenewpolis.com)*, Whitestone Publications, and Metropolitan State University of Denver* *in collaboration with members of the Iliff School of Theology and University of Denver* *communities.*
 
 **The conference is free to all attendees**, **although donations (which can be made through [Eventbrite](https://www.eventbrite.com/e/decoloniality-and-disintegration-of-western-cognitive-empire-conference-tickets-147444830457)) are welcome.** *[Please click on “Tickets” at the top of the page at Eventbrite](https://www.eventbrite.com/e/decoloniality-and-disintegration-of-western-cognitive-empire-conference-tickets-147444830457)* [site for the conference](https://www.eventbrite.com/e/decoloniality-and-disintegration-of-western-cognitive-empire-conference-tickets-147444830457). Donations will go to the Whitestone Foundation to cover incidental conference expenses. All donations beyond that amount will be donated by The Whitestone Foundation specifically to the [Tink Tinker Program Endowment Fund](https://www.iliff.edu/tinker/).
 

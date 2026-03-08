@@ -6,20 +6,20 @@ permalink: /2019/02/05/democracy-dies-by-distinction-neoliberalism-intersectiona
 image: /images/wp-content/uploads/2019/02/maxresdefault.jpg
 
 categories:
-  - "Identity Politics"
-  - "Political Philosophy"
+  - identity-politics
+  - political-philosophy
 tags:
-  - "Citizens Party"
-  - "Democracy"
-  - "Democratic Socialism"
-  - "Economic Democracy"
-  - "Emile Durkheim"
-  - "Etienne Balibar"
-  - "Identity Politics"
-  - "Immanuel Kant"
-  - "Intersectionality"
-  - "Marxist Feminism"
-  - "Nancy Hartsock"
+  - citizens-party
+  - democracy
+  - democratic-socialism
+  - economic-democracy
+  - emile-durkheim
+  - etienne-balibar
+  - identity-politics
+  - immanuel-kant
+  - intersectionality
+  - marxist-feminism
+  - nancy-hartsock
 ---
 
 There was a moment in a universe long, long ago and far, far away – specifically, in February, 1980 when I and my now deceased ex-wife attended a “precinct” meeting in Denver of the newly founded Citizens Party – that instilled in me the inescapable realization how *democracy invariably dies by distinction*.

@@ -1,22 +1,23 @@
 ---
 title: "Craft Theory And The Creation Of A New Capitalism (Jonathan P. Morgan)"
 date: 2018-11-18T01:01:44+00:00
-author: Assitant Edtior
+author: thenewpolis
 permalink: /2018/11/18/craft-theory-and-the-creation-of-a-new-capitalism-jonathan-p-morgan/
 image: /images/wp-content/uploads/2018/11/Handicrafts.jpg
 
 categories:
-  - "Art Theory"
-  - "Critical Theory"
+  - art-theory
+  - critical-theory
 tags:
-  - "Capitalism"
-  - "Craft"
-  - "De Objectification"
-  - "Enframing"
-  - "Karl Marx"
-  - "Martin Heidegger"
-  - "Materialism"
-  - "Ursula Meyer"
+  - capitalism
+  - craft
+  - de-objectification
+  - enframing
+  - karl-marx
+  - martin-heidegger
+  - materialism
+  - ursula-meyer
+
 ---
 
 This essay is about capitalism. It is not a call for the absolute destruction of it, nor is it a listing and demonstration of its evils and failures. It is a plea for us to heal capitalism rather than abandon it. While rife with opportunities for exploitation and dehumanization, numerous sources reflect a trend of increasing life expectancy and standards of living coinciding with capitalist growth.

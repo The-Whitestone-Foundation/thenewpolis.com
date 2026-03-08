@@ -6,18 +6,18 @@ permalink: /2020/01/28/to-not-lose-sight-of-the-good-notes-on-the-zapatismo-ethi
 image: /images/wp-content/uploads/2020/01/Somos_los_hijos_de_Me%CC%81xico_7633192222_2.jpg
 
 categories:
-  - "Indigenous Theory"
-  - "Political Philosophy"
+  - indigenous-theory
+  - political-philosophy
 tags:
-  - "Alterity"
-  - "Encuentro"
-  - "Ethics"
-  - "Francois Laruelle"
-  - "Horizontalidad"
-  - "Indigenity"
-  - "Subjectivity"
-  - "Theory of Resistance"
-  - "Zapatismo"
+  - alterity
+  - encuentro
+  - ethics
+  - francois-laruelle
+  - horizontalidad
+  - indigenity
+  - subjectivity
+  - theory-of-resistance
+  - zapatismo
 ---
 
 *The following is the second of a two-part series. The first can be found [here.](/2020/01/20/to-not-lose-sight-of-the-good-notes-on-the-zapatismo-ethic-part-1-matt-rosen/)* *The article is republished from [Religious Theory.](https://www.jcrt.org/religioustheory)*

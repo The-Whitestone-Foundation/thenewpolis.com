@@ -18,7 +18,7 @@ pagination:
         {% set latestPost = posts[0] %}
         <section class="latest-featured row g-0 mb-5 shadow-sm border bg-white">
             <div class="col-md-7 featured-img-half" 
-                 style="background-image: url('{{ latestPost.data.image or metadata.url }}'); min-height: 400px; background-size: cover; background-position: center;">
+                 style="background-image: url('{{ latestPost.data.image or metadata.image }}'); min-height: 400px; background-size: cover; background-position: center;">
             </div>
             <div class="col-md-5 p-4 p-lg-5 d-flex flex-column justify-content-center">
                 <span class="text-uppercase text-primary small fw-bold mb-2">Latest Article</span>
@@ -28,9 +28,15 @@ pagination:
                 <p class="text-secondary mb-4 small">
                     {{ latestPost.data.description | truncate(150) or "Read our latest publication on critical theory and political theology." }}
                 </p>
+                {% set latestAuthors = latestPost.data.author | authorList %}
                 <div class="author-box d-flex align-items-center mb-3">
-                    <img src="https://ui-avatars.com/api/?name={{ latestPost.data.author | urlencode }}&background=000&color=fff" class="rounded-circle me-2" width="35" alt="Author">
-                    <span class="small text-muted">By <strong>{{ latestPost.data.author }}</strong> &middot; {{ latestPost.date | readableDate }}</span>
+                    <img src="https://ui-avatars.com/api/?name={{ (latestPost.data.author | primaryAuthor) | urlencode }}&background=000&color=fff" class="rounded-circle me-2" width="35" alt="Author">
+                    <span class="small text-muted">By
+                        {% for authorName in latestAuthors %}
+                            <a href="/authors/{{ authorName | slugify }}/" class="fw-bold text-dark text-decoration-none">{{ authorName }}</a>{% if not loop.last %}, {% endif %}
+                        {% endfor %}
+                        &middot; {{ latestPost.date | readableDate }}
+                    </span>
                 </div>
                 <a href="{{ latestPost.url }}" class="btn btn-dark btn-sm w-50">Read More</a>
             </div>
@@ -44,7 +50,7 @@ pagination:
     <div class="col-md-6 col-lg-4">
         <div class="card h-100 border-0 shadow-sm bg-white transition-hover">
             <div class="card-img-container" style="height: 200px; overflow: hidden;">
-                <img src="{{ post.data.image or '/img/jcrt.jpg' }}" 
+                <img src="{{ post.data.image or metadata.image }}" 
                      class="card-img-top w-100 h-100" 
                      alt="{{ post.data.title }}" 
                      loading="lazy" 
@@ -54,7 +60,7 @@ pagination:
             <div class="card-body p-4 d-flex flex-column">
                 {% if post.data.tags %}
                 <span class="text-primary small fw-bold text-uppercase mb-2" style="font-size: 0.75rem; letter-spacing: 1px;">
-                    {{ post.data.tags[0] }}
+                    {{ post.data.tags[0] | displayTerm }}
                 </span>
                 {% endif %}
                 <h5 class="card-title serif fw-bold mb-3">
@@ -72,7 +78,9 @@ pagination:
                         </small>
                         {% if post.data.author %}
                         <small class="text-dark fw-bold" style="font-size: 0.75rem;">
-                            {{ post.data.author }}
+                            {% for authorName in post.data.author | authorList %}
+                                <a href="/authors/{{ authorName | slugify }}/" class="text-dark text-decoration-none">{{ authorName }}</a>{% if not loop.last %}, {% endif %}
+                            {% endfor %}
                         </small>
                         {% endif %}
                     </div>

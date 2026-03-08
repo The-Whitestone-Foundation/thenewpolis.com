@@ -6,20 +6,20 @@ permalink: /2021/04/05/the-birth-of-modern-sovereignty-the-dialectic-of-subjecti
 image: /images/wp-content/uploads/2021/04/Three_scenes_from_the_slave_trade_in_the_USA_Wellcome_V0050650.jpg
 
 categories:
-  - "Decoloniality"
-  - "Political Theology"
+  - decoloniality
+  - political-theology
 tags:
-  - "Abjection"
-  - "Achille Mbembe"
-  - "Jean Bodin"
-  - "John Calvin"
-  - "Michael Walzer"
-  - "Necropolitics"
-  - "R H Tawney"
-  - "Ralph Hancock"
-  - "Reprobation"
-  - "Sovereignty"
-  - "Walter Mignolo"
+  - abjection
+  - achille-mbembe
+  - jean-bodin
+  - john-calvin
+  - michael-walzer
+  - necropolitics
+  - r-h-tawney
+  - ralph-hancock
+  - reprobation
+  - sovereignty
+  - walter-mignolo
 ---
 
 *The following is the first of a two-part series. It continues with a theme developed in earlier articles, which can be found* [*here*](/02/28/neoliberalism-populism-and-modern-transforms-of-sovereignty-from-the-doctrine-of-discovery-to-the-capitalist-thaumaturgy-part-1-carl-raschke/) *and* [*here*](/03/09/neoliberalism-populism-and-modern-transforms-of-sovereignty-from-the-doctrine-of-discovery-to-the-capitalist-thaumaturgy-part-2-carl-raschke/)*.*

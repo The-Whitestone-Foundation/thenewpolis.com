@@ -1,19 +1,20 @@
 ---
 title: "The Catastrophe Of Thought – Political Theology, Political Spirituality, And The Courage Of Truth, Part 1 (Michael Dillon)"
 date: 2018-11-05T07:28:26+00:00
-author: Assitant Edtior
+author: thenewpolis
 permalink: /2018/11/05/the-catastrophe-of-thought-political-theology-political-spirituality-and-the-courage-of-truth-part-1-michael-dillon/
 image: /images/wp-content/uploads/2018/11/the_trumph-of-marart.jpg
 
 categories:
-  - "Political Theology"
+  - political-theology
 tags:
-  - "Biopolitics"
-  - "Giorgio Agamben"
-  - "Jacques Derrida"
-  - "Martin Heidegger"
-  - "Michel Foucault"
-  - "Poststructuralism"
+  - biopolitics
+  - giorgio-agamben
+  - jacques-derrida
+  - martin-heidegger
+  - michel-foucault
+  - poststructuralism
+
 ---
 
 ## The following is the first of a two-part series.

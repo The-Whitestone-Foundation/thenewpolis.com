@@ -6,18 +6,18 @@ permalink: /2020/01/20/to-not-lose-sight-of-the-good-notes-on-the-zapatismo-ethi
 image: /images/wp-content/uploads/2020/01/Subcomandante_Marcos.jpg
 
 categories:
-  - "Indigenous Theory"
-  - "Political Philosophy"
+  - indigenous-theory
+  - political-philosophy
 tags:
-  - "Egalitarianism"
-  - "Ernesto Zedillo"
-  - "Jean Louis Chretien"
-  - "Mexico"
-  - "Quentin Meillassoux"
-  - "San Cristobal De Las Casas"
-  - "Simon Torrey"
-  - "Thomas Nail"
-  - "Zapatistas"
+  - egalitarianism
+  - ernesto-zedillo
+  - jean-louis-chretien
+  - mexico
+  - quentin-meillassoux
+  - san-cristobal-de-las-casas
+  - simon-torrey
+  - thomas-nail
+  - zapatistas
 ---
 
 *The following is the first of a two-part series.* *The same article [appeared previously in](https://jcrt.org/religioustheory/2020/01/14/to-not-lose-sight-of-the-good-notes-on-the-zapatismo-ethic-part-1-matt-rosen/)* [Religious Theory](https://jcrt.org/religioustheory/2020/01/14/to-not-lose-sight-of-the-good-notes-on-the-zapatismo-ethic-part-1-matt-rosen/).

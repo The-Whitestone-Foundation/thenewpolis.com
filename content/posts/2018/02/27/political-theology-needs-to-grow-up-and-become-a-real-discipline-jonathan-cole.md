@@ -6,16 +6,16 @@ permalink: /2018/02/27/political-theology-needs-to-grow-up-and-become-a-real-dis
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Political Theology"
+  - political-theology
 tags:
-  - "Christianity"
-  - "Jesus"
-  - "Oliver Odonovan"
-  - "Political Theology"
-  - "Reinhold Niebuhr"
-  - "Roger Scruton"
-  - "Scripture"
-  - "Theology"
+  - christianity
+  - jesus
+  - oliver-odonovan
+  - political-theology
+  - reinhold-niebuhr
+  - roger-scruton
+  - scripture
+  - theology
 ---
 
 Contemporary Christian political theology presents a rather confusing picture. A cacophony of voices offers conflicting accounts of what the Bible says about politics and what a normative Christian attitude towards politics ought to look like. Many of these accounts infer or perform eisegesis on Scriptural warrants for any number of contemporary political ideologies, movements, parties and agendas unknown to the original authors.

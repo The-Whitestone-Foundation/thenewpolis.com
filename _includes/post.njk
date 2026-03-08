@@ -30,11 +30,14 @@ layout: base.njk
                 
                 <div class="post-meta d-flex align-items-center py-3 border-top border-bottom">
                     {% if author %}
+                        {% set authors = author | authorList %}
                         <div class="me-auto">
                             <span class="text-muted small text-uppercase">By</span> 
-                            <a href="/author/{{ author | slugify }}/" class="fw-bold text-dark text-decoration-none small text-uppercase ms-1">
-                                {{ author }}
-                            </a>
+                            {% for authorName in authors %}
+                                <a href="/authors/{{ authorName | slugify }}/" class="fw-bold text-dark text-decoration-none small text-uppercase ms-1">
+                                    {{ authorName }}
+                                </a>{% if not loop.last %}, {% endif %}
+                            {% endfor %}
                         </div>
                     {% endif %}
                     
@@ -56,9 +59,8 @@ layout: base.njk
             <div class="post-tags mt-5 pt-4 border-top">
                 <span class="small text-muted text-uppercase fw-bold me-2">Filed under:</span>
                 {% for tag in tags %}
-                    {% set tagToken = tag | lower | replace(" ", "") | replace("_", "") | replace("-", "") %}
                     <a href="/tag/{{ tag | slugify }}/" class="badge bg-light text-dark border text-decoration-none fw-normal me-1 p-2">
-                        #{{ tagToken }}
+                        {{ tag | displayTerm }}
                     </a>
                 {% endfor %}
             </div>

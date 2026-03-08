@@ -6,17 +6,17 @@ permalink: /2022/10/19/a-tainted-trophy-and-the-framing-of-white-supremacy-in-am
 image: /images/wp-content/uploads/2022/11/indian_war_warrior_native_montreal-413586.jpg
 
 categories:
-  - "Indigenous Theory"
+  - indigenous-theory
 tags:
-  - "American Indians"
-  - "Colonialism"
-  - "David Morgan"
-  - "Indian Killing"
-  - "Lenape"
-  - "Ohio"
-  - "Rezin Monroe Barns"
-  - "Treaty of Greenville"
-  - "William Henry Harrison"
+  - american-indians
+  - colonialism
+  - david-morgan
+  - indian-killing
+  - lenape
+  - ohio
+  - rezin-monroe-barns
+  - treaty-of-greenville
+  - william-henry-harrison
 ---
 
 *The following is the first of a three-part series. The entire article appears in the fall 2022 issue of [The New Polis Journal.](https://journal.thenewpolis.com)*

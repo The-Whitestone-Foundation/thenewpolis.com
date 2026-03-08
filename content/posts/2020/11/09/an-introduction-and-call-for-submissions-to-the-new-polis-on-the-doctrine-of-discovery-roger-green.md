@@ -6,20 +6,20 @@ permalink: /2020/11/09/an-introduction-and-call-for-submissions-to-the-new-polis
 image: /images/wp-content/uploads/2020/11/Screen-Shot-2020-11-06-at-7.37.35-PM.png
 
 categories:
-  - "American History"
-  - "Announcements"
-  - "Doctrine of Discovery and Domination"
-  - "Indigenous Theory"
-  - "Politics and Religion"
-  - "Social History"
+  - american-history
+  - announcements
+  - doctrine-of-discovery-and-domination
+  - indigenous-theory
+  - politics-and-religion
+  - social-history
 tags:
-  - "Call For Contributions"
-  - "Doctrine of Discovery"
-  - "John Marshall"
-  - "Papal Bulls"
-  - "Steven Newcomb"
-  - "Tink Tinker"
-  - "Vine Deloria"
+  - call-for-contributions
+  - doctrine-of-discovery
+  - john-marshall
+  - papal-bulls
+  - steven-newcomb
+  - tink-tinker
+  - vine-deloria
 ---
 
 The New Polis*, in conjunction with other Whitestone Publications, is currently at work on a larger project for the year 2021 that involves the publication of articles, online seminars and conferences, and more expansive as well as deep-reaching conversations concerning indigeneity and the “de-colonizing” of prevailing forms of intellectual discourse and cognitive frameworks. The foundational issue in this project is the so-called “Doctrine of Discovery” that has served as the basis of Western legal doctrine for centuries, especially as it pertains to access to and use of land, the nature of property, popular sovereignty, and the political rights and expectations of so-called “first nations” or indigenous peoples. The project will also explore what “discovery” has come to mean within the epistemic realm of inquiry. The following video by Prof. Roger Green, General Editor of* The New Polis*, is intended as a conceptual orientation and reference tool concerning the Doctrine of Discovery as the project unfolds in the coming months. – **Editors***

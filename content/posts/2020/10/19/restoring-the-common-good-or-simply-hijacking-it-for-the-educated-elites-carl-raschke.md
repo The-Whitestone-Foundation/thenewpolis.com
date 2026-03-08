@@ -6,21 +6,21 @@ permalink: /2020/10/19/restoring-the-common-good-or-simply-hijacking-it-for-the-
 image: /images/wp-content/uploads/2020/10/common-good.jpg
 
 categories:
-  - "Political Economy"
+  - political-economy
 tags:
-  - "Amy Coney Barrett"
-  - "Aristotle"
-  - "Common Good"
-  - "Doug Pagitt"
-  - "Edwared Luce"
-  - "Jeremy Bentham"
-  - "John Rawls"
-  - "Mary Keys"
-  - "Michael Sandel"
-  - "Multiculturalism"
-  - "Ottoman Empire"
-  - "Populism"
-  - "Robert Reich"
+  - amy-coney-barrett
+  - aristotle
+  - common-good
+  - doug-pagitt
+  - edwared-luce
+  - jeremy-bentham
+  - john-rawls
+  - mary-keys
+  - michael-sandel
+  - multiculturalism
+  - ottoman-empire
+  - populism
+  - robert-reich
 ---
 
 America is fracturing.  America is unravelling.  Such a proposition, controversial four years ago, seems almost a truism these days.  But a phenomenology of the Great American Crackup, quite evident in view of routine headlines and the apocalyptic and ostensibly calamitous outcome of the upcoming presidential election if the opposing party wings, according to the narratives of both sides, has rarely been pursued in any serious fashion.

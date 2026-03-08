@@ -6,25 +6,25 @@ permalink: /2021/01/14/the-meaning-of-jan-6-2021-editorial-response-ii-carl-rasc
 image: /images/wp-content/uploads/2021/01/Election_fraud_protester_on_Parliament_Hill.jpg
 
 categories:
-  - "American History"
-  - "Election Debates"
-  - "Neoliberalism"
+  - american-history
+  - election-debates
+  - neoliberalism
 tags:
-  - "2020 Election"
-  - "Abc News"
-  - "Bernard Stiegler"
-  - "Cognitive Capitalism"
-  - "Donald Trump"
-  - "Election Fraud"
-  - "Jan 6"
-  - "Joe Biden"
-  - "Neoliberalism"
-  - "Racism"
-  - "Rick Klein"
-  - "The Resistance"
-  - "Trumpism"
-  - "United Nations"
-  - "Universal Declaration of Human Rights"
+  - 2020-election
+  - abc-news
+  - bernard-stiegler
+  - cognitive-capitalism
+  - donald-trump
+  - election-fraud
+  - jan-6
+  - joe-biden
+  - neoliberalism
+  - racism
+  - rick-klein
+  - the-resistance
+  - trumpism
+  - united-nations
+  - universal-declaration-of-human-rights
 ---
 
 *The following is the second of a series of responses on the part of the editorial staff of The New Polis to the events of January 6, 2021. The earlier one can be found [here](/2021/01/11/editorial-response-to-january-6-2021-roger-green/).*

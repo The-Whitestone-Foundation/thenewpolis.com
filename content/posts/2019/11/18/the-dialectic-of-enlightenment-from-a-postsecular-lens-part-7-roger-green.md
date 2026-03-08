@@ -6,15 +6,15 @@ permalink: /2019/11/18/the-dialectic-of-enlightenment-from-a-postsecular-lens-pa
 image: /images/wp-content/uploads/2019/11/barics2.gif
 
 categories:
-  - "Critical Theory"
-  - "Psychoanalysis"
+  - critical-theory
+  - psychoanalysis
 tags:
-  - "Dialectic of Enlightenment"
-  - "Homophobia"
-  - "Max Horkheimer"
-  - "Sigmund Freud"
-  - "Theodor Adorno"
-  - "Totalitarian Impulse"
+  - dialectic-of-enlightenment
+  - homophobia
+  - max-horkheimer
+  - sigmund-freud
+  - theodor-adorno
+  - totalitarian-impulse
 ---
 
 I ended my [previous post](/2019/10/28/the-dialectic-of-enlightenment-from-a-postsecular-lens-part-6-roger-green/) with the following sentiment. It is certainly worth rejecting Horkheimer and Adorno where they are wrong and not refusing to put them on a pedestal. It is also worth seeing the ways we might formulate our arguments in the twenty-first century within a larger critique of totalitarian impulses that they articulate. 

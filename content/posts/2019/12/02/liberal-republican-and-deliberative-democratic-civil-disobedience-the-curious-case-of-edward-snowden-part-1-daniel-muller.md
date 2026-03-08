@@ -6,17 +6,17 @@ permalink: /2019/12/02/liberal-republican-and-deliberative-democratic-civil-diso
 image: /images/wp-content/uploads/2019/12/democracy-symbol.jpg
 
 categories:
-  - "Political Philosophy"
+  - political-philosophy
 tags:
-  - "Civil Disobedience"
-  - "Daniel Markovits"
-  - "Deliberative Democracy"
-  - "Democracy"
-  - "John Rawls"
-  - "Justice"
-  - "Liberalism"
-  - "Republicanism"
-  - "William Smith"
+  - civil-disobedience
+  - daniel-markovits
+  - deliberative-democracy
+  - democracy
+  - john-rawls
+  - justice
+  - liberalism
+  - republicanism
+  - william-smith
 ---
 
 *The following is the first of a two-part series. The second portion examines the case of Snowden in detail.*

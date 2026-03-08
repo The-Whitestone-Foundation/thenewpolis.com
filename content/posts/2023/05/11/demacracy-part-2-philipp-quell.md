@@ -1,20 +1,21 @@
 ---
 title: "De(ma)cracy, Part 2 (Philipp Quell"
 date: 2023-05-11T04:25:54+00:00
-author: ma
+author: thenewpolis
 permalink: /2023/05/11/demacracy-part-2-philipp-quell/
 image: /images/wp-content/uploads/2023/07/1_j8opW0GAgRowiWp4M0adWA.webp
 
 categories:
-  - "Political Philosophy"
+  - political-philosophy
 tags:
-  - "Claude Lefort"
-  - "Climanen"
-  - "Elias Canetti"
-  - "Felix Guattari"
-  - "Gilles Deleuze"
-  - "Jacques Ranciere"
-  - "Plato"
+  - claude-lefort
+  - climanen
+  - elias-canetti
+  - felix-guattari
+  - gilles-deleuze
+  - jacques-ranciere
+  - plato
+
 ---
 
 *The following is the second of a three-part series. The first can be found [here](/04/28/demacracy-part-1-philipp-quell/). The article originally appeared in* [The Journal for Cultural and Religious Theory *22:1*](https://www.jcrt.org/archives/22.1/), and was originally in German.

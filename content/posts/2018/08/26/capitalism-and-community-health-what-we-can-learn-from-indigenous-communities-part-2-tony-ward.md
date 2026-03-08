@@ -1,22 +1,22 @@
 ---
 title: "Capitalism and Community Health – What We Can Learn From Indigenous Communities, Part 2 (Tony Ward)"
 date: 2018-08-26T03:52:37+00:00
-author: Contributing Editor
+author: Tony Ward
 permalink: /2018/08/26/capitalism-and-community-health-what-we-can-learn-from-indigenous-communities-part-2-tony-ward/
 image: /images/wp-content/uploads/2018/08/ea678751-a31f-4d2c-b65d-bd67265c119a.jpg
 
 categories:
-  - "Indigenous Theory"
+  - indigenous-theory
 tags:
-  - "Analytical Psychology"
-  - "Community Health"
-  - "Indigenous Health Epistemes"
-  - "Lakota Inipi Ceremonies"
-  - "Maori"
-  - "Medicine Wheel"
-  - "Navajo"
-  - "Taosit Yin Yang"
-  - "Traditional Chinese Herbal Medicine"
+  - analytical-psychology
+  - community-health
+  - indigenous-health-epistemes
+  - lakota-inipi-ceremonies
+  - maori
+  - medicine-wheel
+  - navajo
+  - taosit-yin-yang
+  - traditional-chinese-herbal-medicine
 ---
 
 *The following is the second part in a two-part installment. The first part can be found [here](/2018/08/22/capitalism-and-community-health-what-we-can-learn-from-indigenous-communities-part-1-tony-ward/).* 

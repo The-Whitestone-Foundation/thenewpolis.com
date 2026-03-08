@@ -1,21 +1,22 @@
 ---
 title: "Critical Conversations – 2020 And The Catastrophe Of The Global Neoliberal Order (Announcement)"
 date: 2020-11-02T02:17:02+00:00
-author: Announcement
+author: thenewpolis
 permalink: /2020/11/02/critical-conversations-2020-and-the-catastrophe-of-the-global-neoliberal-order-announcement/
 image: /images/wp-content/uploads/2020/11/Crisis-City.jpeg
 
 categories:
-  - "Announcements"
+  - announcements
 tags:
-  - "Carl Raschke"
-  - "Covid 19"
-  - "Ethno Nationalism"
-  - "Kieryn Wurts"
-  - "Neoliberalism"
-  - "Political Theology"
-  - "Populism"
-  - "Ward Blanton"
+  - carl-raschke
+  - covid-19
+  - ethno-nationalism
+  - kieryn-wurts
+  - neoliberalism
+  - political-theology
+  - populism
+  - ward-blanton
+
 ---
 
 *Participants are invited to join us live in the fourth of a monthly series of “Critical Conversations” (Zoom webinars) with eminent scholars from around the globe. **If you are interested in joining us, please contact us by email at*** [***editor.thenewpolis@gmail.com***](mailto:editor.thenewpolis@gmail.com)*. If you have not participated in previous seminars, please provide us with a brief sentence or two explaining your interest in this particular “Critical Conversation”. Or you may simply sign up through the registration link below.*
@@ -32,9 +33,9 @@ You must register in advance of the seminar, whereupon you will be automatically
 
 **Contact:** [editor.thenewpolis@gmail.com](mailto:editor.thenewpolis@gmail.com)
 
-**Moderator:** Roger Green, General Editor, *[The New Polis](https://)*.
+**Moderator:** Roger Green, General Editor, *[The New Polis](https://thenewpolis.com)*.
 
-**Presenter:**  Carl Raschke is Professor of Religious Studies at the University of Denver. He is the author of over twenty books including *[Neoliberalism and Political Theology: From Kant to Identity Politics](https://www.google.com/books/edition/NEOLIBERALISM_AND_POLITICAL_THEOLOGY/Vs3JzQEACAAJ?hl=en)* and *[Force of God: Political Theology and the Crisis of Liberal Democracy](https://www.google.com/books/edition/Force_of_God/ynuDCgAAQBAJ?hl=en&gbpv=1&dq=force+of+god&printsec=frontcover)* (Columbia University Press, 2015). He is senior editor of *[The Journal for Cultural and Religious Theory](https://www.jcrt.org) and senior consulting editor for [The New Polis](https://)*[.](https://)
+**Presenter:**  Carl Raschke is Professor of Religious Studies at the University of Denver. He is the author of over twenty books including *[Neoliberalism and Political Theology: From Kant to Identity Politics](https://www.google.com/books/edition/NEOLIBERALISM_AND_POLITICAL_THEOLOGY/Vs3JzQEACAAJ?hl=en)* and *[Force of God: Political Theology and the Crisis of Liberal Democracy](https://www.google.com/books/edition/Force_of_God/ynuDCgAAQBAJ?hl=en&gbpv=1&dq=force+of+god&printsec=frontcover)* (Columbia University Press, 2015). He is senior editor of *[The Journal for Cultural and Religious Theory](https://www.jcrt.org) and senior consulting editor for [The New Polis](https://thenewpolis.com)*[.](https://thenewpolis.com)
 
 ## Discussants:
 

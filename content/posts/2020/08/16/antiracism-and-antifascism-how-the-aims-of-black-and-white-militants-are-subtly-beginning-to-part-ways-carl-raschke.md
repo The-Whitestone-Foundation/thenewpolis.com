@@ -6,23 +6,23 @@ permalink: /2020/08/16/antiracism-and-antifascism-how-the-aims-of-black-and-whit
 image: /images/wp-content/uploads/2020/08/anti-fascism-156037_1280.png
 
 categories:
-  - "Political Theory"
+  - political-theory
 tags:
-  - "Anti Defamation League"
-  - "Antifa"
-  - "Antifascism"
-  - "Antisemitism"
-  - "Black Lives Matter"
-  - "Donald Trump"
-  - "Fascism"
-  - "George Floyd"
-  - "Racial Justice"
-  - "Racism"
-  - "Richard Stanley"
-  - "Robert Paxton"
-  - "Sarah Midkiff"
-  - "Shirley Jackson"
-  - "William Barr"
+  - anti-defamation-league
+  - antifa
+  - antifascism
+  - antisemitism
+  - black-lives-matter
+  - donald-trump
+  - fascism
+  - george-floyd
+  - racial-justice
+  - racism
+  - richard-stanley
+  - robert-paxton
+  - sarah-midkiff
+  - shirley-jackson
+  - william-barr
 ---
 
 *The following is the second of a four-part series on the current upsurge in antiracist activism in America as well as its intellectual roots, historical context, and implications*. *The first can be found [here](/2020/07/27/racism-anti-racism-and-marxism-how-poststructuralism-morphed-the-emancipatory-project-into-progressive-neoliberalism-part-1/).*

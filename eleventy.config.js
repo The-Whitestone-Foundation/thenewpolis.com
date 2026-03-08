@@ -1,15 +1,36 @@
 import { DateTime } from "luxon";
+import { IdAttributePlugin } from "@11ty/eleventy";
 import { readFileSync } from "fs";
 import { execSync } from "child_process";
 import markdownIt from "markdown-it";
 import markdownItFootnote from "markdown-it-footnote";
-import toc from "eleventy-plugin-toc";
 import yaml from "js-yaml";
 
-export default function (eleventyConfig) {
+export default async function (eleventyConfig) {
   const metadata = yaml.load(readFileSync("./_data/metadata.yaml", "utf-8")) || {};
   const configuredSiteUrl = String(metadata.url || "").trim().replace(/\/+$/, "");
   const siteTimezone = String(metadata.timezone || "utc");
+  const dateFormatCache = new Map();
+  const postsCache = new WeakMap();
+  const normalizeAuthor = (value) =>
+    String(value || "")
+      .trim()
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-+|-+$/g, "");
+  const getAuthorList = (value) => {
+    if (!value) return [];
+    if (Array.isArray(value)) {
+      return value.map((item) => String(item || "").trim()).filter(Boolean);
+    }
+    const asString = String(value).trim();
+    if (!asString) return [];
+    if (asString.includes(",")) {
+      return asString.split(",").map((item) => item.trim()).filter(Boolean);
+    }
+    return [asString];
+  };
+  const getPrimaryAuthor = (value) => getAuthorList(value)[0] || "";
 
   const getLatestCommitYear = () => {
     try {
@@ -26,7 +47,27 @@ export default function (eleventyConfig) {
 
   eleventyConfig.addGlobalData("latestCommitYear", getLatestCommitYear());
 
-  eleventyConfig.addPlugin(toc);
+  const formatDate = (dateObj, format, zone = "utc") => {
+    if (!dateObj) return "";
+    const timestamp = dateObj instanceof Date ? dateObj.getTime() : new Date(dateObj).getTime();
+    if (Number.isNaN(timestamp)) return "";
+    const cacheKey = `${timestamp}|${zone}|${format}`;
+    if (dateFormatCache.has(cacheKey)) {
+      return dateFormatCache.get(cacheKey);
+    }
+    const formatted = DateTime.fromJSDate(new Date(timestamp), { zone }).toFormat(format);
+    dateFormatCache.set(cacheKey, formatted);
+    return formatted;
+  };
+
+  if (typeof globalThis.File === "undefined") {
+    const { File } = await import("node:buffer");
+    globalThis.File = File;
+  }
+  const tocModule = await import("eleventy-plugin-toc");
+  const tocPlugin = tocModule.default || tocModule;
+  eleventyConfig.addPlugin(tocPlugin);
+  eleventyConfig.addPlugin(IdAttributePlugin);
 
   const md = markdownIt({ html: true, linkify: true });
   md.use(markdownItFootnote);
@@ -35,24 +76,25 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "public/css": "css" });
   eleventyConfig.addPassthroughCopy({ "public/images": "images" });
   eleventyConfig.addPassthroughCopy({ "public/docs": "docs" });
+  eleventyConfig.addPassthroughCopy({ "public/site.webmanifest": "site.webmanifest" });
   eleventyConfig.addPassthroughCopy({
     "node_modules/@zachleat/heading-anchors/heading-anchors.js": "js/heading-anchors.js"
   });
 
   eleventyConfig.addFilter("readableDate", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("dd LLLL yyyy");
+    return formatDate(dateObj, "dd LLLL yyyy");
   });
 
   eleventyConfig.addFilter("date", (dateObj, format) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(format);
+    return formatDate(dateObj, format);
   });
 
   eleventyConfig.addFilter("htmlDateString", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-MM-dd");
+    return formatDate(dateObj, "yyyy-MM-dd");
   });
 
   eleventyConfig.addFilter("dateFilter", (dateObj, format) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(format);
+    return formatDate(dateObj, format);
   });
 
   eleventyConfig.addFilter("isoDate", (dateObj) => {
@@ -78,7 +120,7 @@ export default function (eleventyConfig) {
       return path;
     }
   });
-eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
+  eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
   eleventyConfig.addFilter("limit", (array, limit) => {
     return array.slice(0, limit);
   });
@@ -96,9 +138,26 @@ eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
   });
 
   eleventyConfig.addFilter("filterByAuthor", (posts, author) => {
+    const targetAuthor = normalizeAuthor(author);
     return posts.filter((post) => {
-      return post.data.author === author;
+      const postAuthors = getAuthorList(post.data.author).map(normalizeAuthor);
+      return postAuthors.includes(targetAuthor);
     });
+  });
+  eleventyConfig.addFilter("authorList", (author) => getAuthorList(author));
+  eleventyConfig.addFilter("primaryAuthor", (author) => getPrimaryAuthor(author));
+  eleventyConfig.addFilter("displayTerm", (value) => {
+    const text = String(value || "").trim();
+    if (!text) return "";
+    return text
+      .split("-")
+      .filter(Boolean)
+      .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
+      .join(" ");
+  });
+  eleventyConfig.addFilter("sortByDateDesc", (items = []) => {
+    if (!Array.isArray(items)) return [];
+    return [...items].sort((a, b) => b.date - a.date);
   });
 
   eleventyConfig.addFilter("breadcrumbs", (dateObj, title, metadata) => {
@@ -113,8 +172,12 @@ eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
     ];
   });
 
-  const getPosts = (collectionApi) =>
-    collectionApi.getFilteredByGlob("content/posts/**/*.md").reverse();
+  const getPosts = (collectionApi) => {
+    if (!postsCache.has(collectionApi)) {
+      postsCache.set(collectionApi, collectionApi.getFilteredByGlob("content/posts/**/*.md").reverse());
+    }
+    return postsCache.get(collectionApi);
+  };
 
   eleventyConfig.addCollection("posts", (collectionApi) => {
     return getPosts(collectionApi);
@@ -145,40 +208,114 @@ eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
   });
 
   eleventyConfig.addCollection("authors", function (collectionApi) {
-    let authors = new Set();
+    const authors = new Set();
     getPosts(collectionApi).forEach((item) => {
-      if (item.data.author) {
-        authors.add(item.data.author);
-      }
+      getAuthorList(item.data.author).forEach((author) => authors.add(author));
     });
     return Array.from(authors).sort();
   });
-eleventyConfig.addPassthroughCopy({ "public/admin": "admin" });
-eleventyConfig.addCollection("authorPages", function (collectionApi) {
-  const authorsData = JSON.parse(readFileSync("./_data/authors.json", "utf-8"));
-  let posts = collectionApi.getFilteredByGlob("content/posts/**/*.md");
-  let authorPages = [];
 
-  Object.entries(authorsData).forEach(([key, author]) => {
-    let authorPosts = posts.filter((post) => {
-      const postAuthor = post.data.author;
-      if (!postAuthor) return false;
-      const normalizedPostAuthor = postAuthor.toLowerCase().replace(/\s+/g, '-');
-      
-      return postAuthor === author.name || normalizedPostAuthor === key;
-    });
-
-    authorPages.push({
-      key: key,
-      name: author.name,
-      bio: author.bio,
-      posts: authorPosts.sort((a, b) => b.date - a.date), 
-      url: `/author/${key}/`,
+  eleventyConfig.addCollection("sitemapEntries", function (collectionApi) {
+    const seenUrls = new Set();
+    return collectionApi.getAll().filter((item) => {
+      const url = item.url;
+      if (!url || typeof url !== "string") return false;
+      if (seenUrls.has(url)) return false;
+      if (item.data?.eleventyExcludeFromCollections) return false;
+      if (item.data?.permalink === false) return false;
+      if (item.data?.sitemap === false) return false;
+      seenUrls.add(url);
+      return true;
     });
   });
 
-  return authorPages;
-});
+  eleventyConfig.addPassthroughCopy({ "public/admin": "admin" });
+  eleventyConfig.addCollection("authorPages", function (collectionApi) {
+    const posts = getPosts(collectionApi);
+    const authorDocs = collectionApi.getFilteredByGlob("content/authors/*.md");
+    const profileByKey = new Map();
+    const profileByName = new Map();
+    const mergeProfile = (current = {}, incoming = {}) => {
+      const merged = { ...current };
+      Object.entries(incoming).forEach(([field, value]) => {
+        if (value === undefined || value === null) return;
+        if (typeof value === "string" && value.trim() === "") return;
+        merged[field] = value;
+      });
+      return merged;
+    };
+
+    const upsertProfile = (rawKey, profile = {}) => {
+      const normalizedKey = normalizeAuthor(rawKey || profile?.name || "");
+      if (!normalizedKey) return;
+      const nextProfile = {
+        key: normalizedKey,
+        name: profile?.name || rawKey,
+        bio: profile?.bio,
+        image: profile?.image,
+        twitter: profile?.twitter,
+        website: profile?.website,
+        affiliation: profile?.affiliation,
+      };
+      const byKey = profileByKey.get(normalizedKey);
+      const mergedByKey = mergeProfile(byKey, nextProfile);
+      profileByKey.set(normalizedKey, mergedByKey);
+      const normalizedName = normalizeAuthor(mergedByKey?.name || "");
+      if (normalizedName) {
+        const byName = profileByName.get(normalizedName);
+        profileByName.set(normalizedName, mergeProfile(byName, mergedByKey));
+      }
+    };
+
+    authorDocs.forEach((entry) => {
+      const data = entry?.data || {};
+      const keyCandidate = data.slug || data.author || data.title || entry.fileSlug;
+      upsertProfile(keyCandidate, {
+        name: data.author || data.title || keyCandidate,
+        bio: data.bio,
+        image: data.image,
+        twitter: data.twitter,
+        website: data.website,
+        affiliation: data.affiliation || data.affilation,
+      });
+    });
+
+    const authorPostMap = new Map();
+    posts.forEach((post) => {
+      getAuthorList(post.data.author).forEach((authorName) => {
+        const normalizedAuthor = normalizeAuthor(authorName);
+        if (!normalizedAuthor) return;
+        if (!authorPostMap.has(normalizedAuthor)) {
+          authorPostMap.set(normalizedAuthor, { name: authorName, posts: [] });
+        }
+        authorPostMap.get(normalizedAuthor).posts.push(post);
+      });
+    });
+
+    const allAuthorKeys = new Set([
+      ...Array.from(authorPostMap.keys()),
+      ...Array.from(profileByKey.keys()),
+    ]);
+
+    return Array.from(allAuthorKeys)
+      .map((normalizedAuthor) => {
+        const data = authorPostMap.get(normalizedAuthor) || { name: "", posts: [] };
+        const profile = profileByKey.get(normalizedAuthor) || profileByName.get(normalizedAuthor);
+        const key = profile?.key || normalizedAuthor;
+        return {
+          key,
+          name: profile?.name || data.name || key,
+          bio: profile?.bio,
+          image: profile?.image,
+          twitter: profile?.twitter,
+          website: profile?.website,
+          affiliation: profile?.affiliation,
+          posts: data.posts.sort((a, b) => b.date - a.date),
+          url: `/authors/${key}/`,
+        };
+      })
+      .sort((a, b) => a.name.localeCompare(b.name));
+  });
 
   return {
     dir: {

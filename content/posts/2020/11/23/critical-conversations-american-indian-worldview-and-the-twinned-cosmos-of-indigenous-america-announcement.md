@@ -6,15 +6,15 @@ permalink: /2020/11/23/critical-conversations-american-indian-worldview-and-the-
 image: /images/wp-content/uploads/2020/11/astronomy-3327653_1280.jpg
 
 categories:
-  - "Announcements"
+  - announcements
 tags:
-  - "American Indians"
-  - "Barbara Alice Mann"
-  - "Indigenous"
-  - "Native Americans"
-  - "Tink Tinker"
-  - "Twinned Cosmos"
-  - "Worldview"
+  - american-indians
+  - barbara-alice-mann
+  - indigenous
+  - native-americans
+  - tink-tinker
+  - twinned-cosmos
+  - worldview
 ---
 
 *Participants are invited to join us live in the fifth of a monthly series of “Critical Conversations” (Zoom webinars) with eminent scholars from around the globe.* ***If you are interested in joining us, please contact us by email at*** [***editor.thenewpolis@gmail.com***](mailto:editor.thenewpolis@gmail.com)*. If you have not participated in previous seminars, please provide us with a brief sentence or two explaining your interest in this particular “Critical Conversation”. Or you may simply sign up through the registration link below.*
@@ -33,7 +33,7 @@ Registration link: [https://udenver.zoom.us/meeting/register/tZYvc-urpzwsEtVd6Vb
 
 **Contact:** [editor.thenewpolis@gmail.com](mailto:editor.thenewpolis@gmail.com)
 
-**Moderator:** Roger Green, General Editor, *[The New Polis](https://)*.
+**Moderator:** Roger Green, General Editor, *[The New Polis](https://thenewpolis.com)*.
 
 ## Presenters:
 

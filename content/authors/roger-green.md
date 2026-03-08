@@ -2,5 +2,6 @@
 title: "Roger Green"
 author: "Roger Green"
 slug: "roger-green"
-permalink: false
+affilation: ""
+image: /images/thenewpolis-logo.png
 ---

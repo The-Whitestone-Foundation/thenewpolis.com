@@ -6,17 +6,17 @@ permalink: /2023/04/28/demacracy-part-1-philipp-quell/
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Political Philosophy"
+  - political-philosophy
 tags:
-  - "Aquinas"
-  - "Claude Lefort"
-  - "Democracy"
-  - "Elias Canetti"
-  - "Gilles Deleuze"
-  - "Immanuel Kant"
-  - "Jacques Derrida"
-  - "Martin Heidegger"
-  - "Susanne Ludemann"
+  - aquinas
+  - claude-lefort
+  - democracy
+  - elias-canetti
+  - gilles-deleuze
+  - immanuel-kant
+  - jacques-derrida
+  - martin-heidegger
+  - susanne-ludemann
 ---
 
 *The following is the first of a three-part series. The article originally appeared in* [The Journal for Cultural and Religious Theory *22:1*](https://www.jcrt.org/archives/22.1/), and was originally in German.

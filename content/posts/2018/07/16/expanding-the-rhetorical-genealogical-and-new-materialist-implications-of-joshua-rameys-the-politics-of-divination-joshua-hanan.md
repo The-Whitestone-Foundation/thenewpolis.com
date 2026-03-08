@@ -6,20 +6,20 @@ permalink: /2018/07/16/expanding-the-rhetorical-genealogical-and-new-materialist
 image: /images/wp-content/uploads/2018/07/Rhetoric-enthroned-invitation-antwerp-landjuweel-1561.jpg
 
 categories:
-  - "Neoliberalism"
-  - "Political Philosophy"
-  - "Political Theory"
+  - neoliberalism
+  - political-philosophy
+  - political-theory
 tags:
-  - "Chrematistics"
-  - "Giorgio Agamben"
-  - "Joshua Ramey"
-  - "Michel Foucault"
-  - "Neoliberalism"
-  - "Nietzsche"
-  - "Philip Mirowski"
-  - "Polis"
-  - "Thomas Nail"
-  - "Wendy Brown"
+  - chrematistics
+  - giorgio-agamben
+  - joshua-ramey
+  - michel-foucault
+  - neoliberalism
+  - nietzsche
+  - philip-mirowski
+  - polis
+  - thomas-nail
+  - wendy-brown
 ---
 
 *The following is part of a series of responses to Joshua Ramey’s book*, [Politics of Divination](https://www.rowmaninternational.com/book/politics_of_divination/3-156-c10d5ea3-3149-479b-87bf-03db7e5a7b2f).  *You can read our interview with Ramey [here](/2018/06/11/on-neoliberalism-and-the-politics-of-divination-an-interview-with-joshua-ramey/)*.  *You can read Carl Raschke’s response to Ramey’s work [here](/06/14/on-marx-stiegler-and-the-neoliberal-commodity-further-conversation-with-joshua-ramey-carl-raschke/).*

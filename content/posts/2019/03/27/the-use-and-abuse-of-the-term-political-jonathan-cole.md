@@ -6,13 +6,13 @@ permalink: /2019/03/27/the-use-and-abuse-of-the-term-political-jonathan-cole/
 image: /images/wp-content/uploads/2019/03/Screen-Shot-2019-03-27-at-10.23.07-AM.png
 
 categories:
-  - "Political Theory"
+  - political-theory
 tags:
-  - "Democracy"
-  - "Liberalism"
-  - "Political"
-  - "Politics"
-  - "Semantics"
+  - democracy
+  - liberalism
+  - political
+  - politics
+  - semantics
 ---
 
 Definitions of “politics” and “the political” are legion in scholarship. At the extremities of the spectrum one encounters mutually exclusive definitions. Betwixt one finds a bewildering assortment of cross-cutting variation.

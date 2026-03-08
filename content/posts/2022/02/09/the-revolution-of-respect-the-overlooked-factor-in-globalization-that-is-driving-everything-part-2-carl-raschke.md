@@ -6,19 +6,19 @@ permalink: /2022/02/09/the-revolution-of-respect-the-overlooked-factor-in-global
 image: /images/wp-content/uploads/2022/02/Fragment_of_a_Queens_Face_MET_DP355835-1.jpg
 
 categories:
-  - "Globalization Theory"
+  - globalization-theory
 tags:
-  - "Categorical Imperative"
-  - "Catherine Walsh"
-  - "Dr Seuss"
-  - "Epistemology"
-  - "Identity Politics"
-  - "Immanuel Kant"
-  - "Martin Luther"
-  - "Moral Law"
-  - "Plato"
-  - "Rodney Stark"
-  - "Sylvia Wynter"
+  - categorical-imperative
+  - catherine-walsh
+  - dr-seuss
+  - epistemology
+  - identity-politics
+  - immanuel-kant
+  - martin-luther
+  - moral-law
+  - plato
+  - rodney-stark
+  - sylvia-wynter
 ---
 
 *The following is the text of the [University Lecture](https://www.dropbox.com/s/m2s1zse6mk6gcpi/20220202_V01_University%20Lecture.mp4?dl=0) given by New Polis editor Carl Raschke for the University of Denver (DU). [According to the DU website](https://www.du.edu/faculty-staff-awards/university-lecturer-award), “the University Lecturer Award is given in recognition of superlative creative and scholarly work”. This is the second of a two-part transcript. The first can be found [here.](/05/the-revolution-of-respect-the-overlooked-factor-in-globalization-that-is-driving-everything-part-1-carl-raschke/)*

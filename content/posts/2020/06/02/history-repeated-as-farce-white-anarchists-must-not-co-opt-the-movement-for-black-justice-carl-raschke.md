@@ -6,16 +6,16 @@ permalink: /2020/06/02/history-repeated-as-farce-white-anarchists-must-not-co-op
 image: /images/wp-content/uploads/2020/06/IMG_6726-2.jpg
 
 categories:
-  - "Political Theory"
+  - political-theory
 tags:
-  - "Antonio Negri"
-  - "Black Power Movement"
-  - "George Floyd"
-  - "Karl Marx"
-  - "Michael Hardt"
-  - "New Left"
-  - "Stokely Carmichael"
-  - "Susan Brownmiller"
+  - antonio-negri
+  - black-power-movement
+  - george-floyd
+  - karl-marx
+  - michael-hardt
+  - new-left
+  - stokely-carmichael
+  - susan-brownmiller
 ---
 
 *This article is republished from the author’s private blog at* [*thoughtsoutofseason.net*](https://thoughtsoutofseason.net)

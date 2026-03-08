@@ -1,24 +1,24 @@
 ---
 title: "“The End Of Cognitive Empire” (Critical Conversations)"
 date: 2020-09-02T00:36:45+00:00
-author: Critical Conversations
+author: Roger Green
 permalink: /2020/09/02/critical-conversations-the-end-of-cognitive-empire/
 image: /images/wp-content/uploads/2020/09/Making-a-new-world.jpg
 
 categories:
-  - "Critical Conversations"
+  - critical-conversations
 tags:
-  - "Augustie"
-  - "Boaventura De Sousa Santos"
-  - "Calvinism"
-  - "Carl Raschke"
-  - "Cognitive Empire"
-  - "French Revolution"
-  - "Herman Westerink"
-  - "Miguel De La Torre"
-  - "New World"
-  - "Roger Green"
-  - "Sarah Pessin"
+  - augustie
+  - boaventura-de-sousa-santos
+  - calvinism
+  - carl-raschke
+  - cognitive-empire
+  - french-revolution
+  - herman-westerink
+  - miguel-de-la-torre
+  - new-world
+  - roger-green
+  - sarah-pessin
 ---
 
 The following is the video and transcript of the first of “Critical Conversations”, a monthly Zoom seminar with advance registration sponsored by *The New Polis* and Whitestone Publications and involving international scholars. The seminar took place on August 18, 2020.

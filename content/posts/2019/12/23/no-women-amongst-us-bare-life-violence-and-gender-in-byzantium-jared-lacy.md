@@ -6,15 +6,15 @@ permalink: /2019/12/23/no-women-amongst-us-bare-life-violence-and-gender-in-byza
 image: /images/wp-content/uploads/2019/12/151d4648-fe8a-4624-8027-daad589f1c7d.jpeg
 
 categories:
-  - "Aesthetics"
-  - "Critical Theory"
-  - "Film Criticism"
-  - "Gender Theory"
-  - "Queer Genders"
+  - aesthetics
+  - critical-theory
+  - film-criticism
+  - gender-theory
+  - queer-genders
 tags:
-  - "Political"
-  - "Political Theology"
-  - "Feminism"
+  - political
+  - political-theology
+  - feminism
 ---
 
  Neil Jordan’s film *Byzantium* (2012), which tells the story of a pair of mother/daughter vampires on the run from a male-only secret society of vampires known as Brotherhood, has been widely read as a feminist approach to the literary convention of the vampire.  The depiction of female vampires that are neither villainized for a predatory relationships to men, nor used as a vehicle to cast the undead monstrosity of the female vampire as a metaphor for lesbianism, alongside notions of representation regarding strong female characters and a suggestion of female sexual agency, contribute to this view of the film. Nevertheless, incongruities persist in the way the film addresses sexual politics and feminism.  

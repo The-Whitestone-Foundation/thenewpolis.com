@@ -1,25 +1,25 @@
 ---
 title: "The Politics Of Dialect In Indian Regionalism (Shivani Bhasin)"
 date: 2018-05-01T02:51:27+00:00
-author: Contributing Editor
+author: Shivani Bhasin
 permalink: /2018/05/01/the-politics-of-dialect-in-indian-regionalism-shivani-bhasin/
 image: /images/wp-content/uploads/2018/04/Hindu_children_of_high_caste_Bombay_India.jpg
 
 categories:
-  - "Political Theory"
-  - "Social History"
+  - political-theory
+  - social-history
 tags:
-  - "Dalit Castes"
-  - "Hindi"
-  - "Janaki Nair"
-  - "Kancha Ilaiah"
-  - "Kerala"
-  - "Modern Marathi"
-  - "Muhammed Haneefa"
-  - "National Language"
-  - "Papia Sengupta"
-  - "Reenu Punnoose"
-  - "Tejas Harad"
+  - dalit-castes
+  - hindi
+  - janaki-nair
+  - kancha-ilaiah
+  - kerala
+  - modern-marathi
+  - muhammed-haneefa
+  - national-language
+  - papia-sengupta
+  - reenu-punnoose
+  - tejas-harad
 ---
 
 A dialect is defined as a particular form of a language which is peculiar to a region or social group. Yet what exactly helps maintain a strict boundary between a dialect and a language?

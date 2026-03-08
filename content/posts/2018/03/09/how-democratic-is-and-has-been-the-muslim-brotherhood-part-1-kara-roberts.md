@@ -6,20 +6,20 @@ permalink: /2018/03/09/how-democratic-is-and-has-been-the-muslim-brotherhood-par
 image: /images/wp-content/uploads/2018/03/Moroccan-history.jpg
 
 categories:
-  - "Critical Theory"
-  - "Featured"
-  - "Social History"
+  - critical-theory
+  - featured
+  - social-history
 tags:
-  - "Alison Pargeter"
-  - "Egypt"
-  - "Gamal Nasser"
-  - "Hassan Al Banna"
-  - "Jihadism"
-  - "Muslim Brotherhood"
-  - "Nahman Tal"
-  - "Radical Islam"
-  - "Sayid Qutb"
-  - "Tarek Osman"
+  - alison-pargeter
+  - egypt
+  - gamal-nasser
+  - hassan-al-banna
+  - jihadism
+  - muslim-brotherhood
+  - nahman-tal
+  - radical-islam
+  - sayid-qutb
+  - tarek-osman
 ---
 
 ## The following is the first installment of a two-part series.

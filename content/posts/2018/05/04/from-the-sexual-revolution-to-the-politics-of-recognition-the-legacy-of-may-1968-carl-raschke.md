@@ -6,18 +6,18 @@ permalink: /2018/05/04/from-the-sexual-revolution-to-the-politics-of-recognition
 image: /images/wp-content/uploads/2018/05/Liberte.jpg
 
 categories:
-  - "Political History"
+  - political-history
 tags:
-  - "Communism"
-  - "Hegel"
-  - "Humanism"
-  - "Jacobins"
-  - "Marxism"
-  - "May 1968"
-  - "Michel Foucault"
-  - "Neoliberalism"
-  - "Revolution"
-  - "Sexual Revolution"
+  - communism
+  - hegel
+  - humanism
+  - jacobins
+  - marxism
+  - may-1968
+  - michel-foucault
+  - neoliberalism
+  - revolution
+  - sexual-revolution
 ---
 
 May 1968 was known in France as *l’eventement*, or “the event.”  It was compared to the French uprisings of 1789, 1830, 1849, and 1871 when governments dissolved and new “republics” were proclaimed.  It was spontaneous, unscripted, and to a certain extent unorganized.   Like so many “spontaneous” insurrections and cultural singularities of that period, there was no obvious causal chain of occurrences that precipitated it.

@@ -6,16 +6,16 @@ permalink: /2020/10/12/critical-conversations-on-a-politics-of-pause-struggling-
 image: /images/wp-content/uploads/2020/10/7869500a-89f1-472d-b331-e3251268d6fe.jpeg
 
 categories:
-  - "Announcements"
-  - "Critical Conversations"
-  - "Critical Theory"
+  - announcements
+  - critical-conversations
+  - critical-theory
 tags:
-  - "Benjamin Noys"
-  - "Katechon"
-  - "Politics"
-  - "Politics of Pause"
-  - "Sarah Pessin"
-  - "Speed"
+  - benjamin-noys
+  - katechon
+  - politics
+  - politics-of-pause
+  - sarah-pessin
+  - speed
 ---
 
 *Participants are invited to join us live in the third of a monthly series of “Critical Conversations” (Zoom webinars) with eminent scholars from around the globe. **If you are interested in joining us, please contact us by email at*** [***editor.thenewpolis@gmail.com***](mailto:editor.thenewpolis@gmail.com)*. Please state your professional or academic status, affiliation, and a brief sentence or two concerning why you would like to participate, so please notify us no later than October 26, 2020.*

@@ -2,5 +2,6 @@
 title: "Interview"
 author: "Interview"
 slug: "interview"
-permalink: false
+affilation: ""
+image: /images/thenewpolis-logo.png
 ---

@@ -6,16 +6,16 @@ permalink: /2019/12/09/liberal-republican-and-deliberative-democratic-civil-diso
 image: /images/wp-content/uploads/2019/12/Snowden.png
 
 categories:
-  - "Political Philosophy"
+  - political-philosophy
 tags:
-  - "Cia"
-  - "Civil Disobedience"
-  - "Daniel Markovitz"
-  - "Edward Snowden"
-  - "Glenn Greenwald"
-  - "John Rawls"
-  - "Liberalism"
-  - "Nsa"
+  - cia
+  - civil-disobedience
+  - daniel-markovitz
+  - edward-snowden
+  - glenn-greenwald
+  - john-rawls
+  - liberalism
+  - nsa
 ---
 
 *The following is the last of a two-part series. This portion examines the case of Snowden in detail.* *The first installment [can be found here](/2019/12/02/liberal-republican-and-deliberative-democratic-civil-disobedience-the-curious-case-of-edward-snowden-part-1-daniel-muller/).*

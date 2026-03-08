@@ -6,16 +6,16 @@ permalink: /2020/04/04/divine-judgement-and-the-ethics-of-authenticity-unsettlin
 image: /images/wp-content/uploads/2020/04/rm206-jj-01a.png
 
 categories:
-  - "Political Theology"
+  - political-theology
 tags:
-  - "Charles Taylor"
-  - "Christian Theology"
-  - "Climate Change"
-  - "Divine Judgment"
-  - "Ecology"
-  - "Ethics"
-  - "Michael Northcott"
-  - "Moral Judgment"
+  - charles-taylor
+  - christian-theology
+  - climate-change
+  - divine-judgment
+  - ecology
+  - ethics
+  - michael-northcott
+  - moral-judgment
 ---
 
 The very idea of divine judgement expressed in natural disasters seems outdated and, at the least, unpleasant to us. There are three basic reasons for this: science, ethics and theology.

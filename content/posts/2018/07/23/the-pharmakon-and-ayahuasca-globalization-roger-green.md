@@ -6,27 +6,27 @@ permalink: /2018/07/23/the-pharmakon-and-ayahuasca-globalization-roger-green/
 image: /images/wp-content/uploads/2018/07/18caf668952c78ca0efcca6d6d67205a-the-soul-vine.jpg
 
 categories:
-  - "Pharmacology"
+  - pharmacology
 tags:
-  - "Alexander Weheliye"
-  - "Andrew Dawson"
-  - "Avital Ronell"
-  - "Ayahuasca"
-  - "Bia Labate"
-  - "Capitalism"
-  - "David Boothroyd"
-  - "Drugs"
-  - "Glenn Shepard"
-  - "Habeas Viscus"
-  - "Indigeneous"
-  - "Jacques Derrida"
-  - "Michael Pollan"
-  - "Nicholas Campion"
-  - "Nicolas Langlitz"
-  - "Pharmakon"
-  - "Santo Daime"
-  - "Tink Tinker"
-  - "Udv"
+  - alexander-weheliye
+  - andrew-dawson
+  - avital-ronell
+  - ayahuasca
+  - bia-labate
+  - capitalism
+  - david-boothroyd
+  - drugs
+  - glenn-shepard
+  - habeas-viscus
+  - indigeneous
+  - jacques-derrida
+  - michael-pollan
+  - nicholas-campion
+  - nicolas-langlitz
+  - pharmakon
+  - santo-daime
+  - tink-tinker
+  - udv
 ---
 
 Jacques Derrida theorized in an interview on “[The Rhetoric of Drugs](https://www.sup.org/books/title/?id=2569)”:

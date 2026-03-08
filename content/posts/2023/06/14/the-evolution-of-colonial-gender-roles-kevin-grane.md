@@ -6,16 +6,16 @@ permalink: /2023/06/14/the-evolution-of-colonial-gender-roles-kevin-grane/
 image: /images/wp-content/uploads/2023/07/800px-National_Womens_Suffrage_Association.jpg
 
 categories:
-  - "Gender Theory"
+  - gender-theory
 tags:
-  - "Colonialism"
-  - "Gender"
-  - "Heteronormativity"
-  - "Heteropatriarchy"
-  - "National Womens Anti Slavery Convention"
-  - "Paul Haglane"
-  - "Sarah Grimke"
-  - "World Economic Forum"
+  - colonialism
+  - gender
+  - heteronormativity
+  - heteropatriarchy
+  - national-womens-anti-slavery-convention
+  - paul-haglane
+  - sarah-grimke
+  - world-economic-forum
 ---
 
 *The following is the first of a two-part series. The article originally appeared in* [The Journal for Cultural and Religious Theory *22:1*](https://www.jcrt.org/archives/22.1/).
@@ -135,5 +135,3 @@ Equally important to the rising populations of those identifying outside of the 
 [^22]: Ibid.
 
 [^23]: Lymari Morales, “U.S. Adults Estimate That 25% of Americans Are Gay or Lesbian,”May 27, 2011, [https://www.gallup.com/poll/147824/adults-estimate-americans-gay- lesbian.aspx](https://www.gallup.com/poll/147824/adults-estimate-americans-gay-%20lesbian.aspx).
-
-## Footnotes

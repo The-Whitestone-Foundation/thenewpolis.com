@@ -6,18 +6,18 @@ permalink: /2018/08/22/capitalism-and-community-health-what-we-can-learn-from-in
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Indigenous Theory"
+  - indigenous-theory
 tags:
-  - "A J P Taylor"
-  - "Capitalism"
-  - "Carl Jung"
-  - "Community Health"
-  - "Detroit"
-  - "Franz Fanon"
-  - "Gestalt Therapy"
-  - "Indigeniety"
-  - "Joe Kincheloe"
-  - "Robert J C Young"
+  - a-j-p-taylor
+  - capitalism
+  - carl-jung
+  - community-health
+  - detroit
+  - franz-fanon
+  - gestalt-therapy
+  - indigeniety
+  - joe-kincheloe
+  - robert-j-c-young
 ---
 
 ## The following is the first  in a two-part installment.

@@ -6,23 +6,23 @@ permalink: /2021/01/12/decoloniality-and-disintegration-of-western-cognitive-emp
 image: /images/wp-content/uploads/2021/01/Sacsayhuama%CC%81n_Cusco_Peru%CC%81_2015-07-31_DD_27.jpg
 
 categories:
-  - "Announcements"
-  - "Call For Presentations and Papers"
+  - announcements
+  - call-for-presentations-and-papers
 tags:
-  - "Decoloniality"
-  - "Dialectics"
-  - "European Romanticism"
-  - "Kirk Lecture"
-  - "Michel Foucault"
-  - "New Polis"
-  - "Sovereignty"
-  - "Territoriality"
-  - "University of Denver"
-  - "Walter Mignolo"
-  - "Ward Churchill"
+  - decoloniality
+  - dialectics
+  - european-romanticism
+  - kirk-lecture
+  - michel-foucault
+  - new-polis
+  - sovereignty
+  - territoriality
+  - university-of-denver
+  - walter-mignolo
+  - ward-churchill
 ---
 
-The *New Polis* in collaboration with Metropolitan State University’s Department of English and the *[Journal for Cultural and Religious Theory](https://)* (part of The Whitestone Foundation of publications) announces a webinar-based online conference in April 2021. The conference is entitled “Decoloniality And Disintegration Of Western Cognitive Empire – Rethinking Sovereignty And Territoriality In The 21st Century.”
+The *New Polis* in collaboration with Metropolitan State University’s Department of English and the *[Journal for Cultural and Religious Theory](https://thenewpolis.com)* (part of The Whitestone Foundation of publications) announces a webinar-based online conference in April 2021. The conference is entitled “Decoloniality And Disintegration Of Western Cognitive Empire – Rethinking Sovereignty And Territoriality In The 21st Century.”
 
 The tentative dates for the conference are April 14-15, though these may change depending on the number of participants and the structuring of the program.
 

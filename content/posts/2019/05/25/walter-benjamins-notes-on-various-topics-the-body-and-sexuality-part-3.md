@@ -6,21 +6,21 @@ permalink: /2019/05/25/walter-benjamins-notes-on-various-topics-the-body-and-sex
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Critical Theory"
+  - critical-theory
 tags:
-  - "Asceticism"
-  - "Consciousness"
-  - "History"
-  - "Horror"
-  - "Ignatius Loyola"
-  - "Love"
-  - "Marriage"
-  - "Mind"
-  - "Morality"
-  - "Prostitution"
-  - "Sexuality"
-  - "Spirit"
-  - "The Feminine"
+  - asceticism
+  - consciousness
+  - history
+  - horror
+  - ignatius-loyola
+  - love
+  - marriage
+  - mind
+  - morality
+  - prostitution
+  - sexuality
+  - spirit
+  - the-feminine
 ---
 
 ## Translated by Rachel Thomas.  Edited by Carl Raschke.

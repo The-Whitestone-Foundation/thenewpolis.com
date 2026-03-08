@@ -6,22 +6,22 @@ permalink: /2020/02/06/impeachment-hyperpartisanship-and-the-democratic-paradox-
 image: /images/wp-content/uploads/2020/02/activist-agonism.jpg
 
 categories:
-  - "Political Philosophy"
-  - "Political Theory"
-  - "Social History"
+  - political-philosophy
+  - political-theory
+  - social-history
 tags:
-  - "Democratic Paradox"
-  - "New Class War"
-  - "Chantal Mouffe"
-  - "Christopher Caldwell"
-  - "Civil Rights Act of 1964"
-  - "Democratic Socialism"
-  - "Donald Trunmp"
-  - "Ezra Klein"
-  - "Identity Poltiics"
-  - "Michael Lind"
-  - "National Socialism"
-  - "Neoliberalism"
+  - democratic-paradox
+  - new-class-war
+  - chantal-mouffe
+  - christopher-caldwell
+  - civil-rights-act-of-1964
+  - democratic-socialism
+  - donald-trunmp
+  - ezra-klein
+  - identity-poltiics
+  - michael-lind
+  - national-socialism
+  - neoliberalism
 ---
 
 The impeachment circus has now finished playing to Washington town after six months, all the time taxing its motley audience to the outer limits of their attention span. 

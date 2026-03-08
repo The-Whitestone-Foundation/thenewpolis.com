@@ -6,19 +6,19 @@ permalink: /2018/10/30/anti-semitism-old-and-new-the-pittsburgh-massacre-in-pers
 image: /images/wp-content/uploads/2018/10/Anti-Semitism_Klapeida.jpg
 
 categories:
-  - "Political Theology"
-  - "Social History"
+  - political-theology
+  - social-history
 tags:
-  - "Anti Semitism"
-  - "Donald Trump"
-  - "Hebrew Immigration Aid Society"
-  - "International Holocaust Remembrance Alliance"
-  - "Jeremey Corbyn"
-  - "Judaism"
-  - "Messianism"
-  - "Racism"
-  - "Tree of Life Synagogue"
-  - "Zionism"
+  - anti-semitism
+  - donald-trump
+  - hebrew-immigration-aid-society
+  - international-holocaust-remembrance-alliance
+  - jeremey-corbyn
+  - judaism
+  - messianism
+  - racism
+  - tree-of-life-synagogue
+  - zionism
 ---
 
 The [mass murder of 11 Orthodox Jews](https://www.usatoday.com/story/news/nation/2018/10/28/pittsburgh-shooting-victims-mostly-were-elderly-worshippers/1791727002/) at the Tree of Life Congregation Synagogue in Pittsburgh by a crazed gunman shouting “all Jews must die” was not only one more tragic episode in an intensifying drama of political division and violence in America, it was an agonizing reminder of how Judaism itself in these chaotic times has become a kind of Rorschach ink blot for virtually every politico-theoretical, ethical, and theological conundrum that besieges the collective unconscious of the Western intelligentsia.

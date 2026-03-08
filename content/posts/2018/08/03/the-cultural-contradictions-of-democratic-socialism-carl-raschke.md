@@ -6,21 +6,21 @@ permalink: /2018/08/03/the-cultural-contradictions-of-democratic-socialism-carl-
 image: /images/wp-content/uploads/2018/08/IMG_1258.jpg
 
 categories:
-  - "Critical Theory"
-  - "Political Theory"
+  - critical-theory
+  - political-theory
 tags:
-  - "Alexandria Ocasio Cortez"
-  - "Bernie Sanders"
-  - "Christopher Lasch"
-  - "Daniel Bell"
-  - "David Harvey"
-  - "Democratic Socialism"
-  - "Identity Politics"
-  - "Joseph Schwartz"
-  - "Karl Marx"
-  - "Nancy Fraser"
-  - "Neoliberalism"
-  - "Ronald Reagan"
+  - alexandria-ocasio-cortez
+  - bernie-sanders
+  - christopher-lasch
+  - daniel-bell
+  - david-harvey
+  - democratic-socialism
+  - identity-politics
+  - joseph-schwartz
+  - karl-marx
+  - nancy-fraser
+  - neoliberalism
+  - ronald-reagan
 ---
 
 Ever since Bernie Sanders’ bid for the Presidential nomination in 2016, and more recently with the surprise primary defeat in New York’s 14^th^ Congressional District of establishment icon and incumbent Joe Crowley by upstart Alexandria Ocasio-Cortez, the electoral shibboleth of “democratic socialism” has suddenly gained serious traction among progressive voters.

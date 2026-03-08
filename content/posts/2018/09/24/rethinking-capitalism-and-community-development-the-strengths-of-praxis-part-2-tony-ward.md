@@ -1,22 +1,21 @@
 ---
 title: "Rethinking Capitalism And Community Development – The Strengths Of Praxis, Part 2 (Tony Ward)"
 date: 2018-09-24T22:29:44+00:00
-author: Contributing Editor
+author: Tony Ward
 permalink: /2018/09/24/rethinking-capitalism-and-community-development-the-strengths-of-praxis-part-2-tony-ward/
 image: /images/wp-content/uploads/2018/09/IMG_0462.jpg
-
 categories:
-  - "Indigenous Theory"
+  - indigenous-theory
 tags:
-  - "Academia"
-  - "Community Engagement"
-  - "Community Praxis"
-  - "Critical Pedagogy"
-  - "David Horowitz"
-  - "Maori"
-  - "Pedagogy"
-  - "Postmodernism"
-  - "Service Learning"
+  - academia
+  - community-engagement
+  - community-praxis
+  - critical-pedagogy
+  - david-horowitz
+  - maori
+  - pedagogy
+  - postmodernism
+  - service-learning
 ---
 
 *The following is the second part of a two-part installment. The first part can be found [here](/2018/09/17/rethinking-capitalism-and-community-development-the-strengths-of-praxis-part-1-tony-ward/).*

@@ -2,5 +2,6 @@
 title: "Carl Raschke"
 author: "Carl Raschke"
 slug: "carl-raschke"
-permalink: false
+affilation: "University of Denver"
+image: /images/thenewpolis-logo.png
 ---

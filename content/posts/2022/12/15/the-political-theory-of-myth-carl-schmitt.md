@@ -1,25 +1,25 @@
 ---
 title: "The Political Theory Of Myth (Carl Schmitt)"
 date: 2022-12-15T04:47:00+00:00
-author: Carl Schmitt
+author: Carl Raschke
 permalink: /2022/12/15/the-political-theory-of-myth-carl-schmitt/
 image: /images/wp-content/uploads/2023/02/Occupy_Oakland_General_Strike_banner.jpg
 
 categories:
-  - "Political Theology"
+  - political-theology
 tags:
-  - "Anarcho Syndicalism"
-  - "Benito Musslini"
-  - "Bolshevism"
-  - "Carl Schmitt"
-  - "Fascism"
-  - "Georges Sorel"
-  - "Henri Bergson"
-  - "Myth"
-  - "Nikolai Lenin"
-  - "Political Theology"
-  - "The General Strike"
-  - "Violence"
+  - anarcho-syndicalism
+  - benito-musslini
+  - bolshevism
+  - carl-schmitt
+  - fascism
+  - georges-sorel
+  - henri-bergson
+  - myth
+  - nikolai-lenin
+  - political-theology
+  - the-general-strike
+  - violence
 ---
 
 *Editors note: Carl Schmitt’s “Die Politische Theorie des Mythus” (“The Political Theory of Myth”) , published in 1923, is one of his most important early essays and came out about the same time as his book* Political Theology*, his most well-known text. It is translated here for the first time into English.*

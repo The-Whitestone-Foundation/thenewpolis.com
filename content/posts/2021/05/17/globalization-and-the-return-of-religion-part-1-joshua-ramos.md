@@ -6,19 +6,19 @@ permalink: /2021/05/17/globalization-and-the-return-of-religion-part-1-joshua-ra
 image: /images/wp-content/uploads/2021/05/800px-Estatua_de_Guan_Yin_Macao_2013-08-08_DD_07.jpg
 
 categories:
-  - "Globalization Theory"
+  - globalization-theory
 tags:
-  - "Bryan Wilson"
-  - "Daniel Boorstein"
-  - "Ellen Frost"
-  - "Hybridization"
-  - "Jacques Derrida"
-  - "Mark Chavez"
-  - "Paul Virilio"
-  - "Peter Berger"
-  - "Religion"
-  - "Roland Robertson"
-  - "Theodore Levitt"
+  - bryan-wilson
+  - daniel-boorstein
+  - ellen-frost
+  - hybridization
+  - jacques-derrida
+  - mark-chavez
+  - paul-virilio
+  - peter-berger
+  - religion
+  - roland-robertson
+  - theodore-levitt
 ---
 
 ## The following is the first of a two-part series.

@@ -6,17 +6,17 @@ permalink: /2020/10/26/gnosticism-and-the-contemporary-production-of-race-jacob-
 image: /images/wp-content/uploads/2020/10/Prometheus_I.jpg
 
 categories:
-  - "Critical Race Theory"
+  - critical-race-theory
 tags:
-  - "Achille Mbembe"
-  - "Blackness"
-  - "Carl Schmitt"
-  - "Exo Colonization"
-  - "Gnosticism"
-  - "Jacob Taubes"
-  - "Jared Hickman"
-  - "Michel Foucault"
-  - "White Prometheus"
+  - achille-mbembe
+  - blackness
+  - carl-schmitt
+  - exo-colonization
+  - gnosticism
+  - jacob-taubes
+  - jared-hickman
+  - michel-foucault
+  - white-prometheus
 ---
 
 *“Blackness is not only that which relates to the constitutive outside of any social bond—whether that outside be excluded or included is secondary—but also that which relates to the undoing or unraveling of every social bond” -Jared Sexton, “On Black Negativity”*

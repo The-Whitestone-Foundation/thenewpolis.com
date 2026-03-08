@@ -1,22 +1,23 @@
 ---
 title: "Critical Conversation No. 12 – Hindu Nationalism And The Growing Threat To Academic Freedom (Announcement)"
 date: 2021-10-22T02:28:41+00:00
-author: Announcement
+author: thenewpolis
 permalink: /2021/10/22/critical-conversation-12-hindu-nationalism-and-the-growing-threat-to-academic-freedom-announcement/
 image: /images/wp-content/uploads/2021/10/rally.jpg
 
 categories:
-  - "Announcements"
-  - "Critical Conversations"
+  - announcements
+  - critical-conversations
 tags:
-  - "Academic Freedom"
-  - "Bjp"
-  - "Ethno Nationalism"
-  - "Hinduism"
-  - "Hindutva"
-  - "India"
-  - "Narenja Modi"
-  - "South Asia"
+  - academic-freedom
+  - bjp
+  - ethno-nationalism
+  - hinduism
+  - hindutva
+  - india
+  - narenja-modi
+  - south-asia
+
 ---
 
 **When?** Monday, Nov. 15, 2021, 9-11 am, Mountain Standard Time (5-7 pm, European Central Time)
@@ -27,7 +28,7 @@ tags:
 
 **General Contact:** [editor.thenewpolis@gmail.com](mailto:editor.thenewpolis@gmail.com)
 
-**Moderator:** Carl Raschke, Executive Editor, *[The New Polis](https://)*.
+**Moderator:** Carl Raschke, Executive Editor, *[The New Polis](https://thenewpolis.com)*.
 
 **Guests:** Audrey Truschke, Rutgers University; Dheepa Sundaram, University of Denver.
 

@@ -6,17 +6,17 @@ permalink: /2020/02/18/ayahuasca-and-transnational-religious-poetics-roger-green
 image: /images/wp-content/uploads/2020/02/rainforest.jpg
 
 categories:
-  - "Ecology"
-  - "Indigenous Theory"
-  - "Pharmacology"
+  - ecology
+  - indigenous-theory
+  - pharmacology
 tags:
-  - "Ayahuasca"
-  - "Eurochristian"
-  - "Evangelicals"
-  - "Mutual Aid"
-  - "Native American Church"
-  - "Religion"
-  - "Telos"
+  - ayahuasca
+  - eurochristian
+  - evangelicals
+  - mutual-aid
+  - native-american-church
+  - religion
+  - telos
 ---
 
 *This conference script was partially delivered at the [Telos-Paul Piccone Conference](https://www.telosinstitute.net/programs/2020_Telos_Conference_program.pdf) in New York, February 15-16*, *2020*. *The conference theme was: “After the Welfare State, Reconceiving Mutual Aid.” The implicit idea of Mutual Aid was advanced in Peter Kropotkin’s 1902 book, **Mutual Aid–A Factor in Evolution***.** *Kropotkin argued against social Darwinist attitudes stressing competition, which followed ideas of natural selection in Darwin. Social implications underwrote differing attitudes between emergent twentieth-century notions of communism and capitalism well before the Bolshevik Revolution.*
@@ -141,6 +141,5 @@ In the U.S., the eurochristian support played a significant role in Supreme Cour
 
 With respect to Indigenous Peoples, this is a truly interesting statement.  So long as a church’s theology is avowedly Christian, the very status of Christianity can exempt a group and its sacrament from Drug War politics.  Ayahuasca gets support from both Protestants and Catholics beneath an overarching value of “religious freedom,” but the very idea of ‘religion’ within that conception is always already eurochristian. In order for existing Indigenous groups who have used ayahuasca (or other plant-mixed substances) to vie for cultural self-determination, they must enter a discursive zone predicated on their erasure. This includes eurochristian concepts such as ‘religion’ and all the eurochristian baggage accompanying it in an individualized, androcentric, rights-bearing culture that myopically assumes humans are the only species on the planet we’re destroying.      
 
-*Roger Green is general editor of The New Polis (*[*www.thenewpolis.com*](https://)*) and a Senior Lecturer in the English Department at Metropolitan State University of Denver.  His work brings political theology into conversation with psychedelics and aesthetics.  He is the author of [A Transatlantic Political Theology of Psychedelic Aesthetics: Enchanted Citizens](https://www.palgrave.com/us/book/9783030153175) (Palgrave 2019). Roger is completing a second PhD in Religious Studies and Theology at The University of Denver / Iliff School of Theology, where he is working on the political-theological impulses underwriting the ayahuasca diaspora.*
+*Roger Green is general editor of The New Polis (*[*www.thenewpolis.com*](https://thenewpolis.com)*) and a Senior Lecturer in the English Department at Metropolitan State University of Denver.  His work brings political theology into conversation with psychedelics and aesthetics.  He is the author of [A Transatlantic Political Theology of Psychedelic Aesthetics: Enchanted Citizens](https://www.palgrave.com/us/book/9783030153175) (Palgrave 2019). Roger is completing a second PhD in Religious Studies and Theology at The University of Denver / Iliff School of Theology, where he is working on the political-theological impulses underwriting the ayahuasca diaspora.*
 
-## Footnotes

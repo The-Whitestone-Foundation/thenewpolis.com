@@ -1,24 +1,25 @@
 ---
 title: "The Equisapien Encounter – Reading Enrique Dussel In Boots Riley’s “Sorry to Bother You”, Part 1 (Conor Ramón Rasmusen)"
 date: 2019-01-17T18:13:01+00:00
-author: Assitant Edtior
+author: thenewpolis
 permalink: /2019/01/17/the-equisapien-encounter-reading-enrique-dussel-in-boots-rileys-sorry-to-bother-you-part-1-conor-ramon-rasmusen/
 image: /images/wp-content/uploads/2019/01/784px-Sawrey_Gilpin_-_Gulliver_Addressing_the_Houyhnhnms_-_Google_Art_Project.jpg
 
 categories:
-  - "Essays"
-  - "Political Philosophy"
+  - essays
+  - political-philosophy
 tags:
-  - "Boots Riley"
-  - "Decolonial Theory"
-  - "Emmanuel Levinas"
-  - "Encounter"
-  - "Enrique Dussel"
-  - "Eurocentrism"
-  - "Film"
-  - "G W F Hegel"
-  - "Jurgen Habermas"
-  - "Sorry to Bother You"
+  - boots-riley
+  - decolonial-theory
+  - emmanuel-levinas
+  - encounter
+  - enrique-dussel
+  - eurocentrism
+  - film
+  - g-w-f-hegel
+  - jurgen-habermas
+  - sorry-to-bother-you
+
 ---
 
 *The following is the first of a two-part installment. This article contains spoilers for* *the film* Sorry to Bother You.

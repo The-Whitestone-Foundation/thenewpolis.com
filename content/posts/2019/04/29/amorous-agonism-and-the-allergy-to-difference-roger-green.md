@@ -6,23 +6,23 @@ permalink: /2019/04/29/amorous-agonism-and-the-allergy-to-difference-roger-green
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Critical Theory"
-  - "Political Theology"
+  - critical-theory
+  - political-theology
 tags:
-  - "Aryeh Botwinick"
-  - "Carl Schmitt"
-  - "Catherine Keller"
-  - "Chandra Russo"
-  - "Daenerys Targaryen"
-  - "Game of Thrones"
-  - "Hamlet"
-  - "Messiah"
-  - "Of the Earth"
-  - "Political Theology"
-  - "Sarah Pessin"
-  - "Walter Benjamin"
-  - "Weak Messianism"
-  - "William Connolly"
+  - aryeh-botwinick
+  - carl-schmitt
+  - catherine-keller
+  - chandra-russo
+  - daenerys-targaryen
+  - game-of-thrones
+  - hamlet
+  - messiah
+  - of-the-earth
+  - political-theology
+  - sarah-pessin
+  - walter-benjamin
+  - weak-messianism
+  - william-connolly
 ---
 
 *This is the first in a multi-part series of posts*.

@@ -1,24 +1,24 @@
 ---
 title: "The Politics Of Pause, Struggling Over Speed For Better Futures (Critical Conversations 3)"
 date: 2020-11-16T01:05:55+00:00
-author: Critical Conversations 3
+author: Roger Green
 permalink: /2020/11/16/the-politics-of-pause-struggling-over-speed-for-better-futures-critical-conversations-3/
 image: /images/wp-content/uploads/2020/11/1524px-Fillia_luigi_colombo_idolo_meccanico_1925-26.jpg
 
 categories:
-  - "Critical Conversations"
+  - critical-conversations
 tags:
-  - "Accelrationism"
-  - "Benjamin Noyes"
-  - "Carl Schmitt"
-  - "Emmanuel Levinas"
-  - "Katechon"
-  - "Politics of Pause"
-  - "Sarah Pessin"
-  - "Social Democracy"
-  - "University of Chichester"
-  - "University of Denver"
-  - "Walter Benjamin"
+  - accelrationism
+  - benjamin-noyes
+  - carl-schmitt
+  - emmanuel-levinas
+  - katechon
+  - politics-of-pause
+  - sarah-pessin
+  - social-democracy
+  - university-of-chichester
+  - university-of-denver
+  - walter-benjamin
 ---
 
 *The following is the video and transcript of the third “Critical Conversation”, a monthly Zoom seminar with advance registration sponsored by The New Polis and Whitestone Publications and involving international scholars. The seminar took place on October 27, 2020*.

@@ -6,15 +6,15 @@ permalink: /2021/01/21/critical-conversations-7-an-american-indian-critique-of-s
 image: /images/wp-content/uploads/2021/01/35dffece-0197-4c3b-a998-b89ff5399948.jpeg
 
 categories:
-  - "Announcements"
-  - "Indigenous Theory"
+  - announcements
+  - indigenous-theory
 tags:
-  - "American Indians"
-  - "Glenn Morris"
-  - "Indigenous"
-  - "Native Americans"
-  - "Sovereignty"
-  - "Tink Tinker"
+  - american-indians
+  - glenn-morris
+  - indigenous
+  - native-americans
+  - sovereignty
+  - tink-tinker
 ---
 
 *Participants are invited to join us live in the seventh of a monthly series of “Critical Conversations” (Zoom webinars) with eminent scholars from around the globe.* ***If you are interested in joining us, please contact us by email at*** [***editor.thenewpolis@gmail.com***](mailto:editor.thenewpolis@gmail.com)*. If you have not participated in previous seminars, please provide us with a brief sentence or two explaining your interest in this particular “Critical Conversation”. Or you may simply sign up through the registration link below.*
@@ -33,7 +33,7 @@ Registration link:  [https://udenver.zoom.us/meeting/register/tZEqd-qurD8jGNFpE
 
 **Contact:** [editor.thenewpolis@gmail.com](mailto:editor.thenewpolis@gmail.com)
 
-**Moderator:** Roger Green, General Editor, *[The New Polis](https://)*.
+**Moderator:** Roger Green, General Editor, *[The New Polis](https://thenewpolis.com)*.
 
 ## Presenters:
 

@@ -6,15 +6,15 @@ permalink: /2018/03/08/on-the-cultural-power-of-neoliberalism-carl-raschke/
 image: /images/wp-content/uploads/2018/02/IMG_E0428.jpg
 
 categories:
-  - "Featured"
-  - "Neoliberalism"
+  - featured
+  - neoliberalism
 tags:
-  - "Asceticism"
-  - "Hannah Arendt"
-  - "Jesuits"
-  - "Michel Foucault"
-  - "Neoliberalism"
-  - "Otto Von Bismarck"
+  - asceticism
+  - hannah-arendt
+  - jesuits
+  - michel-foucault
+  - neoliberalism
+  - otto-von-bismarck
 ---
 
 *The following is a sequel to an earlier article published in the former* Political Theology Today *[entitled “Kant, Hayek, and the Truth of the Market.”](https://politicaltheology.com/kant-hayek-and-the-truth-of-the-market-carl-raschke/)*
@@ -113,4 +113,3 @@ This evolution of the meaning of the political in Patristic times is not only a 
 
 ******
 
-[](#_ednref1)

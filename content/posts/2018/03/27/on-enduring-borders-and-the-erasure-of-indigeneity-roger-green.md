@@ -6,19 +6,19 @@ permalink: /2018/03/27/on-enduring-borders-and-the-erasure-of-indigeneity-roger-
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Critical Theory"
-  - "Indigenous Theory"
+  - critical-theory
+  - indigenous-theory
 tags:
-  - "Featured"
-  - "Henri Bergson"
-  - "Indigeneity"
-  - "Indigeneous"
-  - "Jacques Derrida"
-  - "Julia Kristeva"
-  - "Karl Marx"
-  - "Martin Heidegger"
-  - "Poetry"
-  - "Political Theology"
+  - featured
+  - henri-bergson
+  - indigeneity
+  - indigeneous
+  - jacques-derrida
+  - julia-kristeva
+  - karl-marx
+  - martin-heidegger
+  - poetry
+  - political-theology
 ---
 
 In this, my first article written specifically for *The New Polis*, I want to focus on the theme of endurance, particularly as it relates to notions of Indigeneity that I will argue are necessary to the theoretical space of this journal and online platform.  This will be the first of several posts regarding the subject.

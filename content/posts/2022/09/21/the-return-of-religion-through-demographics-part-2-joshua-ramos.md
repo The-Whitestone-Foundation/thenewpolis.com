@@ -6,17 +6,17 @@ permalink: /2022/09/21/the-return-of-religion-through-demographics-part-2-joshua
 image: /images/wp-content/uploads/2022/10/People-swarm.png
 
 categories:
-  - "Demographics"
+  - demographics
 tags:
-  - "Ben Wattenberg"
-  - "Daniel Bell"
-  - "Dirk Van De Kaa"
-  - "Fertility"
-  - "Globalization"
-  - "Jean Claude Chesnais"
-  - "Philippe Aries"
-  - "Second Demographic Transition Theory"
-  - "Thomas Malthus"
+  - ben-wattenberg
+  - daniel-bell
+  - dirk-van-de-kaa
+  - fertility
+  - globalization
+  - jean-claude-chesnais
+  - philippe-aries
+  - second-demographic-transition-theory
+  - thomas-malthus
 ---
 
 *The following is the second of a three-part series. The first can be found [here.](/07/the-return-of-religion-through-demographics-joshua-ramos/)*

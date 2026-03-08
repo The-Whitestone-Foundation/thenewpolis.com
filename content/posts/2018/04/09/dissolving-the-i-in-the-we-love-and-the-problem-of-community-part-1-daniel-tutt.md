@@ -1,24 +1,24 @@
 ---
 title: "Dissolving The I In The We – Love And The Problem of Community, Part 1 (Daniel Tutt)"
 date: 2018-04-09T23:49:21+00:00
-author: Contributing Editor
+author: Daniel Tutt
 permalink: /2018/04/09/dissolving-the-i-in-the-we-love-and-the-problem-of-community-part-1-daniel-tutt/
 image: /images/wp-content/uploads/2018/04/Style-IMG_0286-Drip-Painting-0.4MP-2.jpg
 
 categories:
-  - "Political Philosophy"
-  - "Political Theology"
+  - political-philosophy
+  - political-theology
 tags:
-  - "Aristotle"
-  - "Community"
-  - "G W F Hegel"
-  - "Immanuel Kant"
-  - "Jean Jacques Rousseau"
-  - "Karl Marx"
-  - "Philosophy"
-  - "Plato"
-  - "Thomas Hobbes"
-  - "Victor Turner"
+  - aristotle
+  - community
+  - g-w-f-hegel
+  - immanuel-kant
+  - jean-jacques-rousseau
+  - karl-marx
+  - philosophy
+  - plato
+  - thomas-hobbes
+  - victor-turner
 ---
 
 **The following is the first installment of Dr. Tutt’s St. Thomas More Lecture delivered on March 18, 2018 at St. John Fisher University.  The second installment will follow upon this one.**

@@ -6,18 +6,18 @@ permalink: /2018/03/11/becoming-agamben-an-interview-concerning-his-ideas-and-in
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Political Theology"
-  - "Political Theory"
+  - political-theology
+  - political-theory
 tags:
-  - "Antonio Gnoli"
-  - "Giorgio Agamben"
-  - "Ido Govrin"
-  - "Interdisciplinarity"
-  - "La Repubblica"
-  - "Philosophy"
-  - "Poetry"
-  - "Simone Weil"
-  - "Walter Benjamin"
+  - antonio-gnoli
+  - giorgio-agamben
+  - ido-govrin
+  - interdisciplinarity
+  - la-repubblica
+  - philosophy
+  - poetry
+  - simone-weil
+  - walter-benjamin
 ---
 
 *The following is an interview with Italian philosopher Giorgio Agamben conducted by journalist Antonio Gnolio. [Originally published in La Repubblica on May 15, 2016.](https://www.repubblica.it/cultura/2016/05/15/news/giorgio_agamben_credo_nel_legame_tra_filosofia_e_poesia_ho_sempre_amato_la_verita_e_la_parola_-139833519/?platform=hootsuite)  The interview is translated from the Italian by Ido Govrin.  It is translated with permission of* La Repubblica.

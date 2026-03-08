@@ -1,23 +1,25 @@
 ---
 title: "Critical Conversations 10 – “Tenderness”, Or Putting Neoliberalism on the Analyst’s Couch (Isabella Guanzini and Kieryn Wurts)"
 date: 2021-07-19T21:38:32+00:00
-author: Isabella Guanzini and Kieryn Wurts
+author:
+  - Isabella Guanzini
+  - Kieryn Wurts
 permalink: /2021/07/19/critical-conversations-10-tenderness-or-putting-neoliberalism-on-the-analysts-couch-isabella-guanzini-and-kieryn-wurts/
 image: /images/wp-content/uploads/2021/07/Tender_Loving_Care.jpg
 
 categories:
-  - "Critical Conversations"
+  - critical-conversations
 tags:
-  - "Charles Taylor"
-  - "Georg Simmel"
-  - "Hannah Arendt"
-  - "Isabella Guanzini"
-  - "Kieryn Wurts"
-  - "Mariangela Gaultieri"
-  - "Neoliberalism"
-  - "Roland Barthes"
-  - "Shabbat"
-  - "Tenderness"
+  - charles-taylor
+  - georg-simmel
+  - hannah-arendt
+  - isabella-guanzini
+  - kieryn-wurts
+  - mariangela-gaultieri
+  - neoliberalism
+  - roland-barthes
+  - shabbat
+  - tenderness
 ---
 
 *The following is a transcript of “Critical Conversation” no. 10, which was recorded on June 29, 2021. The discussion between Isabella Guanzini (Catholic Private University, Linz, Austria) and Kieryn Wurts (University of Bonn) concerns the former’s book Tenderness: A Philosophy of Soft Power. [**Further details.**](/06/04/critical-conversations-10-tenderness-or-putting-neoliberalism-on-the-analysts-couch-announcement/)*

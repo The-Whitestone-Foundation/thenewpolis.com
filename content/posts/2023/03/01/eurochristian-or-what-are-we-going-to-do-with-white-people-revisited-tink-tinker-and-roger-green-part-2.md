@@ -1,21 +1,23 @@
 ---
 title: "“Eurochristian”, Or What Are We Going To Do With White People – Revisited (Tink Tinker And Roger Green), Part 2"
 date: 2023-03-01T00:42:00+00:00
-author: Tink Tinker And Roger Green
+author:
+  - Tink Tinker
+  - Roger Green
 permalink: /2023/03/01/eurochristian-or-what-are-we-going-to-do-with-white-people-revisited-tink-tinker-and-roger-green-part-2/
 image: /images/wp-content/uploads/2023/04/Black_Kettle_at_Sand_Creek.jpg
 
 categories:
-  - "Indigenous Theory"
+  - indigenous-theory
 tags:
-  - "Christianity"
-  - "Eurochristianity"
-  - "John Evans"
-  - "John Marshall"
-  - "Race"
-  - "Rodrigo Borgia"
-  - "Russell Means"
-  - "Sand Creek Massacre"
+  - christianity
+  - eurochristianity
+  - john-evans
+  - john-marshall
+  - race
+  - rodrigo-borgia
+  - russell-means
+  - sand-creek-massacre
 ---
 
 *The following is the second of a four-part series.* *The first can be found [here](/02/16/eurochristian-or-what-are-we-going-to-do-with-white-people-revisited-tink-tinker-and-roger-green-part-1/).*

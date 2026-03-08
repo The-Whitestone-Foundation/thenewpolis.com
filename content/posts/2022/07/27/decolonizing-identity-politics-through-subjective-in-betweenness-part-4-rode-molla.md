@@ -6,19 +6,19 @@ permalink: /2022/07/27/decolonizing-identity-politics-through-subjective-in-betw
 image: /images/wp-content/uploads/2022/08/Shrine_Our_Lady_of_Tonatico_Tonatico_Mexico_state_Mexico01.jpg
 
 categories:
-  - "Identity Politics"
+  - identity-politics
 tags:
-  - "Border Theory"
-  - "Cosmopolitanism"
-  - "Ethiopia"
-  - "Ethiopiawint"
-  - "Gloria Anzaldua"
-  - "Homi Bhabha"
-  - "Kwame Appiah"
-  - "Luis Leon"
-  - "Pentecostalism"
-  - "Religious Poetics"
-  - "Robert Orsi"
+  - border-theory
+  - cosmopolitanism
+  - ethiopia
+  - ethiopiawint
+  - gloria-anzaldua
+  - homi-bhabha
+  - kwame-appiah
+  - luis-leon
+  - pentecostalism
+  - religious-poetics
+  - robert-orsi
 ---
 
 *The following is the second of a four-part series. The first can be found [here](/06/09/decolonizing-identity-politics-through-subjective-in-betweenness-part-1-rode-molla/)*, *the second [here](/06/23/decolonizing-identity-politics-through-subjective-in-betweenness-part-2-rode-molla/)*, *the third [here](/12/decolonizing-identity-politics-through-subjective-in-betweenness-part-3-rode-molla/).*

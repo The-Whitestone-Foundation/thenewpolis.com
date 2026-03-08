@@ -6,19 +6,19 @@ permalink: /2019/09/23/on-the-philosophical-backdrop-of-alternative-facts-and-fa
 image: /images/wp-content/uploads/2019/09/woman-computer-matrix.jpg
 
 categories:
-  - "Media Theory"
-  - "Philosophy"
+  - media-theory
+  - philosophy
 tags:
-  - "Alternative Facts"
-  - "Correspondence Theoyry of Truth"
-  - "Edmund Husserl"
-  - "Fake News"
-  - "Hyperreality"
-  - "Jacques Derrida"
-  - "Jean Baudrillard"
-  - "Linguistic Turn"
-  - "Ludwig Wittgenstein"
-  - "Martin Heidegger"
+  - alternative-facts
+  - correspondence-theoyry-of-truth
+  - edmund-husserl
+  - fake-news
+  - hyperreality
+  - jacques-derrida
+  - jean-baudrillard
+  - linguistic-turn
+  - ludwig-wittgenstein
+  - martin-heidegger
 ---
 
 *The following is the first installment of a two-part series.  The second installment can be found [here](/27/on-the-philosophical-backdrop-of-alternative-facts-and-fake-news-part-2-carl-raschke/).  This article was recently presented at the international meeting of the* Deutsche Gesellschaft für Phänomenologische Forschung *(German Society for Phenomenological Research) in Vienna.  The conference theme was* “Fact, Facticity, and Reality”*, or how philosophy can understand new media culture.*

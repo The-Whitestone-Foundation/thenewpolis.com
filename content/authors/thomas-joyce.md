@@ -2,5 +2,6 @@
 title: "Thomas Joyce"
 author: "Thomas Joyce"
 slug: "thomas-joyce"
-permalink: false
+affilation: ""
+image: /images/thenewpolis-logo.png
 ---

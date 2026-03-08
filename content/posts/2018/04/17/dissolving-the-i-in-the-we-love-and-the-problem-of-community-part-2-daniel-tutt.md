@@ -6,20 +6,20 @@ permalink: /2018/04/17/dissolving-the-i-in-the-we-love-and-the-problem-of-commun
 image: /images/wp-content/uploads/2018/04/James_Baldwin_public-domian.jpg
 
 categories:
-  - "Political Philosophy"
-  - "Political Theology"
+  - political-philosophy
+  - political-theology
 tags:
-  - "Bernard Stiegler"
-  - "Black Lives Matter"
-  - "Identity Politics"
-  - "James Baldwin"
-  - "Jean Paul Sartre"
-  - "Judith Butler"
-  - "Occupy Wall Street"
-  - "Saint Paul"
-  - "Sigmund Freud"
-  - "Social Darwinism"
-  - "Social Identity"
+  - bernard-stiegler
+  - black-lives-matter
+  - identity-politics
+  - james-baldwin
+  - jean-paul-sartre
+  - judith-butler
+  - occupy-wall-street
+  - saint-paul
+  - sigmund-freud
+  - social-darwinism
+  - social-identity
 ---
 
 **The following is the second installment of Dr. Tutt’s St. Thomas More Lecture delivered on March 18, 2018 at St. John Fisher University.  The first installment can be found [here](/2018/04/09/dissolving-the-i-in-the-we-love-and-the-problem-of-community-part-1-daniel-tutt/).**

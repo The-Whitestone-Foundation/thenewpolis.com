@@ -6,15 +6,15 @@ permalink: /2020/07/07/race-and-the-self-defeating-character-of-kants-argument-i
 image: /images/wp-content/uploads/2020/07/Kants_Prolegomena_-_Frontispiece.png
 
 categories:
-  - "Philosophy"
-  - "Race and Racism"
+  - philosophy
+  - race-and-racism
 tags:
-  - "Anthropology"
-  - "Emmanuel Eze"
-  - "Enlightenment"
-  - "Immanuel Kant"
-  - "Racism"
-  - "Robert Louden"
+  - anthropology
+  - emmanuel-eze
+  - enlightenment
+  - immanuel-kant
+  - racism
+  - robert-louden
 ---
 
 *The full PDF version with extensive footnote documentation of Kant’s arguments [can be found here](https://www.academia.edu/37612630/Race_and_the_Self-Defeating_Character_of_Kants_Argument_in_Anthropology_from_a_Pragmatic_Point_of_View).*

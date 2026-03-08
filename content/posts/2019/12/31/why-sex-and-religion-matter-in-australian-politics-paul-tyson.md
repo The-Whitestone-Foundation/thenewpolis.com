@@ -6,16 +6,16 @@ permalink: /2019/12/31/why-sex-and-religion-matter-in-australian-politics-paul-t
 image: /images/wp-content/uploads/2019/12/http-com.ft_.imagepublish.prod_.s3.amazonaws.com-b41a02e4-c04b-11e7-823b-ed31693349d3.jpeg
 
 categories:
-  - "Australian Politics"
-  - "Politics and Religion"
-  - "Queer Genders"
+  - australian-politics
+  - politics-and-religion
+  - queer-genders
 tags:
-  - "Nomos"
-  - "Plato"
-  - "Politics"
-  - "Religion Australia"
-  - "Republic"
-  - "Same Sex Marriage"
+  - nomos
+  - plato
+  - politics
+  - religion-australia
+  - republic
+  - same-sex-marriage
 ---
 
 One might wish that sex and religion be left out of politics as much as possible, but this has not been the case in Australia in recent times. Recall the same-sex marriage plebiscite and various state legislations and Education Department policies around transgender issues for school students. Consider the forthcoming religious liberty legislation promised by our Prime Minister and the furore over Israel Folau’s facebook posts about homosexuality and Folau’s subsequent dismissal from Rugby Australia. There is a lot of noise and controversy in the public square about sex and religion, but surprisingly little serious investigation into *why* sex and religion generate such heat as public issues.

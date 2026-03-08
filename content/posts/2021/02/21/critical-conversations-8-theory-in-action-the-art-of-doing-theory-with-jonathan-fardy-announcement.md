@@ -6,22 +6,22 @@ permalink: /2021/02/21/critical-conversations-8-theory-in-action-the-art-of-doin
 image: /images/wp-content/uploads/2021/02/jhp5cbf1c6bc58a9.jpg
 
 categories:
-  - "Aesthetics"
-  - "Art Theory"
-  - "Book Interviews"
-  - "Critical Conversations"
-  - "Critical Theory"
-  - "Marxism"
+  - aesthetics
+  - art-theory
+  - book-interviews
+  - critical-conversations
+  - critical-theory
+  - marxism
 tags:
-  - "Aesthetics"
-  - "Althusser"
-  - "Andrew Weiss"
-  - "Art"
-  - "Curtis Allen"
-  - "Jonathan Fardy"
-  - "Laruelle"
-  - "Praxis"
-  - "Theory"
+  - aesthetics
+  - althusser
+  - andrew-weiss
+  - art
+  - curtis-allen
+  - jonathan-fardy
+  - laruelle
+  - praxis
+  - theory
 ---
 
 *Participants are invited to join us live in the eighth of a monthly series of “Critical Conversations” (Zoom webinars) with eminent scholars from around the globe.* ***If you are interested in joining us, please contact us by email at*** [***editor.thenewpolis@gmail.com***](mailto:editor.thenewpolis@gmail.com)*. If you have not participated in previous seminars, please provide us with a brief sentence or two explaining your interest in this particular “Critical Conversation”. Or you may simply sign up through the registration link below.*
@@ -40,7 +40,7 @@ You must register in advance of the seminar, whereupon you will be automatically
 
 **General Contact:** [editor.thenewpolis@gmail.com](mailto:editor.thenewpolis@gmail.com)
 
-**Moderator:** Roger Green, General Editor, *[The New Polis](https://)*.
+**Moderator:** Roger Green, General Editor, *[The New Polis](https://thenewpolis.com)*.
 
 Critical Conversations 8 will present some compelling topics addressed by Jonathan Fardy in his recent text, *[Althusser and Art](https://www.johnhuntpublishing.com/zer0-books/our-books/althusser-and-art)* (Zer0 Books, 2020). Far from simply being a book about Louis Althusser, the book addresses questions concerning theory in general, and traditional distinctions between theory and praxis. As Jonathan Fardy notes, Althusser critiqued Marxist humanism for maintaining the flawed ideology of humanism itself.  Althusser also critiqued Marx’s historicism.  For him, historicism masks its own ideology, which situates everything in “history” as having a place and developing toward certain ends.  As Fardy notes, E.P. Thompson (and later Althusser himself) critiqued Althusserianism’s “theory of theory” as inherently elitist, allowing working classes to make history while academics determine its meaning.  Still, Althusser continued to insist on the necessity of “theory,” and when we looks at Althusser’s influence on students such as Pierre Machinery and Jacques Rancière, we arguably see ways of “doing theory” even when his students were critical of him.
 

@@ -6,19 +6,19 @@ permalink: /2020/10/13/subjectivities-since-the-sixties-critical-conversations-2
 image: /images/wp-content/uploads/2020/09/914fca6f-6e3e-459f-8e0d-85e4e1503b5a.jpeg
 
 categories:
-  - "Critical Conversations"
-  - "Critical Theory"
-  - "Political History"
-  - "Political Theology"
+  - critical-conversations
+  - critical-theory
+  - political-history
+  - political-theology
 tags:
-  - "Carl Raschke"
-  - "Jason Alvis"
-  - "Lsd"
-  - "Political Theology"
-  - "Psychedelic Esthetics"
-  - "Roger Green"
-  - "Subjectivities"
-  - "The Sixties"
+  - carl-raschke
+  - jason-alvis
+  - lsd
+  - political-theology
+  - psychedelic-esthetics
+  - roger-green
+  - subjectivities
+  - the-sixties
 ---
 
 The following is the video and transcript of the second “Critical Conversation”, a monthly Zoom seminar with advance registration sponsored by *The New Polis* and Whitestone Publications and involving international scholars. The seminar took place on September 22, 2020.

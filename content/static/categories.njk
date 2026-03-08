@@ -18,7 +18,7 @@ permalink: /categories/
                 
                 <details class="border-bottom" {% if loop.first %}open{% endif %}>
                     <summary class="p-4 d-flex justify-content-between align-items-center bg-light" style="cursor: pointer; list-style: none;">
-                        <h2 class="h4 serif fw-bold mb-0 text-capitalize">{{ category }}</h2>
+                        <h2 class="h4 serif fw-bold mb-0 text-capitalize">{{ category | displayTerm }}</h2>
                         <div class="d-flex align-items-center">
                             <span class="badge bg-dark me-3">{{ catPosts | length }} Posts</span>
                             <span class="text-muted small"><i class="bi bi-chevron-down"></i></span>

@@ -6,19 +6,19 @@ permalink: /2021/11/11/colonialism-nationalism-and-the-covid-19-crisis-in-india-
 image: /images/wp-content/uploads/2021/11/800px-COVID-19_pandemic_lockdown_in_India_5_April_mass_lamp_lighting_event_2_3.jpg
 
 categories:
-  - "Decoloniality"
+  - decoloniality
 tags:
-  - "Ashutosh Varshney"
-  - "Catherine Walsh"
-  - "Colonial Matrix of Power"
-  - "Colonialism"
-  - "Covid 19"
-  - "Decoloniality"
-  - "Hindu Nationalism"
-  - "India"
-  - "Richard Morrock"
-  - "Steven Newcomb"
-  - "Walter Mignolo"
+  - ashutosh-varshney
+  - catherine-walsh
+  - colonial-matrix-of-power
+  - colonialism
+  - covid-19
+  - decoloniality
+  - hindu-nationalism
+  - india
+  - richard-morrock
+  - steven-newcomb
+  - walter-mignolo
 ---
 
 Colonization and the effects of colonization continue today. And whether colonizing countries are physically still occupying their colony or emancipation/independence has occurred, the consequences of colonization remain littered about the colonized country like plastic cups after a college fraternity party.

@@ -1,21 +1,23 @@
 ---
 title: "“Eurochristian”, Or What Are We Going To Do With White People – Revisited (Tink Tinker And Roger Green), Part 4"
 date: 2023-04-09T17:02:42+00:00
-author: Tink Tinker And Roger Green
+author:
+  - Tink Tinker
+  - Roger Green
 permalink: /2023/04/09/eurochristian-or-what-are-we-going-to-do-with-white-people-revisited-tink-tinker-and-roger-green-part-4/
 image: /images/wp-content/uploads/2023/04/buffalo.jpeg
 
 categories:
-  - "Indigenous Theory"
+  - indigenous-theory
 tags:
-  - "Barbara Mann"
-  - "Buddhism"
-  - "Colonialism"
-  - "England"
-  - "Eurochristianity"
-  - "Henry Spelman"
-  - "Protestant Reformation"
-  - "Wars of Religion"
+  - barbara-mann
+  - buddhism
+  - colonialism
+  - england
+  - eurochristianity
+  - henry-spelman
+  - protestant-reformation
+  - wars-of-religion
 ---
 
 *The following is the last of a four-part series.* *The first can be found [here](/02/16/eurochristian-or-what-are-we-going-to-do-with-white-people-revisited-tink-tinker-and-roger-green-part-1/)*, the second [here](/03/01/eurochristian-or-what-are-we-going-to-do-with-white-people-revisited-tink-tinker-and-roger-green-part-2/), the third [here](/03/17/eurochristian-or-what-are-we-going-to-do-with-white-people-revisited-tink-tinker-and-roger-green-part-3/).

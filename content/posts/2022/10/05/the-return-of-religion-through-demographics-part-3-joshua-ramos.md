@@ -6,21 +6,21 @@ permalink: /2022/10/05/the-return-of-religion-through-demographics-part-3-joshua
 image: /images/wp-content/uploads/2022/10/800px-Europe_Religion_Integration_A_Lecture_by_Olivier_Roy_32541952460.jpg
 
 categories:
-  - "Demographics"
+  - demographics
 tags:
-  - "Danielle Hervieu Leger"
-  - "David Bentley Hart"
-  - "Deculturation"
-  - "Demographics"
-  - "Globalization"
-  - "Islam"
-  - "Jacques Delors"
-  - "Multiculturalism"
-  - "Olivier Roy"
-  - "Phillip Jenkins"
-  - "Religion"
-  - "Wombfare"
-  - "Yaser Arafat"
+  - danielle-hervieu-leger
+  - david-bentley-hart
+  - deculturation
+  - demographics
+  - globalization
+  - islam
+  - jacques-delors
+  - multiculturalism
+  - olivier-roy
+  - phillip-jenkins
+  - religion
+  - wombfare
+  - yaser-arafat
 ---
 
 *The following is the third of a three-part series. The first can be found [here](/09/07/the-return-of-religion-through-demographics-joshua-ramos/), the second [here.](/09/21/the-return-of-religion-through-demographics-part-2-joshua-ramos/)*

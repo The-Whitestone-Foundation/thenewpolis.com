@@ -6,18 +6,18 @@ permalink: /2018/11/12/the-catastrophe-of-thought-political-theology-political-s
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Political Theology"
+  - political-theology
 tags:
-  - "Albert Camus"
-  - "Alethurgy"
-  - "Biopolitics"
-  - "George Orwell"
-  - "Iran"
-  - "Jacques Derrida"
-  - "Jean Luc Nancy"
-  - "Martin Heidegger"
-  - "Michel Foucault"
-  - "Veridiction"
+  - albert-camus
+  - alethurgy
+  - biopolitics
+  - george-orwell
+  - iran
+  - jacques-derrida
+  - jean-luc-nancy
+  - martin-heidegger
+  - michel-foucault
+  - veridiction
 ---
 
 *The following is the second installment of a two-part series.  The first can be found here.*

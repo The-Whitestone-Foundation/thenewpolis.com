@@ -6,18 +6,18 @@ permalink: /2019/07/03/politics-and-its-double-deleuze-and-political-ontology-pa
 image: /images/wp-content/uploads/2019/07/Screen-Shot-2019-07-04-at-1.09.17-PM.png
 
 categories:
-  - "Political Philosophy"
+  - political-philosophy
 tags:
-  - "Friedrich Engels"
-  - "Gilles Deleuze"
-  - "Ian Buchanan"
-  - "Karl Marx"
-  - "Nathan Widder"
-  - "Oliver Marchart"
-  - "Ontological Turn"
-  - "Political Ontology"
-  - "Slavoy Zizek"
-  - "Stephen K White"
+  - friedrich-engels
+  - gilles-deleuze
+  - ian-buchanan
+  - karl-marx
+  - nathan-widder
+  - oliver-marchart
+  - ontological-turn
+  - political-ontology
+  - slavoy-zizek
+  - stephen-k-white
 ---
 
 ## The following is the first of a four-part series.

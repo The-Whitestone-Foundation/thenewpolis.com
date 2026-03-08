@@ -1,27 +1,27 @@
 ---
 title: "Critical Conversations No. 11  – “Whiteshift,” Or The The Dynamics Of Race And Populism With Eric Kaufmann"
 date: 2021-10-14T15:08:00+00:00
-author: thenewpolis
+author: Eric Kaufman
 permalink: /2021/10/14/critical-conversations-no-11-whiteshift-or-the-the-dynamics-of-race-and-populism-with-eric-kaufman/
 image: /images/wp-content/uploads/2021/10/Eric_Kaufmann_speaking_at_event.jpg
 
 categories:
-  - "Critical Conversations"
-  - "Critical Race Theory"
+  - critical-conversations
+  - critical-race-theory
 tags:
-  - "Black Lives Matter"
-  - "Carl Raschke"
-  - "Critical Race Theory"
-  - "Demographics"
-  - "Eric Kaufmann"
-  - "Ethnicity"
-  - "Inequality"
-  - "Left Modernism"
-  - "Maurizzio Lazzarato"
-  - "Neoliberalism"
-  - "Populism"
-  - "Racism"
-  - "Richard Alba"
+  - black-lives-matter
+  - carl-raschke
+  - critical-race-theory
+  - demographics
+  - eric-kaufmann
+  - ethnicity
+  - inequality
+  - left-modernism
+  - maurizzio-lazzarato
+  - neoliberalism
+  - populism
+  - racism
+  - richard-alba
 ---
 
 *The following is the video and written transcript of an online interview and Zoom seminar with Eric Kaufmann, Professor of Political Science at Birkbeck College of London. Prof. Kaufmann is an internationally distinguished demographer and researcher and a gentle critic of the excesses of Critical Race Theory. The following session took place on Sept.28, 2021* *and was moderated by Prof. Carl Raschke, Professor of Philosophy of Religion at the University of Denver and Executive Editor of* The New Polis*.*

@@ -6,15 +6,15 @@ permalink: /2018/04/29/a-call-for-reflection-on-may-1968-fifty-years-later-the-e
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Announcements"
+  - announcements
 tags:
-  - "Charles Degaulle"
-  - "France"
-  - "Franco Berardi"
-  - "Maurizio Lazzarato"
-  - "May 1968"
-  - "Peoples Republic of China"
-  - "Venezuela"
+  - charles-degaulle
+  - france
+  - franco-berardi
+  - maurizio-lazzarato
+  - may-1968
+  - peoples-republic-of-china
+  - venezuela
 ---
 
 As many people watch the unfolding of events concerning historic meetings between leaders from North Korea, South Korea, and the United States [unprecedented numbers of Venezuelans are flooding into Brazil](https://www.nytimes.com/2018/04/28/world/americas/venezuela-brazil-migrants.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=photo-spot-region&region=top-news&WT.nav=top-news), echoing migratory reactions to devasted economies worldwide. These are some of the major news items as we head into the 50^th^anniversary of May 1968.

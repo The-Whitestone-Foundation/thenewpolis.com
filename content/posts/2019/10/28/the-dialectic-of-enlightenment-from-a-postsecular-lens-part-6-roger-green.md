@@ -6,16 +6,16 @@ permalink: /2019/10/28/the-dialectic-of-enlightenment-from-a-postsecular-lens-pa
 image: /images/wp-content/uploads/2019/10/Francesco_Trevisani_-_Apollo_and_Daphne_-_WGA23056.jpg
 
 categories:
-  - "Critical Theory"
-  - "Literary Theory"
-  - "Neoliberalism"
+  - critical-theory
+  - literary-theory
+  - neoliberalism
 tags:
-  - "Anti Semitism"
-  - "Daphne"
-  - "Max Horkheimer"
-  - "Neoliberalism"
-  - "Theodor Adorno"
-  - "Totalitarian Impulse"
+  - anti-semitism
+  - daphne
+  - max-horkheimer
+  - neoliberalism
+  - theodor-adorno
+  - totalitarian-impulse
 ---
 
 As I ended my previous [post in this series](/2019/09/30/the-dialectic-of-enlightenment-from-a-postsecular-lens-part-5/), the postsecular moment has brought with it a broadening of application of the anti-Semitism the Horkheimer and Adorno describe with respect to the literary figure of “the Jew.” It is especially important to note this transposition with respect to current U.S. politics and discussions of neoliberalism. As I said, the implication of a postsecular lens is that neoliberalism works as an inherited structure of forgetfulness long-present within liberalism, that a substitution in naming is doing the ongoing work of enlightenment’s totalitarian impulse. 

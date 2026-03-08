@@ -1,18 +1,18 @@
 ---
 title: "Is Political History Fundamentally About the State? Part 2 (Keir Martland)"
 date: 2018-08-18T03:23:27+00:00
-author: Contributing Editor
+author: Keir Martland
 permalink: /2018/08/18/is-political-history-fundamentally-about-the-state-part-2-keir-martland/
 image: /images/wp-content/uploads/2018/08/IMG_1012.jpg
 
 categories:
-  - "Political History"
+  - political-history
 tags:
-  - "High Politics and Low Politics"
-  - "Marxism"
-  - "New Political History"
-  - "Political Culture"
-  - "Whig"
+  - high-politics-and-low-politics
+  - marxism
+  - new-political-history
+  - political-culture
+  - whig
 ---
 
 *The following is the second installment of a two-part series. The first installment can be found [here](/?p=681&preview=true).*

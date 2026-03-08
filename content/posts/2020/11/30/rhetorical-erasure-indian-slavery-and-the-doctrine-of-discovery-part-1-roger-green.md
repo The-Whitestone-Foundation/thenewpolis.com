@@ -6,18 +6,18 @@ permalink: /2020/11/30/rhetorical-erasure-indian-slavery-and-the-doctrine-of-dis
 image: /images/wp-content/uploads/2020/11/University_of_Denver_campus_pics_003.jpg
 
 categories:
-  - "American History"
-  - "Indigenous Theory"
-  - "Politics and Religion"
-  - "White Supremacism"
+  - american-history
+  - indigenous-theory
+  - politics-and-religion
+  - white-supremacism
 tags:
-  - "American Indians"
-  - "Evans Committee"
-  - "New England Charter"
-  - "Racism"
-  - "Sand Creek Massacre"
-  - "Slavery"
-  - "University of Denver"
+  - american-indians
+  - evans-committee
+  - new-england-charter
+  - racism
+  - sand-creek-massacre
+  - slavery
+  - university-of-denver
 ---
 
 ## The following is the first of a multi-part series.

@@ -6,19 +6,19 @@ permalink: /2019/07/24/osage-kettle-carriers-marmitons-scullery-boys-deviants-an
 image: /images/wp-content/uploads/2019/07/pexels-photo-1716158.jpeg
 
 categories:
-  - "Indigenous Theory"
-  - "Queer Genders"
-  - "Social History"
+  - indigenous-theory
+  - queer-genders
+  - social-history
 tags:
-  - "Berdache"
-  - "Francis La Flesche"
-  - "Kettle Carrier"
-  - "Lgbtqia"
-  - "Marmiton"
-  - "Osage"
-  - "Queer"
-  - "Scullery Boy"
-  - "Two Spirit"
+  - berdache
+  - francis-la-flesche
+  - kettle-carrier
+  - lgbtqia
+  - marmiton
+  - osage
+  - queer
+  - scullery-boy
+  - two-spirit
 ---
 
 *Due to the historical* *sourcing and cultural explanations necessary to Dr. Tinker’s scholarship, the editors of* The New Polis *have kept all of the author’s footnotes intact, though we have inserted hyperlinks when books are named and formatted paragraphing for easy online readability. We have also kept the entire composition in one post rather than breaking it up into parts as we usually do with longer articles.* 

@@ -6,16 +6,16 @@ permalink: /2020/02/03/100-seconds-to-doomsday-or-a-vaccination-against-wokeness
 image: /images/wp-content/uploads/2020/02/clock-14724_1280.jpg
 
 categories:
-  - "Ecology"
-  - "Identity Politics"
+  - ecology
+  - identity-politics
 tags:
-  - "Alexander the Great"
-  - "Doomsday Clock"
-  - "Mary Robinson"
-  - "Nancy Fraser"
-  - "Nihilism"
-  - "Raidio Teilifis Eireann"
-  - "Timothy Morton"
+  - alexander-the-great
+  - doomsday-clock
+  - mary-robinson
+  - nancy-fraser
+  - nihilism
+  - raidio-teilifis-eireann
+  - timothy-morton
 ---
 
 As Raidió Teilifís Éireann [reported on January 23, 2020](https://www.rte.ie/news/2020/0123/1110447-doomsday-clock/), the Doomsday Clock was moved to 100 seconds until midnight. The clock’s timekeepers, all members of the Bulletin of Atomic Scientists, adjusted the clock forward by twenty seconds, a symbolic gesture indicating the world is closer than ever to a human-caused catastrophic event.

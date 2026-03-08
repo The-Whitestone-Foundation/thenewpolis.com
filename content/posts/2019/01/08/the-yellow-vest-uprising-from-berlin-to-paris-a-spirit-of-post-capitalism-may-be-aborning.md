@@ -6,19 +6,19 @@ permalink: /2019/01/08/the-yellow-vest-uprising-from-berlin-to-paris-a-spirit-of
 image: /images/wp-content/uploads/2019/01/Gilets-Jaunes.jpg
 
 categories:
-  - "Political Theory"
+  - political-theory
 tags:
-  - "Berlin"
-  - "Friedrich Engels"
-  - "German Democratic Republic"
-  - "Indulgences"
-  - "Karl Marx"
-  - "Martin Luther"
-  - "Paris"
-  - "Reformation"
-  - "Revolution"
-  - "Wittenberg"
-  - "Yellow Vests"
+  - berlin
+  - friedrich-engels
+  - german-democratic-republic
+  - indulgences
+  - karl-marx
+  - martin-luther
+  - paris
+  - reformation
+  - revolution
+  - wittenberg
+  - yellow-vests
 ---
 
 It is slightly more than an hour, mostly by autobahn, from the glitzy, high-end tourist neighborhood on the west side of Berlin known as Kurfürstendam (Ku’damm for short) to the small, historically famous city of Wittenberg where Martin Luther nailed his 95 theses to the church door and launched the Protestant Reformation just a little over a half millennium ago.

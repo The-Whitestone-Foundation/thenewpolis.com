@@ -2,5 +2,6 @@
 title: "Philipp Quell"
 author: "Philipp Quell"
 slug: "philipp-quell"
-permalink: false
+affilation: ""
+image: /images/thenewpolis-logo.png
 ---

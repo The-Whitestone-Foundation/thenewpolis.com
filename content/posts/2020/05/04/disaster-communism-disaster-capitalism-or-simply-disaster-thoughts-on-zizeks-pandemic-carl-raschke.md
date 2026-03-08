@@ -6,21 +6,21 @@ permalink: /2020/05/04/disaster-communism-disaster-capitalism-or-simply-disaster
 image: /images/wp-content/uploads/2020/05/1024px-Lange-MigrantMother02.jpg
 
 categories:
-  - "Pandemic Politics"
-  - "Political Philosophy"
+  - pandemic-politics
+  - political-philosophy
 tags:
-  - "Barbarism"
-  - "Capitalism"
-  - "Communism"
-  - "Covid 19"
-  - "Dilip Hiro"
-  - "Donald Trump"
-  - "Jacques Lacan"
-  - "Maoism"
-  - "President Xi China"
-  - "Rosa Luxemburg"
-  - "Slavoj Zizek"
-  - "Tony Fauci"
+  - barbarism
+  - capitalism
+  - communism
+  - covid-19
+  - dilip-hiro
+  - donald-trump
+  - jacques-lacan
+  - maoism
+  - president-xi-china
+  - rosa-luxemburg
+  - slavoj-zizek
+  - tony-fauci
 ---
 
 “There is no return to normal, the new ‘normal’ will have to be constructed on the ruins of our old lives, or we will find ourselves in a new barbarism whose signs are already clearly discernible.” 

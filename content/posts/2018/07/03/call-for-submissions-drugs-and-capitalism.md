@@ -6,24 +6,24 @@ permalink: /2018/07/03/call-for-submissions-drugs-and-capitalism/
 image: /images/wp-content/uploads/2018/06/Raleighs_first_pipe_in_England.jpeg
 
 categories:
-  - "Announcements"
+  - announcements
 tags:
-  - "Addction Studies"
-  - "Arts"
-  - "Capitalism"
-  - "Cold War"
-  - "Drugs"
-  - "Entheogens"
-  - "Ethnopharmacology"
-  - "Globalization"
-  - "Humanities"
-  - "International Law"
-  - "Opioid"
-  - "Pharmakon"
-  - "Primitive Accumulation"
-  - "Psychedelics"
-  - "Religion"
-  - "Social Sciences"
+  - addction-studies
+  - arts
+  - capitalism
+  - cold-war
+  - drugs
+  - entheogens
+  - ethnopharmacology
+  - globalization
+  - humanities
+  - international-law
+  - opioid
+  - pharmakon
+  - primitive-accumulation
+  - psychedelics
+  - religion
+  - social-sciences
 ---
 
 Drugs and spices have long been at the center of global trade, but the concept of “drug” in its modern, Western sense is particularly derived from interactions with cultural “others.”  Thinkers such as Jacques Derrida have written on the ancient Pharmakon and its relationship to signification and sacrifice.
@@ -48,6 +48,6 @@ We welcome all areas of expertise in the arts and humanities.  We do not publis
 
 We accept two forms of articles: short reflective pieces or full-length academic articles, usually published in installments and eligible for print publication in  our forthcoming journal.
 
-Occasional articles – e.g., reviews, essays, interviews, reflections, editorials, opinion pieces – are reviewed by the senior editors for our [weblog](https://) and may be selected for publication in the [academic journal](/journal) within two years following initial appearance.
+Occasional articles – e.g., reviews, essays, interviews, reflections, editorials, opinion pieces – are reviewed by the senior editors for our [weblog](https://thenewpolis.com) and may be selected for publication in the [academic journal](/journal) within two years following initial appearance.
 
 For information on how to submit (and format) an article or essay, please [click here](/style-sheet/).

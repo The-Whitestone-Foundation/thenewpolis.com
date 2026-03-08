@@ -6,18 +6,18 @@ permalink: /2018/06/25/performative-film-practices-in-tamil-politics-part-2-giul
 image: /images/wp-content/uploads/2018/06/Tamil-Nadu-people.jpg
 
 categories:
-  - "Political Theory"
-  - "Social History"
+  - political-theory
+  - social-history
 tags:
-  - "C N Annadurai"
-  - "Documentary Filmmaking"
-  - "Dravidian Progress Association"
-  - "Hinduism"
-  - "Indian Cinema"
-  - "J K Godard"
-  - "M V Mani"
-  - "Multimedia"
-  - "Tamil Nadu"
+  - c-n-annadurai
+  - documentary-filmmaking
+  - dravidian-progress-association
+  - hinduism
+  - indian-cinema
+  - j-k-godard
+  - m-v-mani
+  - multimedia
+  - tamil-nadu
 ---
 
 *The following article is the second installment of a two-part series.  The first installment [appears here](/2018/05/25/performative-film-practices-in-tamil-politics-part-1-giulia-battaglia/).*

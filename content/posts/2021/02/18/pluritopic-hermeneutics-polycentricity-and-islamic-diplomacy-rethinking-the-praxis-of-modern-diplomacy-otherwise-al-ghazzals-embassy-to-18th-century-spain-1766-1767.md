@@ -6,23 +6,23 @@ permalink: /2021/02/18/pluritopic-hermeneutics-polycentricity-and-islamic-diplom
 image: /images/wp-content/uploads/2021/02/8bdbf285-8def-4db4-b830-f168be5175c6.jpeg
 
 categories:
-  - "Diplomacy"
-  - "International Relations"
-  - "Islamic History"
-  - "Political Economy"
-  - "Political History"
-  - "Political Theory"
-  - "Politics and Religion"
+  - diplomacy
+  - international-relations
+  - islamic-history
+  - political-economy
+  - political-history
+  - political-theory
+  - politics-and-religion
 tags:
-  - "Ahmad Al Ghazzal"
-  - "Cultural Representation"
-  - "Diplomacy"
-  - "Geopolitics"
-  - "Islam"
-  - "Non Western"
-  - "Pluritopic Hermeneutics"
-  - "Polycentricity"
-  - "Western Enlightenment"
+  - ahmad-al-ghazzal
+  - cultural-representation
+  - diplomacy
+  - geopolitics
+  - islam
+  - non-western
+  - pluritopic-hermeneutics
+  - polycentricity
+  - western-enlightenment
 ---
 
 ## Overview

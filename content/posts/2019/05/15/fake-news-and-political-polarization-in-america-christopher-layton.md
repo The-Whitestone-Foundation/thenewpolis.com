@@ -6,18 +6,18 @@ permalink: /2019/05/15/fake-news-and-political-polarization-in-america-christoph
 image: /images/wp-content/uploads/2019/05/13527195011744.png
 
 categories:
-  - "Media Theory"
+  - media-theory
 tags:
-  - "2016 Presidential Election"
-  - "Aoternative Facts"
-  - "Barack Obama"
-  - "Donald Trump"
-  - "Fake News"
-  - "Fox News"
-  - "New York Times"
-  - "Pew Research Center"
-  - "Politfact"
-  - "Russia"
+  - 2016-presidential-election
+  - aoternative-facts
+  - barack-obama
+  - donald-trump
+  - fake-news
+  - fox-news
+  - new-york-times
+  - pew-research-center
+  - politfact
+  - russia
 ---
 
 Fake news has flourished in the current politically polarized climate that has persisted over the past thirty years. In the year leading up to the United States 2016 presidential election fake news has produced misinformation on social media platforms and served to diminish the credibility of mainstream news networks, further dividing the American public, not only ideologically, but on the mere acceptance of the fact, providing credence to ideological claims of fake news.

@@ -6,20 +6,20 @@ permalink: /2021/04/12/the-birth-of-modern-sovereignty-the-dialectic-of-subjecti
 image: /images/wp-content/uploads/2021/04/Godorf_Cologne_Rhineland-Refinery-Cooling-Towers-during-demolition-02.jpg
 
 categories:
-  - "Decoloniality"
-  - "Political Theology"
+  - decoloniality
+  - political-theology
 tags:
-  - "Felix Guattari"
-  - "Friedrich Engels"
-  - "George Dumezil"
-  - "Gilles Deleuze"
-  - "Immanuel Kant"
-  - "James C Scott"
-  - "James Walvin"
-  - "Karl Marx"
-  - "Max Weber"
-  - "Michel Foucault"
-  - "Walter Mignolo"
+  - felix-guattari
+  - friedrich-engels
+  - george-dumezil
+  - gilles-deleuze
+  - immanuel-kant
+  - james-c-scott
+  - james-walvin
+  - karl-marx
+  - max-weber
+  - michel-foucault
+  - walter-mignolo
 ---
 
 *The following is the second of a two-part series. The first can be found [here.](/05/the-birth-of-modern-sovereignty-the-dialectic-of-subjection-and-abjection-part-1-carl-raschke/)*

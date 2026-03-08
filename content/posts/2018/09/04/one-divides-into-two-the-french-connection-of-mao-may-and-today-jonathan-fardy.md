@@ -6,17 +6,17 @@ permalink: /2018/09/04/one-divides-into-two-the-french-connection-of-mao-may-and
 image: /images/wp-content/uploads/2018/09/louis-althusser-resource-pack-1-728.jpg
 
 categories:
-  - "Critical Theory"
-  - "Political Philosophy"
-  - "Social History"
+  - critical-theory
+  - political-philosophy
+  - social-history
 tags:
-  - "Althusser"
-  - "Jacques Ranciere"
-  - "Mao"
-  - "Marx"
-  - "Marxism"
-  - "May 1968"
-  - "Nicolas Sarkozy"
+  - althusser
+  - jacques-ranciere
+  - mao
+  - marx
+  - marxism
+  - may-1968
+  - nicolas-sarkozy
 ---
 
 “One divides into two.” This enigmatic phrase once functioned as the ideological lynchpin of the Cultural Revolution. Maoism redrew the profile of Marxist theory. The dialectic, understood as an ideological and historical process of contradiction and resolution, was central to Maoism as it had been to Marxism and Leninism.

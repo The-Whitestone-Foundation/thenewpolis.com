@@ -2,5 +2,6 @@
 title: "Daniel Tutt"
 author: "Daniel Tutt"
 slug: "daniel-tutt"
-permalink: false
+affilation: ""
+image: /images/thenewpolis-logo.png
 ---

@@ -6,15 +6,15 @@ permalink: /2019/11/10/the-sociological-deficit-of-contemporary-critical-theory-
 image: /images/wp-content/uploads/2019/11/runway-walk.jpg
 
 categories:
-  - "Critical Theory"
+  - critical-theory
 tags:
-  - "Adam Smith"
-  - "Axel Honneth"
-  - "Identity Politics"
-  - "Identity Theory"
-  - "Immanuel Kant"
-  - "Social Mediation"
-  - "Struggle For Recogntion"
+  - adam-smith
+  - axel-honneth
+  - identity-politics
+  - identity-theory
+  - immanuel-kant
+  - social-mediation
+  - struggle-for-recogntion
 ---
 
 *The following is the third installment of a four-part series. The first can be found [here](/2019/10/15/the-sociological-deficit-of-contemporary-critical-theory-axel-honneths-theory-of-recognition-part-1/)*, the second [here](/2019/10/22/the-sociological-deficit-of-contemporary-critical-theory-axel-honneths-theory-of-recognition-part-2-piet-strydom/), the third [here](/2019/11/05/the-sociological-deficit-of-contemporary-critical-theory-axel-honneths-theory-of-recognition-part-3-piet-strydom/).

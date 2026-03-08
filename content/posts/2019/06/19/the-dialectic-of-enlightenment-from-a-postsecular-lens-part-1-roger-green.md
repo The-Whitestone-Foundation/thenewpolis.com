@@ -6,27 +6,27 @@ permalink: /2019/06/19/the-dialectic-of-enlightenment-from-a-postsecular-lens-pa
 image: /images/wp-content/uploads/2019/06/Unknown-2.jpeg
 
 categories:
-  - "Critical Theory"
-  - "Literary History"
-  - "Literary Theory"
-  - "Neoliberalism"
-  - "Political Theology"
+  - critical-theory
+  - literary-history
+  - literary-theory
+  - neoliberalism
+  - political-theology
 tags:
-  - "Alia Wong"
-  - "Conscripts of Modernity"
-  - "David Scott"
-  - "Dialectic of Enlightenment"
-  - "Drugs"
-  - "Enlightenment"
-  - "Homer"
-  - "Max Horkheimer"
-  - "Mythology"
-  - "Political Theology"
-  - "Postsecularism"
-  - "The Atlantic"
-  - "Theodor Adorno"
-  - "Tzvetan Todorov"
-  - "Vincent Harding"
+  - alia-wong
+  - conscripts-of-modernity
+  - david-scott
+  - dialectic-of-enlightenment
+  - drugs
+  - enlightenment
+  - homer
+  - max-horkheimer
+  - mythology
+  - political-theology
+  - postsecularism
+  - the-atlantic
+  - theodor-adorno
+  - tzvetan-todorov
+  - vincent-harding
 ---
 
 I am often perplexed, sometimes disturbed, and generally intrigued by the use of Literature in philosophical arguments.  While there is a robust tradition of Marxian-influenced material critique within Cultural Studies, the conception of “the Literary” within literary studies also went through its own kind of “secularization” during the latter half of the twentieth-century.  In the twenty-first century, the concept of ‘postsecularism’ has emerged alongside critiques of Max Weber’s famous description of modernity as “disenchanted.”

@@ -1,25 +1,26 @@
 ---
 title: "The New Polis Is Now Also A Peer-Reviewed Academic Journal (Announcement)"
 date: 2022-02-10T04:58:24+00:00
-author: Announcement
+author: thenewpolis
 permalink: /2022/02/10/the-new-polis-is-now-also-a-peer-reviewed-academic-journal-announcement/
 image: /images/wp-content/uploads/2022/02/Screen-Shot-2022-02-09-at-9.04.42-PM.png
 
 categories:
-  - "Announcements"
+  - announcements
 tags:
-  - "Brendan John Brown"
-  - "Catherine Walsh"
-  - "Critical Theory"
-  - "Decoloniality"
-  - "Edward Antonio"
-  - "Mateusz Borowski"
-  - "Political Philosophy"
-  - "Political Theology"
-  - "Social Analysis"
-  - "The New Polis"
-  - "Walter Mignolo"
-  - "Ward Churchill"
+  - brendan-john-brown
+  - catherine-walsh
+  - critical-theory
+  - decoloniality
+  - edward-antonio
+  - mateusz-borowski
+  - political-philosophy
+  - political-theology
+  - social-analysis
+  - the-new-polis
+  - walter-mignolo
+  - ward-churchill
+
 ---
 
 *The New Polis* is now also a peer-reviewed academic journal.

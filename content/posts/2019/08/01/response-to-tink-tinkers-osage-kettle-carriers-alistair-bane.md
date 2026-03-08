@@ -6,18 +6,18 @@ permalink: /2019/08/01/response-to-tink-tinkers-osage-kettle-carriers-alistair-b
 image: /images/wp-content/uploads/2019/07/Common_Snapping_Turtle.jpg
 
 categories:
-  - "Gender Theory"
-  - "Indigenous Theory"
-  - "Queer Genders"
+  - gender-theory
+  - indigenous-theory
+  - queer-genders
 tags:
-  - "American Indians"
-  - "George Tink Tinker"
-  - "Homophobia"
-  - "Lgbtqia"
-  - "Native Americans"
-  - "Shawnee"
-  - "Transphobia"
-  - "Two Spirit"
+  - american-indians
+  - george-tink-tinker
+  - homophobia
+  - lgbtqia
+  - native-americans
+  - shawnee
+  - transphobia
+  - two-spirit
 ---
 
 *The* *following is a response to Tink Tinker’s “Osage Kettle Carriers – Marmitons, Scullery Boys, And Gender Choices,” [posted on](/07/24/osage-kettle-carriers-marmitons-scullery-boys-deviants-and-gender-choices-tink-tinker-wazhazhe-osage-nation/)* *on July 23, 2019*.

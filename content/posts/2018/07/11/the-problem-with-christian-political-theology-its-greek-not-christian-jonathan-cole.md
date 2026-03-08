@@ -6,18 +6,18 @@ permalink: /2018/07/11/the-problem-with-christian-political-theology-its-greek-n
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Political Theology"
+  - political-theology
 tags:
-  - "Bible"
-  - "Christos Yannaras"
-  - "Greek"
-  - "Hebrews"
-  - "Michael Walzer"
-  - "Neil Postman"
-  - "Oliver Odonovan"
-  - "Political Theology"
-  - "Political Theory"
-  - "Stamley Hauerwas"
+  - bible
+  - christos-yannaras
+  - greek
+  - hebrews
+  - michael-walzer
+  - neil-postman
+  - oliver-odonovan
+  - political-theology
+  - political-theory
+  - stamley-hauerwas
 ---
 
 Christian political theology has a problem, which for want of imagination I dub its “Greek problem.”

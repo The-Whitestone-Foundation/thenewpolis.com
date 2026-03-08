@@ -6,17 +6,17 @@ permalink: /2019/08/20/althusser-and-baudelaire-flanerial-and-utopian-theory-jon
 image: /images/wp-content/uploads/2019/08/ft296nb17v_00008.jpg
 
 categories:
-  - "Aesthetics"
-  - "Art Theory"
-  - "Marxism"
+  - aesthetics
+  - art-theory
+  - marxism
 tags:
-  - "Althusser"
-  - "Baudelaire"
-  - "David Frisby"
-  - "Edgar Allan Poe"
-  - "Flaneur"
-  - "Theory"
-  - "Walter Benjamin"
+  - althusser
+  - baudelaire
+  - david-frisby
+  - edgar-allan-poe
+  - flaneur
+  - theory
+  - walter-benjamin
 ---
 
 This essay sprang from an effort to understand one of the more obscure passages in Louis Althusser’s contribution to [*Reading Capital*](https://www.versobooks.com/books/2042-reading-capital) of 1965. Althusser’s commitment to anti-humanism – inaugurated by Marx according to Althusser – demanded a new concept of theoretical production voided of the humanist concept of the subject (*qua* consciousness). I argue that this concept of theory is structured by a *flâneurial perspective* located at once inside and outside the “field” of the very problematic it theorizes.

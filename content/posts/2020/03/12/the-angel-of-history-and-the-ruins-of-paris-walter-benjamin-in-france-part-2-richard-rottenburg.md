@@ -6,21 +6,21 @@ permalink: /2020/03/12/the-angel-of-history-and-the-ruins-of-paris-walter-benjam
 image: /images/wp-content/uploads/2020/03/The-arcades-project.jpg
 
 categories:
-  - "Political Philosophy"
-  - "Uncategorized"
+  - political-philosophy
+  - uncategorized
 tags:
-  - "Arcades Project"
-  - "Arthur Rimbaud"
-  - "Chalres Baudelaire"
-  - "Eduard Fuchs"
-  - "Gustav Flaubert"
-  - "Irving Wohlfarth"
-  - "Marxism"
-  - "Michael Taussig"
-  - "Otto Ranke"
-  - "Rolf Tiedemann"
-  - "Rosa Luxenburg"
-  - "Walter Benjamin"
+  - arcades-project
+  - arthur-rimbaud
+  - chalres-baudelaire
+  - eduard-fuchs
+  - gustav-flaubert
+  - irving-wohlfarth
+  - marxism
+  - michael-taussig
+  - otto-ranke
+  - rolf-tiedemann
+  - rosa-luxenburg
+  - walter-benjamin
 ---
 
 *The following is the second of a two-part series. The first can be found [here.](/2020/03/05/the-angel-of-history-and-the-ruins-of-paris-walter-benjamin-in-france-part-1-richard-rotenburg/)* *A previous version of this article provided an incorrect name and bio for the author. We apologize for the error.*

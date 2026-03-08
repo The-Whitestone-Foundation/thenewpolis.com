@@ -6,23 +6,23 @@ permalink: /2020/02/25/radical-politics-and-the-myth-of-the-state-carl-raschke/
 image: /images/wp-content/uploads/2020/02/revolution-30590_1280.png
 
 categories:
-  - "Marxism"
-  - "Political Philosophy"
-  - "Uncategorized"
+  - marxism
+  - political-philosophy
+  - uncategorized
 tags:
-  - "Dialectic of Enlightenment"
-  - "Ernst Cassier"
-  - "Fascism"
-  - "Gleichschaltung"
-  - "Jacques Derrida"
-  - "Jean Jacques Rousseau"
-  - "Marxism"
-  - "Max Horkheimer"
-  - "Nazism"
-  - "Socialism"
-  - "Syndicalism"
-  - "Theodor Adorno"
-  - "Walter Benjamin"
+  - dialectic-of-enlightenment
+  - ernst-cassier
+  - fascism
+  - gleichschaltung
+  - jacques-derrida
+  - jean-jacques-rousseau
+  - marxism
+  - max-horkheimer
+  - nazism
+  - socialism
+  - syndicalism
+  - theodor-adorno
+  - walter-benjamin
 ---
 
 Approximately 75 years ago, as Soviet and Allied armies were converging from opposite directions to crush the demonic dominion of Nazi Germany across Europe, two books were published that would anticipate in remarkable ways the predicament we encounter at the start of the third decade of the third millennium.

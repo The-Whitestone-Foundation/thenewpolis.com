@@ -6,17 +6,17 @@ permalink: /2020/08/11/liberalism-revolution-and-unbelief/
 image: /images/wp-content/uploads/2020/08/1026px-C.H._Hodges_-_Guillaume_Groen_van_Prinsterer_1801-1876_-_C1204_-_Cultural_Heritage_Agency_of_the_Netherlands_Art_Collection-1.jpg
 
 categories:
-  - "Political Theology"
+  - political-theology
 tags:
-  - "Abraham Kuyper"
-  - "Covid 19"
-  - "Guillaume Groen Van Prinsterer"
-  - "Hugh Felicite Robert De Lammenais"
-  - "Liberalism"
-  - "Patriarchal Monarchy"
-  - "Reason and Revelation"
-  - "Theopolitics"
-  - "Theory of Divine Right"
+  - abraham-kuyper
+  - covid-19
+  - guillaume-groen-van-prinsterer
+  - hugh-felicite-robert-de-lammenais
+  - liberalism
+  - patriarchal-monarchy
+  - reason-and-revelation
+  - theopolitics
+  - theory-of-divine-right
 ---
 
 We are living in the most interesting of times. The world is being ravaged by a deadly virus. Economic ruin seems to be descending on much of the world after government responses to COVID-19. Racial tensions have spilt over into what appears to be the end of a stable regime of law and order in the United States. The international political order is shifting before our very eyes. China is rattling its military sabre at India and Taiwan while the United States rapidly transforms into, at best, a declining and distracted superpower.

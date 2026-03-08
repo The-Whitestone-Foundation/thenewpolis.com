@@ -6,27 +6,27 @@ permalink: /2018/06/11/on-neoliberalism-and-the-politics-of-divination-an-interv
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Critical Theory"
-  - "Political Theory"
+  - critical-theory
+  - political-theory
 tags:
-  - "Adam Smith"
-  - "Alter Politics"
-  - "Arjun Appadurai"
-  - "Banking on Words"
-  - "Bill Maurer"
-  - "Eduardo Viveiros De Castro"
-  - "Elie Ayache"
-  - "Family Values"
-  - "Fred Moten"
-  - "Gilles Deleuze"
-  - "Joshua Ramey"
-  - "Karl Marx"
-  - "Melinda Cooper"
-  - "Neoliberalism"
-  - "Politics of Divination"
-  - "Stephano Harney"
-  - "Undercommons"
-  - "Wendy Brown"
+  - adam-smith
+  - alter-politics
+  - arjun-appadurai
+  - banking-on-words
+  - bill-maurer
+  - eduardo-viveiros-de-castro
+  - elie-ayache
+  - family-values
+  - fred-moten
+  - gilles-deleuze
+  - joshua-ramey
+  - karl-marx
+  - melinda-cooper
+  - neoliberalism
+  - politics-of-divination
+  - stephano-harney
+  - undercommons
+  - wendy-brown
 ---
 
 *The following is an interview* The New Polis *conducted in May 2018 with Joshua Ramey. It largely concerns his influential 2016 book, [Politics of Divination: Neoliberal Endgame and the Religion of Contingency](https://www.rowmaninternational.com/book/politics_of_divination/3-156-c10d5ea3-3149-479b-87bf-03db7e5a7b2f).  The intereview was conducted by NP general editor Roger Green.*

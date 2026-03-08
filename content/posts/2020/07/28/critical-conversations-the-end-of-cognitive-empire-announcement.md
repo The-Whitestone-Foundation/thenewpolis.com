@@ -1,20 +1,21 @@
 ---
 title: "Critical Conversations – “The End Of Cognitive Empire” (Announcement)"
 date: 2020-07-28T22:39:33+00:00
-author: Announcement
+author: thenewpolis
 permalink: /2020/07/28/critical-conversations-the-end-of-cognitive-empire-announcement/
 image: /images/wp-content/uploads/2020/07/Indigenous_diorama_-_Museo_de_las_Americas_-_San_Juan_Puerto_Rico_-_DSC06882.jpg
 
 categories:
-  - "Announcements"
+  - announcements
 tags:
-  - "Boaventura De Sousa Santos"
-  - "Critical Conversations"
-  - "Decoloniality"
-  - "Eurocentrism"
-  - "Global South"
-  - "North America"
-  - "South America"
+  - boaventura-de-sousa-santos
+  - critical-conversations
+  - decoloniality
+  - eurocentrism
+  - global-south
+  - north-america
+  - south-america
+
 ---
 
 *Participants are invited to join us live in the first of a monthly series of “Critical Conversations” (Zoom webinars) with eminent scholars from around the globe. **If you are interested in joining us, please contact us by email at*** [***editor.thenewpolis@gmail.com***](mailto:editor.thenewpolis@gmail.com)*. Please state your professional or academic status, affiliation, and a brief sentence or two concerning why you would like to participate, so please notify us no later than August 15, 2020.*

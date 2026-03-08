@@ -2,5 +2,6 @@
 title: "Piet Strydom"
 author: "Piet Strydom"
 slug: "piet-strydom"
-permalink: false
+affilation: ""
+image: /images/thenewpolis-logo.png
 ---

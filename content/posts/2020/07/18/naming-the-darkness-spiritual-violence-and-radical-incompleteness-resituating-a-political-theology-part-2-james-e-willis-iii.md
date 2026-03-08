@@ -6,18 +6,18 @@ permalink: /2020/07/18/naming-the-darkness-spiritual-violence-and-radical-incomp
 image: /images/wp-content/uploads/2020/07/Day_of_Darkness.jpg
 
 categories:
-  - "Political Theology"
+  - political-theology
 tags:
-  - "Daniel Peterson"
-  - "Democratic Socialism"
-  - "Karl Marx"
-  - "Lissa Mccullough"
-  - "Martin Hagglund"
-  - "Political Theology"
-  - "Saul Newman"
-  - "Simon Critchley"
-  - "Thomas J J Altizer"
-  - "Violence"
+  - daniel-peterson
+  - democratic-socialism
+  - karl-marx
+  - lissa-mccullough
+  - martin-hagglund
+  - political-theology
+  - saul-newman
+  - simon-critchley
+  - thomas-j-j-altizer
+  - violence
 ---
 
 *The following is the first of a two-part series. The first can be found [here](/2020/07/13/naming-the-darkness-spiritual-violence-and-radical-incompleteness-resituating-a-political-theology-part-1-james-e-willis-iii/).* *It* *is republished from [Religious Theory](https://www.jcrt.org/religioustheory) on May 9, 2020.*

@@ -6,11 +6,11 @@ permalink: /2023/07/13/the-religious-roots-of-environmental-justice-call-for-pap
 image: /images/wp-content/uploads/2023/07/Ta_Prohm_III.jpg
 
 categories:
-  - "Conferences"
+  - conferences
 tags:
-  - "Theory"
-  - "Political"
-  - "Activism"
+  - theory
+  - political
+  - activism
 ---
 
 #### [Submit proposal](mailto:whitestone.pubs@gmail.com)**

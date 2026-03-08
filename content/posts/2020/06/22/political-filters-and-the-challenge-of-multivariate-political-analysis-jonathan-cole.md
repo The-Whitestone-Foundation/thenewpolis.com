@@ -6,18 +6,18 @@ permalink: /2020/06/22/political-filters-and-the-challenge-of-multivariate-polit
 image: /images/wp-content/uploads/2020/06/5821d2fb-c7e9-4d4b-a300-4dd5f00d2052.jpeg
 
 categories:
-  - "Political Science"
-  - "Political Theology"
+  - political-science
+  - political-theology
 tags:
-  - "Black Lives Matter"
-  - "Christos Yannaras"
-  - "Donald Trump"
-  - "Marxism"
-  - "Oliver Odonovan"
-  - "Political Science"
-  - "Political Theology"
-  - "Russell Kirk"
-  - "Social Contract"
+  - black-lives-matter
+  - christos-yannaras
+  - donald-trump
+  - marxism
+  - oliver-odonovan
+  - political-science
+  - political-theology
+  - russell-kirk
+  - social-contract
 ---
 
 Political reality is multivariate, although you would never know it based on news reporting, political commentary and the rhetoric of politicians and activists alike. This is because we all, consciously or unconsciously, refract the multivariate political reality we live, or more often observe, through political filters.

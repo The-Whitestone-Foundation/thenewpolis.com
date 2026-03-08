@@ -6,19 +6,19 @@ permalink: /2019/06/08/walter-benjamins-notes-on-various-topics-proximity-and-di
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Critical Theory"
+  - critical-theory
 tags:
-  - "Distance"
-  - "Epistemology"
-  - "Eros"
-  - "Love"
-  - "Ludwig Klages"
-  - "Pain"
-  - "Plato"
-  - "Pleasure"
-  - "Proximity"
-  - "Sexuality"
-  - "Sleep"
+  - distance
+  - epistemology
+  - eros
+  - love
+  - ludwig-klages
+  - pain
+  - plato
+  - pleasure
+  - proximity
+  - sexuality
+  - sleep
 ---
 
 ## Translated by Rachel Thomas.  Edited by Carl Raschke.

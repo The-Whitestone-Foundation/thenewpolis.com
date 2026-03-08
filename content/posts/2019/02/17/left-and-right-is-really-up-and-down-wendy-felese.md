@@ -6,25 +6,25 @@ permalink: /2019/02/17/left-and-right-is-really-up-and-down-wendy-felese/
 image: /images/wp-content/uploads/2019/02/Great_Chain_of_Being_2.png
 
 categories:
-  - "American History"
-  - "Indigenous Theory"
-  - "Interfaith Dialogue"
-  - "Political History"
+  - american-history
+  - indigenous-theory
+  - interfaith-dialogue
+  - political-history
 tags:
-  - "Albert White Hat"
-  - "Cognitive Linguistics"
-  - "Creation Stories"
-  - "Domination"
-  - "Eurochristianity"
-  - "George Lakoff"
-  - "Indigenous Rights March"
-  - "Mark Johnson"
-  - "Ocasio Cortez"
-  - "Ontology"
-  - "Racism"
-  - "Sarah Huckabee Sanders"
-  - "Steven Newcomb"
-  - "Tink Tinker"
+  - albert-white-hat
+  - cognitive-linguistics
+  - creation-stories
+  - domination
+  - eurochristianity
+  - george-lakoff
+  - indigenous-rights-march
+  - mark-johnson
+  - ocasio-cortez
+  - ontology
+  - racism
+  - sarah-huckabee-sanders
+  - steven-newcomb
+  - tink-tinker
 ---
 
 Sarah Huckabee Sanders’ condescending dismissal of congressional representative Alexandria Ocasio-Cortez (during an [interview with Fox News](https://video.foxnews.com/v/5992624631001/#sp=show-clips)), went largely unnoticed during a week dominated by the latest rancorous national debate. It is difficult to imagine that anyone missed seeing mediated images from every imaginable angle and released over a period of several days, capturing a now infamous encounter between Indigenous activists, Black Hebrew Israelites, and a group of mostly white high school boys from Covington Catholic school. The confrontation took place just after the [Indigenous Peoples’ March in Washington, D.C](https://www.msn.com/en-us/video/t/indigenous-peoples-march-washington-dc/vp-BBStgCY).

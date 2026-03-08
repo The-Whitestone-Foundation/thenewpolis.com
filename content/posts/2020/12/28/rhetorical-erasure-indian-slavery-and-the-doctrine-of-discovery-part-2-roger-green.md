@@ -6,15 +6,15 @@ permalink: /2020/12/28/rhetorical-erasure-indian-slavery-and-the-doctrine-of-dis
 image: /images/wp-content/uploads/2020/12/Blog_Image_Catherine_crop-e1443536966392.jpg
 
 categories:
-  - "American History"
-  - "Doctrine of Discovery and Domination"
-  - "Race and Racism"
-  - "Social History"
-  - "White Supremacism"
+  - american-history
+  - doctrine-of-discovery-and-domination
+  - race-and-racism
+  - social-history
+  - white-supremacism
 tags:
-  - "Political Theology"
-  - "Social"
-  - "Theology"
+  - political-theology
+  - social
+  - theology
 ---
 
 [Last month](/2020/11/30/rhetorical-erasure-indian-slavery-and-the-doctrine-of-discovery-part-1-roger-green/) I began a survey, which I continue here, regarding the rhetorical erasure of American Indians. This work is part of a larger initiative we at *The New Polis* have begun by [calling for submissions related to the Doctrine of Discovery or Doctrine of Domination](/2020/11/09/an-introduction-and-call-for-submissions-to-the-new-polis-on-the-doctrine-of-discovery-roger-green/). We continue to request submissions related to the topic.

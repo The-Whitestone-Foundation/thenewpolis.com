@@ -6,25 +6,25 @@ permalink: /2021/01/26/the-meaning-of-jan-6-2021-editorial-response-iii-diana-ab
 image: /images/wp-content/uploads/2021/01/DC_Capitol_Storming_IMG_7935.jpg
 
 categories:
-  - "American History"
-  - "Election Debates"
+  - american-history
+  - election-debates
 tags:
-  - "25th Amendment"
-  - "Alain Badiou"
-  - "Axios"
-  - "Barack Obama"
-  - "Carl Raschke"
-  - "Donald Trump"
-  - "Eliah Bures"
-  - "Karl Marx"
-  - "Malcolm X"
-  - "Michel Foucault"
-  - "Progressivsm"
-  - "Roger Green"
-  - "Slavoj Zizek"
-  - "Trumpism"
-  - "Twitter"
-  - "Us Capitol"
+  - 25th-amendment
+  - alain-badiou
+  - axios
+  - barack-obama
+  - carl-raschke
+  - donald-trump
+  - eliah-bures
+  - karl-marx
+  - malcolm-x
+  - michel-foucault
+  - progressivsm
+  - roger-green
+  - slavoj-zizek
+  - trumpism
+  - twitter
+  - us-capitol
 ---
 
 *The following is the third of a series of responses on the part of the editorial staff of The New Polis to the events of January 6, 2021. The first one can be found [here](/2021/01/11/editorial-response-to-january-6-2021-roger-green/)*, *the second* [*here*](/2021/01/14/the-meaning-of-jan-6-2021-editorial-response-ii-carl-raschke/)*.*

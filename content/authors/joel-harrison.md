@@ -2,5 +2,6 @@
 title: "Joel Harrison"
 author: "Joel Harrison"
 slug: "joel-harrison"
-permalink: false
+affilation: ""
+image: /images/thenewpolis-logo.png
 ---

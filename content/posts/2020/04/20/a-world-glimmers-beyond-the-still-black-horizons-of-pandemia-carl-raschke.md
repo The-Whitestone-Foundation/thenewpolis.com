@@ -6,18 +6,18 @@ permalink: /2020/04/20/a-world-glimmers-beyond-the-still-black-horizons-of-pande
 image: /images/wp-content/uploads/2020/04/1599px-Tuscon_Arizona_Desert_Sunset_Over_Mountains_-_panoramio_8.jpg
 
 categories:
-  - "Neoliberalism"
-  - "Political Theology"
+  - neoliberalism
+  - political-theology
 tags:
-  - "Pandemia"
-  - "Covid 19"
-  - "Globalization"
-  - "Neoliberalism"
-  - "Religious Right"
-  - "Slavoj Zizek"
-  - "Social Theory"
-  - "Urbanization"
-  - "World War I"
+  - pandemia
+  - covid-19
+  - globalization
+  - neoliberalism
+  - religious-right
+  - slavoj-zizek
+  - social-theory
+  - urbanization
+  - world-war-i
 ---
 
 The Great Global Covid-19 Pandemic has functioned in recent weeks as a gigantic, media-tinged Rorschacht ink blot upon which anyone and everyone is invited to project both their deepest political fears and their most cherished fantasies.

@@ -1,23 +1,23 @@
 ---
 title: "The Latino Case For Race And Class Fusion – A Conversation With Ian Haney Lopez, Part 1 (Interview)"
 date: 2021-08-09T02:50:00+00:00
-author: Interview
+author: Ian Haney Lopez
 permalink: /2021/08/09/the-latino-case-for-race-and-class-fusion-a-conversation-with-ian-haney-lopez-part-1-interview/
 image: /images/wp-content/uploads/2021/08/800px-Fiestas_Patrias_Parade_South_Park_Seattle_2017_-_133_-_Sea_Mar_Chicano-Latino_Cultural_Museum.jpg
 
 categories:
-  - "Critical Race Theory"
-  - "Interviews"
+  - critical-race-theory
+  - interviews
 tags:
-  - "Arthur Schlesinger"
-  - "Civil Rights"
-  - "Critical Race Theory"
-  - "Ethnicity"
-  - "Hawaii"
-  - "Ian Haney Lopez"
-  - "Latinos"
-  - "Liberalism"
-  - "Whiteness"
+  - arthur-schlesinger
+  - civil-rights
+  - critical-race-theory
+  - ethnicity
+  - hawaii
+  - ian-haney-lopez
+  - latinos
+  - liberalism
+  - whiteness
 ---
 
 *Ian F. Haney López is the Chief Justice Earl Warren Professor of Public Law at the University of California, Berkeley. He is the author of a number of influential books in critical race theory including* White By Law: The Legal Construction of Race *(New York University Press, 1997) and* Dog Whistle Politics: How Coded Racial Appeals Have Wrecked the Middle Class *(Oxford University Press, 2014).* *Fernando Gómez Herrero is Honorary Fellow (Modern Languages and Cultures) at Birkbeck College, University of London.*

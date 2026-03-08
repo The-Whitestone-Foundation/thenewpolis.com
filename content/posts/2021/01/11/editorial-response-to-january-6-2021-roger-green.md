@@ -6,17 +6,17 @@ permalink: /2021/01/11/editorial-response-to-january-6-2021-roger-green/
 image: /images/wp-content/uploads/2021/01/Icy-Vortex_1.jpg
 
 categories:
-  - "American History"
-  - "Election Debates"
-  - "Political Theology"
-  - "Political Theory"
-  - "Politics and Religion"
+  - american-history
+  - election-debates
+  - political-theology
+  - political-theory
+  - politics-and-religion
 tags:
-  - "Carl Schmitt"
-  - "Context Collapse"
-  - "Election Debates"
-  - "Rhetoric"
-  - "State of Exception"
+  - carl-schmitt
+  - context-collapse
+  - election-debates
+  - rhetoric
+  - state-of-exception
 ---
 
 *The following is the first of a series of responses on the part of the editorial staff of The New Polis to the events of January 6, 2021.*

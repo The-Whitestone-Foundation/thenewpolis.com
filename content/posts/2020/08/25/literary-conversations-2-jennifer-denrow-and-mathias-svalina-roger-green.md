@@ -6,21 +6,21 @@ permalink: /2020/08/25/literary-conversations-2-jennifer-denrow-and-mathias-sval
 image: /images/wp-content/uploads/2020/08/dream-thumb.jpg
 
 categories:
-  - "Aesthetics"
-  - "Literary Theory"
-  - "Poetry"
-  - "Surrealism"
+  - aesthetics
+  - literary-theory
+  - poetry
+  - surrealism
 tags:
-  - "Andre Breton"
-  - "Enchantment"
-  - "Epistemology"
-  - "Francis Ponge"
-  - "Inclusive Excellence"
-  - "Jennifer Denrow"
-  - "Mathias Svalina"
-  - "Pierre Olivier Lapie"
-  - "Poetry"
-  - "Surrealism"
+  - andre-breton
+  - enchantment
+  - epistemology
+  - francis-ponge
+  - inclusive-excellence
+  - jennifer-denrow
+  - mathias-svalina
+  - pierre-olivier-lapie
+  - poetry
+  - surrealism
 ---
 
 Jennifer Denrow and Mathias Svalina in Conversation with Roger Green of The New Polis

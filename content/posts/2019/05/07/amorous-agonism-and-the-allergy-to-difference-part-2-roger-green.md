@@ -6,22 +6,22 @@ permalink: /2019/05/07/amorous-agonism-and-the-allergy-to-difference-part-2-roge
 image: /images/wp-content/uploads/2023/07/October-revolution.png
 
 categories:
-  - "Critical Theory"
-  - "Political Theology"
+  - critical-theory
+  - political-theology
 tags:
-  - "Amorous Agonism"
-  - "Catherine Keller"
-  - "Embracing Hopelessness"
-  - "Emmanuel Levinas"
-  - "Eurochristianity"
-  - "Liberalism"
-  - "Miguel De La Torre"
-  - "Political Theology"
-  - "Revelation"
-  - "Sarah Pessin"
-  - "Steven Newcomb"
-  - "Tink Tinker"
-  - "William Connolly"
+  - amorous-agonism
+  - catherine-keller
+  - embracing-hopelessness
+  - emmanuel-levinas
+  - eurochristianity
+  - liberalism
+  - miguel-de-la-torre
+  - political-theology
+  - revelation
+  - sarah-pessin
+  - steven-newcomb
+  - tink-tinker
+  - william-connolly
 ---
 
 In [my previous post](/2019/04/29/amorous-agonism-and-the-allergy-to-difference-roger-green/), I drew on a longer genealogy of liberalism by Aryeh Botwinick to address Catherine Keller’s recent book, *[Political Theology of the Earth](https://cup.columbia.edu/book/political-theology-of-the-earth/9780231189910).*  Botwinick’s “[The Good of Liberalism: Weak Messianism](https://journal.telospress.com/content/2017/180/167.short)” develops a genealogy of weak messianism informing liberalism as far back as Maimonides.  He then sees a parallel in post-holocaust Jewish ethical philosophy, citing the following words of Emmanuel Levinas. ‘The awaiting messiah is the duration of time itself” (175).

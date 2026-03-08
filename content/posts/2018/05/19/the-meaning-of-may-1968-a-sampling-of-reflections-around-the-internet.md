@@ -6,23 +6,23 @@ permalink: /2018/05/19/the-meaning-of-may-1968-a-sampling-of-reflections-around-
 image: /images/wp-content/uploads/2018/05/May-1968-flyer.jpg
 
 categories:
-  - "Political History"
+  - political-history
 tags:
-  - "Alissa Rubin"
-  - "Capitalism"
-  - "Fashion"
-  - "Industrialism"
-  - "Lgbt"
-  - "Marxism"
-  - "May 1968"
-  - "Mexico"
-  - "Nancy Fraser"
-  - "Neoliberalism"
-  - "Pakistan"
-  - "Santiago Zabala"
-  - "Thomas Piketty"
-  - "West Africa"
-  - "Womens Liberaiton"
+  - alissa-rubin
+  - capitalism
+  - fashion
+  - industrialism
+  - lgbt
+  - marxism
+  - may-1968
+  - mexico
+  - nancy-fraser
+  - neoliberalism
+  - pakistan
+  - santiago-zabala
+  - thomas-piketty
+  - west-africa
+  - womens-liberaiton
 ---
 
 *The editors of The New Polis have gathered below excerpts and summaries of some of the most significant reflections and observations that have been published to date on the long-term historical meaning of May 1968.  Per an earlier call, [we invite readers to send us their own take](/2018/04/29/a-call-for-reflection-on-may-1968-fifty-years-later-the-editors/), whether it be in the form of quick takes or longer essays.  Please send all queries to [Roger Green, general editor.](mailto:rogerkgreen@gmail.com)*

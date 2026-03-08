@@ -1,19 +1,20 @@
 ---
 title: "Critical Conversations 6 – “On Decoloniality” With Walter Mignolo (Announcement)"
 date: 2020-12-23T20:01:52+00:00
-author: Announcement
+author: thenewpolis
 permalink: /2020/12/23/critical-conversations-on-decoloniality-with-walter-mignolo/
 image: /images/wp-content/uploads/2020/12/Wmignolo.jpg
 
 categories:
-  - "Announcements"
+  - announcements
 tags:
-  - "Decoloniality"
-  - "Decolonizing Work"
-  - "Postcolonialism"
-  - "The New Polis"
-  - "Victor Taylor"
-  - "Walter Miognolo"
+  - decoloniality
+  - decolonizing-work
+  - postcolonialism
+  - the-new-polis
+  - victor-taylor
+  - walter-miognolo
+
 ---
 
 *An earlier version of this posting had the date listed as “December,” which would imply the webinar had already occurred. It is still scheduled for **January, 12, 2021.***

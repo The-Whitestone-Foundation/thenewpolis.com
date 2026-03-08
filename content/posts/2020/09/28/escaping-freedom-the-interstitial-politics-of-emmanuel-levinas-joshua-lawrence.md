@@ -6,17 +6,17 @@ permalink: /2020/09/28/escaping-freedom-the-interstitial-politics-of-emmanuel-le
 image: /images/wp-content/uploads/2020/09/0f3ed843-64a2-41b3-b397-aecaf95e84d4.jpeg
 
 categories:
-  - "Borderlands"
-  - "Philosophy"
-  - "Political Philosophy"
+  - borderlands
+  - philosophy
+  - political-philosophy
 tags:
-  - "Anarchism"
-  - "Borderlands"
-  - "Emmanuel Levinas"
-  - "Immanuel Kant"
-  - "Mutual Aid"
-  - "Simon Critchley"
-  - "Subjectivity"
+  - anarchism
+  - borderlands
+  - emmanuel-levinas
+  - immanuel-kant
+  - mutual-aid
+  - simon-critchley
+  - subjectivity
 ---
 
 *This paper was first delivered at the* [2020 Annual Telos-Paul Piccone Institute Conference](https://www.telosinstitute.net/conference2020/).         

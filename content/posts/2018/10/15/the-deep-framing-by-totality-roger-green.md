@@ -6,31 +6,31 @@ permalink: /2018/10/15/the-deep-framing-by-totality-roger-green/
 image: /images/wp-content/uploads/2018/10/Screen-Shot-2018-10-15-at-3.25.35-PM-1.png
 
 categories:
-  - "Literary History"
-  - "Literary Theory"
-  - "Political History"
-  - "Political Theology"
-  - "Social History"
+  - literary-history
+  - literary-theory
+  - political-history
+  - political-theology
+  - social-history
 tags:
-  - "Anglo Saxon"
-  - "Aristotle"
-  - "Augustine"
-  - "Beowulf"
-  - "Christendom"
-  - "Compendious History of the World"
-  - "Emmanuel Levinas"
-  - "George Lakoff"
-  - "Jerome"
-  - "King Alfred"
-  - "Marvelous Possessions"
-  - "Medieval"
-  - "Norman Yoke"
-  - "Orosius"
-  - "Robert A Williams"
-  - "Rome"
-  - "Stephen Greenblatt"
-  - "The Battle of Maldon"
-  - "Voyages of Ohthere and Wulfstan"
+  - anglo-saxon
+  - aristotle
+  - augustine
+  - beowulf
+  - christendom
+  - compendious-history-of-the-world
+  - emmanuel-levinas
+  - george-lakoff
+  - jerome
+  - king-alfred
+  - marvelous-possessions
+  - medieval
+  - norman-yoke
+  - orosius
+  - robert-a-williams
+  - rome
+  - stephen-greenblatt
+  - the-battle-of-maldon
+  - voyages-of-ohthere-and-wulfstan
 ---
 
 A variety of competing descriptions of ‘whiteness’ making up racist retreats to Romantic imaginaries of Anglo-Saxon identity go at least as far back as Thomas Jefferson.  Jefferson had imagined himself in an anti-papal tradition of resisting “the Norman yoke,” installed in with the papal backing of the French invasion of England in 1066, and the excommunication of King Harold ([Williams](https://global.oup.com/academic/product/the-american-indian-in-western-legal-thought-9780195080025?cc=us&lang=en&) 31). To me, it seems timely to critically look at the political-theological impulses toward “Anglo-Saxonist” claims.

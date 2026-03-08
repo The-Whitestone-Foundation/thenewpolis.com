@@ -6,19 +6,19 @@ permalink: /2021/05/31/economic-theology-and-the-indebtedness-of-everyday-life-p
 image: /images/wp-content/uploads/2021/05/British-pounds.jpg
 
 categories:
-  - "Economic Theology"
-  - "Political Theology"
+  - economic-theology
+  - political-theology
 tags:
-  - "Aristotle"
-  - "Devin Singh"
-  - "Economic Theology"
-  - "Genealogy"
-  - "Metaphysics"
-  - "Money"
-  - "Philip Goodchild"
-  - "Religion"
-  - "Soren Kierkegaard"
-  - "Trust"
+  - aristotle
+  - devin-singh
+  - economic-theology
+  - genealogy
+  - metaphysics
+  - money
+  - philip-goodchild
+  - religion
+  - soren-kierkegaard
+  - trust
 ---
 
 *The following is the transcript of “Critical Conversations” No. 9, an ongoing series of Zoom seminars conducted by The New Polis with distinguished international academics. This seminar on economics, theology, debt, and the religious origins of the modern economy was held on May 18, 2021.*

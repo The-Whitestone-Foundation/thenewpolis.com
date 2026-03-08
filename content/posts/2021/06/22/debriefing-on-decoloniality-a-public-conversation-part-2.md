@@ -6,18 +6,18 @@ permalink: /2021/06/22/debriefing-on-decoloniality-a-public-conversation-part-2/
 image: /images/wp-content/uploads/2021/06/fishing-village.jpg
 
 categories:
-  - "Decoloniality"
+  - decoloniality
 tags:
-  - "Catherine Walsh"
-  - "Consumerism"
-  - "Decoloniality"
-  - "Higher Education"
-  - "Land Back"
-  - "Malcolm X"
-  - "Slavery"
-  - "Tink Tinker"
-  - "Walter Mignolo"
-  - "White Supremacy"
+  - catherine-walsh
+  - consumerism
+  - decoloniality
+  - higher-education
+  - land-back
+  - malcolm-x
+  - slavery
+  - tink-tinker
+  - walter-mignolo
+  - white-supremacy
 ---
 
 *The following is a transcript of a community-wide debriefing by participants for the online conference “*[*Decoloniality and the Disintegration of Cognitive Empire – Rethinking Sovereignty and Territoriality in the 21st Century.”*](/conferences-and-calls-for-presentations/) *The conference was held April 14-16, 2021 and featured such international luminaries as Walter Mignolo, Catherine Walsh, and Tink Tinker. Because of the length of the conversation, it is in two parts.* *The first part [can be found here.](/15/debriefing-on-decoloniality-a-public-conversation/)*

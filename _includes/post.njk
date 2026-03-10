@@ -6,7 +6,8 @@ layout: base.njk
 
 <main class="container my-5">
     <div class="row justify-content-center">
-        <article class="col-lg-9 post shadow-sm p-4 p-md-5 bg-white border">
+        <article class="col-lg-9 post shadow-sm p-4 p-md-5 bg-white border h-entry">
+            <a class="u-url d-none" href="{{ page.url }}">{{ page.url | absUrl(metadata.url) }}</a>
             <nav class="small text-uppercase mb-4 text-muted" style="letter-spacing: 1px;">
                 {%- for crumb in page.date | breadcrumbs(title, metadata) -%}
                     {% if crumb.url %}
@@ -19,14 +20,17 @@ layout: base.njk
             </nav>
             {% if image %}
             <figure class="post-hero mb-5 mx-n4 mx-md-n5 mt-n4 mt-md-n5">
-                <img src="{{ image }}" alt="{{ title }}" class="img-fluid w-100" style="max-height: 500px; object-fit: cover;">
+                <img src="{{ image }}" alt="{{ title }}" class="img-fluid w-100 u-photo" style="max-height: 500px; object-fit: cover;">
             </figure>
             {% endif %}
 
             <header class="post-header mb-5">
-                <h1 class="display-5 serif fw-bold mb-3" data-pagefind-meta="title" data-pagefind-weight="10">
+                <h1 class="display-5 serif fw-bold mb-3 p-name" data-pagefind-meta="title" data-pagefind-weight="10">
                     {{ title }}
                 </h1>
+                {% if description %}
+                <p class="p-summary text-secondary mb-4">{{ description }}</p>
+                {% endif %}
                 
                 <div class="post-meta d-flex align-items-center py-3 border-top border-bottom">
                     {% if author %}
@@ -34,22 +38,26 @@ layout: base.njk
                         <div class="me-auto">
                             <span class="text-muted small text-uppercase">By</span> 
                             {% for authorName in authors %}
-                                <a href="/authors/{{ authorName | slugify }}/" class="fw-bold text-dark text-decoration-none small text-uppercase ms-1">
-                                    {{ authorName }}
+                                <a href="/authors/{{ authorName | slugify }}/" rel="author" class="p-author h-card fw-bold text-dark text-decoration-none small text-uppercase ms-1">
+                                    <span class="p-name">{{ authorName }}</span>
+                                    <span class="u-url d-none">{{ '/authors/' ~ (authorName | slugify) ~ '/' | absUrl(metadata.url) }}</span>
                                 </a>{% if not loop.last %}, {% endif %}
                             {% endfor %}
                         </div>
                     {% endif %}
                     
                     <div class="text-muted small text-uppercase ms-3">
-                        <time datetime="{{ page.date | date('yyyy-MM-dd') }}">
+                        <time class="dt-published" datetime="{{ page.date | date('yyyy-MM-dd') }}">
                             {{ page.date | readableDate }}
+                        </time>
+                        <time class="dt-updated d-none" datetime="{{ (updated or date or page.date) | isoDate }}">
+                            {{ (updated or date or page.date) | readableDate }}
                         </time>
                     </div>
                 </div>
             </header>
 
-            <div class="post-content serif" style="font-size: 1.15rem; line-height: 1.8;">
+            <div class="post-content serif e-content" style="font-size: 1.15rem; line-height: 1.8;">
                 <heading-anchors>
                     {{ content | safe }}
                 </heading-anchors>
@@ -59,7 +67,7 @@ layout: base.njk
             <div class="post-tags mt-5 pt-4 border-top">
                 <span class="small text-muted text-uppercase fw-bold me-2">Filed under:</span>
                 {% for tag in tags %}
-                    <a href="/tag/{{ tag | slugify }}/" class="badge bg-light text-dark border text-decoration-none fw-normal me-1 p-2">
+                    <a href="/tag/{{ tag | slugify }}/" class="p-category badge bg-light text-dark border text-decoration-none fw-normal me-1 p-2">
                         {{ tag | displayTerm }}
                     </a>
                 {% endfor %}

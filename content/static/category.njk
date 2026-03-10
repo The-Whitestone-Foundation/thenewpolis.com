@@ -22,27 +22,33 @@ layout: base.njk
         {% set postsByCategory = collections.posts | filterByCategory(category) %}
         {% for post in postsByCategory %}
         <div class="col-md-6 col-lg-4">
-            <div class="card h-100 border-0 shadow-sm bg-white transition-hover">
+            <article class="card h-100 border-0 shadow-sm bg-white transition-hover h-entry">
+                <a class="u-url d-none" href="{{ post.url }}">{{ post.url | absUrl(metadata.url) }}</a>
                 <div style="height: 180px; overflow: hidden;">
-                    <img src="{{ post.data.image or metadata.image }}" class="card-img-top w-100 h-100" style="object-fit: cover;" alt="{{ post.data.title }}">
+                    <img src="{{ post.data.image or metadata.image }}" class="card-img-top w-100 h-100 u-photo" style="object-fit: cover;" alt="{{ post.data.title }}">
                 </div>
                 <div class="card-body p-4 d-flex flex-column">
-                    <h5 class="card-title serif fw-bold mb-3">
+                    <h5 class="card-title serif fw-bold mb-3 p-name">
                         <a href="{{ post.url }}" class="text-decoration-none text-dark stretched-link">{{ post.data.title }}</a>
                     </h5>
-                    <p class="card-text small text-muted mb-4">
+                    <p class="card-text small text-muted mb-4 p-summary">
                         {{ post.data.description | truncate(100) }}
                     </p>
                     <div class="mt-auto pt-3 border-top d-flex justify-content-between">
-                        <small class="text-muted">{{ post.date | readableDate }}</small>
+                        <small class="text-muted">
+                            <time class="dt-published" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+                        </small>
                         <small class="text-dark fw-bold" style="font-size: 0.7rem;">
                             {% for authorName in post.data.author | authorList %}
-                                <a href="/authors/{{ authorName | slugify }}/" class="text-dark text-decoration-none">{{ authorName }}</a>{% if not loop.last %}, {% endif %}
+                                <a href="/authors/{{ authorName | slugify }}/" class="p-author h-card text-dark text-decoration-none">
+                                    <span class="p-name">{{ authorName }}</span>
+                                    <span class="u-url d-none">{{ ('/authors/' ~ (authorName | slugify) ~ '/') | absUrl(metadata.url) }}</span>
+                                </a>{% if not loop.last %}, {% endif %}
                             {% endfor %}
                         </small>
                     </div>
                 </div>
-            </div>
+            </article>
         </div>
         {% else %}
         <div class="col-12 text-center py-5">

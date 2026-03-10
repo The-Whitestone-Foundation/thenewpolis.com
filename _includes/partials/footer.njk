@@ -1,11 +1,17 @@
 <footer class="text-center py-5">
     <div class="container">
+        <div class="h-card d-none">
+            <a class="p-name u-url" href="{{ metadata.url }}">{{ metadata.title }}</a>
+            <img class="u-photo" src="{{ '/images/thenewpolis-logo.png' | absUrl(metadata.url) }}" alt="{{ metadata.title }}">
+            <p class="p-note">{{ metadata.description }}</p>
+            <a class="u-email" href="mailto:{{ metadata.email }}">{{ metadata.email }}</a>
+        </div>
         <p class="small">
             © {{ metadata.footer.year_start }}-{{ latestCommitYear }} {{ metadata.footer.text }}
         </p>
         <p class="small fw-bold border-top border-secondary pt-3 d-inline-block text-uppercase" 
            style="letter-spacing: 2px; color: #666;">
-            <a href="{{metadata.url}}" class="text-white" >{{ metadata.footer.info }}</a>
+            <a href="{{ metadata.footer.url }}" class="text-white">{{ metadata.footer.info }}</a>
             <br/>
             <span style="font-size: 0.8rem;">
                 <a class="text-white" href="https://jcrt.org" target="_blank">JCRT</a> |
@@ -16,7 +22,7 @@
             <br/>
             <small>
                 built with <a class="text-white" href="https://11ty.dev" target="_blank">{{ eleventy.generator }}</a> 
-                | managed by <a class="text-white" href="https://adamdjbrett.com" target="_blank">Adam DJ Brett</a>
+                | managed by <span class="h-card"><a class="p-name u-url text-white" href="https://adamdjbrett.com" target="_blank">Adam DJ Brett</a></span>
             </small>
         </p>
     </div>

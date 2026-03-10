@@ -1,24 +1,92 @@
 <script type="application/ld+json">
 {% set baseUrl = metadata.url | baseUrl %}
+{% set authors = author | authorList %}
+{% set editors = editor | authorList %}
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "{{ title }}",
-  "description": "{{ description or excerpt or '' }}",
-  "datePublished": "{{ date | isoDate }}",
-  "dateModified": "{{ date | isoDate }}",
-  "author": {
-    "@type": "Person",
-    "name": "{{ author or metadata.title }}"
+  "@id": "{{ page.url | absUrl(baseUrl) }}#blogposting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | absUrl(baseUrl) }}"
+  },
+  "isPartOf": {
+    "@type": "Blog",
+    "@id": "{{ '/blog/' | absUrl(baseUrl) }}#blog",
+    "name": "{{ metadata.title }}"
   },
   "publisher": {
     "@type": "Organization",
     "name": "{{ metadata.title }}",
-    "url": "{{ '/' | absUrl(baseUrl) }}"
+    "url": "{{ '/' | absUrl(baseUrl) }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ '/images/thenewpolis-logo.png' | absUrl(baseUrl) }}"
+    }
   },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "{{ page.url | absUrl(baseUrl) }}"
-  }
+  "headline": "{{ title }}",
+  "name": "{{ title }}",
+  "description": "{{ description or excerpt or '' }}",
+  {% if description %}
+  "abstract": "{{ description }}",
+  {% endif %}
+  "url": "{{ page.url | absUrl(baseUrl) }}",
+  "inLanguage": "{{ metadata.language or 'en' }}",
+  "datePublished": "{{ (page.date or date) | isoDate }}",
+  "dateModified": "{{ (updated or page.date or date) | isoDate }}",
+  "author": [
+    {% if authors and authors.length %}
+      {% for authorName in authors %}
+      {
+        "@type": "Person",
+        "name": "{{ authorName }}",
+        "url": "{{ ('/authors/' ~ (authorName | slugify) ~ '/') | absUrl(baseUrl) }}"
+      }{% if not loop.last %},{% endif %}
+      {% endfor %}
+    {% else %}
+      {
+        "@type": "Organization",
+        "name": "{{ metadata.title }}",
+        "url": "{{ '/' | absUrl(baseUrl) }}"
+      }
+    {% endif %}
+  ],
+  {% if editors and editors.length %}
+  "editor": [
+    {% for editorName in editors %}
+    {
+      "@type": "Person",
+      "name": "{{ editorName }}",
+      "url": "{{ ('/authors/' ~ (editorName | slugify) ~ '/') | absUrl(baseUrl) }}"
+    }{% if not loop.last %},{% endif %}
+    {% endfor %}
+  ],
+  {% endif %}
+  {% if image %}
+  "image": {
+    "@type": "ImageObject",
+    "url": "{{ image | absUrl(baseUrl) }}"
+  },
+  "thumbnailUrl": "{{ image | absUrl(baseUrl) }}",
+  {% endif %}
+  {% if tags and tags.length %}
+  "keywords": "{{ tags | join(', ') }}",
+  "about": [
+    {% for tag in tags %}
+    {
+      "@type": "Thing",
+      "name": "{{ tag }}"
+    }{% if not loop.last %},{% endif %}
+    {% endfor %}
+  ],
+  {% endif %}
+  {% if categories and categories.length %}
+  "articleSection": "{{ categories | join(', ') }}",
+  {% endif %}
+  {% if content %}
+  "articleBody": {{ content | striptags | dump | safe }},
+  "wordCount": {{ content | striptags | wordcount }},
+  {% endif %}
+  "license": "https://creativecommons.org/licenses/by-nc/4.0/"
 }
 </script>

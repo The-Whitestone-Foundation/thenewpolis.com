@@ -1,20 +1,67 @@
 <script type="application/ld+json">
 {% set baseUrl = metadata.url | baseUrl %}
-{
-  "@context": "https://schema.org",
-  "@type": "Blog",
-  "name": "{{ metadata.title }}",
-  "description": "{{ metadata.description }}",
-  "url": "{{ '/' | absUrl(baseUrl) }}",
-  "publisher": {
-    "@type": "Organization",
-    "name": "{{ metadata.title }}",
-    "url": "{{ '/' | absUrl(baseUrl) }}"
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationalOrganization",
+    "@id": "https://thewhitestonefoundation.org/#organization",
+    "name": "The Whitestone Foundation",
+    "url": "https://thewhitestonefoundation.org/",
+    "sameAs": [
+      "https://jcrt.org/",
+      "https://www.facebook.com/religioustheory",
+      "https://www.instagram.com/JCRT_DU1",
+      "https://journal.thenewpolis.com/",
+      "https://thenewpolis.com/",
+      "https://esthesis.org/",
+      "https://www.youtube.com/@whitestonepublications6661"
+    ],
+    "logo": "https://thewhitestonefoundation.org/images/whitestone-logo.png",
+    "image": "https://thewhitestonefoundation.org/images/whitestone-logo.png",
+    "description": "The Whitestone Foundation and its publications advance public-interest scholarship through open-access journals, webinars, and global academic collaboration in culture and religion.",
+    "address": {
+      "@type": "PostalAddress",
+      "postOfficeBoxNumber": "PO Box 396",
+      "addressLocality": "Colbert",
+      "addressRegion": "OK",
+      "postalCode": "74733",
+      "addressCountry": "United States"
+    },
+    "publishes": [
+      { "@type": "CreativeWork", "name": "The Journal of Cultural and Religious Theory", "url": "https://www.jcrt.org/archives/" },
+      { "@type": "CreativeWork", "name": "JCRT Religious Theory Blog", "url": "https://jcrt.org/religioustheory/" },
+      { "@type": "CreativeWork", "name": "The New Polis", "url": "https://thenewpolis.com/" },
+      { "@type": "CreativeWork", "name": "The New Polis Journal", "url": "https://journal.thenewpolis.com/" },
+      { "@type": "CreativeWork", "name": "Esthesis", "url": "https://esthesis.org/" }
+    ],
+    "member": [
+      { "@type": "Person", "name": "Carl Raschke", "url": "https://carlraschke.com/" },
+      { "@type": "Person", "name": "Victor Taylor", "url": "https://www.linkedin.com/in/victor-e-taylor-4911342b/" },
+      { "@type": "Person", "name": "Adam DJ Brett", "url": "https://adamdjbrett.com" }
+    ]
   },
-  "mainEntity": {
+  {
+    "@context": "https://schema.org",
     "@type": "WebSite",
+    "@id": "{{ '/' | absUrl(baseUrl) }}#website",
     "name": "{{ metadata.title }}",
-    "url": "{{ '/' | absUrl(baseUrl) }}"
+    "url": "{{ '/' | absUrl(baseUrl) }}",
+    "publisher": { "@id": "https://thewhitestonefoundation.org/#organization" },
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "{{ '/search/?q={search_term_string}' | absUrl(baseUrl) }}",
+      "query-input": "required name=search_term_string"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Blog",
+    "@id": "{{ '/blog/' | absUrl(baseUrl) }}#blog",
+    "name": "{{ metadata.title }}",
+    "description": "{{ metadata.description }}",
+    "url": "{{ '/' | absUrl(baseUrl) }}",
+    "inLanguage": "{{ metadata.language or 'en' }}",
+    "publisher": { "@id": "https://thewhitestonefoundation.org/#organization" }
   }
-}
+]
 </script>

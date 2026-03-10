@@ -16,16 +16,16 @@ pagination:
 
     {% if pagination.pageNumber == 0 %}
         {% set latestPost = posts[0] %}
-        <section class="latest-featured row g-0 mb-5 shadow-sm border bg-white">
+        <section class="latest-featured row g-0 mb-5 shadow-sm border bg-white h-entry">
             <div class="col-md-7 featured-img-half" 
                  style="background-image: url('{{ latestPost.data.image or metadata.image }}'); min-height: 400px; background-size: cover; background-position: center;">
             </div>
             <div class="col-md-5 p-4 p-lg-5 d-flex flex-column justify-content-center">
                 <span class="text-uppercase text-primary small fw-bold mb-2">Latest Article</span>
                 <h2 class="serif fw-bold mb-3">
-                    <a href="{{ latestPost.url }}" class="text-decoration-none text-dark">{{ latestPost.data.title }}</a>
+                    <a href="{{ latestPost.url }}" class="u-url p-name text-decoration-none text-dark">{{ latestPost.data.title }}</a>
                 </h2>
-                <p class="text-secondary mb-4 small">
+                <p class="p-summary text-secondary mb-4 small">
                     {{ latestPost.data.description | truncate(150) or "Read our latest publication on critical theory and political theology." }}
                 </p>
                 {% set latestAuthors = latestPost.data.author | authorList %}
@@ -33,9 +33,9 @@ pagination:
                     <img src="https://ui-avatars.com/api/?name={{ (latestPost.data.author | primaryAuthor) | urlencode }}&background=000&color=fff" class="rounded-circle me-2" width="35" alt="Author">
                     <span class="small text-muted">By
                         {% for authorName in latestAuthors %}
-                            <a href="/authors/{{ authorName | slugify }}/" class="fw-bold text-dark text-decoration-none">{{ authorName }}</a>{% if not loop.last %}, {% endif %}
+                            <a href="/authors/{{ authorName | slugify }}/" class="p-author h-card fw-bold text-dark text-decoration-none"><span class="p-name">{{ authorName }}</span></a>{% if not loop.last %}, {% endif %}
                         {% endfor %}
-                        &middot; {{ latestPost.date | readableDate }}
+                        &middot; <time class="dt-published" datetime="{{ latestPost.date | date('yyyy-MM-dd') }}">{{ latestPost.date | readableDate }}</time>
                     </span>
                 </div>
                 <a href="{{ latestPost.url }}" class="btn btn-dark btn-sm w-50">Read More</a>
@@ -48,10 +48,10 @@ pagination:
     
     {% for post in currentPosts %}
     <div class="col-md-6 col-lg-4">
-        <div class="card h-100 border-0 shadow-sm bg-white transition-hover">
+        <article class="card h-100 border-0 shadow-sm bg-white transition-hover h-entry">
             <div class="card-img-container" style="height: 200px; overflow: hidden;">
                 <img src="{{ post.data.image or metadata.image }}" 
-                     class="card-img-top w-100 h-100" 
+                     class="card-img-top w-100 h-100 u-photo" 
                      alt="{{ post.data.title }}" 
                      loading="lazy" 
                      style="object-fit: cover; transition: transform 0.5s ease;">
@@ -64,11 +64,11 @@ pagination:
                 </span>
                 {% endif %}
                 <h5 class="card-title serif fw-bold mb-3">
-                    <a href="{{ post.url }}" class="text-decoration-none text-dark stretched-link">
+                    <a href="{{ post.url }}" class="u-url p-name text-decoration-none text-dark stretched-link">
                         {{ post.data.title }}
                     </a>
                 </h5>
-               <p class="card-text small text-muted mb-4" style="display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;">
+               <p class="p-summary card-text small text-muted mb-4" style="display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;">
                     {{ post.data.description or post.templateContent | striptags | truncate(120) }}
                 </p>
                 <div class="mt-auto pt-3 border-top">
@@ -79,14 +79,14 @@ pagination:
                         {% if post.data.author %}
                         <small class="text-dark fw-bold" style="font-size: 0.75rem;">
                             {% for authorName in post.data.author | authorList %}
-                                <a href="/authors/{{ authorName | slugify }}/" class="text-dark text-decoration-none">{{ authorName }}</a>{% if not loop.last %}, {% endif %}
+                                <a href="/authors/{{ authorName | slugify }}/" class="p-author h-card text-dark text-decoration-none"><span class="p-name">{{ authorName }}</span></a>{% if not loop.last %}, {% endif %}
                             {% endfor %}
                         </small>
                         {% endif %}
                     </div>
                 </div>
             </div>
-        </div>
+        </article>
     </div>
     {% endfor %}
 </div>

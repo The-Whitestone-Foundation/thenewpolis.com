@@ -34,6 +34,7 @@ navbar:
    url: /submissions/
 
 footer: 
-  text: "Copyright The Whitestone Foundation dba The New Polis. All Rights Reserved."
+  text: "Copyright The Whitestone Foundation dba Whitestone Publications. All Rights Reserved."
   year_start: 2018
   info: "A WHITESTONE FOUNDATION PUBLICATION"
+  url: https://thewhitestonefoundation.org/

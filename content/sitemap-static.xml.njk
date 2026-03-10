@@ -7,11 +7,29 @@ eleventyExcludeFromCollections: true
   {% set baseUrl = metadata.url | baseUrl %}
   <!-- PDF Documents -->
   {%- for doc in collections.all %}
-  {%- if doc.url and doc.url.startsWith("/docs/") %}
+  {%- if (doc.url and (doc.url.endsWith(".pdf") or doc.url.startsWith("/docs/"))) or doc.data.pdf %}
   <url>
-    <loc>{{ doc.url | absUrl(baseUrl) }}</loc>
+    <loc>{{ (doc.data.pdf or doc.url) | absUrl(baseUrl) }}</loc>
     <changefreq>never</changefreq>
     <priority>0.4</priority>
+  </url>
+  {%- endif %}
+  {%- endfor %}
+
+  <!-- Images -->
+  {%- for item in collections.all %}
+  {%- if item.data and item.data.image %}
+  <url>
+    <loc>{{ item.data.image | absUrl(baseUrl) }}</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  {%- endif %}
+  {%- if item.url and (item.url.endsWith(".png") or item.url.endsWith(".jpg") or item.url.endsWith(".jpeg") or item.url.endsWith(".webp") or item.url.endsWith(".gif") or item.url.endsWith(".svg")) %}
+  <url>
+    <loc>{{ item.url | absUrl(baseUrl) }}</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
   </url>
   {%- endif %}
   {%- endfor %}

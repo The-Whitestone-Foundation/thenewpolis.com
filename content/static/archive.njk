@@ -63,13 +63,26 @@ permalink: /archive/
                                 </h5>
                                 <ul class="list-unstyled ms-3">
                                     {%- for post in monthPosts | reverse -%}
-                                    <li class="mb-2 d-flex justify-content-between align-items-baseline border-bottom-dashed pb-1">
-                                        <a href="{{ post.url }}" class="text-decoration-none text-dark hover-maroon">
-                                            {{ post.data.title }}
-                                        </a>
-                                        <small class="text-muted ms-3 text-nowrap font-monospace" style="font-size: 0.75rem;">
-                                            {{ post.date | readableDate }}
-                                        </small>
+                                    <li class="mb-2 border-bottom-dashed pb-1 h-entry">
+                                        <a class="u-url d-none" href="{{ post.url }}">{{ post.url | absUrl(metadata.url) }}</a>
+                                        <div class="d-flex justify-content-between align-items-baseline">
+                                            <a href="{{ post.url }}" class="text-decoration-none text-dark hover-maroon p-name">
+                                                {{ post.data.title }}
+                                            </a>
+                                            <small class="text-muted ms-3 text-nowrap font-monospace" style="font-size: 0.75rem;">
+                                                <time class="dt-published" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+                                            </small>
+                                        </div>
+                                        {% if post.data.author %}
+                                        <div class="small text-muted mt-1">
+                                            {% for authorName in post.data.author | authorList %}
+                                                <a href="/authors/{{ authorName | slugify }}/" class="p-author h-card text-decoration-none text-muted">
+                                                    <span class="p-name">{{ authorName }}</span>
+                                                    <span class="u-url d-none">{{ ('/authors/' ~ (authorName | slugify) ~ '/') | absUrl(metadata.url) }}</span>
+                                                </a>{% if not loop.last %}, {% endif %}
+                                            {% endfor %}
+                                        </div>
+                                        {% endif %}
                                     </li>
                                     {%- endfor -%}
                                 </ul>

@@ -13,17 +13,17 @@ permalink: /authors/
     <div class="row g-4">
         {% for author in collections.authorPages %}
         <div class="col-md-4 col-sm-6">
-            <div class="card text-center p-4 h-100 border shadow-sm bg-white transition-hover">
+            <div class="card text-center p-4 h-100 border shadow-sm bg-white transition-hover h-card">
                 <img src="{{ author.image or '/images/thenewpolis-logo.png' }}" 
-                     class="rounded-circle mb-3 shadow-sm mx-auto" 
+                     class="u-photo rounded-circle mb-3 shadow-sm mx-auto" 
                      width="120" height="120" alt="{{ author.name }}">
                 
-                <h4 class="serif fw-bold mb-1">{{ author.name }}</h4>
-                <p class="small text-muted mb-3 text-uppercase fw-bold" style="letter-spacing: 1px;">Contributor</p>
-                <p class="small text-secondary mb-4">
+                <h4 class="serif fw-bold mb-1 p-name">{{ author.name }}</h4>
+                <p class="small text-muted mb-3 text-uppercase fw-bold p-org" style="letter-spacing: 1px;">Contributor</p>
+                <p class="small text-secondary mb-4 p-note">
                     {{ author.bio | truncate(100) or "Contributor to The New Polis." }}
                 </p>
-                <a href="{{ author.url }}" class="btn btn-outline-dark btn-sm px-4 stretched-link">View Profile</a>
+                <a href="{{ author.url }}" class="u-url btn btn-outline-dark btn-sm px-4 stretched-link">View Profile</a>
             </div>
         </div>
         {% endfor %}

@@ -33,7 +33,29 @@
 	content="{{ metadata.metasocial.twitteruser }}"
 	property="twitter:author"
 />
-<meta property="dc:creator" content="{{ metadata.author.name }}" />
+<meta property="dc:creator" content="{{ metadata.author.name or metadata.author or metadata.title }}" />
+{% set dcPublisher = metadata.author.name or metadata.author or metadata.title %}
+{% set dcDescription = description or metadata.description %}
+{% set pageTags = tags or [] %}
+{% set pageDate = date or page.date %}
+{# Dublin Core base #}
+<meta property="dc:publisher" content="{{ dcPublisher }}" />
+<meta property="dc:language" content="en" />
+<meta property="dc:format" content="text/html" />
+<meta property="dc:rights" content="Copyright {{ dcPublisher }}. {{ metadata.url }}/copyright/" />
+{# Dublin Core per-page #}
+{% if pageDate %}<meta property="dc:date" content="{{ pageDate | isoDate }}" />{% endif %}
+<meta property="dc:type" content="{{ 'article' if pageTags.length else 'text' }}" />
+<meta property="dc:identifier" content="{{ page.url | absUrl(baseUrl) }}" />
+{% if dcDescription %}<meta property="dc:description" content="{{ dcDescription }}" />{% endif %}
+{% for tag in pageTags %}
+  {% if tag != "posts" and tag != "pages" %}
+<meta property="dc:subject" content="{{ tag }}" />
+  {% endif %}
+{% endfor %}
+{% if metadata.metasocial.mastodon %}
+<meta name="fediverse:creator" content="{{ metadata.metasocial.mastodon }}" />
+{% endif %}
 <meta content="{{ metadata.metasocial.twitter }}" name="twitter:site" />
 <meta property="og:type" content="website" />
 <meta content="index, follow" name="robots">
@@ -43,6 +65,7 @@
 <link rel="alternate" href="{{ '/feed/feed.rss' | absUrl(baseUrl) }}" type="application/rss+xml" title="{{ metadata.title }} RSS Feed" />
 <link rel="alternate" href="{{ '/feed/feed.json' | absUrl(baseUrl) }}" type="application/feed+json" title="{{ metadata.title }} JSON Feed" />
 <link rel="alternate" href="{{ '/feed/twtxt.txt' | absUrl(baseUrl) }}" type="text/plain" title="{{ metadata.title }} twtxt Feed" />
+<link rel="alternate" href="{{ '/feed/firehose.xml' | absUrl(baseUrl) }}" type="application/atom+xml" title="{{ metadata.title }} Firehose" />
 <meta name="language" content="{{ metadata.language }}" />
 <meta name="locale" content="{{ metadata.locale }}" />
 <meta property="og:locale" content="{{ metadata.locale }}" />

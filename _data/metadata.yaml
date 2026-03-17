@@ -9,9 +9,10 @@ email: hello@thenewpolis.com
 timezone: America/New_York
 
 metasocial: 
-  twitter: "https://x.com/user"
-  tweettwitteruser: "@user"
-  facebook: "https://fb.com/user"
+  twitter: "https://x.com/jourculreltheor"
+  twitteruser: "@jourculreltheor"
+  facebook: "https://www.facebook.com/religioustheory"
+  mastodon: "@jcrt@mastodon.social"
 
 hero: 
   title: THE NEW POLIS

@@ -5,9 +5,8 @@
   "scripts": {
     "start": "npx @11ty/eleventy --serve --incremental",
     "dev": "npx @11ty/eleventy --serve --incremental",
-    "build": "npx @11ty/eleventy",
+    "build": "npx @11ty/eleventy && npx pagefind --site _site --glob \"**/*.html\"",
     "build:search": "npx pagefind --site _site --glob \"**/*.html\"",
-    "build:full": "npm run build && npm run build:search",
     "convert": "node scripts/convert-wp-archive.js"
   },
   "dependencies": {

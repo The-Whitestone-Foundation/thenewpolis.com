@@ -10,7 +10,7 @@
     "convert": "node scripts/convert-wp-archive.js"
   },
   "dependencies": {
-    "@11ty/eleventy": "3.1.2",
+    "@11ty/eleventy": "^3.1.6",
     "@zachleat/heading-anchors": "github:zachleat/heading-anchors",
     "cheerio": "^1.2.0",
     "eleventy-plugin-toc": "^1.1.5",
@@ -25,5 +25,10 @@
   },
   "devDependencies": {
     "cross-env": "^10.1.0"
-  }
+  },
+  "engines": {
+    "node": ">=24",
+    "npm": ">=11.14.0"
+  },
+  "packageManager": "npm@11.14.0"
 }

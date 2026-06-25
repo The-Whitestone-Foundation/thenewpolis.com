@@ -35,6 +35,7 @@
 />
 <meta property="dc:creator" content="{{ metadata.author.name or metadata.author or metadata.title }}" />
 {% set dcPublisher = metadata.author.name or metadata.author or metadata.title %}
+{% set dcPublisher = metadata.publisher or "Whitestone Publications" %}
 {% set dcDescription = description or metadata.description %}
 {% set pageTags = tags or [] %}
 {% set pageDate = date or page.date %}
@@ -56,6 +57,27 @@
 {% if metadata.metasocial.mastodon %}
 <meta name="fediverse:creator" content="{{ metadata.metasocial.mastodon }}" />
 {% endif %}
+{% set standardSiteEnabled = metadata.standard_site and metadata.standard_site.enabled %}
+{% set standardSitePublicationAtUri = metadata.standard_site.publication_at_uri if standardSiteEnabled else "" %}
+{% set standardSiteDocumentAtUri = "" %}
+{% if standardSiteEnabled and standardSiteRecords and page and page.url %}
+  {% set standardSiteDocumentAtUri = standardSiteRecords[page.url] %}
+{% endif %}
+{% if standardSiteDocumentAtUri %}
+<link rel="site.standard.document" href="{{ standardSiteDocumentAtUri }}" />
+{% endif %}
+{% if standardSitePublicationAtUri %}
+<link rel="site.standard.publication" href="{{ standardSitePublicationAtUri }}" />
+{% endif %}
+{% if pageDate and page.url and page.url != "/" %}
+<meta property="zotero:itemType" content="blogPost" />
+<meta name="prism.genre" content="blogentry" />
+<meta name="prism.publicationName" content="{{ metadata.title }}" />
+<meta name="citation_author" content="{{ author or metadata.author.name or metadata.title }}" />
+<meta name="citation_publication_date" content="{{ pageDate | isoDate }}" />
+<meta name="citation_public_url" content="{{ page.url | absUrl(baseUrl) }}" />
+<meta name="citation_language" content="{{ metadata.language or 'en' }}" />
+{% endif %}
 <meta content="{{ metadata.metasocial.twitter }}" name="twitter:site" />
 <meta property="og:type" content="website" />
 <meta content="index, follow" name="robots">
@@ -66,6 +88,10 @@
 <link rel="alternate" href="{{ '/feed/feed.json' | absUrl(baseUrl) }}" type="application/feed+json" title="{{ metadata.title }} JSON Feed" />
 <link rel="alternate" href="{{ '/feed/twtxt.txt' | absUrl(baseUrl) }}" type="text/plain" title="{{ metadata.title }} twtxt Feed" />
 <link rel="alternate" href="{{ '/feed/firehose.xml' | absUrl(baseUrl) }}" type="application/atom+xml" title="{{ metadata.title }} Firehose" />
+<link rel="alternate" href="{{ '/feed/philpapers.xml' | absUrl(baseUrl) }}" type="application/rss+xml" title="{{ metadata.title }} PhilPapers RSS" />
+<link rel="alternate" href="{{ '/sitemaps/datacite.xml' | absUrl(baseUrl) }}" type="application/xml" title="{{ metadata.title }} DataCite XML" />
+<link rel="alternate" href="{{ '/sitemaps/oai_dc.xml' | absUrl(baseUrl) }}" type="application/xml" title="{{ metadata.title }} OAI-DC XML" />
+<link rel="alternate" href="{{ '/sitemaps/doaj-archives.xml' | absUrl(baseUrl) }}" type="application/xml" title="{{ metadata.title }} DOAJ Archives XML" />
 <meta name="language" content="{{ metadata.language }}" />
 <meta name="locale" content="{{ metadata.locale }}" />
 <meta property="og:locale" content="{{ metadata.locale }}" />

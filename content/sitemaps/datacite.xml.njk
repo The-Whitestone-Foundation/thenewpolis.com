@@ -1,0 +1,22 @@
+---
+permalink: /sitemaps/datacite.xml
+eleventyExcludeFromCollections: true
+layout: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+{% set baseUrl = metadata.url | baseUrl %}
+<resources xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 https://schema.datacite.org/meta/kernel-4.5/metadata.xsd">
+{% for post in collections.posts or [] %}
+  <resource>
+    <identifier identifierType="URL">{{ post.url | absUrl(baseUrl) }}</identifier>
+    <creators><creator><creatorName>{{ (post.data.author or metadata.title) | escape }}</creatorName></creator></creators>
+    <titles><title>{{ post.data.title | escape }}</title></titles>
+    <publisher>Whitestone Publications</publisher>
+    <publicationYear>{{ post.date | date("yyyy") }}</publicationYear>
+    <resourceType resourceTypeGeneral="Text">Article</resourceType>
+    <dates><date dateType="Issued">{{ post.date | isoDate }}</date></dates>
+    <language>{{ metadata.language or "en" }}</language>
+    {% if post.data.description %}<descriptions><description descriptionType="Abstract">{{ post.data.description | escape }}</description></descriptions>{% endif %}
+  </resource>
+{% endfor %}
+</resources>

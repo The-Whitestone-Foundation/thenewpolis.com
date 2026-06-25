@@ -1,0 +1,30 @@
+---
+permalink: /sitemaps/oai_dc.xml
+eleventyExcludeFromCollections: true
+layout: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+{% set baseUrl = metadata.url | baseUrl %}
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ https://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>{{ page.date | isoDate }}</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc">{{ '/sitemaps/oai_dc.xml' | absUrl(baseUrl) }}</request>
+  <ListRecords>
+  {% for post in collections.posts or [] %}
+    <record>
+      <header><identifier>{{ post.url | absUrl(baseUrl) }}</identifier><datestamp>{{ post.date | isoDate }}</datestamp></header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ https://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>{{ post.data.title | escape }}</dc:title>
+          <dc:creator>{{ (post.data.author or metadata.title) | escape }}</dc:creator>
+          <dc:publisher>Whitestone Publications</dc:publisher>
+          <dc:date>{{ post.date | isoDate }}</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:identifier>{{ post.url | absUrl(baseUrl) }}</dc:identifier>
+          <dc:language>{{ metadata.language or "en" }}</dc:language>
+          {% if post.data.description %}<dc:description>{{ post.data.description | escape }}</dc:description>{% endif %}
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  {% endfor %}
+  </ListRecords>
+</OAI-PMH>

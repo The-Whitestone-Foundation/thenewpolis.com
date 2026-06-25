@@ -7,12 +7,37 @@ favicon: /images/thenewpolis-logo.png
 url: https://thenewpolis.com
 email: hello@thenewpolis.com
 timezone: America/New_York
+publisher: "Whitestone Publications"
+standard_site:
+  enabled: true
+  did: "did:plc:e24okfpxr7ctcbmruijop5gp"
+  publication_at_uri: "at://did:plc:e24okfpxr7ctcbmruijop5gp/site.standard.publication/REPLACE_WITH_NEW_POLIS_PUBLICATION_RKEY"
+  name: "The New Polis"
+  url: "https://thenewpolis.com"
+  description: "Critical theory, social analysis, and political philosophy and theology."
+knowledge_graph:
+  organization_id: "https://thewhitestonefoundation.org/#organization"
+  publications_id: "https://thewhitestonefoundation.org/#publications"
+  website_id: "https://thenewpolis.com/#website"
+  primary_type: "Blog"
+  publisher_id: "https://thewhitestonefoundation.org/#organization"
+  same_as:
+    - "https://jcrt.org/"
+    - "https://www.facebook.com/religioustheory"
+    - "https://www.instagram.com/JCRT_DU1"
+    - "https://mastodon.social/@jcrt"
+    - "https://bsky.app/profile/jcrt.org"
+    - "https://journal.thenewpolis.com/"
+    - "https://thenewpolis.com/"
+    - "https://esthesis.org/"
+    - "https://www.youtube.com/@whitestonepublications6661"
 
 metasocial: 
   twitter: "https://x.com/jourculreltheor"
   twitteruser: "@jourculreltheor"
   facebook: "https://www.facebook.com/religioustheory"
   mastodon: "@jcrt@mastodon.social"
+  bluesky: "https://bsky.app/profile/jcrt.org"
 
 hero: 
   title: THE NEW POLIS

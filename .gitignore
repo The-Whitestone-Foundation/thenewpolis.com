@@ -1,6 +1,8 @@
 _site/
 node_modules/
-scripts/
+scripts/*
+!scripts/build-sequoia-content.mjs
+.sequoia/content/
 .DS_Store
 *.log
 .env

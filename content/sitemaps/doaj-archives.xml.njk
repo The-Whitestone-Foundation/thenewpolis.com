@@ -1,0 +1,20 @@
+---
+permalink: /sitemaps/doaj-archives.xml
+eleventyExcludeFromCollections: true
+layout: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+{% set baseUrl = metadata.url | baseUrl %}
+<records>
+{% for post in collections.posts or [] %}
+  <record>
+    <publisher>Whitestone Publications</publisher>
+    <journal_title>{{ metadata.title | escape }}</journal_title>
+    <article_title>{{ post.data.title | escape }}</article_title>
+    <publication_date>{{ post.date | isoDate }}</publication_date>
+    <url>{{ post.url | absUrl(baseUrl) }}</url>
+    <language>{{ metadata.language or "en" }}</language>
+    {% if post.data.description %}<abstract>{{ post.data.description | escape }}</abstract>{% endif %}
+  </record>
+{% endfor %}
+</records>

@@ -1,0 +1,14 @@
+---
+permalink: /_headers
+layout: null
+eleventyExcludeFromCollections: true
+---
+{% set siteUrl = metadata.url | baseUrl %}
+{% for post in collections.posts %}
+{{ post.url }}
+  Link: <{{ post.url | absUrl(siteUrl) }}metadata.json>; rel="describedby"; type="application/ld+json"; profile="https://schema.org/"
+  Link: <{{ post.url | absUrl(siteUrl) }}>; rel="cite-as"
+  Link: <https://schema.org/BlogPosting>; rel="type"
+{{ post.url }}metadata.json
+  Content-Type: application/ld+json
+{% endfor %}

@@ -77,6 +77,7 @@ export default async function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "public/images": "images" });
   eleventyConfig.addPassthroughCopy({ "public/docs": "docs" });
   eleventyConfig.addPassthroughCopy({ "public/site.webmanifest": "site.webmanifest" });
+  eleventyConfig.addPassthroughCopy({ "public/_headers": "_headers" });
   eleventyConfig.addPassthroughCopy({
     "node_modules/@zachleat/heading-anchors/heading-anchors.js": "js/heading-anchors.js"
   });

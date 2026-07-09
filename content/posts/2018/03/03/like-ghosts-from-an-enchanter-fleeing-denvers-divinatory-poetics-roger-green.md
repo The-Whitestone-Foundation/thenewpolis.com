@@ -424,7 +424,7 @@ Sikelianos’s work is both more immanent and less abstract than Saterstrom and 
 > 
 > The thing was for my wrists.
 
-![](/images/wp-content/uploads/2018/03/Unknown-3.jpeg)Although having a Latin etymology in the verb, *facere* (to make), the English word, ‘fetish’ is directly derived from a colonial trading relationship with South America and the Caribbean, coming from the Portuguese word, *feitiço*.  Marx drew his concept of the “commodity fetish” from Charles de Brosses 1760 book, *Du culte des dieux fétiches*. That materiality had much to do with cultural misunderstandings Europeans made of African slaves.  Although coy and slightly kinky here, Sikelianos’s poems often present an edge of cruel optimism.
+![](/images/missing_images/Unknown-3.webp)Although having a Latin etymology in the verb, *facere* (to make), the English word, ‘fetish’ is directly derived from a colonial trading relationship with South America and the Caribbean, coming from the Portuguese word, *feitiço*.  Marx drew his concept of the “commodity fetish” from Charles de Brosses 1760 book, *Du culte des dieux fétiches*. That materiality had much to do with cultural misunderstandings Europeans made of African slaves.  Although coy and slightly kinky here, Sikelianos’s poems often present an edge of cruel optimism.
 
 ***Conclusion:***  הנה אני
 

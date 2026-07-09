@@ -148,7 +148,7 @@ As Federman writes, “Yes but the *potatoes* the raw / *potatoes* on the tr
 
 The line breaking produced through repetitions of words. The bold “**remember?**” is an early indicator of the signification for vocal interruption we see constantly in *SHHH*.  Down the right side of the page he writes, “And I followed my shadow.”  The same self-conscious deliberation about what stories to tell in this particular book and ideas for more books document a process of creative generation. It is funny but quickly turns tragic with “*The Starvation Comedy*.”  Later in the book he tells the story of his gambling, framing the narrative with the hand of cards:
 
-![](/images/wp-content/uploads/2018/12/img_1398-300x225.jpg)
+![](/images/missing_images/img_1398.webp)
 
 The formal experimentation goes on and on.  At times, the playfulness carries over into exhaustion.  Exhaustion and absurdity is certainly something Federman gets from Samuel Beckett, on whom Federman wrote his dissertation.  But I would argue that his materialistic treatment of text, his attention to its graphic production, combined with his resistance to literary styles considered flowery and bourgeois – an extension of Roland Barthes’s *Writing Degree Zero* – speaks to a particularly Jewish sensibility he brings to the text, not as religion but as the critique of sidereal desire that Blanchot calls “religious and nostalgic.”
 

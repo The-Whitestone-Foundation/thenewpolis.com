@@ -3,7 +3,7 @@ title: "Decoloniality And Disintegration Of Western Cognitive Empire – Rethink
 date: 2021-01-12T16:44:42+00:00
 author: Roger Green
 permalink: /2021/01/12/decoloniality-and-disintegration-of-western-cognitive-empire-rethinking-sovereignty-territoriality-in-the-21st-century-conference-announcement/
-image: /images/wp-content/uploads/2021/01/Sacsayhuama%CC%81n_Cusco_Peru%CC%81_2015-07-31_DD_27.jpg
+image: /images/missing_images/Sacsayhuama%CC%81n,_Cusco,_Peru%CC%81,_2015-07-31,_DD_27.webp
 
 categories:
   - announcements

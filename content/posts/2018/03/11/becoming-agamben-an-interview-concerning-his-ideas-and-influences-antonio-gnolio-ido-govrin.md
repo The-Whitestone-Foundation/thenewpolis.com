@@ -60,7 +60,7 @@ Cahiers at the Tschann bookstore in Montparnasse. I remained so dazzled by it t
 
 **AG:** Debt is a powerful word.
 
-![](/images/wp-content/uploads/2018/03/agamben-300x225.jpg)
+![](/images/missing_images/agamben-300x225.webp)
 
 Giorgio Agamben
 

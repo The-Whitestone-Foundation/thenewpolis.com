@@ -171,7 +171,7 @@ In non-scholarly terms, we might refer to “Donald J. Trump’s Miracle.” Wha
 
 Let’s look at a couple of images. This first one, I pull from an *[L.A. Times](https://www.latimes.com/california/story/2020-10-30/lancaster-city-favors-trump-biden-wins-over-some)* [article](https://www.latimes.com/california/story/2020-10-30/lancaster-city-favors-trump-biden-wins-over-some) the week before the November election.
 
-![](/images/wp-content/uploads/2021/01/images-4.jpeg)
+![](/images/missing_images/images-4.webp)
 
 This next image, I pull from an article on religionunplugged.com titled, “[The History Behind The Christian Flags Spotted At The Pro-Trump U.S. Capitol ‘Coup](https://religionunplugged.com/news/2021/1/6/some-history-behind-the-christian-flags-at-the-pro-trump-capitol-coup).'” It was a quick find, but there are plenty of images and signs that include POTUS 45’s name explicitly, including flags like the image above.
 

@@ -70,7 +70,7 @@ The critical danger of enframing as a worldview is the threat “that everything
 
 *Poiēsis* and *technē* are active processes that we initiate, but what is available to us in this situation is determined by what Heidegger calls *geschick*. The term *geschick* is often translated as ‘fate’ or ‘destining’ as derived from Heidegger’s own translation as “to send” (329). As he defines it, destining is when something is projected “into objectifying representation” that allows a concept to become part of history via *poiēsis* (329-30). There is an almost fatalistic view at work here, but when one digs into the nuance of this German term, a stunning constellation of meaning arises.
 
-![](/images/wp-content/uploads/2018/11/CraftFig4-1024x946.webp)
+![](/images/missing_images/CraftFig4-1024x946.webp)
 
 An etymological diagram of the term geschick.
 
@@ -86,7 +86,7 @@ One must find a path within those conditions that results in a well-made object 
 
 In the wake of de-objectification, contemporary art has slipped into fatalism as evidenced by the many reactionary approaches to the ills of capitalism. When artists make anti-capitalist works—those designed to not only critique the system but for total incompatibility with it—they tacitly assert that its flaws can only be avoided by abolishing the system altogether.
 
-![](/images/wp-content/uploads/2018/11/CraftFig5-282x300.webp)
+![](/images/missing_images/CraftFig5-282x300.webp)
 
 Untitled anti-capitalist graffito, c.2014
 
@@ -100,7 +100,7 @@ Over time, capitalism has become a hot topic of critical analysis within the art
 
 Financial capitalism has taken commodity fetishism to new heights which, on several occasions, led to the near or total collapse of national economies. It can seem as though little has changed since Heidegger identified the dangers of enframing. His revelation of how it dehumanizes and subjugates the world into a realm of hyper-abstraction did not begin an outright eradication of such harmful behavior. If anything, the growth of financial capitalism and the reach of contemporary globalization has pointed to just how integral enframing has been to neoliberal capitalism.
 
-![](/images/wp-content/uploads/2018/11/CraftAppendix-719x1024.jpg)It can seem as though little has changed, but that is far from the reality of things. Capitalism is not a monolith with an easily described nature. It is a tool, an invention to be wielded towards ethical or unethical goals. Since the dawn of capitalism some 500 years ago, our lives are longer, our health is better, our livelihoods are more stable, and our level of connectivity with others has reached an intensity never before seen. Granted, there are still major problems to address.
+![](/images/missing_images/CraftAppendix-719x1024.webp)It can seem as though little has changed, but that is far from the reality of things. Capitalism is not a monolith with an easily described nature. It is a tool, an invention to be wielded towards ethical or unethical goals. Since the dawn of capitalism some 500 years ago, our lives are longer, our health is better, our livelihoods are more stable, and our level of connectivity with others has reached an intensity never before seen. Granted, there are still major problems to address.
 
 Some regions of the world have not reaped the same benefits as others. Wars fueled by hatred and greed are still waged. The exploitation of people and the natural world for profit continues. The rising suspicion of expertise and the disturbing increase of hateful populist rhetoric casts a bleak future in the wake of this capitalist experiment.
 

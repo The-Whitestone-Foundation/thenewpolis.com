@@ -3,7 +3,7 @@ title: "Dissolving The I In The We – Love And The Problem of Community, Part 1
 date: 2018-04-09T23:49:21+00:00
 author: Daniel Tutt
 permalink: /2018/04/09/dissolving-the-i-in-the-we-love-and-the-problem-of-community-part-1-daniel-tutt/
-image: /images/wp-content/uploads/2018/04/Style-IMG_0286-Drip-Painting-0.4MP-2.jpg
+image: /images/wp-content/uploads/2018/04/Style-IMG_0286-Drip-Painting-0.4MP-2.webp
 
 categories:
   - political-philosophy

@@ -3,7 +3,7 @@ title: "Critical Conversations 5 – American Indian Worldview And The Twinned C
 date: 2021-01-19T05:25:24+00:00
 author: Roger Green
 permalink: /2021/01/19/critical-conversations-5-american-indian-worldview-and-the-twinned-cosmos-of-indigenous-america-transcript-barbara-alice-mann-onondawaga-bear-clan-and-tink-tinker-wazhazhe-osage-nation/
-image: /images/wp-content/uploads/2021/01/bb4e01e6-af44-413d-8519-3c930cd32db3.jpeg
+image: /images/wp-content/uploads/2021/01/bb4e01e6-af44-413d-8519-3c930cd32db3.webp
 
 categories:
   - doctrine-of-discovery-and-domination

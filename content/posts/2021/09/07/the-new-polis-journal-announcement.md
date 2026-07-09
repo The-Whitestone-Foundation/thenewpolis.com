@@ -3,7 +3,7 @@ title: "The New Polis Journal (Announcement)"
 date: 2021-09-07T23:49:48+00:00
 author: thenewpolis
 permalink: /2021/09/07/the-new-polis-journal-announcement/
-image: /images/wp-content/uploads/2021/09/Screen-Shot-2021-09-07-at-6.21.39-PM.png
+image: /images/wp-content/uploads/2021/09/Screen-Shot-2021-09-07-at-6.21.39-PM.webp
 
 categories:
   - announcements

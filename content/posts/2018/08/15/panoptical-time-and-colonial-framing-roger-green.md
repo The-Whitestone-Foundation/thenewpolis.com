@@ -3,7 +3,7 @@ title: "Panoptical Time and Colonial Framing (Roger Green)"
 date: 2018-08-15T18:02:29+00:00
 author: Roger Green
 permalink: /2018/08/15/panoptical-time-and-colonial-framing-roger-green/
-image: /images/wp-content/uploads/2023/07/October-revolution.png
+image: /images/wp-content/uploads/2023/07/October-revolution.webp
 
 categories:
   - indigenous-theory
@@ -53,7 +53,7 @@ While Lacanians might argue against McClintock’s gendered reading of Lacan�
 
 I am just as skeptical of claims that [Mormon women’s book clubs that read the S/M light book, Fifty Shades of Grey](https://www.the-exponent.com/50-shades-of-grey-book-club/), are “liberating” as I am of the translations of the colonial-Freudian narrative of [*Where the Wild Things Are into Mayan*](https://remezcla.com/culture/maurice-sendaks-where-the-wild-things-are-gets-a-mayan-translation/) so as to “protect” Spanish-Mayan speakers against the intergenerational linguistic divides that threaten indigenous languages.  Nevertheless, I am compelled by McClintock’s situated psychoanalytic reading with respect to Christianity.   
 
-![](/images/wp-content/uploads/2018/08/a06n1cul-1-1-300x234.jpg)
+![](/images/wp-content/uploads/2018/08/a06n1cul-1-1-300x234.webp)
 
 For McClintock, fetishism eventually comes to be the performative site of “panoptic” or “anachronistic” that created new liminalities as “a formative element of the Enlightenment project” (188).  She thus reads the Freudian-Lacanian method as both an imperial superimposition of the family as well as a “secularized” superimposition of Judeo-Christianity: 
 

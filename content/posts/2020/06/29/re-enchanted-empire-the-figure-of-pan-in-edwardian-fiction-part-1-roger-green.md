@@ -3,7 +3,7 @@ title: "Re-enchanted Empire — The Figure Of Pan In Edwardian Fiction, Part 1 (
 date: 2020-06-29T15:21:35+00:00
 author: Roger Green
 permalink: /2020/06/29/re-enchanted-empire-the-figure-of-pan-in-edwardian-fiction-part-1-roger-green/
-image: /images/wp-content/uploads/2020/06/idea_SIZED-royal-museum-greenwich-11833679286_73f249719e_o.jpg
+image: /images/wp-content/uploads/2020/06/idea_SIZED-royal-museum-greenwich-11833679286_73f249719e_o.webp
 
 categories:
   - literary-history
@@ -18,7 +18,7 @@ In my [previous post](/2020/05/27/some-notes-on-blanchot-and-disaster-roger-gree
 
 The god, goat-god, or demigod, Pan, makes many appearances in late Victorian and Edwardian literature.  His most well-known appearances occur in children’s literature, where Pan signifies much more adult-oriented themes in Edwardian nostalgia, or homesickness, for Romantic youth.  It is eerily fitting that this figure would be expressed during the period of the British Empire’s widest breadth.
 
-![](/images/wp-content/uploads/2020/06/images-5.jpeg)
+![](/images/wp-content/uploads/2020/06/images-5.webp)
 
 Especially intriguing is the way Pan codes adult themes as they become associated with literature directed at children. Such literature, we know, is both produced and consumed by adults, making it an extraordinary genre expressing social desire. As an emergent genre during the period, it is quite interesting that many books regarded as children’s “classics” from “the golden age of children’s literature,” such as Mark Twain’s *The Adventures of Tom Sawyer* (1876), were not written with an audience of children in mind.
 

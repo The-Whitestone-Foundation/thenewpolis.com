@@ -3,7 +3,7 @@ title: "From The Sexual Revolution To The Politics Of Recognition – The Legacy
 date: 2018-05-04T16:20:12+00:00
 author: Carl Raschke
 permalink: /2018/05/04/from-the-sexual-revolution-to-the-politics-of-recognition-the-legacy-of-may-1968-carl-raschke/
-image: /images/wp-content/uploads/2018/05/Liberte.jpg
+image: /images/wp-content/uploads/2018/05/Liberte.webp
 
 categories:
   - political-history

@@ -3,7 +3,7 @@ title: "The New Polis Is Now Also A Peer-Reviewed Academic Journal (Announcement
 date: 2022-02-10T04:58:24+00:00
 author: thenewpolis
 permalink: /2022/02/10/the-new-polis-is-now-also-a-peer-reviewed-academic-journal-announcement/
-image: /images/wp-content/uploads/2022/02/Screen-Shot-2022-02-09-at-9.04.42-PM.png
+image: /images/wp-content/uploads/2022/02/Screen-Shot-2022-02-09-at-9.04.42-PM.webp
 
 categories:
   - announcements

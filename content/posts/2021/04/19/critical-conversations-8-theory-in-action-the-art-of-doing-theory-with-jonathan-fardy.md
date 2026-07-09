@@ -3,7 +3,7 @@ title: "Critical Conversations 8 – Theory In Action – The Art Of “Doing”
 date: 2021-04-19T20:21:22+00:00
 author: Jonathan Fardy
 permalink: /2021/04/19/critical-conversations-8-theory-in-action-the-art-of-doing-theory-with-jonathan-fardy/
-image: /images/wp-content/uploads/2021/04/Eclipse_in_the_Key_of_String_Theory.jpg
+image: /images/wp-content/uploads/2021/04/Eclipse_in_the_Key_of_String_Theory.webp
 
 categories:
   - art-theory

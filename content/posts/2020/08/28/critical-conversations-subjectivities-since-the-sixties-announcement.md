@@ -3,7 +3,7 @@ title: "Critical Conversations -“Subjectivities Since The Sixties” (Announce
 date: 2020-08-28T14:18:51+00:00
 author: thenewpolis
 permalink: /2020/08/28/critical-conversations-subjectivities-since-the-sixties-announcement/
-image: /images/wp-content/uploads/2020/08/man-male-tshirt-fashion.jpg
+image: /images/wp-content/uploads/2020/08/man-male-tshirt-fashion.webp
 
 categories:
   - announcements

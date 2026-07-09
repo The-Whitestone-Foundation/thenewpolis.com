@@ -3,7 +3,7 @@ title: "Meditations On Aesthetics In The Wake Of The 2019 State Of The Union Add
 date: 2019-02-12T01:24:44+00:00
 author: Roger Green
 permalink: /2019/02/12/meditations-on-aesthetics-in-the-wake-of-the-2019-state-of-the-union-address-roger-k-green/
-image: /images/wp-content/uploads/2019/02/Painting-of-Andrew-Jacksons-Rowdy-Party.jpg
+image: /images/wp-content/uploads/2019/02/Painting-of-Andrew-Jacksons-Rowdy-Party.webp
 
 categories:
   - art-theory
@@ -131,7 +131,7 @@ But when Americans only focus on the *domestic* issues of racism, framed by a di
 
 Uncritical progressivism masks the pretensions to universalism of reason mask the material history, what Marx called the “prior accumulation of capital.”  As Vincent Harding *et al.* narrate in *T[he Eyes on the Prize Civil Rights Reader](https://www.amazon.com/Eyes-Prize-Civil-Rights-Reader/dp/0140154035)*, during the first half of the twentieth century, after the Republican party had ceased to be associated with “negroes” — something the Democratic Party was quite comfortable with criticizing at the time, as the racist image below attests — communism seemed like a political option for many African Americans.
 
-![](/images/wp-content/uploads/2019/02/blog-crow-copy-300x213.jpg)
+![](/images/wp-content/uploads/2019/02/blog-crow-copy-300x213.webp)
 
 The development of pan-Africanist ideas spoke both to what we would later call “globalization” and to the shared discrimination that people of African descent had faced in the exploitation of capitalist accumulation.  As Harding notes, African Americans were asked to “take a back seat” to the larger communist cause during the Second World War, creating a wedge that would be exploited by progressivist rhetoric in the post-war and emergent Cold War, where to save face against the Soviet’s critiques of the United States’ treatment of African Americans, an opening was made in discourse to hear the arguments that people like Thurgood Marshall had been carefully crafting for twenty years.
 

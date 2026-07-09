@@ -3,7 +3,7 @@ title: "Critical Conversations – Psychedelic Aesthetics and the Crises of Libe
 date: 2022-02-01T19:19:00+00:00
 author: Roger Green
 permalink: /2022/02/01/critical-conversations-psychedelic-aesthetics-and-the-crises-of-liberalism-a-postsecular-approach-critical-conversations/
-image: /images/wp-content/uploads/2022/02/Screen-Shot-2022-02-06-at-1.13.15-PM.png
+image: /images/wp-content/uploads/2022/02/Screen-Shot-2022-02-06-at-1.13.15-PM.webp
 
 categories:
   - critical-conversations

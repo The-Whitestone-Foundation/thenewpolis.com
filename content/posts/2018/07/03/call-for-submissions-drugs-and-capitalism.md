@@ -3,7 +3,7 @@ title: "Call For Submissions – Drugs And Capitalism"
 date: 2018-07-03T01:13:22+00:00
 author: Roger Green
 permalink: /2018/07/03/call-for-submissions-drugs-and-capitalism/
-image: /images/wp-content/uploads/2018/06/Raleighs_first_pipe_in_England.jpeg
+image: /images/wp-content/uploads/2018/06/Raleighs_first_pipe_in_England.webp
 
 categories:
   - announcements

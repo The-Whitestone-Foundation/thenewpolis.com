@@ -3,7 +3,7 @@ title: "Rethinking Capitalism And Community Development – The Strengths Of Pra
 date: 2018-09-17T02:53:54+00:00
 author: Tony Ward
 permalink: /2018/09/17/rethinking-capitalism-and-community-development-the-strengths-of-praxis-part-1-tony-ward/
-image: /images/wp-content/uploads/2018/09/IMG_2108.jpg
+image: /images/wp-content/uploads/2018/09/IMG_2108.webp
 
 categories:
   - indigenous-theory
@@ -86,7 +86,7 @@ This was particularly onerous for the tribes of the Eastern Bay of Plenty (Ngati
 
 [Documented by Judith Binney](https://www.amazon.com/Mihaia-prophet-Kenana-community-Maungapohatu/dp/0195580427), these antagonisms were exacerbated in 1916, when the police mounted a dawn attack on the peaceful Tuhoe village of Munga Pohatu against the community of Rua Kenana (who had urged his followers to ignore the military draft for WW1), killing his son and imprisoned Rua for two years. Even as recently as 2005, in a raid reminiscent of that in 1916, the police mounted another dawn raid on the Tuhoe village of Ruatoki, breaking into houses, arresting many of the inhabitants and detaining women and children without food or water for 24 hours – all on the basis of trumped up “terrorism” charges that were later dropped.
 
-*![](/images/wp-content/uploads/2018/08/community-health-300x215.jpg)Reclaiming Community Health*
+*![](/images/wp-content/uploads/2018/08/community-health-300x215.webp)Reclaiming Community Health*
 
 The legacy of these state oppressions has been to leave the small town of Whaktane a divided community – the historical roots of which are rarely recognised or addressed by social service agencies who, instead, frequently work through a *deficit* model of community well-being which only exacerbates the situation. The fact is, that the community has no facility or agency that operates biculturally – a place where Māori and non-Māori can come together in a collective process of healing. In the absence of such a facility, the town’s community health remained stubbornly poor.
 

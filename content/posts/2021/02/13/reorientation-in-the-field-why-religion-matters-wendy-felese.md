@@ -3,7 +3,7 @@ title: "Reorientation In The Field – Why Religion Matters (Wendy Felese)"
 date: 2021-02-13T00:12:36+00:00
 author: Roger Green
 permalink: /2021/02/13/reorientation-in-the-field-why-religion-matters-wendy-felese/
-image: /images/wp-content/uploads/2021/02/0a9252ff-f8ef-44ed-abd0-72a00c062a6b.jpeg
+image: /images/wp-content/uploads/2021/02/0a9252ff-f8ef-44ed-abd0-72a00c062a6b.webp
 
 categories:
   - doctrine-of-discovery-and-domination

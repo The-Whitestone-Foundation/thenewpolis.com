@@ -3,7 +3,7 @@ title: "Carl Schmitt And The True German Origins Of Political Theology (Jonathan
 date: 2018-09-11T20:33:04+00:00
 author: Jonathan Cole
 permalink: /2018/09/11/carl-schmitt-and-the-true-german-origins-of-political-theology-jonathan-cole/
-image: /images/wp-content/uploads/2023/07/October-revolution.png
+image: /images/wp-content/uploads/2023/07/October-revolution.webp
 
 categories:
   - political-theology

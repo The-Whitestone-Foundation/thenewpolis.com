@@ -3,7 +3,7 @@ title: "Amorous Agonism And The Allergy To Difference – Part 3 (Roger Green)"
 date: 2019-05-21T20:04:10+00:00
 author: Roger Green
 permalink: /2019/05/21/amorous-agonism-and-the-allergy-to-difference-part-3-roger-green/
-image: /images/wp-content/uploads/2019/05/IMG-0207.jpg
+image: /images/wp-content/uploads/2019/05/IMG-0207.webp
 
 categories:
   - neoliberalism

@@ -3,7 +3,7 @@ title: "Fyre Fest And Incels – Levinas And The Problem With Liberalism (Michae
 date: 2019-03-07T06:42:15+00:00
 author: Roger Green
 permalink: /2019/03/07/fyre-fest-and-incels-levinas-and-the-problem-with-liberalism-michael-laminack/
-image: /images/wp-content/uploads/2023/07/October-revolution.png
+image: /images/wp-content/uploads/2023/07/October-revolution.webp
 
 categories:
   - critical-theory

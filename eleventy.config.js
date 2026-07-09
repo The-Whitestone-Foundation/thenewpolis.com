@@ -1,4 +1,3 @@
-import { IdAttributePlugin } from "@11ty/eleventy";
 import { readFileSync } from "fs";
 import { execSync } from "child_process";
 import markdownIt from "markdown-it";
@@ -10,6 +9,10 @@ import yaml from "js-yaml";
 
 export default async function (eleventyConfig) {
   eleventyConfig.setDataFileSuffixes([".11tydata"]);
+  eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
+  // ponytail: don't watch bulky static assets; restart dev after image/doc swaps.
+  eleventyConfig.watchIgnores.add("public/images/**");
+  eleventyConfig.watchIgnores.add("public/docs/**");
 
   const metadata = yaml.load(readFileSync("./_data/metadata.yaml", "utf-8")) || {};
   const configuredSiteUrl = String(metadata.url || "").trim().replace(/\/+$/, "");
@@ -70,7 +73,6 @@ export default async function (eleventyConfig) {
   };
 
   eleventyConfig.addPlugin(tocPlugin);
-  eleventyConfig.addPlugin(IdAttributePlugin);
 
   const md = markdownIt({ html: true, breaks: true, linkify: true, typographer: true })
     .use(markdownItAnchor, {

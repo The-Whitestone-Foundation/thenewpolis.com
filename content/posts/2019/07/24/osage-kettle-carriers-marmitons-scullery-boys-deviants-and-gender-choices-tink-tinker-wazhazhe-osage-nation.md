@@ -3,7 +3,7 @@ title: "Osage Kettle Carriers – Marmitons, Scullery Boys, Deviants And Gender 
 date: 2019-07-24T00:43:55+00:00
 author: Roger Green
 permalink: /2019/07/24/osage-kettle-carriers-marmitons-scullery-boys-deviants-and-gender-choices-tink-tinker-wazhazhe-osage-nation/
-image: /images/wp-content/uploads/2019/07/pexels-photo-1716158.jpeg
+image: /images/wp-content/uploads/2019/07/pexels-photo-1716158.webp
 
 categories:
   - indigenous-theory

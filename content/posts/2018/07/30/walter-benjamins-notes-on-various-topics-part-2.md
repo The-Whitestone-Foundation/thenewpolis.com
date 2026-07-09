@@ -5,7 +5,7 @@ author:
   - Rachel Thomas
   - Carl Raschke
 permalink: /2018/07/30/walter-benjamins-notes-on-various-topics-part-2/
-image: /images/wp-content/uploads/2023/07/October-revolution.png
+image: /images/wp-content/uploads/2023/07/October-revolution.webp
 
 categories:
   - critical-theory

@@ -3,7 +3,7 @@ html body .container.svelte-7ua6x9 .inner::before {
     display: block;
     width: 80px;
     height: 80px;
-    background: url("whitestone-logo.png") no-repeat center;
+    background: url("whitestone-logo.webp") no-repeat center;
     background-size: contain;
     margin-bottom: 10px;
 }
@@ -25,7 +25,7 @@ html[data-theme] aside nav::before {
     display: block;
     width: 40px;
     height: 40px;
-    background: url("whitestone-logo.png") no-repeat center;
+    background: url("whitestone-logo.webp") no-repeat center;
     background-size: contain;
     margin: 20px auto 10px;
 }

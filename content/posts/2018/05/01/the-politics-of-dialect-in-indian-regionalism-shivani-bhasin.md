@@ -3,7 +3,7 @@ title: "The Politics Of Dialect In Indian Regionalism (Shivani Bhasin)"
 date: 2018-05-01T02:51:27+00:00
 author: Shivani Bhasin
 permalink: /2018/05/01/the-politics-of-dialect-in-indian-regionalism-shivani-bhasin/
-image: /images/wp-content/uploads/2018/04/Hindu_children_of_high_caste_Bombay_India.jpg
+image: /images/wp-content/uploads/2018/04/Hindu_children_of_high_caste_Bombay_India.webp
 
 categories:
   - political-theory

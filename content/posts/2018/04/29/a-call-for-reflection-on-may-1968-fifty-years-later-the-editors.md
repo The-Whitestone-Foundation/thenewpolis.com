@@ -3,7 +3,7 @@ title: "A Call For Reflection On May 1968 – Fifty Years Later (The Editors)"
 date: 2018-04-29T01:30:11+00:00
 author: Roger Green
 permalink: /2018/04/29/a-call-for-reflection-on-may-1968-fifty-years-later-the-editors/
-image: /images/wp-content/uploads/2023/07/October-revolution.png
+image: /images/wp-content/uploads/2023/07/October-revolution.webp
 
 categories:
   - announcements
@@ -25,7 +25,7 @@ Charles de Gaulle, the great military leader of the Second World War, fled the c
 
 Yet in years preceding May of 1968, de Gaulle’s government recognized the People’s Republic of China, which alone should give pause to flat-footed assumptions about the place of Maoism in protestors’ and philosophers’ minds of the period.  In the mid 1960s, he softened his approach to the Arab world and imposed an embargo on Israel preceding the Six-Day War and was critical of U.S. supporting David Ben-Gurion.
 
-![](/images/wp-content/uploads/2018/04/1968_car-barricades_0.jpg)De Gaulle also criticized the U.S.’s role in escalating the war in Vietnam, and eventually removed France’s gold from the U.S., protesting economic policies of Bretton Woods, which were seen as promoting U.S. hegemony.  When other nations followed, it led the Nixon administration to move away from the gold standard, advancing the shift toward finance capitalism and neoliberalism much discussed lately by writers such as [Maurizio Lazzarato](https://mitpress.mit.edu/books/making-indebted-man) and [Franco “Bifo” Berardi](https://mitpress.mit.edu/books/uprising).
+![](/images/wp-content/uploads/2018/04/1968_car-barricades_0.webp)De Gaulle also criticized the U.S.’s role in escalating the war in Vietnam, and eventually removed France’s gold from the U.S., protesting economic policies of Bretton Woods, which were seen as promoting U.S. hegemony.  When other nations followed, it led the Nixon administration to move away from the gold standard, advancing the shift toward finance capitalism and neoliberalism much discussed lately by writers such as [Maurizio Lazzarato](https://mitpress.mit.edu/books/making-indebted-man) and [Franco “Bifo” Berardi](https://mitpress.mit.edu/books/uprising).
 
 These shifts in an ultimately conservative leader’s tactics must be taken account of alongside the tactics of student and factory workers, as well as The Situationist International’s push for anti-authoritarian forms of Marxism based within the aesthetics of long Left-leaning surrealism.
 

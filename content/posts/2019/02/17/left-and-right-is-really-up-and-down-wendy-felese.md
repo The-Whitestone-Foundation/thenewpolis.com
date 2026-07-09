@@ -3,7 +3,7 @@ title: "Left And Right Is Really Up And Down (Wendy Felese)"
 date: 2019-02-17T20:29:43+00:00
 author: Roger Green
 permalink: /2019/02/17/left-and-right-is-really-up-and-down-wendy-felese/
-image: /images/wp-content/uploads/2019/02/Great_Chain_of_Being_2.png
+image: /images/wp-content/uploads/2019/02/Great_Chain_of_Being_2.webp
 
 categories:
   - american-history

@@ -3,7 +3,7 @@ title: "Performative Film Practices In Tamil Politics, Part 2 (Giulia Battaglia)
 date: 2018-06-25T18:13:01+00:00
 author: Giulia Battaglia
 permalink: /2018/06/25/performative-film-practices-in-tamil-politics-part-2-giulia-battaglia/
-image: /images/wp-content/uploads/2018/06/Tamil-Nadu-people.jpg
+image: /images/wp-content/uploads/2018/06/Tamil-Nadu-people.webp
 
 categories:
   - political-theory

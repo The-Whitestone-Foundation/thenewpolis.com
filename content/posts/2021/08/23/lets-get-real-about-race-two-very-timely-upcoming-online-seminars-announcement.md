@@ -3,7 +3,7 @@ title: "Let’s Get Real About Race – Two Very Timely Upcoming Online Seminars
 date: 2021-08-23T03:58:00+00:00
 author: thenewpolis
 permalink: /2021/08/23/lets-get-real-about-race-two-very-timely-upcoming-online-seminars-announcement/
-image: /images/wp-content/uploads/2021/08/race.jpg
+image: /images/wp-content/uploads/2021/08/race.webp
 
 categories:
   - announcements
@@ -38,7 +38,7 @@ Whitestone Publications, specifically *[The New Polis](https://thenewpolis.com)*
 
 **Critical Conversation No. 11 engages world-renowned Canadia demographer Eric Kaufman, Professor of Political Science at Birkbeck College, University of London, whose book *[Whiteshift](https://www.amazon.com/Whiteshift-Populism-Immigration-Future-Majorities/dp/1419741926/ref=sr_1_1?dchild=1&keywords=whiteshift&qid=1629861960&sr=8-1)* is described by *The Kirkus Review* as “an encyclopedic treatise on ethnic identity, immigration and its consequences”.**
 
-![](/images/wp-content/uploads/2021/08/Whiteshift.jpg)
+![](/images/wp-content/uploads/2021/08/Whiteshift.webp)
 
 **When?** **Tuesday, September 28, 10-12 am Mountain Daylight Time, 6-8 pm Central European Time.**
 
@@ -64,7 +64,7 @@ Finally, there is a normative claim that ethnic majority identity is as valid as
 
 **Respondents:** Alyssa Putzer, Whitestone Publications; Jared Lacy, Whitestone Publications; Rachel Foley, Whitestone Publications; Dianna Able, Whitestone Publications; Suhayb Yunus, Whitestone Publications; Gabe Parker, University of Denver; Kev Grane, University of Denver.
 
-![](/images/wp-content/uploads/2021/07/DD-l.png)
+![](/images/wp-content/uploads/2021/07/DD-l.webp)
 
 **[Registration link](https://us02web.zoom.us/meeting/register/tZEucemuqjgiGtLzNgdy18rsYEEinRCDOn25)**
 

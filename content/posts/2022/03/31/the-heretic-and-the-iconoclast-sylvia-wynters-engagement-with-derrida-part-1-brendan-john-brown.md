@@ -3,7 +3,7 @@ title: "The Heretic And The Iconoclast – Sylvia Wynter’s Engagement With Der
 date: 2022-03-31T03:27:00+00:00
 author: Brendan John Brown
 permalink: /2022/03/31/the-heretic-and-the-iconoclast-sylvia-wynters-engagement-with-derrida-part-1-brendan-john-brown/
-image: /images/wp-content/uploads/2022/04/White-flowers.png
+image: /images/wp-content/uploads/2022/04/White-flowers.webp
 
 categories:
   - critical-theory

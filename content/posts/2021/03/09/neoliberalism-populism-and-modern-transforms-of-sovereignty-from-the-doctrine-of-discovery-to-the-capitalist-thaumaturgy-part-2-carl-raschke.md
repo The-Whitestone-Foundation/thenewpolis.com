@@ -3,7 +3,7 @@ title: "Neoliberalism, Populism, And Modern Transforms of Sovereignty – From T
 date: 2021-03-09T03:42:57+00:00
 author: Carl Raschke
 permalink: /2021/03/09/neoliberalism-populism-and-modern-transforms-of-sovereignty-from-the-doctrine-of-discovery-to-the-capitalist-thaumaturgy-part-2-carl-raschke/
-image: /images/wp-content/uploads/2021/02/John_Locke._Line_engraving_by_G._Vertue_1713_after_Sir_G._Wellcome_V0003650.jpg
+image: /images/wp-content/uploads/2021/02/John_Locke._Line_engraving_by_G._Vertue_1713_after_Sir_G._Wellcome_V0003650.webp
 
 categories:
   - doctrine-of-discovery-and-domination

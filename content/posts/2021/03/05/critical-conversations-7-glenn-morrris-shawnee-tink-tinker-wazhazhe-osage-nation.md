@@ -3,7 +3,7 @@ title: "Critical Conversations 7 (Glenn Morris, Shawnee & Tink Tinker, wazhazhe 
 date: 2021-03-05T21:49:32+00:00
 author: Roger Green
 permalink: /2021/03/05/critical-conversations-7-glenn-morrris-shawnee-tink-tinker-wazhazhe-osage-nation/
-image: /images/wp-content/uploads/2021/03/3379492432_6b1cc11671_b.jpg
+image: /images/wp-content/uploads/2021/03/3379492432_6b1cc11671_b.webp
 
 categories:
   - critical-conversations

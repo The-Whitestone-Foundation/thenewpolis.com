@@ -3,7 +3,7 @@ title: "Critical Conversations 8 – Theory In Action: The Art Of “Doing” Th
 date: 2021-02-21T11:07:25+00:00
 author: Roger Green
 permalink: /2021/02/21/critical-conversations-8-theory-in-action-the-art-of-doing-theory-with-jonathan-fardy-announcement/
-image: /images/wp-content/uploads/2021/02/jhp5cbf1c6bc58a9.jpg
+image: /images/wp-content/uploads/2021/02/jhp5cbf1c6bc58a9.webp
 
 categories:
   - aesthetics

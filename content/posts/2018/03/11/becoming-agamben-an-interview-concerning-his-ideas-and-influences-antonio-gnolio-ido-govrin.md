@@ -3,7 +3,7 @@ title: "Becoming Agamben – An Interview Concerning His Ideas And Influences (A
 date: 2018-03-11T22:51:24+00:00
 author: Roger Green
 permalink: /2018/03/11/becoming-agamben-an-interview-concerning-his-ideas-and-influences-antonio-gnolio-ido-govrin/
-image: /images/wp-content/uploads/2023/07/October-revolution.png
+image: /images/wp-content/uploads/2023/07/October-revolution.webp
 
 categories:
   - political-theology

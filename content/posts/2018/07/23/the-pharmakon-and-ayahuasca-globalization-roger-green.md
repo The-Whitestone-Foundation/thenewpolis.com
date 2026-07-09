@@ -3,7 +3,7 @@ title: "The Pharmakon and Ayahuasca Globalization (Roger Green)"
 date: 2018-07-23T20:54:50+00:00
 author: Roger Green
 permalink: /2018/07/23/the-pharmakon-and-ayahuasca-globalization-roger-green/
-image: /images/wp-content/uploads/2018/07/18caf668952c78ca0efcca6d6d67205a-the-soul-vine.jpg
+image: /images/wp-content/uploads/2018/07/18caf668952c78ca0efcca6d6d67205a-the-soul-vine.webp
 
 categories:
   - pharmacology

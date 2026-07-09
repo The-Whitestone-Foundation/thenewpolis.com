@@ -3,7 +3,7 @@ title: "The Value Of Nature – A Critical Account Of Anthropocentrism In Politi
 date: 2019-02-26T21:03:57+00:00
 author: thenewpolis
 permalink: /2019/02/26/the-value-of-nature-a-critical-account-of-anthropocentrism-in-politics-part-2-anne-fremaux/
-image: /images/wp-content/uploads/2019/02/IMG_3320-1.jpg
+image: /images/wp-content/uploads/2019/02/IMG_3320-1.webp
 
 categories:
   - political-theory

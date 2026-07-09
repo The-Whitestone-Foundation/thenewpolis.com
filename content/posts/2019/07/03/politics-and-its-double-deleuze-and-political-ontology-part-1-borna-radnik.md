@@ -3,7 +3,7 @@ title: "Politics And Its Double – Deleuze And Political Ontology, Part 1 (Born
 date: 2019-07-03T14:20:03+00:00
 author: Borna Radnik
 permalink: /2019/07/03/politics-and-its-double-deleuze-and-political-ontology-part-1-borna-radnik/
-image: /images/wp-content/uploads/2019/07/Screen-Shot-2019-07-04-at-1.09.17-PM.png
+image: /images/wp-content/uploads/2019/07/Screen-Shot-2019-07-04-at-1.09.17-PM.webp
 
 categories:
   - political-philosophy

@@ -3,7 +3,7 @@ title: "Identity Politics And Ressentiment, Part 1 (Camila Bassi)"
 date: 2020-06-09T04:10:53+00:00
 author: Camila Bassi
 permalink: /2020/06/09/identity-politics-ressentiment-and-the-evacuation-of-human-emancipation-camila-bassi/
-image: /images/wp-content/uploads/2020/06/Black-woman.jpg
+image: /images/wp-content/uploads/2020/06/Black-woman.webp
 
 categories:
   - identity-politics

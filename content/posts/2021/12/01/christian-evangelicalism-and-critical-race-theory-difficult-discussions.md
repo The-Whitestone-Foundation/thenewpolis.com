@@ -3,7 +3,7 @@ title: "Christian Evangelicalism And Critical Race Theory (Difficult Discussions
 date: 2021-12-01T20:59:00+00:00
 author: thenewpolis
 permalink: /2021/12/01/christian-evangelicalism-and-critical-race-theory-difficult-discussions/
-image: /images/wp-content/uploads/2021/12/1024px-Voodoo_Altar_New_Orleans.jpg
+image: /images/wp-content/uploads/2021/12/1024px-Voodoo_Altar_New_Orleans.webp
 
 categories:
   - christian-evangelicalism

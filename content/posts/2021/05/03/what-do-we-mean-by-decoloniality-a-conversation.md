@@ -7,7 +7,7 @@ author:
   - Tink Tinker
   - Fernando Herrero
 permalink: /2021/05/03/what-do-we-mean-by-decoloniality-a-conversation/
-image: /images/wp-content/uploads/2021/05/Quechua_Woman.jpg
+image: /images/wp-content/uploads/2021/05/Quechua_Woman.webp
 
 categories:
   - decoloniality

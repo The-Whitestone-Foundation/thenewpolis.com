@@ -3,7 +3,7 @@ title: "Literary Conversations 1 – Steven Dunn and Selah Saterstrom on the Nov
 date: 2020-07-21T22:26:43+00:00
 author: Roger Green
 permalink: /2020/07/21/literary-conversations-1-steven-dunn-and-selah-saterstrom-on-the-novel-tragedy-and-sacrifice-roger-green/
-image: /images/wp-content/uploads/2020/07/800px-Willem_van_den_Broecke_-_The_sacrifice_of_Abraham.jpg
+image: /images/wp-content/uploads/2020/07/800px-Willem_van_den_Broecke_-_The_sacrifice_of_Abraham.webp
 
 categories:
   - critical-conversations

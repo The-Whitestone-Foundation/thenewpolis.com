@@ -3,7 +3,7 @@ title: "In Defense Of Politics (Jonathan Cole)"
 date: 2018-04-01T18:11:14+00:00
 author: Jonathan Cole
 permalink: /2018/04/01/in-defense-of-politics-jonathan-cole/
-image: /images/wp-content/uploads/2018/04/IMG_1480.jpg
+image: /images/wp-content/uploads/2018/04/IMG_1480.webp
 
 categories:
   - essays

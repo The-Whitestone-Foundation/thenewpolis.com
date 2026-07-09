@@ -3,7 +3,7 @@ title: "Lacan And The Politics Of Psychoanalysis – An Interview With Thomas Sv
 date: 2018-10-21T17:25:16+00:00
 author: Thomas Svolos
 permalink: /2018/10/21/lacan-and-the-politics-of-psychoanalysis-an-interview-with-thomas-svolos/
-image: /images/wp-content/uploads/2018/10/Lacan.jpg
+image: /images/wp-content/uploads/2018/10/Lacan.webp
 
 categories:
   - critical-theory

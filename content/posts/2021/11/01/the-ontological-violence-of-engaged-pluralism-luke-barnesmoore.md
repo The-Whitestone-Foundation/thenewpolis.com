@@ -3,7 +3,7 @@ title: "The Ontological Violence of Engaged Pluralism (Luke Barnesmoore)"
 date: 2021-11-01T23:02:25+00:00
 author: Roger Green
 permalink: /2021/11/01/the-ontological-violence-of-engaged-pluralism-luke-barnesmoore/
-image: /images/wp-content/uploads/2021/10/bar2602_creationofcrow_1_hr_optimizied-1080x814-1.jpeg
+image: /images/wp-content/uploads/2021/10/bar2602_creationofcrow_1_hr_optimizied-1080x814-1.webp
 
 categories:
   - decoloniality

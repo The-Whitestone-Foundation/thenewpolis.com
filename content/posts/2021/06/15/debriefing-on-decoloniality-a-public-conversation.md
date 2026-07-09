@@ -3,7 +3,7 @@ title: "Debriefing On Decoloniality – A Public Conversation, Part 1"
 date: 2021-06-15T17:57:28+00:00
 author: thenewpolis
 permalink: /2021/06/15/debriefing-on-decoloniality-a-public-conversation/
-image: /images/wp-content/uploads/2021/06/Mam_people.jpg
+image: /images/wp-content/uploads/2021/06/Mam_people.webp
 
 categories:
   - decoloniality

@@ -3,7 +3,7 @@ title: "Critical Conversations – American Indian Worldview And The Twinned Cos
 date: 2020-11-23T15:53:40+00:00
 author: Roger Green
 permalink: /2020/11/23/critical-conversations-american-indian-worldview-and-the-twinned-cosmos-of-indigenous-america-announcement/
-image: /images/wp-content/uploads/2020/11/astronomy-3327653_1280.jpg
+image: /images/wp-content/uploads/2020/11/astronomy-3327653_1280.webp
 
 categories:
   - announcements

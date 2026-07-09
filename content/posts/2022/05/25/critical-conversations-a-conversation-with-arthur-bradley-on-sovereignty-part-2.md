@@ -3,7 +3,7 @@ title: "CRITICAL CONVERSATIONS – A Conversation With Arthur Bradley On Soverei
 date: 2022-05-25T18:02:00+00:00
 author: Arthur Bradley
 permalink: /2022/05/25/critical-conversations-a-conversation-with-arthur-bradley-on-sovereignty-part-2/
-image: /images/wp-content/uploads/2022/05/1024px-Il_cortile_della_casa_di_Gherardo_bozzetto_di_Edoardo_Marchioro_per_Fra_Gherardo_1927_-_Archivio_Storico_Ricordi_ICON004273.jpg
+image: /images/wp-content/uploads/2022/05/1024px-Il_cortile_della_casa_di_Gherardo_bozzetto_di_Edoardo_Marchioro_per_Fra_Gherardo_1927_-_Archivio_Storico_Ricordi_ICON004273.webp
 
 categories:
   - critical-conversations

@@ -3,7 +3,7 @@ title: "Leszek Kolakowski And The Neo-Platonic Pre-History Of Marxism (Daniel Tu
 date: 2019-04-08T02:30:27+00:00
 author: Daniel Tutt
 permalink: /2019/04/08/leszek-kolakowski-and-the-neo-platonic-pre-history-of-marxism-daniel-tutt/
-image: /images/wp-content/uploads/2019/04/Leszek_Kolakowski_1971.jpg
+image: /images/wp-content/uploads/2019/04/Leszek_Kolakowski_1971.webp
 
 categories:
   - marxism

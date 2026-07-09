@@ -3,7 +3,7 @@ title: "Text, Body, and the Ethics of Raymond Federman’s Spectator (Roger Gree
 date: 2018-12-22T19:14:33+00:00
 author: Roger Green
 permalink: /2018/12/22/text-body-and-the-ethics-of-raymond-federmans-spectator/
-image: /images/wp-content/uploads/2018/12/Boxes_of_Nissin_Cup_Noodles_on_pallets_at_Costco_SSF_ECR-e1544469188284.jpg
+image: /images/wp-content/uploads/2018/12/Boxes_of_Nissin_Cup_Noodles_on_pallets_at_Costco_SSF_ECR-e1544469188284.webp
 
 categories:
   - art-theory
@@ -144,7 +144,7 @@ In *Double or Nothing*, Federman tells the story of writing the book itself by 
 
 As Federman writes, “Yes but the *potatoes* the raw / *potatoes* on the train **remember?** what a story: on the way to the *camps*/ the *camps* **X\*X\*X\*X**” and then descends into the image of the swastika”(11.1).
 
-![](/images/wp-content/uploads/2018/12/cd25be26fb723f5be3c95c95009203a4.jpg)
+![](/images/wp-content/uploads/2018/12/cd25be26fb723f5be3c95c95009203a4.webp)
 
 The line breaking produced through repetitions of words. The bold “**remember?**” is an early indicator of the signification for vocal interruption we see constantly in *SHHH*.  Down the right side of the page he writes, “And I followed my shadow.”  The same self-conscious deliberation about what stories to tell in this particular book and ideas for more books document a process of creative generation. It is funny but quickly turns tragic with “*The Starvation Comedy*.”  Later in the book he tells the story of his gambling, framing the narrative with the hand of cards:
 

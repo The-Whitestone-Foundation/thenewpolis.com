@@ -3,7 +3,7 @@ title: "Nor On The Soles of Her Shoes? The King Of Infinite Space (Roger Green)"
 date: 2018-09-29T19:49:21+00:00
 author: Roger Green
 permalink: /2018/09/29/nor-on-the-soles-of-her-shoes-the-king-of-infinite-space-roger-green/
-image: /images/wp-content/uploads/2023/07/October-revolution.png
+image: /images/wp-content/uploads/2023/07/October-revolution.webp
 
 categories:
   - indigenous-theory

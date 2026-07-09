@@ -3,7 +3,7 @@ title: "How “Democratic” Is – And Has Been – The Muslim Brotherhood? –
 date: 2018-03-09T01:05:49+00:00
 author: Kara Roberts
 permalink: /2018/03/09/how-democratic-is-and-has-been-the-muslim-brotherhood-part-1-kara-roberts/
-image: /images/wp-content/uploads/2018/03/Moroccan-history.jpg
+image: /images/wp-content/uploads/2018/03/Moroccan-history.webp
 
 categories:
   - critical-theory

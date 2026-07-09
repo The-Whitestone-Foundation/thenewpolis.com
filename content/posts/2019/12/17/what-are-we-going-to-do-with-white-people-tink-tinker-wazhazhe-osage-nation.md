@@ -3,7 +3,7 @@ title: "What Are We Going To Do With White People? (Tink Tinker, wazhazhe / Osag
 date: 2019-12-17T14:24:59+00:00
 author: Roger Green
 permalink: /2019/12/17/what-are-we-going-to-do-with-white-people-tink-tinker-wazhazhe-osage-nation/
-image: /images/wp-content/uploads/2019/12/images.jpeg
+image: /images/wp-content/uploads/2019/12/images.webp
 
 categories:
   - american-history

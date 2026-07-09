@@ -3,7 +3,7 @@ title: "CRITICAL CONVERSATIONS – Psychedelic Aesthetics And the Crises of Libe
 date: 2022-03-22T02:29:00+00:00
 author: Carl Raschke
 permalink: /2022/03/22/critical-conversations-psychedelic-aesthetics-and-the-crises-of-liberalism-an-interview-with-roger-green-critical-conversations/
-image: /images/wp-content/uploads/2022/03/800px-Fractal_Xaos_psychedelic.png
+image: /images/wp-content/uploads/2022/03/800px-Fractal_Xaos_psychedelic.webp
 
 categories:
   - critical-conversations

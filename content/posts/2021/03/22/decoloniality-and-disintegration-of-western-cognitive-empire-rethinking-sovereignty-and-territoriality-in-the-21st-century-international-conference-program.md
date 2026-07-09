@@ -3,7 +3,7 @@ title: "Decoloniality And Disintegration Of Western Cognitive Empire – Rethink
 date: 2021-03-22T01:05:42+00:00
 author: Roger Green
 permalink: /2021/03/22/decoloniality-and-disintegration-of-western-cognitive-empire-rethinking-sovereignty-and-territoriality-in-the-21st-century-international-conference-program/
-image: /images/wp-content/uploads/2021/03/Machu_Picchu_Peru.jpg
+image: /images/wp-content/uploads/2021/03/Machu_Picchu_Peru.webp
 
 categories:
   - announcements

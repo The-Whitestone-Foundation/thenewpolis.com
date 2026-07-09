@@ -3,7 +3,7 @@ title: "The Revolution Of Respect – The Overlooked Factor In Globalization Tha
 date: 2022-02-09T22:15:38+00:00
 author: Carl Raschke
 permalink: /2022/02/09/the-revolution-of-respect-the-overlooked-factor-in-globalization-that-is-driving-everything-part-2-carl-raschke/
-image: /images/wp-content/uploads/2022/02/Fragment_of_a_Queens_Face_MET_DP355835-1.jpg
+image: /images/wp-content/uploads/2022/02/Fragment_of_a_Queens_Face_MET_DP355835-1.webp
 
 categories:
   - globalization-theory

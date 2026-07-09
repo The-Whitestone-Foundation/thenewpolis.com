@@ -3,7 +3,7 @@ title: "The Birth Of Modern “Sovereignty” – The Dialectic Of Subjection An
 date: 2021-04-12T04:29:34+00:00
 author: Carl Raschke
 permalink: /2021/04/12/the-birth-of-modern-sovereignty-the-dialectic-of-subjection-and-abjection-part-2-carl-raschke/
-image: /images/wp-content/uploads/2021/04/Godorf_Cologne_Rhineland-Refinery-Cooling-Towers-during-demolition-02.jpg
+image: /images/wp-content/uploads/2021/04/Godorf_Cologne_Rhineland-Refinery-Cooling-Towers-during-demolition-02.webp
 
 categories:
   - decoloniality

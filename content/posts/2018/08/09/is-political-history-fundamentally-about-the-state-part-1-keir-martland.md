@@ -3,7 +3,7 @@ title: "Is Political History Fundamentally About the State? Part 1 (Keir Martlan
 date: 2018-08-09T23:37:34+00:00
 author: Keir Martland
 permalink: /2018/08/09/is-political-history-fundamentally-about-the-state-part-1-keir-martland/
-image: /images/wp-content/uploads/2018/08/Style-Westminster-image-Moving-Castle-0.4MP.jpg
+image: /images/wp-content/uploads/2018/08/Style-Westminster-image-Moving-Castle-0.4MP.webp
 
 categories:
   - political-history

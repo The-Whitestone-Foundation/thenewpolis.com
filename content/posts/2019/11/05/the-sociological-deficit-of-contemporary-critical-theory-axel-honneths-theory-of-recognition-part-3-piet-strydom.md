@@ -3,7 +3,7 @@ title: "The Sociological Deficit Of Contemporary Critical Theory – Axel Honnet
 date: 2019-11-05T18:23:55+00:00
 author: Piet Strydom
 permalink: /2019/11/05/the-sociological-deficit-of-contemporary-critical-theory-axel-honneths-theory-of-recognition-part-3-piet-strydom/
-image: /images/wp-content/uploads/2019/11/relationships.jpg
+image: /images/wp-content/uploads/2019/11/relationships.webp
 
 categories:
   - critical-theory

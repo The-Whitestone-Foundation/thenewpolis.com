@@ -3,7 +3,7 @@ title: "Discovery, St. Junípero, Lewis and Clark (Tink Tinker, wazhazhe / Osage
 date: 2020-11-03T15:37:01+00:00
 author: Roger Green
 permalink: /2020/11/03/discovery-st-junipero-lewis-and-clark-tink-tinker-wazhazhe-osage-nation/
-image: /images/wp-content/uploads/2020/10/21c11c59-d51b-481a-a439-0daa1a4a5e3b.jpeg
+image: /images/wp-content/uploads/2020/10/21c11c59-d51b-481a-a439-0daa1a4a5e3b.webp
 
 categories:
   - american-history

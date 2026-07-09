@@ -3,7 +3,7 @@ title: "Some Notes On Blanchot And Disaster (Roger Green)"
 date: 2020-05-27T20:07:20+00:00
 author: Roger Green
 permalink: /2020/05/27/some-notes-on-blanchot-and-disaster-roger-green/
-image: /images/wp-content/uploads/2020/05/Piedmontese_tarot_deck_-_Solesio_-_1865_-_Trump_-_16_-_The_Tower.jpg
+image: /images/wp-content/uploads/2020/05/Piedmontese_tarot_deck_-_Solesio_-_1865_-_Trump_-_16_-_The_Tower.webp
 
 categories:
   - pandemic-politics

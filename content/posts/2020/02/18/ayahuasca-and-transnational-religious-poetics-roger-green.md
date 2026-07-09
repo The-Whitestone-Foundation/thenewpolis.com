@@ -3,7 +3,7 @@ title: "Ayahuasca and Transnational Religious Poetics (Roger Green)"
 date: 2020-02-18T02:14:33+00:00
 author: Roger Green
 permalink: /2020/02/18/ayahuasca-and-transnational-religious-poetics-roger-green/
-image: /images/wp-content/uploads/2020/02/rainforest.jpg
+image: /images/wp-content/uploads/2020/02/rainforest.webp
 
 categories:
   - ecology

@@ -3,7 +3,7 @@ title: "The Affects Of May 1968 – On Liberal Subjectivity And Its Discontents 
 date: 2018-05-21T12:46:47+00:00
 author: Roger Green
 permalink: /2018/05/21/the-affects-of-may-1968-on-liberal-subjectivity-and-its-discontents-roger-green/
-image: /images/wp-content/uploads/2018/05/urn-cambridge.org-id-binary-30815-20160504063056371-0465-02255fig1_3.png
+image: /images/wp-content/uploads/2018/05/urn-cambridge.org-id-binary-30815-20160504063056371-0465-02255fig1_3.webp
 
 categories:
   - critical-theory

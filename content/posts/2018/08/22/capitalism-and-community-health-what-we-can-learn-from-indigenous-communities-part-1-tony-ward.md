@@ -3,7 +3,7 @@ title: "Capitalism And Community Health – What We Can Learn From Indigenous Co
 date: 2018-08-22T03:44:52+00:00
 author: Roger Green
 permalink: /2018/08/22/capitalism-and-community-health-what-we-can-learn-from-indigenous-communities-part-1-tony-ward/
-image: /images/wp-content/uploads/2023/07/October-revolution.png
+image: /images/wp-content/uploads/2023/07/October-revolution.webp
 
 categories:
   - indigenous-theory

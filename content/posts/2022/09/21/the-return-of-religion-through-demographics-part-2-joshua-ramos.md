@@ -3,7 +3,7 @@ title: "The Return Of Religion Through Demographics, Part 2 (Joshua Ramos)"
 date: 2022-09-21T22:37:00+00:00
 author: Joshua Ramos
 permalink: /2022/09/21/the-return-of-religion-through-demographics-part-2-joshua-ramos/
-image: /images/wp-content/uploads/2022/10/People-swarm.png
+image: /images/wp-content/uploads/2022/10/People-swarm.webp
 
 categories:
   - demographics

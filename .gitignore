@@ -2,6 +2,7 @@ _site/
 node_modules/
 scripts/*
 !scripts/build-sequoia-content.mjs
+!scripts/serve-site.mjs
 .sequoia/content/
 .DS_Store
 *.log

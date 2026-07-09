@@ -3,7 +3,7 @@ title: "100 Seconds To Doomsday, Or A Vaccination Against “Wokeness” (Patric
 date: 2020-02-03T01:41:53+00:00
 author: Roger Green
 permalink: /2020/02/03/100-seconds-to-doomsday-or-a-vaccination-against-wokeness-patrick-soch/
-image: /images/wp-content/uploads/2020/02/clock-14724_1280.jpg
+image: /images/wp-content/uploads/2020/02/clock-14724_1280.webp
 
 categories:
   - ecology

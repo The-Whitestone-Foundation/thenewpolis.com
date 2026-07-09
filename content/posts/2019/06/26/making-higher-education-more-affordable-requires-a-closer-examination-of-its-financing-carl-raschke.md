@@ -3,7 +3,7 @@ title: "Making Higher Education More Affordable Requires A Closer Examination Of
 date: 2019-06-26T21:51:10+00:00
 author: Carl Raschke
 permalink: /2019/06/26/making-higher-education-more-affordable-requires-a-closer-examination-of-its-financing-carl-raschke/
-image: /images/wp-content/uploads/2019/06/college-classroom.jpg
+image: /images/wp-content/uploads/2019/06/college-classroom.webp
 
 categories:
   - higher-education

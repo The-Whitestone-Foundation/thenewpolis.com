@@ -3,7 +3,7 @@ title: "The Cultural Contradictions Of “Democratic Socialism” (Carl Raschke)
 date: 2018-08-03T19:32:09+00:00
 author: Carl Raschke
 permalink: /2018/08/03/the-cultural-contradictions-of-democratic-socialism-carl-raschke/
-image: /images/wp-content/uploads/2018/08/IMG_1258.jpg
+image: /images/wp-content/uploads/2018/08/IMG_1258.webp
 
 categories:
   - critical-theory

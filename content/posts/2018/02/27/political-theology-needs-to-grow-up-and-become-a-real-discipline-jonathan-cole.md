@@ -3,7 +3,7 @@ title: "Political Theology Needs To Grow Up And Become A Real Discipline (Jonath
 date: 2018-02-27T21:36:31+00:00
 author: Jonathan Cole
 permalink: /2018/02/27/political-theology-needs-to-grow-up-and-become-a-real-discipline-jonathan-cole/
-image: /images/wp-content/uploads/2023/07/October-revolution.png
+image: /images/wp-content/uploads/2023/07/October-revolution.webp
 
 categories:
   - political-theology

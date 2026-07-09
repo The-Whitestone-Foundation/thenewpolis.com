@@ -3,7 +3,7 @@ title: "Walter Benjamin’s Notes On Various Topics, Proximity And Distance, Par
 date: 2019-06-08T20:37:49+00:00
 author: thenewpolis
 permalink: /2019/06/08/walter-benjamins-notes-on-various-topics-proximity-and-distance-part-4/
-image: /images/wp-content/uploads/2023/07/October-revolution.png
+image: /images/wp-content/uploads/2023/07/October-revolution.webp
 
 categories:
   - critical-theory

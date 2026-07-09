@@ -3,7 +3,7 @@ title: "The Religious Roots Of Environmental Justice – An Online Conference"
 date: 2023-09-15T22:27:32+00:00
 author: thenewpolis
 permalink: /2023/09/15/the-religious-roots-of-environmental-justice-an-online-conference/
-image: /images/wp-content/uploads/2023/07/Ta_Prohm_III.jpg
+image: /images/wp-content/uploads/2023/07/Ta_Prohm_III.webp
 
 categories:
   - conferences
@@ -28,7 +28,7 @@ tags:
 
 ### Keynote Speaker**: **Catherine Keller**
 
-![](/images/wp-content/uploads/2023/09/Keller.jpg)
+![](/images/wp-content/uploads/2023/09/Keller.webp)
 
 **Catherine Keller** practices theology as a relation between ancient hints of ultimacy and current matters of urgency. As the George T. Cobb Professor of Constructive Theology in the Theological School and Graduate Division of Religion of Drew University, she teaches courses in process, political, and ecological theology. Within and beyond Christian conversation, she has all along mobilized the transdisciplinary potential of feminist, philosophical, and pluralist intersections with religion.
 

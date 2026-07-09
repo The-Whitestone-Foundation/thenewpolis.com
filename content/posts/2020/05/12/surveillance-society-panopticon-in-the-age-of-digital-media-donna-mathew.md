@@ -3,7 +3,7 @@ title: "Surveillance Society – Panopticon In The Age Of Digital Media (Donna S
 date: 2020-05-12T01:37:56+00:00
 author: Donna Susan Mathew
 permalink: /2020/05/12/surveillance-society-panopticon-in-the-age-of-digital-media-donna-mathew/
-image: /images/wp-content/uploads/2020/05/1600px-Presidio-modelo2.jpg
+image: /images/wp-content/uploads/2020/05/1600px-Presidio-modelo2.webp
 
 categories:
   - digital-politics-and-culture

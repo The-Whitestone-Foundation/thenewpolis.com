@@ -3,7 +3,7 @@ title: "The Dialectic Of Enlightenment From A Postsecular Lens, Part 6 (Roger Gr
 date: 2019-10-28T22:54:37+00:00
 author: Roger Green
 permalink: /2019/10/28/the-dialectic-of-enlightenment-from-a-postsecular-lens-part-6-roger-green/
-image: /images/wp-content/uploads/2019/10/Francesco_Trevisani_-_Apollo_and_Daphne_-_WGA23056.jpg
+image: /images/wp-content/uploads/2019/10/Francesco_Trevisani_-_Apollo_and_Daphne_-_WGA23056.webp
 
 categories:
   - critical-theory

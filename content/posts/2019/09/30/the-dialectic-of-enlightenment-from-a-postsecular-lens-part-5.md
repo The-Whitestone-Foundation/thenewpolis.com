@@ -3,7 +3,7 @@ title: "The Dialectic Of Enlightenment From A Postsecular Lens, Part 5"
 date: 2019-09-30T02:06:30+00:00
 author: Roger Green
 permalink: /2019/09/30/the-dialectic-of-enlightenment-from-a-postsecular-lens-part-5/
-image: /images/wp-content/uploads/2019/09/Alchemist_1050x700.jpg
+image: /images/wp-content/uploads/2019/09/Alchemist_1050x700.webp
 
 categories:
   - critical-theory

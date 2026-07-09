@@ -3,7 +3,7 @@ title: "Neoliberalism And The Cultural Politics Of Shame (Samantha Pinson Wrisle
 date: 2019-09-03T01:33:55+00:00
 author: Samantha Pinson Wrisley
 permalink: /2019/09/03/neoliberalism-and-the-cultural-politics-of-shame-samantha-pinson-wrisley/
-image: /images/wp-content/uploads/2019/09/The_10000_Hookworm_Family.jpg
+image: /images/wp-content/uploads/2019/09/The_10000_Hookworm_Family.webp
 
 categories:
   - neoliberalism

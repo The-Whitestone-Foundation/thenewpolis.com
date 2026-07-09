@@ -3,7 +3,7 @@ title: "The State of Exception As Apocalyptic Desire – Overcoming A Persecutin
 date: 2021-10-05T23:23:00+00:00
 author: Roger Green
 permalink: /2021/10/05/the-state-of-exception-as-apocalyptic-desire-overcoming-a-persecuting-society-part-4-roger-green/
-image: /images/wp-content/uploads/2021/10/800px-2010_0515_rama_4_and_sathorn_26.jpg
+image: /images/wp-content/uploads/2021/10/800px-2010_0515_rama_4_and_sathorn_26.webp
 
 categories:
   - political-theology

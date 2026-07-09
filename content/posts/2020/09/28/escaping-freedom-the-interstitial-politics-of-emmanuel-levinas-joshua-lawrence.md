@@ -3,7 +3,7 @@ title: "Escaping Freedom – The Interstitial Politics of Emmanuel Levinas (Josh
 date: 2020-09-28T22:00:24+00:00
 author: Roger Green
 permalink: /2020/09/28/escaping-freedom-the-interstitial-politics-of-emmanuel-levinas-joshua-lawrence/
-image: /images/wp-content/uploads/2020/09/0f3ed843-64a2-41b3-b397-aecaf95e84d4.jpeg
+image: /images/wp-content/uploads/2020/09/0f3ed843-64a2-41b3-b397-aecaf95e84d4.webp
 
 categories:
   - borderlands

@@ -3,7 +3,7 @@ title: "The Equisapien Encounter – Reading Enrique Dussel In Boots Riley’s �
 date: 2019-01-30T11:34:17+00:00
 author: thenewpolis
 permalink: /2019/01/30/the-equisapien-encounter-reading-enrique-dussel-in-boots-rileys-sorry-to-bother-you-part-2-conor-ramon-rasmusen/
-image: /images/wp-content/uploads/2019/01/horses_wooden_sculptures_decorative_yellow_brown_woody_structures-1109416.jpg
+image: /images/wp-content/uploads/2019/01/horses_wooden_sculptures_decorative_yellow_brown_woody_structures-1109416.webp
 
 categories:
   - essays

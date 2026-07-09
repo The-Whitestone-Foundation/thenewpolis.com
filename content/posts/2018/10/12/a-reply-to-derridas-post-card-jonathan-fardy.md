@@ -3,7 +3,7 @@ title: "A Reply To Derrida’s Post Card (Jonathan Fardy)"
 date: 2018-10-12T02:06:02+00:00
 author: Roger Green
 permalink: /2018/10/12/a-reply-to-derridas-post-card-jonathan-fardy/
-image: /images/wp-content/uploads/2018/10/Canada_war_tax_stamp_on_postcard.jpg
+image: /images/wp-content/uploads/2018/10/Canada_war_tax_stamp_on_postcard.webp
 
 categories:
   - art-theory
@@ -79,7 +79,7 @@ I want instead to turn to a parallel problem in the arts: the reception and stan
 
 The art of Duchamp is arguably the most philosophical art of the twentieth-century. His so-called “readymade” artworks – most memorably his urinal-as-art-object, the *Fountain* of 1917 – called into question the standard assumptions that had until that moment grounded the practice and theory of art. *Fountain* was found and not made; it exhibited little to no aesthetic content; it was commercial, industrial, everyday – banal.
 
-![](/images/wp-content/uploads/2018/10/Duchamp_Fountaine-284x300.jpg)
+![](/images/wp-content/uploads/2018/10/Duchamp_Fountaine-284x300.webp)
 
 Duchamp was largely marginalized in the first historical accountings of modern art. The modernist “movements” from French Realism through Cubism to Abstract Expressionism and so forth, were understood by formalist critics, notably Clement Greenberg, as a series of self-critical attempts to uncover a purified ontology of painting and sculpture.
 

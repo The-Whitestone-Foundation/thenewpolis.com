@@ -3,7 +3,7 @@ title: "CRITICAL CONVERSATIONS – The Power of “Political Erasure”,  A Semi
 date: 2022-02-22T16:19:00+00:00
 author: thenewpolis
 permalink: /2022/02/22/critical-conversations-the-power-of-political-erasure-a-chat-with-arthur-bradley-announcements/
-image: /images/wp-content/uploads/2022/02/Guernica_museum_sofia_queen_on_july_2018-rotated.jpg
+image: /images/wp-content/uploads/2022/02/Guernica_museum_sofia_queen_on_july_2018-rotated.webp
 
 categories:
   - critical-conversations

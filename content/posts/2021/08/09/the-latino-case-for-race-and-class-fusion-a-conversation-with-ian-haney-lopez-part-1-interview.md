@@ -3,7 +3,7 @@ title: "The Latino Case For Race And Class Fusion – A Conversation With Ian Ha
 date: 2021-08-09T02:50:00+00:00
 author: Ian Haney Lopez
 permalink: /2021/08/09/the-latino-case-for-race-and-class-fusion-a-conversation-with-ian-haney-lopez-part-1-interview/
-image: /images/wp-content/uploads/2021/08/800px-Fiestas_Patrias_Parade_South_Park_Seattle_2017_-_133_-_Sea_Mar_Chicano-Latino_Cultural_Museum.jpg
+image: /images/wp-content/uploads/2021/08/800px-Fiestas_Patrias_Parade_South_Park_Seattle_2017_-_133_-_Sea_Mar_Chicano-Latino_Cultural_Museum.webp
 
 categories:
   - critical-race-theory

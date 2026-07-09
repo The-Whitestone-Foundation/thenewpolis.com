@@ -3,7 +3,7 @@ title: "The Pataphysics of Pharmakoi (Roger Green)"
 date: 2018-11-30T22:17:12+00:00
 author: Roger Green
 permalink: /2018/11/30/the-pataphysics-of-pharmakoi/
-image: /images/wp-content/uploads/2018/11/Maldoror_Frontispiz.gif
+image: /images/wp-content/uploads/2018/11/Maldoror_Frontispiz.webp
 
 categories:
   - critical-theory

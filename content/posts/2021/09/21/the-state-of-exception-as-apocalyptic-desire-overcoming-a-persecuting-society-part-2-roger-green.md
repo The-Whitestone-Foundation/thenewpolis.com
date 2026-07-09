@@ -3,7 +3,7 @@ title: "THE STATE OF EXCEPTION AS APOCALYPTIC DESIRE – OVERCOMING A PERSECUTIN
 date: 2021-09-21T12:49:00+00:00
 author: Roger Green
 permalink: /2021/09/21/the-state-of-exception-as-apocalyptic-desire-overcoming-a-persecuting-society-part-2-roger-green/
-image: /images/wp-content/uploads/2021/09/analyzing-the-theme-of-equality-in-thomas-hobbes-leviathan.jpeg
+image: /images/wp-content/uploads/2021/09/analyzing-the-theme-of-equality-in-thomas-hobbes-leviathan.webp
 
 categories:
   - political-theology

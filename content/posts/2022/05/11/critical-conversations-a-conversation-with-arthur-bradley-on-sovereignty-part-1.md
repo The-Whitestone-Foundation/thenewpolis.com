@@ -3,7 +3,7 @@ title: "CRITICAL CONVERSATIONS – A Conversation With Arthur Bradley On Soverei
 date: 2022-05-11T17:55:00+00:00
 author: Arthur Bradley
 permalink: /2022/05/11/critical-conversations-a-conversation-with-arthur-bradley-on-sovereignty-part-1/
-image: /images/wp-content/uploads/2022/05/800px-Auschwitz_concentration_camp_in_poland.jpg
+image: /images/wp-content/uploads/2022/05/800px-Auschwitz_concentration_camp_in_poland.webp
 
 categories:
   - critical-conversations

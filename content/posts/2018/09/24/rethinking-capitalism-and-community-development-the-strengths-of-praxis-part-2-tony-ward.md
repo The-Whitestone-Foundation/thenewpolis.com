@@ -3,7 +3,7 @@ title: "Rethinking Capitalism And Community Development – The Strengths Of Pra
 date: 2018-09-24T22:29:44+00:00
 author: Tony Ward
 permalink: /2018/09/24/rethinking-capitalism-and-community-development-the-strengths-of-praxis-part-2-tony-ward/
-image: /images/wp-content/uploads/2018/09/IMG_0462.jpg
+image: /images/wp-content/uploads/2018/09/IMG_0462.webp
 categories:
   - indigenous-theory
 tags:
@@ -40,7 +40,7 @@ Following a fourteen-week process of community engagement, with five separate *n
 
 ## The Designs
 
-![](/images/wp-content/uploads/2018/08/site-1-300x188.jpg)
+![](/images/wp-content/uploads/2018/08/site-1-300x188.webp)
 
 Ground Floor Plan of Supermarket
 
@@ -52,7 +52,7 @@ The development was planned in three stages to facilitate funding and to allow f
 
 The primary feature, designed to attract attention and engagement, was a 16m transparent climbing tower, visible from the street and located next to the café. The intention was to bring interest and life to the street and to turn around the seedy economy of the existing street with a state of the art and environmentally and economically sustainable facility. Stage 2 involved the development of a purpose-designed facility for the service providers, releasing more space in the original building for community facilities. Stage 3 involved the development of a connecting gymnasium and work-out facility with associated physical therapies. The three distinct elements of the design were clustered around a central courtyard to be used for farmers markets, cultural and food festival and parkour activities.
 
-![](/images/wp-content/uploads/2018/08/site-2-300x290.jpg)
+![](/images/wp-content/uploads/2018/08/site-2-300x290.webp)
 
 Ground Floor Plan of High School
 
@@ -102,7 +102,7 @@ Because of a misguided sense of intellectual or social superiority, these otherw
 
 Any attempt to confront this academic game directly risks peer and institutional censure – accusations of lack of academic rigor, of political bias and indoctrination – and exclusion from the game itself. Witness for instance, [David Horowitz’s invective](https://www.amazon.com/dp/B00B77AO88/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) about “dangerous academics.” Confronting the University’s own culpability in state hegemony and social, cultural and economic oppression is risky, and walking the fine line of institutional acceptance and social activism is difficult, but absolutely necessary. Despite these difficulties there remains still the hope and opportunity for creative academics to resolve these tensions and contradictions through programs that combine both critical theory and praxis in a form of community engagement that avoids the pitfall of charitable and therefore patronizing work.
 
-*![](/images/wp-content/uploads/2018/08/community-praxis-300x182.jpg)Theory – Practice: Community Praxis*
+*![](/images/wp-content/uploads/2018/08/community-praxis-300x182.webp)Theory – Practice: Community Praxis*
 
 One of the difficulties confronting academics who wish to engage in community praxis concerns the tensions that exist between educational praxis – critical pedagogy – which sees the problem of developing pedagogies that flow from and can reflexively inform educational theories, and *community praxis* that is concerned with social, cultural and political change in the world *beyond* academia in a direct engagement in community activism. For many academics, the *conscientization* of students confines itself to the academic environment, to the classroom, and rarely, if ever, extends beyond this in a relationship with what I have elsewhere called a “critical other” – the non-academic real world of the oppressed.
 

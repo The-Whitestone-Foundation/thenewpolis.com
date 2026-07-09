@@ -3,7 +3,7 @@ title: "Expanding the Rhetorical, Genealogical, and New Materialist Implications
 date: 2018-07-16T15:36:43+00:00
 author: Roger Green
 permalink: /2018/07/16/expanding-the-rhetorical-genealogical-and-new-materialist-implications-of-joshua-rameys-the-politics-of-divination-joshua-hanan/
-image: /images/wp-content/uploads/2018/07/Rhetoric-enthroned-invitation-antwerp-landjuweel-1561.jpg
+image: /images/wp-content/uploads/2018/07/Rhetoric-enthroned-invitation-antwerp-landjuweel-1561.webp
 
 categories:
   - neoliberalism

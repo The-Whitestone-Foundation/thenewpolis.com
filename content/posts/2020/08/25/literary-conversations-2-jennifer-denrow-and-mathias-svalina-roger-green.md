@@ -3,7 +3,7 @@ title: "Literary Conversations 2 – Jennifer Denrow and Mathias Svalina (Roger 
 date: 2020-08-25T00:07:20+00:00
 author: Roger Green
 permalink: /2020/08/25/literary-conversations-2-jennifer-denrow-and-mathias-svalina-roger-green/
-image: /images/wp-content/uploads/2020/08/dream-thumb.jpg
+image: /images/wp-content/uploads/2020/08/dream-thumb.webp
 
 categories:
   - aesthetics

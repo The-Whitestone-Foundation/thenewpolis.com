@@ -5,7 +5,7 @@ author:
   - Tink Tinker
   - Roger Green
 permalink: /2023/02/16/eurochristian-or-what-are-we-going-to-do-with-white-people-revisited-tink-tinker-and-roger-green-part-1/
-image: /images/wp-content/uploads/2023/04/on-an-island.jpg
+image: /images/wp-content/uploads/2023/04/on-an-island.webp
 
 categories:
   - indigenous-theory

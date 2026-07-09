@@ -3,7 +3,7 @@ title: "Is Theological Education Becoming Post-Christian? (Roger Green)"
 date: 2020-01-06T04:32:22+00:00
 author: Roger Green
 permalink: /2020/01/06/is-theological-education-becoming-post-christian-roger-green/
-image: /images/wp-content/uploads/2020/01/Unknown-2-1.jpeg
+image: /images/wp-content/uploads/2020/01/Unknown-2-1.webp
 
 categories:
   - higher-education

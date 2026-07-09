@@ -3,7 +3,7 @@ title: "On Neoliberalism And The Politics Of Divination – An Interview With Jo
 date: 2018-06-11T03:56:18+00:00
 author: Roger Green
 permalink: /2018/06/11/on-neoliberalism-and-the-politics-of-divination-an-interview-with-joshua-ramey/
-image: /images/wp-content/uploads/2023/07/October-revolution.png
+image: /images/wp-content/uploads/2023/07/October-revolution.webp
 
 categories:
   - critical-theory

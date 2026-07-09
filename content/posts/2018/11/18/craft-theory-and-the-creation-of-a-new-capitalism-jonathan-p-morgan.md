@@ -3,7 +3,7 @@ title: "Craft Theory And The Creation Of A New Capitalism (Jonathan P. Morgan)"
 date: 2018-11-18T01:01:44+00:00
 author: thenewpolis
 permalink: /2018/11/18/craft-theory-and-the-creation-of-a-new-capitalism-jonathan-p-morgan/
-image: /images/wp-content/uploads/2018/11/Handicrafts.jpg
+image: /images/wp-content/uploads/2018/11/Handicrafts.webp
 
 categories:
   - art-theory
@@ -54,7 +54,7 @@ Such a view presumes that one can never truly comprehend any sort of object bey
 
 I propose Meyer’s praise of abstraction as a liberating force to be misguided. It is, in fact, evidence of an explicitly capitalist approach to existence shrouded behind the same rationalizations and perceptual distortions found within enframing. When Meyer writes about “the idea of object” as present in what others may perceive as “cold and inhuman” artworks, she falls victim to the same epistemological device explored above that perpetuates commodity fetishism (129). She implies that some immaterial ideal of all ‘objects’ predates any sort of material manifestation of the concept. Thus, when recounting the works of Dan Flavin, Tony Smith, and Bill Bollinger, overtures on the destruction of “the object’s objective boundaries,” or the crushing of the object “under the weight of its own *Gestalt*,” or some “confrontation with the very nonexistence of the object” are found wanting (129-130). 
 
-![](/images/wp-content/uploads/2018/11/CraftFig1-3.jpg)
+![](/images/wp-content/uploads/2018/11/CraftFig1-3.webp)
 
 Fig. 1. “Monument for V Tatlin,” 1969, by Dan Flavin. (Left) Fig. 2. “Die,” 1962, by Tony Smith. (Center) Fig. 3 “Rope Piece,” 1969, by Bill Bollinger. (Right)
 
@@ -70,7 +70,7 @@ The critical danger of enframing as a worldview is the threat “that everything
 
 *Poiēsis* and *technē* are active processes that we initiate, but what is available to us in this situation is determined by what Heidegger calls *geschick*. The term *geschick* is often translated as ‘fate’ or ‘destining’ as derived from Heidegger’s own translation as “to send” (329). As he defines it, destining is when something is projected “into objectifying representation” that allows a concept to become part of history via *poiēsis* (329-30). There is an almost fatalistic view at work here, but when one digs into the nuance of this German term, a stunning constellation of meaning arises.
 
-![](/images/wp-content/uploads/2018/11/CraftFig4-1024x946.jpg)
+![](/images/wp-content/uploads/2018/11/CraftFig4-1024x946.webp)
 
 An etymological diagram of the term geschick.
 
@@ -86,7 +86,7 @@ One must find a path within those conditions that results in a well-made object 
 
 In the wake of de-objectification, contemporary art has slipped into fatalism as evidenced by the many reactionary approaches to the ills of capitalism. When artists make anti-capitalist works—those designed to not only critique the system but for total incompatibility with it—they tacitly assert that its flaws can only be avoided by abolishing the system altogether.
 
-![](/images/wp-content/uploads/2018/11/CraftFig5-282x300.jpg)
+![](/images/wp-content/uploads/2018/11/CraftFig5-282x300.webp)
 
 Untitled anti-capitalist graffito, c.2014
 

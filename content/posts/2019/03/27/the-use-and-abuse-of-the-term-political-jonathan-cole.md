@@ -3,7 +3,7 @@ title: "The Use And Abuse Of The Term “Political” (Jonathan Cole)"
 date: 2019-03-27T17:27:49+00:00
 author: Jonathan Cole
 permalink: /2019/03/27/the-use-and-abuse-of-the-term-political-jonathan-cole/
-image: /images/wp-content/uploads/2019/03/Screen-Shot-2019-03-27-at-10.23.07-AM.png
+image: /images/wp-content/uploads/2019/03/Screen-Shot-2019-03-27-at-10.23.07-AM.webp
 
 categories:
   - political-theory

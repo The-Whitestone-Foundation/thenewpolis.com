@@ -3,7 +3,7 @@ title: "Radical Politics And “The Myth Of The State” (Carl Raschke)"
 date: 2020-02-25T15:33:14+00:00
 author: Carl Raschke
 permalink: /2020/02/25/radical-politics-and-the-myth-of-the-state-carl-raschke/
-image: /images/wp-content/uploads/2020/02/revolution-30590_1280.png
+image: /images/wp-content/uploads/2020/02/revolution-30590_1280.webp
 
 categories:
   - marxism

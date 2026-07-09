@@ -3,7 +3,7 @@ title: "“Damn It, He’s An Injun!” Christian Murder, Colonial Wealth, And T
 date: 2019-01-21T15:25:34+00:00
 author: Roger Green
 permalink: /2019/01/21/damn-it-hes-an-injun-christian-murder-colonial-wealth-and-tanned-human-skin-tink-tinker-wazhazhe-udsethe/
-image: /images/wp-content/uploads/2019/01/devised-a-way-to-hang-natives-and-burn-them-alive-simultaneously-photo-u1.jpeg
+image: /images/wp-content/uploads/2019/01/devised-a-way-to-hang-natives-and-burn-them-alive-simultaneously-photo-u1.webp
 
 categories:
   - american-history

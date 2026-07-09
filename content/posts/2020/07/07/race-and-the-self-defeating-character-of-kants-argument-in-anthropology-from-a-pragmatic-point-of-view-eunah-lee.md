@@ -3,7 +3,7 @@ title: "Race And The Self-Defeating Character of Kant’s Argument In “Anthrop
 date: 2020-07-07T22:51:02+00:00
 author: Eunah Lee
 permalink: /2020/07/07/race-and-the-self-defeating-character-of-kants-argument-in-anthropology-from-a-pragmatic-point-of-view-eunah-lee/
-image: /images/wp-content/uploads/2020/07/Kants_Prolegomena_-_Frontispiece.png
+image: /images/wp-content/uploads/2020/07/Kants_Prolegomena_-_Frontispiece.webp
 
 categories:
   - philosophy

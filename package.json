@@ -4,8 +4,9 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "eleventy --serve --incremental",
+    "dev:fast": "node scripts/serve-site.mjs",
     "start": "npm run dev",
-    "build": "npm run sequoia:stage && rm -rf _site && eleventy && npm run build:search",
+    "build": "rm -rf _site && eleventy && npm run build:search",
     "build:search": "pagefind --site _site --glob \"**/*.html\"",
     "sequoia:stage": "node scripts/build-sequoia-content.mjs"
   },

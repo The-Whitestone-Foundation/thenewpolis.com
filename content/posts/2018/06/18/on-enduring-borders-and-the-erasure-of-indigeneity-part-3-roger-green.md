@@ -3,7 +3,7 @@ title: "On Enduring Borders And The Erasure Of Indigeneity, Part 3 (Roger Green)
 date: 2018-06-18T18:05:09+00:00
 author: Roger Green
 permalink: /2018/06/18/on-enduring-borders-and-the-erasure-of-indigeneity-part-3-roger-green/
-image: /images/wp-content/uploads/2023/07/October-revolution.png
+image: /images/wp-content/uploads/2023/07/October-revolution.webp
 
 categories:
   - indigenous-theory

@@ -5,7 +5,7 @@ author:
   - Tink Tinker
   - Roger Green
 permalink: /2023/03/17/eurochristian-or-what-are-we-going-to-do-with-white-people-revisited-tink-tinker-and-roger-green-part-3/
-image: /images/wp-content/uploads/2023/04/Tecumsah-saving-prisoners.jpg
+image: /images/wp-content/uploads/2023/04/Tecumsah-saving-prisoners.webp
 
 categories:
   - indigenous-theory

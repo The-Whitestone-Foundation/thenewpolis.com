@@ -3,7 +3,7 @@ title: "On Political Theology And Religious Poetics – A Tribute To Luis León 
 date: 2019-03-13T02:19:41+00:00
 author: Roger Green
 permalink: /2019/03/13/on-political-theology-and-religious-poetics-a-tribute-to-luis-leon-roger-k-green/
-image: /images/wp-content/uploads/2019/03/santa-muerta-3.jpg
+image: /images/wp-content/uploads/2019/03/santa-muerta-3.webp
 
 categories:
   - borderlands

@@ -3,7 +3,7 @@ title: "“Include Me Out” – Abjection And the Post-Politics Of Progressive 
 date: 2021-03-16T03:51:13+00:00
 author: Jared Lacy
 permalink: /2021/03/16/include-me-out-abjection-and-the-post-politics-pf-progressive-neoliberal-hegemony-part-1-jared-lacey/
-image: /images/wp-content/uploads/2021/03/Contemporary_US_Politics_Month_in_UkWiki.png
+image: /images/wp-content/uploads/2021/03/Contemporary_US_Politics_Month_in_UkWiki.webp
 
 categories:
   - neoliberalism

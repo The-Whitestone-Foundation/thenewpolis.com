@@ -3,7 +3,7 @@ title: "The Unsustainablity Of American Power – A Sustained Critique of G. Joh
 date: 2023-10-27T03:45:13+00:00
 author: Fernando G. Herrero
 permalink: /2023/10/27/the-unsustainablity-of-american-power-a-sustained-critique-of-g-john-ikenberry-fernando-g-herrero-part-2/
-image: /images/wp-content/uploads/2023/11/National_Institute_of_International_Affairs-1.jpg
+image: /images/wp-content/uploads/2023/11/National_Institute_of_International_Affairs-1.webp
 
 categories:
   - international-relations

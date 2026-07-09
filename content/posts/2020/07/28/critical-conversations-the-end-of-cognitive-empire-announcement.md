@@ -3,7 +3,7 @@ title: "Critical Conversations – “The End Of Cognitive Empire” (Announceme
 date: 2020-07-28T22:39:33+00:00
 author: thenewpolis
 permalink: /2020/07/28/critical-conversations-the-end-of-cognitive-empire-announcement/
-image: /images/wp-content/uploads/2020/07/Indigenous_diorama_-_Museo_de_las_Americas_-_San_Juan_Puerto_Rico_-_DSC06882.jpg
+image: /images/wp-content/uploads/2020/07/Indigenous_diorama_-_Museo_de_las_Americas_-_San_Juan_Puerto_Rico_-_DSC06882.webp
 
 categories:
   - announcements

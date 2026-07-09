@@ -3,7 +3,7 @@ title: "The Dialectic Of Enlightenment From A Postsecular Lens, Part 3 (Roger Gr
 date: 2019-08-26T22:25:50+00:00
 author: Roger Green
 permalink: /2019/08/26/the-dialectic-of-enlightenment-from-a-postsecular-lens-part-3-roger-green/
-image: /images/wp-content/uploads/2019/08/creation-of-the-labyrinth-of-Crete.jpg
+image: /images/wp-content/uploads/2019/08/creation-of-the-labyrinth-of-Crete.webp
 
 categories:
   - aesthetics

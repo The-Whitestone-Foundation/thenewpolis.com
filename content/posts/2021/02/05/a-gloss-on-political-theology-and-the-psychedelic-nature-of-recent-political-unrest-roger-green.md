@@ -3,7 +3,7 @@ title: "A Gloss On ‘Political Theology’ And The Psychedelic Nature of Recent
 date: 2021-02-05T22:27:21+00:00
 author: Roger Green
 permalink: /2021/02/05/a-gloss-on-political-theology-and-the-psychedelic-nature-of-recent-political-unrest-roger-green/
-image: /images/wp-content/uploads/2021/02/9551370008_6a718a4633_b.jpg
+image: /images/wp-content/uploads/2021/02/9551370008_6a718a4633_b.webp
 
 categories:
   - aesthetics

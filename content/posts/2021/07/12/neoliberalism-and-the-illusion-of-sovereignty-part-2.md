@@ -3,7 +3,7 @@ title: "Neoliberalism And The Illusion Of Sovereignty, Part 2 (Carl Raschke)"
 date: 2021-07-12T16:47:31+00:00
 author: Carl Raschke
 permalink: /2021/07/12/neoliberalism-and-the-illusion-of-sovereignty-part-2/
-image: /images/wp-content/uploads/2021/07/Screen-Shot-2021-07-13-at-11.46.21-AM.png
+image: /images/wp-content/uploads/2021/07/Screen-Shot-2021-07-13-at-11.46.21-AM.webp
 
 categories:
   - neoliberalism

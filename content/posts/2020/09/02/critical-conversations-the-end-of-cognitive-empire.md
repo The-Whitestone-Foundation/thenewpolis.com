@@ -3,7 +3,7 @@ title: "“The End Of Cognitive Empire” (Critical Conversations)"
 date: 2020-09-02T00:36:45+00:00
 author: Roger Green
 permalink: /2020/09/02/critical-conversations-the-end-of-cognitive-empire/
-image: /images/wp-content/uploads/2020/09/Making-a-new-world.jpg
+image: /images/wp-content/uploads/2020/09/Making-a-new-world.webp
 
 categories:
   - critical-conversations

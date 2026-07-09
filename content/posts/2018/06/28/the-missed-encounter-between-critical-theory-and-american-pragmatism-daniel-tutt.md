@@ -3,7 +3,7 @@ title: "The Missed Encounter Between Critical Theory And American Pragmatism (Da
 date: 2018-06-28T05:37:52+00:00
 author: Daniel Tutt
 permalink: /2018/06/28/the-missed-encounter-between-critical-theory-and-american-pragmatism-daniel-tutt/
-image: /images/wp-content/uploads/2018/06/Style-Bust-of-John-Dewey-Drip-Painting-0.4MP.jpg
+image: /images/wp-content/uploads/2018/06/Style-Bust-of-John-Dewey-Drip-Painting-0.4MP.webp
 
 categories:
   - critical-theory

@@ -3,7 +3,7 @@ title: "Capitalism and Community Health – What We Can Learn From Indigenous Co
 date: 2018-08-26T03:52:37+00:00
 author: Tony Ward
 permalink: /2018/08/26/capitalism-and-community-health-what-we-can-learn-from-indigenous-communities-part-2-tony-ward/
-image: /images/wp-content/uploads/2018/08/ea678751-a31f-4d2c-b65d-bd67265c119a.jpg
+image: /images/wp-content/uploads/2018/08/ea678751-a31f-4d2c-b65d-bd67265c119a.webp
 
 categories:
   - indigenous-theory

@@ -3,7 +3,7 @@ title: "The Fracturing Of World Order – A Series of International and Interdis
 date: 2022-03-07T01:14:47+00:00
 author: thenewpolis
 permalink: /2022/03/07/the-fracturing-of-world-order-a-series-of-international-and-interdisciplinary-online-mini-conferences-call-for-papers-and-presentations-announcement/
-image: /images/wp-content/uploads/2022/03/crack-3364707_1280.jpg
+image: /images/wp-content/uploads/2022/03/crack-3364707_1280.webp
 
 categories:
   - announcements

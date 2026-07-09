@@ -3,7 +3,7 @@ title: "Anne Waldman’s A Dark Flower For The End Times (Roger Green)"
 date: 2020-03-17T20:22:05+00:00
 author: Roger Green
 permalink: /2020/03/17/anne-waldmans-a-dark-flower-for-the-end-times-roger-green/
-image: /images/wp-content/uploads/2020/03/IMG_0476-2.jpg
+image: /images/wp-content/uploads/2020/03/IMG_0476-2.webp
 
 categories:
   - aesthetics
@@ -39,7 +39,7 @@ Commenting on the recording, Waldman says,
 
 Blending deep ecological critique, spirituality, physics of entanglement, Waldman’s poetry is saturated with different dimensions even as she sutures them before our eyes and ears.
 
-![](/images/wp-content/uploads/2020/03/images-2.jpeg)
+![](/images/wp-content/uploads/2020/03/images-2.webp)
 
 Anne Waldman and Ted Berrigan read their poem, [“Memorial Day”](https://www.youtube.com/watch?v=CjfWeiTTvnw) in the early 1970s
 

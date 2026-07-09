@@ -3,7 +3,7 @@ title: "The Primordial Substitute Teacher – Neoliberalism, Racial Capitalism, 
 date: 2021-02-01T17:10:46+00:00
 author: Thomas Joyce
 permalink: /2021/02/01/the-primordial-substitute-teacher-neoliberalism-racial-capitalism-and-the-ideology-of-students-first-part-3-thomas-joyce/
-image: /images/wp-content/uploads/2021/02/OKLAHOMA_CITY_PUBLIC_SCHOOLS_ce_series.png
+image: /images/wp-content/uploads/2021/02/OKLAHOMA_CITY_PUBLIC_SCHOOLS_ce_series.webp
 
 categories:
   - education

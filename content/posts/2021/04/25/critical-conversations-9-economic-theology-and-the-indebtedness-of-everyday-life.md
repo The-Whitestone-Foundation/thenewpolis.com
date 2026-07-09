@@ -3,7 +3,7 @@ title: "Critical Conversations 9 – Economic Theology And The Indebtedness Of E
 date: 2021-04-25T16:19:50+00:00
 author: Roger Green
 permalink: /2021/04/25/critical-conversations-9-economic-theology-and-the-indebtedness-of-everyday-life/
-image: /images/wp-content/uploads/2021/04/2ed77d35-2f8e-406a-a6c4-1549984ef8db.jpeg
+image: /images/wp-content/uploads/2021/04/2ed77d35-2f8e-406a-a6c4-1549984ef8db.webp
 
 categories:
   - announcements

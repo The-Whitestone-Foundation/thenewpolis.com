@@ -3,7 +3,7 @@ title: "Evangelicalism, Pentecostalism, And The Quotidian Academic Terror Of “
 date: 2023-01-12T05:10:00+00:00
 author: Carl Raschke
 permalink: /2023/01/12/evangelicalism-pentecostalism-and-the-quotidian-academic-terror-of-christian-nationalism-part-1-carl-raschke/
-image: /images/wp-content/uploads/2023/02/US-Capitol-scaled-1.jpg
+image: /images/wp-content/uploads/2023/02/US-Capitol-scaled-1.webp
 
 categories:
   - political-theology

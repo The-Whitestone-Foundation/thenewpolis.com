@@ -3,7 +3,7 @@ title: "One Divides Into Two – The French Connection Of Mao, May, And Today (J
 date: 2018-09-04T19:33:48+00:00
 author: Roger Green
 permalink: /2018/09/04/one-divides-into-two-the-french-connection-of-mao-may-and-today-jonathan-fardy/
-image: /images/wp-content/uploads/2018/09/louis-althusser-resource-pack-1-728.jpg
+image: /images/wp-content/uploads/2018/09/louis-althusser-resource-pack-1-728.webp
 
 categories:
   - critical-theory

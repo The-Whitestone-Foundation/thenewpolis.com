@@ -5,7 +5,7 @@ author:
   - Isabella Guanzini
   - Kieryn Wurts
 permalink: /2021/07/19/critical-conversations-10-tenderness-or-putting-neoliberalism-on-the-analysts-couch-isabella-guanzini-and-kieryn-wurts/
-image: /images/wp-content/uploads/2021/07/Tender_Loving_Care.jpg
+image: /images/wp-content/uploads/2021/07/Tender_Loving_Care.webp
 
 categories:
   - critical-conversations

@@ -3,7 +3,7 @@ title: "“Naming The Darkness,” Spiritual Violence, And Radical Incompletenes
 date: 2020-07-18T23:00:18+00:00
 author: James E. Willis, III
 permalink: /2020/07/18/naming-the-darkness-spiritual-violence-and-radical-incompleteness-resituating-a-political-theology-part-2-james-e-willis-iii/
-image: /images/wp-content/uploads/2020/07/Day_of_Darkness.jpg
+image: /images/wp-content/uploads/2020/07/Day_of_Darkness.webp
 
 categories:
   - political-theology

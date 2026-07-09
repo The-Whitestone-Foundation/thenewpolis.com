@@ -3,7 +3,7 @@ title: "Racism, Anti-Racism, And Marxism – How Poststructuralism Morphed The E
 date: 2020-07-27T03:57:28+00:00
 author: Carl Raschke
 permalink: /2020/07/27/racism-anti-racism-and-marxism-how-poststructuralism-morphed-the-emancipatory-project-into-progressive-neoliberalism-part-1/
-image: /images/wp-content/uploads/2020/07/Franz-Fanon.jpg
+image: /images/wp-content/uploads/2020/07/Franz-Fanon.webp
 
 categories:
   - political-theory

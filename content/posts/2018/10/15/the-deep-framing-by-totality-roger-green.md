@@ -3,7 +3,7 @@ title: "The Deep Framing By Totality (Roger Green)"
 date: 2018-10-15T10:18:06+00:00
 author: Roger Green
 permalink: /2018/10/15/the-deep-framing-by-totality-roger-green/
-image: /images/wp-content/uploads/2018/10/Screen-Shot-2018-10-15-at-3.25.35-PM-1.png
+image: /images/wp-content/uploads/2018/10/Screen-Shot-2018-10-15-at-3.25.35-PM-1.webp
 
 categories:
   - literary-history
@@ -127,7 +127,7 @@ Even for pagan Anglo-Saxons, an important person (or in some cases persons) was 
 
 While dead men in Wulfstan’s descriptions are eventually burned with their weapons, Davidson’s study discusses undisturbed graves both with household items such as bowls and sometimes extravagant items such as ships.  She claims “In these tombs men (and at Osberg a woman) were buried with rich possessions, usually with sacrificed animals and possibly human beings also, in sea-going vessels or smaller boats.  Ship-funeral was regarded as predominantly Scandinavian, yet the Sutton Hoo grave \[see image below\], dated about 650, is as early as any dateable.”
 
-![](/images/wp-content/uploads/2018/10/41366-004-4094178A-300x271.jpg)
+![](/images/wp-content/uploads/2018/10/41366-004-4094178A-300x271.webp)
 
 The shift from ship-burials, originally at sea, to mound burials and eventually away from cremation, accompanies the shift from pagan to Christian ritual practices (174). Moreover, it was believed that evil spirits and dragons, as in *Beowulf* and, more popularly depicted in Tolkein’s Anglo-Saxon-influenced novels, guarded the mounds from grave robbers. Concerning the end of *Beowulf,* Davidson writes:
 

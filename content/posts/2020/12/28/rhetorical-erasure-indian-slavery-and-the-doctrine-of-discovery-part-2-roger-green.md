@@ -3,7 +3,7 @@ title: "Rhetorical Erasure, Indian Slavery, And The Doctrine Of Discovery, Part 
 date: 2020-12-28T21:12:34+00:00
 author: Roger Green
 permalink: /2020/12/28/rhetorical-erasure-indian-slavery-and-the-doctrine-of-discovery-part-2-roger-green/
-image: /images/wp-content/uploads/2020/12/Blog_Image_Catherine_crop-e1443536966392.jpg
+image: /images/wp-content/uploads/2020/12/Blog_Image_Catherine_crop-e1443536966392.webp
 
 categories:
   - american-history
@@ -25,7 +25,7 @@ As we enter 2021, legacies of racial oppression have taken center-stage in publi
 
 One of the many problems with such thinking is that it situates struggles over inequity in the past, rather than the present. With respect to American Indians in much public sentiment in the U.S., the relegation of inequity to an even more distant past lends itself to heightened complacency. Many Americans learned about “manifest destiny” in elementary school with little substantive critique, and they are little-aware of how their historical narratives of this land move from east to west derive from that ideology — as if John Ghast’s portrait of *American Progress* were fixed in their collective unconscious.
 
-![](/images/wp-content/uploads/2020/12/Unknown-4.jpeg)
+![](/images/wp-content/uploads/2020/12/Unknown-4.webp)
 
 John Ghast, *American Progress*, 1872
 

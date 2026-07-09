@@ -3,7 +3,7 @@ title: "An Introduction And Call For Submissions To The New Polis On The Doctrin
 date: 2020-11-09T20:25:29+00:00
 author: Roger Green
 permalink: /2020/11/09/an-introduction-and-call-for-submissions-to-the-new-polis-on-the-doctrine-of-discovery-roger-green/
-image: /images/wp-content/uploads/2020/11/Screen-Shot-2020-11-06-at-7.37.35-PM.png
+image: /images/wp-content/uploads/2020/11/Screen-Shot-2020-11-06-at-7.37.35-PM.webp
 
 categories:
   - american-history

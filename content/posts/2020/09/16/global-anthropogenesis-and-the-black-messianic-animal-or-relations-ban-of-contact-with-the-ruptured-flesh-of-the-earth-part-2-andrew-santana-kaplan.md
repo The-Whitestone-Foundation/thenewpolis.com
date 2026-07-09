@@ -3,7 +3,7 @@ title: "Global Anthropogenesis And The Black Messianic Animal, Or Relation’s B
 date: 2020-09-16T14:54:34+00:00
 author: Andrew Santana Kaplan
 permalink: /2020/09/16/global-anthropogenesis-and-the-black-messianic-animal-or-relations-ban-of-contact-with-the-ruptured-flesh-of-the-earth-part-2-andrew-santana-kaplan/
-image: /images/wp-content/uploads/2020/09/black-woman-in-mask.jpg
+image: /images/wp-content/uploads/2020/09/black-woman-in-mask.webp
 
 categories:
   - critical-race-theory

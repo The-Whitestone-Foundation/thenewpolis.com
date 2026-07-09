@@ -3,7 +3,7 @@ title: "Amorous Agonism And The Allergy To Difference, Part 1 (Roger Green)"
 date: 2019-04-29T19:31:56+00:00
 author: Roger Green
 permalink: /2019/04/29/amorous-agonism-and-the-allergy-to-difference-roger-green/
-image: /images/wp-content/uploads/2023/07/October-revolution.png
+image: /images/wp-content/uploads/2023/07/October-revolution.webp
 
 categories:
   - critical-theory

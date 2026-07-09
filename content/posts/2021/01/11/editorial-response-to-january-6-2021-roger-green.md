@@ -3,7 +3,7 @@ title: "The Meaning Of January 6, 2021 – Editorial Response I (Roger Green)"
 date: 2021-01-11T23:29:36+00:00
 author: Roger Green
 permalink: /2021/01/11/editorial-response-to-january-6-2021-roger-green/
-image: /images/wp-content/uploads/2021/01/Icy-Vortex_1.jpg
+image: /images/wp-content/uploads/2021/01/Icy-Vortex_1.webp
 
 categories:
   - american-history
@@ -175,7 +175,7 @@ Let’s look at a couple of images. This first one, I pull from an *[L.A. Times]
 
 This next image, I pull from an article on religionunplugged.com titled, “[The History Behind The Christian Flags Spotted At The Pro-Trump U.S. Capitol ‘Coup](https://religionunplugged.com/news/2021/1/6/some-history-behind-the-christian-flags-at-the-pro-trump-capitol-coup).'” It was a quick find, but there are plenty of images and signs that include POTUS 45’s name explicitly, including flags like the image above.
 
-![](/images/wp-content/uploads/2021/01/Unknown-5.jpeg)
+![](/images/wp-content/uploads/2021/01/Unknown-5.webp)
 
 First of all, among the many last-minute detractors and minimizers of the intimate relationship between eurochristianity and American exceptionalism, there will be…and already are…public disavowals of *their particular congregation’s* affiliations with a version of Christianity that aligns itself with empire in the great tradition of “Christen**DOM**ination” since Emperor Constantine. But this, I argue, is merely evidence of a perpetuation of exceptionalism rhetoric. Hence my broader historical perspective.
 

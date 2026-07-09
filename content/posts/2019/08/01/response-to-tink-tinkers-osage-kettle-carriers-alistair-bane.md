@@ -3,7 +3,7 @@ title: "Response To Tink Tinker’s “Osage Kettle Carriers” (Alistair Bane)"
 date: 2019-08-01T16:14:14+00:00
 author: Roger Green
 permalink: /2019/08/01/response-to-tink-tinkers-osage-kettle-carriers-alistair-bane/
-image: /images/wp-content/uploads/2019/07/Common_Snapping_Turtle.jpg
+image: /images/wp-content/uploads/2019/07/Common_Snapping_Turtle.webp
 
 categories:
   - gender-theory

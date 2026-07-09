@@ -3,7 +3,7 @@ title: "The Meaning Of May 1968 – A Sampling Of Reflections Around The Interne
 date: 2018-05-19T14:12:39+00:00
 author: thenewpolis
 permalink: /2018/05/19/the-meaning-of-may-1968-a-sampling-of-reflections-around-the-internet/
-image: /images/wp-content/uploads/2018/05/May-1968-flyer.jpg
+image: /images/wp-content/uploads/2018/05/May-1968-flyer.webp
 
 categories:
   - political-history

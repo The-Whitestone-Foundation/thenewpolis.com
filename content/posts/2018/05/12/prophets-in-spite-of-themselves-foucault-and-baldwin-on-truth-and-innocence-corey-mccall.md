@@ -3,7 +3,7 @@ title: "Prophets In Spite Of Themselves  – Foucault And Baldwin On Truth And I
 date: 2018-05-12T16:10:23+00:00
 author: Corey McCall
 permalink: /2018/05/12/prophets-in-spite-of-themselves-foucault-and-baldwin-on-truth-and-innocence-corey-mccall/
-image: /images/wp-content/uploads/2023/07/October-revolution.png
+image: /images/wp-content/uploads/2023/07/October-revolution.webp
 
 categories:
   - critical-theory

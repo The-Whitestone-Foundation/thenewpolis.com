@@ -3,7 +3,7 @@ title: "“I Abject” – Julia Kristeva And The Colonial Gaze (Alyssa Putzer)"
 date: 2021-05-10T04:26:28+00:00
 author: Alyssa Putzer
 permalink: /2021/05/10/i-abject-julia-kristeva-and-the-colonial-gaze-alyssa-putzer/
-image: /images/wp-content/uploads/2021/05/Julia-Kristeva-BNF-1.jpg
+image: /images/wp-content/uploads/2021/05/Julia-Kristeva-BNF-1.webp
 
 categories:
   - critical-theory

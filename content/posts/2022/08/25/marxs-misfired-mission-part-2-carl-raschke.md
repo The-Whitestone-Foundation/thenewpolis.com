@@ -3,7 +3,7 @@ title: "Marx’s Misfired Mission, Part 2 (Carl Raschke)"
 date: 2022-08-25T02:35:00+00:00
 author: Carl Raschke
 permalink: /2022/08/25/marxs-misfired-mission-part-2-carl-raschke/
-image: /images/wp-content/uploads/2022/08/The_Communist_Revolution_in_Gansu_10096906073.jpg
+image: /images/wp-content/uploads/2022/08/The_Communist_Revolution_in_Gansu_10096906073.webp
 
 categories:
   - marxism

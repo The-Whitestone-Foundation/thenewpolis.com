@@ -3,7 +3,7 @@ title: "The Angel Of History And The Ruins Of Paris – Walter Benjamin In Franc
 date: 2020-03-24T04:49:55+00:00
 author: Emma Fiedler
 permalink: /2020/03/24/the-angel-of-history-and-the-ruins-of-paris-walter-benjamin-in-france-part-3-richard-rottenburg/
-image: /images/wp-content/uploads/2020/03/Fukushima_I_by_Digital_Globe.jpg
+image: /images/wp-content/uploads/2020/03/Fukushima_I_by_Digital_Globe.webp
 
 categories:
   - political-philosophy

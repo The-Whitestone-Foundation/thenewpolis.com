@@ -3,7 +3,7 @@ title: "Pluritopic Hermeneutics, Polycentricity And Islamic Diplomacy – Rethin
 date: 2021-02-18T00:38:25+00:00
 author: Roger Green
 permalink: /2021/02/18/pluritopic-hermeneutics-polycentricity-and-islamic-diplomacy-rethinking-the-praxis-of-modern-diplomacy-otherwise-al-ghazzals-embassy-to-18th-century-spain-1766-1767/
-image: /images/wp-content/uploads/2021/02/8bdbf285-8def-4db4-b830-f168be5175c6.jpeg
+image: /images/wp-content/uploads/2021/02/8bdbf285-8def-4db4-b830-f168be5175c6.webp
 
 categories:
   - diplomacy

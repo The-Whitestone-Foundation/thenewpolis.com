@@ -3,7 +3,7 @@ title: "Althusser And Baudelaire: Flânerial And Utopian Theory (Jonathan Fardy)
 date: 2019-08-20T22:35:41+00:00
 author: Roger Green
 permalink: /2019/08/20/althusser-and-baudelaire-flanerial-and-utopian-theory-jonathan-fardy/
-image: /images/wp-content/uploads/2019/08/ft296nb17v_00008.jpg
+image: /images/wp-content/uploads/2019/08/ft296nb17v_00008.webp
 
 categories:
   - aesthetics

@@ -3,7 +3,7 @@ title: "The Catastrophe Of Thought – Political Theology, Political Spiritualit
 date: 2018-11-05T07:28:26+00:00
 author: thenewpolis
 permalink: /2018/11/05/the-catastrophe-of-thought-political-theology-political-spirituality-and-the-courage-of-truth-part-1-michael-dillon/
-image: /images/wp-content/uploads/2018/11/the_trumph-of-marart.jpg
+image: /images/wp-content/uploads/2018/11/the_trumph-of-marart.webp
 
 categories:
   - political-theology
@@ -23,7 +23,7 @@ As this clip from the 7^th^ Edition of *The World Economic Forum (Davos) Global 
 
 But the event is a trope common also, however, to revolutionary philosophers (Badiou), deconstructionists (Derrida), genealogists (Foucault), philosophical iconoclasts (Agamben) and Christian theologians (the Christ event), as it is to security managers, risk analysts, financial gurus (financial tsunamis, blank as well as black swans), complexity
 
-![](/images/wp-content/uploads/2018/11/c77f6ed3-2a4a-4a1b-bbc8-c268a5f71920-300x186.png)
+![](/images/wp-content/uploads/2018/11/c77f6ed3-2a4a-4a1b-bbc8-c268a5f71920-300x186.webp)
 
 The World Economic Forum Global Risks Report 2012 (32)  
 (https://www.weforum.org/reports/global-risks-2012-seventh-edition) (I have Bradley Evans to thank for drawing my attention to this report.)

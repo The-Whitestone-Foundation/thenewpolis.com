@@ -3,7 +3,7 @@ title: "Colonialism, Nationalism, and the COVID-19 Crisis in India (Alyssa Putze
 date: 2021-11-11T04:35:00+00:00
 author: Alyssa Putzer
 permalink: /2021/11/11/colonialism-nationalism-and-the-covid-19-crisis-in-india-alyssa-putzer/
-image: /images/wp-content/uploads/2021/11/800px-COVID-19_pandemic_lockdown_in_India_5_April_mass_lamp_lighting_event_2_3.jpg
+image: /images/wp-content/uploads/2021/11/800px-COVID-19_pandemic_lockdown_in_India_5_April_mass_lamp_lighting_event_2_3.webp
 
 categories:
   - decoloniality

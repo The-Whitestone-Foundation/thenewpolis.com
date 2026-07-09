@@ -3,7 +3,7 @@ title: "Like Ghosts From An Enchanter Fleeing – Denver’s Divinatory Poetics 
 date: 2018-03-03T12:06:08+00:00
 author: Roger Green
 permalink: /2018/03/03/like-ghosts-from-an-enchanter-fleeing-denvers-divinatory-poetics-roger-green/
-image: /images/wp-content/uploads/2023/07/October-revolution.png
+image: /images/wp-content/uploads/2023/07/October-revolution.webp
 
 categories:
   - critical-theory
@@ -104,7 +104,7 @@ The Denver writers I am concerned with are actively aware of these tropes, and t
 
 > *My first divination teachers were my mother, an excellent and animated card reader who used a modified version of a Vegas playing deck, an aunt, whose divination practice was based in scrying (she favored antebellum crystal punch bowls), and Mother Harriet Crossgrove, a practitioner working within the Southern Rootwork tradition. Mother Harriet used a regular deck of playing cards and the Bible as the foundation of her divinatory practice.* [(iii)](https://www.essaypress.org/selah-saterstrom/)
 
-![](/images/wp-content/uploads/2018/03/Unknown-1.jpeg)
+![](/images/wp-content/uploads/2018/03/Unknown-1.webp)
 
 Mother Harriet shows up in Saterstrom’s most recent novel, *Slab*.  There is something of “nature” and the forces of nature at work in divination, even if at times the gendered categories seem archaic.
 
@@ -120,7 +120,7 @@ Your will has little to do with it.  The will is an optative invention of Augus
 
 ## Selah Saterstrom
 
-*![](/images/wp-content/uploads/2019/06/Unknown-2.jpeg)*Selah Saterstrom’s 2015 novel, *Slab*, records in two acts the lingering thoughts of a woman as she performs on the theater of a slab of concrete that once held a home in the wake of a hurricane, literally a disaster.  Simultaneously, a preacher – whose name is Preacher – sermonizes to Pelicans 40 miles away.
+*![](/images/wp-content/uploads/2019/06/Unknown-2.webp)*Selah Saterstrom’s 2015 novel, *Slab*, records in two acts the lingering thoughts of a woman as she performs on the theater of a slab of concrete that once held a home in the wake of a hurricane, literally a disaster.  Simultaneously, a preacher – whose name is Preacher – sermonizes to Pelicans 40 miles away.
 
 Although mimicking in its hybridity both stage and screen writing, the text draws attention to its own genre, the novel, in its parodying of other mediums.  The book becomes more like a surrealist painting or Charles Ives’s uses of simultaneous textures than a staged play or linear alphabetic unfolding.
 
@@ -242,7 +242,7 @@ In the multiple ways, being is framed for us, moment by moment.  We are often s
 
 > The tradition of the oppressed teaches us that the ‘state of emergency’ in which we live is not the exception but the rule.  We must attain to a conception of history that is in keeping with this insight.  Then we shall clearly recognize that it is our task to bring about a real state of emergency, and this will improve our position in the struggle against Fascism.
 
-Resistance is an active theme in Waldman’s work.  Divination works amid the state of emergency – not in isolation, but in acts of commitment with readers, and there is no reason to suppose that it will always ![](/images/wp-content/uploads/2018/03/Unknown-6.jpeg)work in line with one’s particular politics.  What is this more *real* state that Benjamin is after?  When Jonah’s companions draw lots to decide who to throw from their boat, we catch a glimpse of cultural variety in the ancient world and a respect of others’ gods.
+Resistance is an active theme in Waldman’s work.  Divination works amid the state of emergency – not in isolation, but in acts of commitment with readers, and there is no reason to suppose that it will always ![](/images/wp-content/uploads/2018/03/Unknown-6.webp)work in line with one’s particular politics.  What is this more *real* state that Benjamin is after?  When Jonah’s companions draw lots to decide who to throw from their boat, we catch a glimpse of cultural variety in the ancient world and a respect of others’ gods.
 
 I suggest that hermeneutic listening gives us a way to engage in the folds of what Anne Waldman addresses as “Entanglement.”  Waldman is often seen as one of the last of America’s Beat poets, and although this lineage is certainly significant, her recent work has often been overshadowed by the broader legacy of the beat movement.  Her involvement with Allen Ginsberg and Trungpa Rinpoche in founding the Naropa Institute and the Jack Kerouac School of Disembodied Poetics forgets the fact that she has continued to be involved in its trajectory for more than forty years.
 
@@ -364,7 +364,7 @@ Hermeneutic listening is not just accompaniment.  Although improvised, I try to
 
 Although I dislike the recent use of the term, ‘re-enchantment’ is an appropriate theme in the Sikelianos family, which makes up a large area of poetic content for Eleni Sikelianos.  She is Granddaughter of Nobel prize nominee, Angelos Sikelianos, and Eva Palmer-Sikelianos, who together in 1927 decided to reinstate a Delphic Festival in Greece that included a staging of *Prometheus Bound*.  In [*You Animal Machine*](https://coffeehousepress.org/products/you-animal-machine), Eleni Sikelianos meditates on the matriarchal line and the assemblages of story that connect family:
 
-![](/images/wp-content/uploads/2018/03/Unknown-5.jpeg)
+![](/images/wp-content/uploads/2018/03/Unknown-5.webp)
 
 > Story is not the right word. History is too vague.  This is a net of family giftings, woven in darkly luminous filaments, the shirt daubed with Nessus’s blood that scorches the skin, wounding the susceptibilities.  But what is the key that turns the lock of the poison dress? Who is us? (Me and my mother). (2)
 

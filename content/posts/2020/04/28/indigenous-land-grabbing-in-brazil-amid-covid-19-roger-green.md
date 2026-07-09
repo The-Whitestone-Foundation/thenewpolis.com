@@ -3,7 +3,7 @@ title: "Indigenous Land-Grabbing In Brazil Amid COVID-19 (Roger Green)"
 date: 2020-04-28T22:12:20+00:00
 author: Roger Green
 permalink: /2020/04/28/indigenous-land-grabbing-in-brazil-amid-covid-19-roger-green/
-image: /images/wp-content/uploads/2020/04/slash_burn_farming_456.jpg
+image: /images/wp-content/uploads/2020/04/slash_burn_farming_456.webp
 
 categories:
   - ecology

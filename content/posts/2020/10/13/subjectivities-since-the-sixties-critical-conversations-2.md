@@ -3,7 +3,7 @@ title: "“Subjectivities Since the Sixties” (Critical Conversations 2)"
 date: 2020-10-13T15:11:06+00:00
 author: Roger Green
 permalink: /2020/10/13/subjectivities-since-the-sixties-critical-conversations-2/
-image: /images/wp-content/uploads/2020/09/914fca6f-6e3e-459f-8e0d-85e4e1503b5a.jpeg
+image: /images/wp-content/uploads/2020/09/914fca6f-6e3e-459f-8e0d-85e4e1503b5a.webp
 
 categories:
   - critical-conversations

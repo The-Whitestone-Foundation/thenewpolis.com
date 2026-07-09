@@ -3,7 +3,7 @@ title: "Why Sex And Religion Matter In Australian Politics (Paul Tyson)"
 date: 2019-12-31T15:33:59+00:00
 author: Roger Green
 permalink: /2019/12/31/why-sex-and-religion-matter-in-australian-politics-paul-tyson/
-image: /images/wp-content/uploads/2019/12/http-com.ft_.imagepublish.prod_.s3.amazonaws.com-b41a02e4-c04b-11e7-823b-ed31693349d3.jpeg
+image: /images/wp-content/uploads/2019/12/http-com.ft_.imagepublish.prod_.s3.amazonaws.com-b41a02e4-c04b-11e7-823b-ed31693349d3.webp
 
 categories:
   - australian-politics

@@ -3,7 +3,7 @@ title: "Call For Submissions"
 date: 2018-03-01T01:32:07+00:00
 author: thenewpolis
 permalink: /2018/03/01/call-for-submissions/
-image: /images/wp-content/uploads/2018/02/socialmag-cover-pexels-photo-799420.jpg
+image: /images/wp-content/uploads/2018/02/socialmag-cover-pexels-photo-799420.webp
 
 categories:
   - announcements

@@ -3,7 +3,7 @@ title: "Critical Conversations No. 11  – “Whiteshift,” Or The The Dynamics
 date: 2021-10-14T15:08:00+00:00
 author: Eric Kaufman
 permalink: /2021/10/14/critical-conversations-no-11-whiteshift-or-the-the-dynamics-of-race-and-populism-with-eric-kaufman/
-image: /images/wp-content/uploads/2021/10/Eric_Kaufmann_speaking_at_event.jpg
+image: /images/wp-content/uploads/2021/10/Eric_Kaufmann_speaking_at_event.webp
 
 categories:
   - critical-conversations

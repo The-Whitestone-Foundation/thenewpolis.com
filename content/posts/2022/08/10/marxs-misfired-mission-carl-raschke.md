@@ -3,7 +3,7 @@ title: "Marx’s Misfired Mission, Part 1 (Carl Raschke)"
 date: 2022-08-10T02:05:00+00:00
 author: Carl Raschke
 permalink: /2022/08/10/marxs-misfired-mission-carl-raschke/
-image: /images/wp-content/uploads/2022/08/Karl_Marx_Holzschnitt.jpg
+image: /images/wp-content/uploads/2022/08/Karl_Marx_Holzschnitt.webp
 
 categories:
   - marxism

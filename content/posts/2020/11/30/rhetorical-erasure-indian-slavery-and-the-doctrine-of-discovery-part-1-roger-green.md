@@ -3,7 +3,7 @@ title: "Rhetorical Erasure, Indian Slavery, And The Doctrine Of Discovery, Part 
 date: 2020-11-30T21:40:21+00:00
 author: Roger Green
 permalink: /2020/11/30/rhetorical-erasure-indian-slavery-and-the-doctrine-of-discovery-part-1-roger-green/
-image: /images/wp-content/uploads/2020/11/University_of_Denver_campus_pics_003.jpg
+image: /images/wp-content/uploads/2020/11/University_of_Denver_campus_pics_003.webp
 
 categories:
   - american-history

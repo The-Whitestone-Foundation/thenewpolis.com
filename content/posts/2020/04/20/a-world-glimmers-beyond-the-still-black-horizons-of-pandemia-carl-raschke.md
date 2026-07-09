@@ -3,7 +3,7 @@ title: "A World Glimmers Beyond The Still Black Horizons Of “Pandemia” (Carl
 date: 2020-04-20T05:38:02+00:00
 author: Carl Raschke
 permalink: /2020/04/20/a-world-glimmers-beyond-the-still-black-horizons-of-pandemia-carl-raschke/
-image: /images/wp-content/uploads/2020/04/1599px-Tuscon_Arizona_Desert_Sunset_Over_Mountains_-_panoramio_8.jpg
+image: /images/wp-content/uploads/2020/04/1599px-Tuscon_Arizona_Desert_Sunset_Over_Mountains_-_panoramio_8.webp
 
 categories:
   - neoliberalism

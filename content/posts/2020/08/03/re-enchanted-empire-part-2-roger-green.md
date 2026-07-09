@@ -3,7 +3,7 @@ title: "Re-enchanted Empire — The Figure Of Pan In Edwardian Fiction, Part 2 (
 date: 2020-08-03T23:46:27+00:00
 author: Roger Green
 permalink: /2020/08/03/re-enchanted-empire-part-2-roger-green/
-image: /images/wp-content/uploads/2020/08/869px-Wind_in_the_Willows_1913_-_Piper_at_the_Gates_of_Dawn.jpg
+image: /images/wp-content/uploads/2020/08/869px-Wind_in_the_Willows_1913_-_Piper_at_the_Gates_of_Dawn.webp
 
 categories:
   - childrens-literature

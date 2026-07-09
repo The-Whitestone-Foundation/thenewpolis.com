@@ -3,7 +3,7 @@ title: "Willie Jennings And Palestinian Theologies Of Liberation – Naming The 
 date: 2018-10-24T21:30:01+00:00
 author: Roger Green
 permalink: /2018/10/24/willie-jennings-and-palestinian-theologies-of-liberation-naming-the-missing-piece-katherine-rainger/
-image: /images/wp-content/uploads/2018/10/380px-Benjamin_West_-_Joshua_passing_the_River_Jordan_with_the_Ark_of_the_Covenant_-_Google_Art_Project.jpg
+image: /images/wp-content/uploads/2018/10/380px-Benjamin_West_-_Joshua_passing_the_River_Jordan_with_the_Ark_of_the_Covenant_-_Google_Art_Project.webp
 
 categories:
   - interfaith-dialogue

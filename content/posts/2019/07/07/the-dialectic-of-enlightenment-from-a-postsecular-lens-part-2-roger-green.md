@@ -3,7 +3,7 @@ title: "The Dialectic Of Enlightenment From A Postsecular Lens, Part 2 (Roger Gr
 date: 2019-07-07T07:06:15+00:00
 author: Roger Green
 permalink: /2019/07/07/the-dialectic-of-enlightenment-from-a-postsecular-lens-part-2-roger-green/
-image: /images/wp-content/uploads/2019/06/636px-Nuremberg_chronicles_-_Strange_People_-_Headless_XIIr.jpg
+image: /images/wp-content/uploads/2019/06/636px-Nuremberg_chronicles_-_Strange_People_-_Headless_XIIr.webp
 
 categories:
   - critical-theory

@@ -3,7 +3,7 @@ title: "Liberalism, Revolution, And Unbelief – Guillaume Groen’s Reactionary
 date: 2020-08-11T02:48:02+00:00
 author: Simon P. Kennedy
 permalink: /2020/08/11/liberalism-revolution-and-unbelief/
-image: /images/wp-content/uploads/2020/08/1026px-C.H._Hodges_-_Guillaume_Groen_van_Prinsterer_1801-1876_-_C1204_-_Cultural_Heritage_Agency_of_the_Netherlands_Art_Collection-1.jpg
+image: /images/wp-content/uploads/2020/08/1026px-C.H._Hodges_-_Guillaume_Groen_van_Prinsterer_1801-1876_-_C1204_-_Cultural_Heritage_Agency_of_the_Netherlands_Art_Collection-1.webp
 
 categories:
   - political-theology

@@ -3,7 +3,7 @@ title: "The Christchurch Shooter, The Outrage Industry, And The New Hobbesean â€
 date: 2019-03-19T22:55:59+00:00
 author: Carl Raschke
 permalink: /2019/03/19/the-christchurch-shooter-the-outrage-industry-and-the-new-hobbesean-war-of-all-against-all-carl-raschke/
-image: /images/wp-content/uploads/2019/03/Prise_de_la_Bastille.jpg
+image: /images/wp-content/uploads/2019/03/Prise_de_la_Bastille.webp
 
 categories:
   - media-theory

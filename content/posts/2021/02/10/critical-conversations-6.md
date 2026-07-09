@@ -5,7 +5,7 @@ author:
   - Victor Taylor
   - Walter Mignolo
 permalink: /2021/02/10/critical-conversations-6/
-image: /images/wp-content/uploads/2021/02/Map_of_America_by_Sebastian_Munster.jpg
+image: /images/wp-content/uploads/2021/02/Map_of_America_by_Sebastian_Munster.webp
 
 categories:
   - critical-conversations

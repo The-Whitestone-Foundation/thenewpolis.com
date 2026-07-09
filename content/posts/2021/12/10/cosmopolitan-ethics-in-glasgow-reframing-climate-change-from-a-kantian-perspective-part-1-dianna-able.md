@@ -3,7 +3,7 @@ title: "Cosmopolitan Ethics In Glasgow – Reframing Climate Change From A Kanti
 date: 2021-12-10T08:17:00+00:00
 author: Dianna Able
 permalink: /2021/12/10/cosmopolitan-ethics-in-glasgow-reframing-climate-change-from-a-kantian-perspective-part-1-dianna-able/
-image: /images/wp-content/uploads/2021/12/Kant_foto.jpg
+image: /images/wp-content/uploads/2021/12/Kant_foto.webp
 
 categories:
   - political-philosophy

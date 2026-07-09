@@ -3,7 +3,7 @@ title: "The Equisapien Encounter – Reading Enrique Dussel In Boots Riley’s �
 date: 2019-01-17T18:13:01+00:00
 author: thenewpolis
 permalink: /2019/01/17/the-equisapien-encounter-reading-enrique-dussel-in-boots-rileys-sorry-to-bother-you-part-1-conor-ramon-rasmusen/
-image: /images/wp-content/uploads/2019/01/784px-Sawrey_Gilpin_-_Gulliver_Addressing_the_Houyhnhnms_-_Google_Art_Project.jpg
+image: /images/wp-content/uploads/2019/01/784px-Sawrey_Gilpin_-_Gulliver_Addressing_the_Houyhnhnms_-_Google_Art_Project.webp
 
 categories:
   - essays

@@ -3,7 +3,7 @@ title: "Decolonizing Identity Politics Through Subjective In-Betweenness, Part 3
 date: 2022-07-12T03:32:00+00:00
 author: Rode Molla
 permalink: /2022/07/12/decolonizing-identity-politics-through-subjective-in-betweenness-part-3-rode-molla/
-image: /images/wp-content/uploads/2022/08/800px-Ancient_Blocks_With_Sabaean_Inscriptions_Yeha_Ethiopia_3146498586.jpg
+image: /images/wp-content/uploads/2022/08/800px-Ancient_Blocks_With_Sabaean_Inscriptions_Yeha_Ethiopia_3146498586.webp
 
 categories:
   - identity-politics

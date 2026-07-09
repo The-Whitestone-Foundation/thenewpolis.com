@@ -5,7 +5,7 @@ author:
   - Tink Tinker
   - Roger Green
 permalink: /2023/03/01/eurochristian-or-what-are-we-going-to-do-with-white-people-revisited-tink-tinker-and-roger-green-part-2/
-image: /images/wp-content/uploads/2023/04/Black_Kettle_at_Sand_Creek.jpg
+image: /images/wp-content/uploads/2023/04/Black_Kettle_at_Sand_Creek.webp
 
 categories:
   - indigenous-theory

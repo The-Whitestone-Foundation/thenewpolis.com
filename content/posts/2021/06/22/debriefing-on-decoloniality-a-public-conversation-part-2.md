@@ -3,7 +3,7 @@ title: "Debriefing On Decoloniality – A Public Conversation, Part 2"
 date: 2021-06-22T04:26:42+00:00
 author: thenewpolis
 permalink: /2021/06/22/debriefing-on-decoloniality-a-public-conversation-part-2/
-image: /images/wp-content/uploads/2021/06/fishing-village.jpg
+image: /images/wp-content/uploads/2021/06/fishing-village.webp
 
 categories:
   - decoloniality

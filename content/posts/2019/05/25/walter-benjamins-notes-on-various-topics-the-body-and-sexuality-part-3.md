@@ -3,7 +3,7 @@ title: "Walter Benjamin’s Notes On Various Topics, The Body And Sexuality, Par
 date: 2019-05-25T01:12:11+00:00
 author: thenewpolis
 permalink: /2019/05/25/walter-benjamins-notes-on-various-topics-the-body-and-sexuality-part-3/
-image: /images/wp-content/uploads/2023/07/October-revolution.png
+image: /images/wp-content/uploads/2023/07/October-revolution.webp
 
 categories:
   - critical-theory

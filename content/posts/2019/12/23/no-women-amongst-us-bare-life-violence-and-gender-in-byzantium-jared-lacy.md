@@ -3,7 +3,7 @@ title: "“No Women Amongst Us” – Bare Life, Violence, And Gender in Byzanti
 date: 2019-12-23T20:53:08+00:00
 author: Roger Green
 permalink: /2019/12/23/no-women-amongst-us-bare-life-violence-and-gender-in-byzantium-jared-lacy/
-image: /images/wp-content/uploads/2019/12/151d4648-fe8a-4624-8027-daad589f1c7d.jpeg
+image: /images/wp-content/uploads/2019/12/151d4648-fe8a-4624-8027-daad589f1c7d.webp
 
 categories:
   - aesthetics

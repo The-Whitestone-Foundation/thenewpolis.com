@@ -3,7 +3,7 @@ title: "Liberal, Republican and Deliberative Democratic Civil Disobedience – T
 date: 2019-12-02T16:01:40+00:00
 author: Daniel Muller
 permalink: /2019/12/02/liberal-republican-and-deliberative-democratic-civil-disobedience-the-curious-case-of-edward-snowden-part-1-daniel-muller/
-image: /images/wp-content/uploads/2019/12/democracy-symbol.jpg
+image: /images/wp-content/uploads/2019/12/democracy-symbol.webp
 
 categories:
   - political-philosophy

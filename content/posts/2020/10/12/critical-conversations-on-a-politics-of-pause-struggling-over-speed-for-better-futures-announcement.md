@@ -3,7 +3,7 @@ title: "Critical Conversations – On A “Politics Of Pause”, Struggling Over
 date: 2020-10-12T20:05:19+00:00
 author: Roger Green
 permalink: /2020/10/12/critical-conversations-on-a-politics-of-pause-struggling-over-speed-for-better-futures-announcement/
-image: /images/wp-content/uploads/2020/10/7869500a-89f1-472d-b331-e3251268d6fe.jpeg
+image: /images/wp-content/uploads/2020/10/7869500a-89f1-472d-b331-e3251268d6fe.webp
 
 categories:
   - announcements

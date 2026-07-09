@@ -1,31 +1,24 @@
 {
-  "name": "minimal-11ty-blog",
+  "name": "thenewpolis.com",
   "type": "module",
   "version": "1.0.0",
   "scripts": {
-    "start": "npx @11ty/eleventy --serve --incremental",
-    "dev": "npx @11ty/eleventy --serve --incremental",
-    "sequoia:stage": "node scripts/build-sequoia-content.mjs",
-    "build": "npm run sequoia:stage && rm -rf _site && npx @11ty/eleventy && npx pagefind --site _site --glob \"**/*.html\"",
-    "build:search": "npx pagefind --site _site --glob \"**/*.html\"",
-    "convert": "node scripts/convert-wp-archive.js"
-  },
-  "dependencies": {
-    "@11ty/eleventy": "^3.1.6",
-    "@zachleat/heading-anchors": "github:zachleat/heading-anchors",
-    "cheerio": "^1.2.0",
-    "eleventy-plugin-toc": "^1.1.5",
-    "env": "^0.0.2",
-    "luxon": "^3.7.2",
-    "markdown-it": "^14.2.0",
-    "markdown-it-anchor": "^9.2.0",
-    "markdown-it-footnote": "^4.0.0",
-    "pagefind": "^1.5.2",
-    "slugify": "^1.6.6",
-    "turndown": "^7.2.0"
+    "dev": "eleventy --serve --incremental",
+    "start": "npm run dev",
+    "build": "npm run sequoia:stage && rm -rf _site && eleventy && npm run build:search",
+    "build:search": "pagefind --site _site --glob \"**/*.html\"",
+    "sequoia:stage": "node scripts/build-sequoia-content.mjs"
   },
   "devDependencies": {
-    "cross-env": "^10.1.0"
+    "@11ty/eleventy": "4.0.0-alpha.10",
+    "@zachleat/heading-anchors": "^1.0.5",
+    "eleventy-plugin-toc": "^1.1.5",
+    "js-yaml": "^4.3.0",
+    "markdown-it": "^14.2.0",
+    "markdown-it-anchor": "^9.2.0",
+    "markdown-it-attrs": "^4.3.1",
+    "markdown-it-footnote": "^4.0.0",
+    "pagefind": "^1.5.2"
   },
   "engines": {
     "node": ">=24",

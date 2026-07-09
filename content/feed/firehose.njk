@@ -1,4 +1,6 @@
 ---
+eleventyImport:
+  collections: ["posts"]
 permalink: /feed/firehose.xml
 eleventyExcludeFromCollections: true
 layout: false
@@ -6,7 +8,7 @@ layout: false
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="/feed/pretty-atom-feed.xsl" type="text/xsl"?>
 {% set baseUrl = metadata.url | baseUrl %}
-{% set items = collections.all | reverse %}
+{% set items = collections.posts %}
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>{{ metadata.title }} Firehose</title>
   <subtitle>{{ metadata.description }}</subtitle>

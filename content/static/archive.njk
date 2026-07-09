@@ -1,4 +1,6 @@
 ---
+eleventyImport:
+  collections: ["posts"]
 title: Archive
 layout: base.njk
 permalink: /archive/
@@ -42,7 +44,7 @@ permalink: /archive/
                     <div class="p-4 bg-white">
                         {% set monthsSet = [] %}
                         {% for post in yearPosts %}
-                            {% set month = post.date | dateFilter('YYYY-MM') %}
+                            {% set month = post.date | date('YYYY-MM') %}
                             {% if month not in monthsSet %}
                                 {% set monthsSet = monthsSet.concat([month]) %}
                             {% endif %}
@@ -52,14 +54,14 @@ permalink: /archive/
                         {% for monthKey in monthsSorted %}
                             {% set monthPosts = [] %}
                             {% for post in yearPosts %}
-                                {% if post.date | dateFilter('YYYY-MM') == monthKey %}
+                                {% if post.date | date('YYYY-MM') == monthKey %}
                                     {% set monthPosts = monthPosts.concat([post]) %}
                                 {% endif %}
                             {% endfor %}
                             
                             <div class="mb-4">
                                 <h5 class="border-bottom pb-2 text-uppercase small fw-bold text-muted" style="letter-spacing: 2px;">
-                                    {{ monthPosts[0].date | dateFilter('MMMM') }}
+                                    {{ monthPosts[0].date | date('MMMM') }}
                                 </h5>
                                 <ul class="list-unstyled ms-3">
                                     {%- for post in monthPosts | reverse -%}

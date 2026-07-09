@@ -1,4 +1,6 @@
 ---
+eleventyImport:
+  collections: ["posts"]
 title: Blog
 layout: base.njk
 permalink: "/blog/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"

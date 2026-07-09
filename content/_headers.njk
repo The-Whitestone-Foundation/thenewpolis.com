@@ -1,4 +1,6 @@
 ---
+eleventyImport:
+  collections: ["posts"]
 permalink: /_headers
 layout: null
 eleventyExcludeFromCollections: true
@@ -6,12 +8,12 @@ eleventyExcludeFromCollections: true
 /pagefind/*
   Access-Control-Allow-Origin: *
   Access-Control-Allow-Methods: GET, HEAD, OPTIONS
+/*/metadata.json
+  Content-Type: application/ld+json
 {% set siteUrl = metadata.url | baseUrl %}
 {% for post in collections.posts %}
 {{ post.url }}
   Link: <{{ post.url | absUrl(siteUrl) }}metadata.json>; rel="describedby"; type="application/ld+json"; profile="https://schema.org/"
   Link: <{{ post.url | absUrl(siteUrl) }}>; rel="cite-as"
   Link: <https://schema.org/BlogPosting>; rel="type"
-{{ post.url }}metadata.json
-  Content-Type: application/ld+json
 {% endfor %}

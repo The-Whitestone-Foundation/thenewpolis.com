@@ -1,12 +1,16 @@
-import { DateTime } from "luxon";
 import { IdAttributePlugin } from "@11ty/eleventy";
 import { readFileSync } from "fs";
 import { execSync } from "child_process";
 import markdownIt from "markdown-it";
+import markdownItAnchor from "markdown-it-anchor";
+import markdownItAttrs from "markdown-it-attrs";
 import markdownItFootnote from "markdown-it-footnote";
+import tocPlugin from "eleventy-plugin-toc";
 import yaml from "js-yaml";
 
 export default async function (eleventyConfig) {
+  eleventyConfig.setDataFileSuffixes([".11tydata"]);
+
   const metadata = yaml.load(readFileSync("./_data/metadata.yaml", "utf-8")) || {};
   const configuredSiteUrl = String(metadata.url || "").trim().replace(/\/+$/, "");
   const siteTimezone = String(metadata.timezone || "utc");
@@ -37,40 +41,45 @@ export default async function (eleventyConfig) {
       const latestCommitIso = execSync("git log -1 --format=%cI", {
         encoding: "utf8",
       }).trim();
-      return DateTime.fromISO(latestCommitIso, { zone: "utc" })
-        .setZone(siteTimezone)
-        .toFormat("yyyy");
+      return new Intl.DateTimeFormat("en-US", { timeZone: siteTimezone, year: "numeric" }).format(new Date(latestCommitIso));
     } catch {
-      return DateTime.now().setZone(siteTimezone).toFormat("yyyy");
+      return new Intl.DateTimeFormat("en-US", { timeZone: siteTimezone, year: "numeric" }).format(new Date());
     }
   };
 
-  eleventyConfig.addGlobalData("latestCommitYear", getLatestCommitYear());
+  eleventyConfig.addGlobalData("latestCommitYear", getLatestCommitYear);
 
-  const formatDate = (dateObj, format, zone = "utc") => {
+  const MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+  // ponytail: tiny UTC token replacer covering only the tokens templates use
+  // (yyyy/YYYY, MM, dd, MMMM/LLLL); extend if a template ever passes a new token.
+  const formatDate = (dateObj, format) => {
     if (!dateObj) return "";
-    const timestamp = dateObj instanceof Date ? dateObj.getTime() : new Date(dateObj).getTime();
-    if (Number.isNaN(timestamp)) return "";
-    const cacheKey = `${timestamp}|${zone}|${format}`;
+    const d = dateObj instanceof Date ? dateObj : new Date(dateObj);
+    if (Number.isNaN(d.getTime())) return "";
+    const cacheKey = `${d.getTime()}|${format}`;
     if (dateFormatCache.has(cacheKey)) {
       return dateFormatCache.get(cacheKey);
     }
-    const formatted = DateTime.fromJSDate(new Date(timestamp), { zone }).toFormat(format);
+    const formatted = format
+      .replace(/yyyy|YYYY/g, String(d.getUTCFullYear()))
+      .replace(/MMMM|LLLL/g, MONTHS[d.getUTCMonth()])
+      .replace(/MM/g, String(d.getUTCMonth() + 1).padStart(2, "0"))
+      .replace(/dd/g, String(d.getUTCDate()).padStart(2, "0"));
     dateFormatCache.set(cacheKey, formatted);
     return formatted;
   };
 
-  if (typeof globalThis.File === "undefined") {
-    const { File } = await import("node:buffer");
-    globalThis.File = File;
-  }
-  const tocModule = await import("eleventy-plugin-toc");
-  const tocPlugin = tocModule.default || tocModule;
   eleventyConfig.addPlugin(tocPlugin);
   eleventyConfig.addPlugin(IdAttributePlugin);
 
-  const md = markdownIt({ html: true, linkify: true });
-  md.use(markdownItFootnote);
+  const md = markdownIt({ html: true, breaks: true, linkify: true, typographer: true })
+    .use(markdownItAnchor, {
+      permalink: markdownItAnchor.permalink.headerLink(),
+      permalinkClass: "direct-link",
+      permalinkSymbol: "#"
+    })
+    .use(markdownItAttrs)
+    .use(markdownItFootnote);
   eleventyConfig.setLibrary("md", md);
 
   eleventyConfig.addPassthroughCopy({ "public/css": "css" });
@@ -93,13 +102,15 @@ export default async function (eleventyConfig) {
     return formatDate(dateObj, "yyyy-MM-dd");
   });
 
-  eleventyConfig.addFilter("dateFilter", (dateObj, format) => {
-    return formatDate(dateObj, format);
+  eleventyConfig.addFilter("isoDate", (dateObj) => {
+    if (!dateObj) return "";
+    const d = new Date(dateObj);
+    return Number.isNaN(d.getTime()) ? "" : d.toISOString();
   });
 
-  eleventyConfig.addFilter("isoDate", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toISO();
-  });
+  // Nunjucks' builtin trim uses /^\s*|\s*$/g which is quadratic on large
+  // whitespace-heavy strings (53s of build time via firehose.njk); native trim is linear.
+  eleventyConfig.addNunjucksFilter("trim", (value) => String(value ?? "").trim());
 
   eleventyConfig.addFilter("urlencode", (value) => {
     return encodeURIComponent(value);
@@ -162,12 +173,14 @@ export default async function (eleventyConfig) {
 
   eleventyConfig.addFilter("breadcrumbs", (dateObj, title, metadata) => {
     if (!dateObj || !title) return [];
-    const dt = DateTime.fromJSDate(dateObj, { zone: "utc" });
+    const yyyy = formatDate(dateObj, "yyyy");
+    const MM = formatDate(dateObj, "MM");
+    const dd = formatDate(dateObj, "dd");
     return [
       { text: metadata?.title || "The New Polis", url: "/" },
-      { text: dt.toFormat("yyyy"), url: `/${dt.toFormat("yyyy")}/` },
-      { text: dt.toFormat("MMMM"), url: `/${dt.toFormat("yyyy")}/${dt.toFormat("MM")}/` },
-      { text: dt.toFormat("dd"), url: `/${dt.toFormat("yyyy")}/${dt.toFormat("MM")}/${dt.toFormat("dd")}/` },
+      { text: yyyy, url: `/${yyyy}/` },
+      { text: formatDate(dateObj, "MMMM"), url: `/${yyyy}/${MM}/` },
+      { text: dd, url: `/${yyyy}/${MM}/${dd}/` },
       { text: title, url: null },
     ];
   });
@@ -317,14 +330,15 @@ export default async function (eleventyConfig) {
       .sort((a, b) => a.name.localeCompare(b.name));
   });
 
-  return {
-    dir: {
-      input: "content",
-      output: "_site",
-      includes: "../_includes",
-      data: "../_data",
-    },
-    markdownTemplateEngine: "njk",
-    htmlTemplateEngine: "njk",
-  };
 }
+
+export const config = {
+  dir: {
+    input: "content",
+    output: "_site",
+    includes: "../_includes",
+    data: "../_data",
+  },
+  markdownTemplateEngine: "njk",
+  htmlTemplateEngine: "njk",
+};

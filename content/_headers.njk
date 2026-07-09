@@ -3,6 +3,9 @@ permalink: /_headers
 layout: null
 eleventyExcludeFromCollections: true
 ---
+/pagefind/*
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, HEAD, OPTIONS
 {% set siteUrl = metadata.url | baseUrl %}
 {% for post in collections.posts %}
 {{ post.url }}

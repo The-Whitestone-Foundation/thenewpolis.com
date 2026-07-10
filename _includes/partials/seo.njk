@@ -79,7 +79,7 @@
 <meta property="zotero:itemType" content="blogPost" />
 <meta name="prism.genre" content="blogentry" />
 <meta name="prism.publicationName" content="{{ metadata.title }}" />
-<meta name="citation_title" content="{{ title or metadata.title }}" />
+{# No citation_title: it makes Zotero's translator guess journalArticle. Title rides on og:title/dc:title. #}
 <meta name="citation_author" content="{{ author or metadata.author.name or metadata.title }}" />
 <meta name="citation_publication_date" content="{{ pageDate | isoDate }}" />
 <meta name="citation_public_url" content="{{ page.url | absUrl(baseUrl) }}" />

@@ -4,7 +4,7 @@ permalink: /editors/
 layout: page.njk
 ---
 ## Editors
--   Executive Editor: [Carl Raschke](mailto:carl.raschke@du.edu), University of Denver
+-   Executive Editor: [Carl Raschke](mailto:carl.raschke@jcrt.org), University of Denver
 -   Executive Editor: [Victor Taylor](mailto:taylorve@gmail.com), Independent Scholar
 -   Associate Editor: [Adam DJ Brett](https://adamdjbrett.com/contact/), American Indian Law Alliance
 -   Assistant Editor: [Jared Lacy](mailto:jared.lacy@du.edu), University of Denver

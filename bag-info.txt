@@ -1,0 +1,8 @@
+Source-Organization: The Whitestone Foundation
+Contact-Name: Adam DJ Brett
+Contact-Email: adam@adamdjbrett.com
+External-Description: Source for thenewpolis.com, The New Polis, a Whitestone Foundation magazine of essays, conference reports and commentary on political theology and culture.
+External-Identifier: https://github.com/The-Whitestone-Foundation/thenewpolis.com
+External-Identifier: https://thenewpolis.com/
+Bag-Group-Identifier: The Whitestone Foundation
+Bag-Count: 1 of 1
